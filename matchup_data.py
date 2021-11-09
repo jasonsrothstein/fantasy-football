@@ -1,9 +1,12 @@
 from yahoo_oauth import OAuth2
 import time
+import datetime
 import sys
-import json
 TEAMS = ['Popcorn', 'Quads', 'Dynasty', 'Doinkers', 'Booze', 'Kickitungs', 'Mustard', 'Sandbags', 'Squirt', 'Sauce',
          'BONEZONE', 'Fútbol']
+FULL_TEAMS = ['Popcorn Fingers', "Carrie's Quads", 'Dark Horse Dynasty', 'Doinkers', "I'm here 4 the Booze",
+              'Kickitungs', 'Mean Mr. Mustard', 'Sandbags', 'Squirt', 'Szechuan Sauce', 'The BONEZONE',
+              'Washington Fútbol Team']
 
 
 def parse_data(response):
@@ -59,8 +62,8 @@ class Fantasy:
         return game_key
 
     def initialize_file(self):
-        print_string = 'Timestamp'
-        for name in TEAMS:
+        print_string = 'Timestamp,Date,Time'
+        for name in FULL_TEAMS:
             for field in ['PTS', 'PROJ', 'WPCT']:
                 print_string += ',{} {}'.format(name, field)
         print_string += '\n'
@@ -80,12 +83,12 @@ class Fantasy:
         start_time = time.time()
         while self.is_data_changing():
             response = self.get_json_response('{}league/{}.l.{}/scoreboard;week={}'.format(self.base_url, self.game_key, self.league_id, self.week))
-            with open('test_jason.json', 'w') as test:
-                json.dump(response, test, indent=4)
             timestamp = int(time.time())
-            print_string = str(timestamp)
+            date_time = str(datetime.datetime.fromtimestamp(timestamp)).split()
             data = parse_data(response)
             if data:
+                print_string = str(timestamp)
+                print_string += ',' + date_time[0] + ',' + date_time[1]
                 for name in TEAMS:
                     for team in data:
                         if name in team:
