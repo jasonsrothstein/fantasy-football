@@ -7,6 +7,8 @@ TEAMS = ['Popcorn', 'Quads', 'Dynasty', 'Doinkers', 'Booze', 'Kickitungs', 'Must
 FULL_TEAMS = ['Popcorn Fingers', "Carrie's Quads", 'Dark Horse Dynasty', 'Doinkers', "I'm here 4 the Booze",
               'Kickitungs', 'Mean Mr. Mustard', 'Sandbags', 'Squirt', 'Szechuan Sauce', 'The BONEZONE',
               'Washington Fútbol Team']
+INTERVAL = 30  # seconds
+TIMEOUT = 35  # minutes
 
 
 def parse_data(response):
@@ -34,18 +36,20 @@ def parse_data(response):
 
 
 class Fantasy:
-    def __init__(self, week, reset=False):
+    def __init__(self, week, reset=False, infinite=False):
         self.oauth = OAuth2(None, None, from_file='./auth/oauth2yahoo.json')
         self.base_url = 'https://fantasysports.yahooapis.com/fantasy/v2/'
         self.game_key = self.update_yahoo_game_key()
         self.league_id = '29020'
         self.week = week
-        self.interval = 30
+        self.interval = INTERVAL
+        self.inactivity_limit = TIMEOUT * (60 / self.interval)
         self.output_path = 'week_{}_scores.csv'.format(self.week)
         if reset:
             self.initialize_file()
         self.string_check = []
         self.current_string = ''
+        self.infinite = infinite
 
     def refresh_token(self):
         if not self.oauth.token_is_valid():
@@ -71,11 +75,15 @@ class Fantasy:
             new_file.write(print_string)
 
     def is_data_changing(self):
+        if self.infinite:
+            return True
         self.string_check.append(self.current_string)
-        while len(self.string_check) > 20:
+        while len(self.string_check) > self.inactivity_limit:
             self.string_check.pop(0)
-        if len(set(self.string_check)) == 20:
+        if len(self.string_check) >= self.inactivity_limit and len(set(self.string_check)) == 1:
             print('Data is not changing. Stopping loop.')
+            print(set(self.string_check))
+            print(self.string_check)
             return False
         return True
 
@@ -87,6 +95,7 @@ class Fantasy:
             date_time = str(datetime.datetime.fromtimestamp(timestamp)).split()
             data = parse_data(response)
             if data:
+                self.current_string = ''
                 print_string = str(timestamp)
                 print_string += ',' + date_time[0] + ',' + date_time[1]
                 for name in TEAMS:
@@ -106,18 +115,21 @@ class Fantasy:
         print('Elapsed time: {}'.format(time.time() - start_time))
 
 
-def main(week, reset):
-    fantasy = Fantasy(week, reset)
+def main(week, reset, infinite):
+    fantasy = Fantasy(week, reset, infinite)
     fantasy.collect_data()
 
 
 if __name__ == '__main__':
     argv = sys.argv
     reset_flag = False
+    infinite_flag = False
     if len(argv) >= 2:
         week_num = str(argv[1])
         if '-r' in argv:
             reset_flag = True
-        main(week_num, reset_flag)
+        if '-i' in argv:
+            infinite_flag = True
+        main(week_num, reset_flag, infinite_flag)
     else:
         print('Argument error')
