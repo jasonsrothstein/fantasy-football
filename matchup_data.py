@@ -2,6 +2,8 @@ from yahoo_oauth import OAuth2
 import time
 import datetime
 import sys
+import os
+OAUTH_FILE = './auth/oauth2yahoo.json'
 TEAMS = ['Popcorn', 'Quads', 'Dynasty', 'Doinkers', 'Booze', 'Kickitungs', 'Mustard', 'Sandbags', 'Squirt', 'Sauce',
          'BONEZONE', 'Fútbol']
 FULL_TEAMS = ['Popcorn Fingers', "Carrie's Quads", 'Dark Horse Dynasty', 'Doinkers', "I'm here 4 the Booze",
@@ -37,7 +39,7 @@ def parse_data(response):
 
 class Fantasy:
     def __init__(self, week, reset=False, infinite=False):
-        self.oauth = OAuth2(None, None, from_file='./auth/oauth2yahoo.json')
+        self.oauth = OAuth2(None, None, from_file=OAUTH_FILE)
         self.base_url = 'https://fantasysports.yahooapis.com/fantasy/v2/'
         self.game_key = self.update_yahoo_game_key()
         self.league_id = '29020'
@@ -45,15 +47,23 @@ class Fantasy:
         self.interval = INTERVAL
         self.inactivity_limit = TIMEOUT * (60 / self.interval)
         self.output_path = 'week_{}_scores.csv'.format(self.week)
-        if reset:
+        if reset or not os.path.exists(self.output_path):
             self.initialize_file()
         self.string_check = []
         self.current_string = ''
         self.infinite = infinite
 
     def refresh_token(self):
-        if not self.oauth.token_is_valid():
-            self.oauth.refresh_access_token()
+        count = 0
+        while not self.oauth.token_is_valid():
+            try:
+                self.oauth.refresh_access_token()
+            except:
+                count += 1
+                print('Failed to refresh access token. Retry #{}'.format(count))
+            if count >= 5:
+                print('Too many failed attempts, breaking loop.')
+                break
 
     def get_json_response(self, url):
         self.refresh_token()
@@ -89,7 +99,11 @@ class Fantasy:
 
     def collect_data(self):
         start_time = time.time()
+        prev_time = start_time
+        count = 0
         while self.is_data_changing():
+            print('Getting request #{}, elapsed time: {}'.format(count, int(time.time() - start_time)))
+            count += 1
             response = self.get_json_response('{}league/{}.l.{}/scoreboard;week={}'.format(self.base_url, self.game_key, self.league_id, self.week))
             timestamp = int(time.time())
             date_time = str(datetime.datetime.fromtimestamp(timestamp)).split()
@@ -111,7 +125,13 @@ class Fantasy:
                 print_string += '\n'
                 with open(self.output_path, 'a') as out_file:
                     out_file.write(print_string)
-            time.sleep(self.interval)
+
+                while time.time() < prev_time + self.interval:
+                    pass
+                prev_time = time.time()
+            else:
+                print(response)
+                break
         print('Elapsed time: {}'.format(time.time() - start_time))
 
 
