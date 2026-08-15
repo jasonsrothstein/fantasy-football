@@ -1,13 +1,4 @@
 # Created at Runtime
-YahooGameInfo.json
-league.json
-standings.json
-rosters/
-weekly_scoreboard/*
-transactions/
-week_*_scores.csv
-week_*_*
-*.gif
 *.pptx
 
 # MacOS
@@ -30,10 +21,4 @@ __pycache__
 
 # Jupyter
 .ipynb_checkpoints
-
-# OAuth / session credentials
-auth/oauth2yahoo.json
-Scripts/auth/oauth2yahoo.json
-Scripts/auth/yahoo_cookies.txt
-Scripts/auth/hold*.json
 
