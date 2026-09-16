@@ -1,0 +1,4309 @@
+[
+  {
+    "wallclock": "2025-12-07T18:02:15Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thompkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Myers kicks 64 yards from SEA 35 to ATL 1. D.Thompkins to ATL 23 for 22 yards (D.Bell)."
+  },
+  {
+    "wallclock": "2025-12-07T18:03:02Z",
+    "period": 1,
+    "clock": "14:55",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left guard to ATL 28 for 5 yards (E.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T18:03:35Z",
+    "period": 1,
+    "clock": "14:22",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left guard to ATL 31 for 3 yards (L.Williams; B.Murphy)."
+  },
+  {
+    "wallclock": "2025-12-07T18:04:13Z",
+    "period": 1,
+    "clock": "13:44",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to B.Robinson to ATL 36 for 5 yards (E.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T18:04:50Z",
+    "period": 1,
+    "clock": "13:07",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson up the middle to ATL 47 for 11 yards (D.Lawrence)."
+  },
+  {
+    "wallclock": "2025-12-07T18:05:26Z",
+    "period": 1,
+    "clock": "12:31",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left tackle to 50 for 3 yards (D.Witherspoon)."
+  },
+  {
+    "wallclock": "2025-12-07T18:06:06Z",
+    "period": 1,
+    "clock": "11:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass incomplete short middle."
+  },
+  {
+    "wallclock": "2025-12-07T18:06:45Z",
+    "period": 1,
+    "clock": "11:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete deep right to K.Pitts (J.Love) [D.Witherspoon]."
+  },
+  {
+    "wallclock": "2025-12-07T18:07:33Z",
+    "period": 1,
+    "clock": "11:40",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 39 yards to SEA 11, Center-L.McCullough, fair catch by R.Shaheed."
+  },
+  {
+    "wallclock": "2025-12-07T18:07:55Z",
+    "period": 1,
+    "clock": "11:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:34."
+  },
+  {
+    "wallclock": "2025-12-07T18:10:33Z",
+    "period": 1,
+    "clock": "11:34",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Smith-Njigba right end pushed ob at SEA 10 for -1 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-12-07T18:11:16Z",
+    "period": 1,
+    "clock": "10:52",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short left to K.Walker to SEA 9 for -1 yards (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-12-07T18:11:58Z",
+    "period": 1,
+    "clock": "10:10",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold sacked at SEA 1 for -8 yards (J.Pearce)."
+  },
+  {
+    "wallclock": "2025-12-07T18:12:39Z",
+    "period": 1,
+    "clock": "9:30",
+    "play_type": "Punt",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Dickson punts 52 yards to ATL 47, Center-C.Stoll. J.Agnew to SEA 39 for 14 yards (C.White)."
+  },
+  {
+    "wallclock": "2025-12-07T18:13:34Z",
+    "period": 1,
+    "clock": "9:18",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bryant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass short left to K.Pitts to SEA 19 for 20 yards (E.Jones; C.Bryant)."
+  },
+  {
+    "wallclock": "2025-12-07T18:14:15Z",
+    "period": 1,
+    "clock": "8:37",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mafe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left tackle to SEA 18 for 1 yard (D.Hall; B.Mafe)."
+  },
+  {
+    "wallclock": "2025-12-07T18:14:52Z",
+    "period": 1,
+    "clock": "7:59",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Okada",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end pushed ob at SEA 12 for 6 yards (T.Okada)."
+  },
+  {
+    "wallclock": "2025-12-07T18:15:36Z",
+    "period": 1,
+    "clock": "7:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jobe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short left to D.Sills (J.Jobe)."
+  },
+  {
+    "wallclock": "2025-12-07T18:16:22Z",
+    "period": 1,
+    "clock": "7:17",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on ATL, Delay of Game, 5 yards, enforced at SEA 12 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:17:14Z",
+    "period": 1,
+    "clock": "7:14",
+    "play_type": "Field Goal Good",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " Z.Gonzalez 35 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-12-07T18:17:33Z",
+    "period": 1,
+    "clock": "7:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:14."
+  },
+  {
+    "wallclock": "2025-12-07T18:20:10Z",
+    "period": 1,
+    "clock": "7:14",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Franks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez kicks 66 yards from ATL 35 to SEA -1. R.Shaheed to SEA 26 for 27 yards (F.Franks)."
+  },
+  {
+    "wallclock": "2025-12-07T18:20:57Z",
+    "period": 1,
+    "clock": "7:08",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Walker right end to SEA 29 for 3 yards (D.Deablo; X.Watts)."
+  },
+  {
+    "wallclock": "2025-12-07T18:21:36Z",
+    "period": 1,
+    "clock": "6:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass incomplete short right to J.Smith-Njigba."
+  },
+  {
+    "wallclock": "2025-12-07T18:22:23Z",
+    "period": 1,
+    "clock": "6:23",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short left to J.Smith-Njigba to SEA 37 for 8 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-12-07T18:23:06Z",
+    "period": 1,
+    "clock": "5:40",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Barner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Street",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Floyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass short left to A.Barner to SEA 32 for -5 yards (K.Street).PENALTY on ATL-L.Floyd, Defensive Offside, 5 yards, enforced at SEA 37 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:24:00Z",
+    "period": 1,
+    "clock": "5:14",
+    "play_type": "Rush",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Z.Charbonnet up the middle to ATL 31 for 27 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-12-07T18:24:47Z",
+    "period": 1,
+    "clock": "4:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass incomplete deep left to J.Smith-Njigba. ATL-J.Pearce was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-07T18:26:05Z",
+    "period": 1,
+    "clock": "4:21",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Walker right end to ATL 32 for -1 yards (D.Alford)."
+  },
+  {
+    "wallclock": "2025-12-07T18:26:52Z",
+    "period": 1,
+    "clock": "3:34",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short left to J.Smith-Njigba to ATL 21 for 11 yards (A.Terrell). FUMBLES (A.Terrell), touched at ATL 21, ball out of bounds at ATL 22."
+  },
+  {
+    "wallclock": "2025-12-07T18:27:33Z",
+    "period": 1,
+    "clock": "2:56",
+    "play_type": "Penalty",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Run formation) PENALTY on ATL-D.Onyemata, Neutral Zone Infraction, 6 yards, enforced at ATL 22 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:28:17Z",
+    "period": 1,
+    "clock": "2:35",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Orhorhoro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Walker up the middle to ATL 14 for 2 yards (X.Watts; A.Ebiketie).PENALTY on ATL-R.Orhorhoro, Illegal Use of Hands, 5 yards, enforced at ATL 14."
+  },
+  {
+    "wallclock": "2025-12-07T18:29:17Z",
+    "period": 1,
+    "clock": "2:08",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Barner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on SEA-A.Barner, False Start, 5 yards, enforced at ATL 9 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:30:04Z",
+    "period": 1,
+    "clock": "1:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass incomplete short left to K.Walker (A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-12-07T18:30:41Z",
+    "period": 1,
+    "clock": "1:41",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Walker up the middle to ATL 4 for 10 yards (D.Deablo)."
+  },
+  {
+    "wallclock": "2025-12-07T18:31:25Z",
+    "period": 1,
+    "clock": "0:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass incomplete short right to J.Smith-Njigba."
+  },
+  {
+    "wallclock": "2025-12-07T18:32:10Z",
+    "period": 1,
+    "clock": "0:49",
+    "play_type": "Field Goal Good",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " J.Myers 22 yard field goal is GOOD, Center-C.Stoll, Holder-M.Dickson."
+  },
+  {
+    "wallclock": "2025-12-07T18:32:32Z",
+    "period": 1,
+    "clock": "0:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:49."
+  },
+  {
+    "wallclock": "2025-12-07T18:35:17Z",
+    "period": 1,
+    "clock": "0:49",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thompkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Connell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Myers kicks 61 yards from SEA 35 to ATL 4. D.Thompkins to ATL 29 for 25 yards (P.O'Connell; V.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T18:36:01Z",
+    "period": 1,
+    "clock": "0:43",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left end to ATL 35 for 6 yards (D.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-07T18:36:01Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-07T18:39:43Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Okada",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson up the middle to ATL 38 for 3 yards (T.Okada)."
+  },
+  {
+    "wallclock": "2025-12-07T18:40:22Z",
+    "period": 2,
+    "clock": "14:25",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ATL at 14:25."
+  },
+  {
+    "wallclock": "2025-12-07T18:41:19Z",
+    "period": 2,
+    "clock": "14:25",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Allgeier left end to ATL 38 for no gain (E.Jones; J.Love)."
+  },
+  {
+    "wallclock": "2025-12-07T18:42:01Z",
+    "period": 2,
+    "clock": "13:45",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Nwosu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Allgeier left tackle to ATL 43 for 5 yards (D.Witherspoon; U.Nwosu)."
+  },
+  {
+    "wallclock": "2025-12-07T18:42:43Z",
+    "period": 2,
+    "clock": "13:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Woolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass incomplete short left [T.Woolen]."
+  },
+  {
+    "wallclock": "2025-12-07T18:43:21Z",
+    "period": 2,
+    "clock": "12:57",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Okada",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end pushed ob at ATL 42 for -1 yards (T.Okada, D.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-07T18:44:05Z",
+    "period": 2,
+    "clock": "12:15",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right to K.Pitts to ATL 45 for 3 yards (D.Witherspoon)."
+  },
+  {
+    "wallclock": "2025-12-07T18:44:50Z",
+    "period": 2,
+    "clock": "11:29",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 45 yards to SEA 10, Center-L.McCullough, fair catch by R.Shaheed."
+  },
+  {
+    "wallclock": "2025-12-07T18:45:12Z",
+    "period": 2,
+    "clock": "11:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:23."
+  },
+  {
+    "wallclock": "2025-12-07T18:47:44Z",
+    "period": 2,
+    "clock": "11:23",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ouzts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Walker up the middle to SEA 22 for 12 yards (R.Harrison; A.Terrell). ** Injury Update: ATL-J.Pearce has returned to the game. PENALTY on SEA-R.Ouzts, Offensive Holding, 5 yards, enforced at SEA 10 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:48:46Z",
+    "period": 2,
+    "clock": "11:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Orhorhoro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Walker left guard to SEA 7 for 2 yards (K.Elliss; R.Orhorhoro)."
+  },
+  {
+    "wallclock": "2025-12-07T18:49:26Z",
+    "period": 2,
+    "clock": "10:20",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short right to R.Shaheed pushed ob at SEA 19 for 12 yards (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-12-07T18:50:11Z",
+    "period": 2,
+    "clock": "9:40",
+    "play_type": "Pass Interception Return",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Arroyo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass deep left intended for E.Arroyo INTERCEPTED by M.Hughes (A.Terrell) at SEA 36. M.Hughes to SEA 30 for 6 yards (Z.Charbonnet; K.Walker)."
+  },
+  {
+    "wallclock": "2025-12-07T18:51:11Z",
+    "period": 2,
+    "clock": "9:29",
+    "play_type": "Rush",
+    "yards": -17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Woolen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thompkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left tackle to SEA 19 for 11 yards (T.Woolen; D.Thomas).PENALTY on ATL-D.Thompkins, Offensive Holding, 10 yards, enforced at SEA 27."
+  },
+  {
+    "wallclock": "2025-12-07T18:52:21Z",
+    "period": 2,
+    "clock": "9:03",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mafe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to SEA 35 for 2 yards (N.Emmanwori; B.Mafe)."
+  },
+  {
+    "wallclock": "2025-12-07T18:52:56Z",
+    "period": 2,
+    "clock": "8:27",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right to B.Robinson to SEA 32 for 3 yards (D.Witherspoon)."
+  },
+  {
+    "wallclock": "2025-12-07T18:53:42Z",
+    "period": 2,
+    "clock": "7:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mafe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short middle to K.Pitts (B.Mafe)."
+  },
+  {
+    "wallclock": "2025-12-07T18:54:33Z",
+    "period": 2,
+    "clock": "7:38",
+    "play_type": "Blocked Field Goal",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nelson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez 50 yard field goal is BLOCKED (N.Emmanwori), Center-L.McCullough, Holder-B.Pinion, recovered by ATL-J.Nelson at SEA 34."
+  },
+  {
+    "wallclock": "2025-12-07T18:55:36Z",
+    "period": 2,
+    "clock": "7:32",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:32."
+  },
+  {
+    "wallclock": "2025-12-07T18:57:35Z",
+    "period": 2,
+    "clock": "7:32",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Street",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold sacked at SEA 29 for -5 yards (K.Street)."
+  },
+  {
+    "wallclock": "2025-12-07T18:58:21Z",
+    "period": 2,
+    "clock": "6:47",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short right to J.Smith-Njigba pushed ob at SEA 36 for 7 yards (D.Alford)."
+  },
+  {
+    "wallclock": "2025-12-07T18:59:10Z",
+    "period": 2,
+    "clock": "6:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass incomplete short right to R.Shaheed."
+  },
+  {
+    "wallclock": "2025-12-07T18:59:52Z",
+    "period": 2,
+    "clock": "5:56",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " M.Dickson punts 52 yards to ATL 12, Center-C.Stoll, fair catch by J.Agnew."
+  },
+  {
+    "wallclock": "2025-12-07T19:00:16Z",
+    "period": 2,
+    "clock": "5:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:49."
+  },
+  {
+    "wallclock": "2025-12-07T19:02:50Z",
+    "period": 2,
+    "clock": "5:49",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Okada",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson right tackle to ATL 21 for 9 yards (T.Okada; D.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-07T19:03:32Z",
+    "period": 2,
+    "clock": "5:06",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jobe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson right end to ATL 27 for 6 yards (E.Jones; J.Jobe)."
+  },
+  {
+    "wallclock": "2025-12-07T19:04:12Z",
+    "period": 2,
+    "clock": "4:26",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thompkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to D.Thompkins to ATL 31 for 4 yards (E.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T19:04:55Z",
+    "period": 2,
+    "clock": "3:44",
+    "play_type": "Pass Reception",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass short middle to T.Allgeier to ATL 46 for 15 yards (D.Witherspoon; E.Jones).PENALTY on ATL-D.Sills, Offensive Holding, 10 yards, enforced at ATL 43."
+  },
+  {
+    "wallclock": "2025-12-07T19:05:54Z",
+    "period": 2,
+    "clock": "3:14",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bryant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left guard to ATL 42 for 9 yards (C.Bryant)."
+  },
+  {
+    "wallclock": "2025-12-07T19:06:34Z",
+    "period": 2,
+    "clock": "2:33",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Allgeier right guard to ATL 40 for -2 yards (N.Emmanwori)."
+  },
+  {
+    "wallclock": "2025-12-07T19:07:10Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-07T19:09:58Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass deep right to K.Pitts to SEA 30 for 30 yards (N.Emmanwori) [D.Hall]."
+  },
+  {
+    "wallclock": "2025-12-07T19:10:41Z",
+    "period": 2,
+    "clock": "1:17",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end pushed ob at SEA 25 for 5 yards (N.Emmanwori)."
+  },
+  {
+    "wallclock": "2025-12-07T19:11:26Z",
+    "period": 2,
+    "clock": "1:13",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short left to D.Mooney [D.Lawrence]."
+  },
+  {
+    "wallclock": "2025-12-07T19:12:10Z",
+    "period": 2,
+    "clock": "1:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete deep left to D.Mooney."
+  },
+  {
+    "wallclock": "2025-12-07T19:13:36Z",
+    "period": 2,
+    "clock": "1:01",
+    "play_type": "Field Goal Good",
+    "yards": 43,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pili",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "Z.Gonzalez 43 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion. ** Injury Update: SEA-B.Pili has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-07T19:14:06Z",
+    "period": 2,
+    "clock": "1:01",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:01."
+  },
+  {
+    "wallclock": "2025-12-07T19:16:25Z",
+    "period": 2,
+    "clock": "1:01",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez kicks 61 yards from ATL 35 to SEA 4. R.Shaheed to SEA 25 for 21 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-12-07T19:17:12Z",
+    "period": 2,
+    "clock": "0:57",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short left to J.Smith-Njigba pushed ob at SEA 29 for 4 yards (D.Alford)."
+  },
+  {
+    "wallclock": "2025-12-07T19:17:55Z",
+    "period": 2,
+    "clock": "0:51",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short middle to Z.Charbonnet to SEA 34 for 5 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-12-07T19:18:22Z",
+    "period": 2,
+    "clock": "0:25",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) S.Darnold up the middle to SEA 37 for 3 yards (D.Deablo)."
+  },
+  {
+    "wallclock": "2025-12-07T19:18:45Z",
+    "period": 2,
+    "clock": "0:22",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by SEA at 00:22."
+  },
+  {
+    "wallclock": "2025-12-07T19:19:25Z",
+    "period": 2,
+    "clock": "0:22",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold scrambles right tackle to SEA 49 for 12 yards (J.Pearce)."
+  },
+  {
+    "wallclock": "2025-12-07T19:19:47Z",
+    "period": 2,
+    "clock": "0:14",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by SEA at 00:14."
+  },
+  {
+    "wallclock": "2025-12-07T19:20:32Z",
+    "period": 2,
+    "clock": "0:14",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Fuller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass deep middle to R.Shaheed to ATL 35 for 16 yards (J.Fuller)."
+  },
+  {
+    "wallclock": "2025-12-07T19:20:53Z",
+    "period": 2,
+    "clock": "0:08",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by SEA at 00:08."
+  },
+  {
+    "wallclock": "2025-12-07T19:21:33Z",
+    "period": 2,
+    "clock": "0:08",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Barner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short right to A.Barner pushed ob at ATL 30 for 5 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-12-07T19:22:15Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "Field Goal Good",
+    "yards": 48,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Myers 48 yard field goal is GOOD, Center-C.Stoll, Holder-M.Dickson."
+  },
+  {
+    "wallclock": "2025-12-07T19:22:15Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-07T19:36:12Z",
+    "period": 3,
+    "clock": "14:48",
+    "play_type": "Kickoff Return Touchdown",
+    "yards": 100,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "Z.Gonzalez kicks 65 yards from ATL 35 to SEA 0. R.Shaheed for 100 yards, TOUCHDOWN. J.Myers extra point is GOOD, Center-C.Stoll, Holder-M.Dickson."
+  },
+  {
+    "wallclock": "2025-12-07T19:38:26Z",
+    "period": 3,
+    "clock": "14:48",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Myers kicks 65 yards from SEA 35 to end zone, Touchback to the ATL 35."
+  },
+  {
+    "wallclock": "2025-12-07T19:39:10Z",
+    "period": 3,
+    "clock": "14:48",
+    "play_type": "Pass Reception",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass deep middle to K.Pitts to SEA 39 for 26 yards (N.Emmanwori). SEA-N.Emmanwori was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-07T19:40:29Z",
+    "period": 3,
+    "clock": "14:10",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to SEA 36 for 3 yards (L.Williams)."
+  },
+  {
+    "wallclock": "2025-12-07T19:41:09Z",
+    "period": 3,
+    "clock": "13:30",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Woolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle pushed ob at SEA 27 for 9 yards (T.Woolen)."
+  },
+  {
+    "wallclock": "2025-12-07T19:41:50Z",
+    "period": 3,
+    "clock": "12:53",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jobe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass short right to K.Pitts to SEA 19 for 8 yards (J.Jobe)."
+  },
+  {
+    "wallclock": "2025-12-07T19:42:32Z",
+    "period": 3,
+    "clock": "12:12",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson up the middle to SEA 18 for 1 yard (B.Murphy)."
+  },
+  {
+    "wallclock": "2025-12-07T19:43:17Z",
+    "period": 3,
+    "clock": "11:26",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson up the middle to SEA 18 for no gain (D.Lawrence; E.Jones). FUMBLES (D.Lawrence), RECOVERED by SEA-D.Witherspoon at SEA 12. D.Witherspoon to SEA 12 for no gain (D.Sills)."
+  },
+  {
+    "wallclock": "2025-12-07T19:44:03Z",
+    "period": 3,
+    "clock": "11:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:18."
+  },
+  {
+    "wallclock": "2025-12-07T19:46:29Z",
+    "period": 3,
+    "clock": "11:18",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Walker left end to SEA 13 for 1 yard (D.Onyemata; L.London)."
+  },
+  {
+    "wallclock": "2025-12-07T19:47:08Z",
+    "period": 3,
+    "clock": "10:38",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Barner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass short middle to A.Barner to SEA 20 for 7 yards (D.Deablo)."
+  },
+  {
+    "wallclock": "2025-12-07T19:47:51Z",
+    "period": 3,
+    "clock": "9:55",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short right to R.Shaheed pushed ob at SEA 26 for 6 yards (D.Alford)."
+  },
+  {
+    "wallclock": "2025-12-07T19:48:27Z",
+    "period": 3,
+    "clock": "9:22",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass short right to C.White to SEA 35 for 9 yards (D.Alford)."
+  },
+  {
+    "wallclock": "2025-12-07T19:49:13Z",
+    "period": 3,
+    "clock": "8:36",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Walker left end to SEA 43 for 8 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-12-07T19:49:55Z",
+    "period": 3,
+    "clock": "7:53",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass deep right to J.Smith-Njigba ran ob at ATL 27 for 30 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-12-07T19:50:44Z",
+    "period": 3,
+    "clock": "7:08",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Walker left guard to ATL 28 for -1 yards (J.Bates, K.Elliss)."
+  },
+  {
+    "wallclock": "2025-12-07T19:51:32Z",
+    "period": 3,
+    "clock": "6:16",
+    "play_type": "Passing Touchdown",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "S.Darnold pass short middle to J.Smith-Njigba for 28 yards, TOUCHDOWN. ATL-K.Elliss was injured during the play. J.Myers extra point is GOOD, Center-C.Stoll, Holder-M.Dickson."
+  },
+  {
+    "wallclock": null,
+    "period": 3,
+    "clock": "6:16",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:16."
+  },
+  {
+    "wallclock": "2025-12-07T19:56:08Z",
+    "period": 3,
+    "clock": "6:16",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Myers kicks 65 yards from SEA 35 to end zone, Touchback to the ATL 35."
+  },
+  {
+    "wallclock": "2025-12-07T19:56:55Z",
+    "period": 3,
+    "clock": "6:16",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson right tackle to ATL 38 for 3 yards (D.Witherspoon). ** Injury Update: SEA-N.Emmanwori has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-07T19:57:32Z",
+    "period": 3,
+    "clock": "5:39",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left tackle to ATL 42 for 4 yards (E.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T19:58:11Z",
+    "period": 3,
+    "clock": "5:01",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right intended for K.Pitts INTERCEPTED by N.Emmanwori (D.Witherspoon) at ATL 47. N.Emmanwori to ATL 47 for no gain (K.Pitts)."
+  },
+  {
+    "wallclock": "2025-12-07T19:59:09Z",
+    "period": 3,
+    "clock": "4:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:54."
+  },
+  {
+    "wallclock": "2025-12-07T20:01:32Z",
+    "period": 3,
+    "clock": "4:54",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Walker right tackle to ATL 46 for 1 yard (L.London). ** Injury Update: ATL-K.Elliss has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-07T20:02:18Z",
+    "period": 3,
+    "clock": "4:09",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kupp",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass short left to C.Kupp to ATL 22 for 24 yards (M.Hughes).Penalty on ATL-L.London, Defensive Offside, declined."
+  },
+  {
+    "wallclock": "2025-12-07T20:03:11Z",
+    "period": 3,
+    "clock": "3:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass incomplete short middle to K.Walker."
+  },
+  {
+    "wallclock": "2025-12-07T20:03:54Z",
+    "period": 3,
+    "clock": "3:35",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Z.Charbonnet left tackle to ATL 19 for 3 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-12-07T20:04:41Z",
+    "period": 3,
+    "clock": "2:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kupp",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass incomplete deep right to C.Kupp."
+  },
+  {
+    "wallclock": "2025-12-07T20:05:24Z",
+    "period": 3,
+    "clock": "2:39",
+    "play_type": "Field Goal Good",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Myers 37 yard field goal is GOOD, Center-C.Stoll, Holder-M.Dickson."
+  },
+  {
+    "wallclock": "2025-12-07T20:05:46Z",
+    "period": 3,
+    "clock": "2:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:39."
+  },
+  {
+    "wallclock": "2025-12-07T20:08:19Z",
+    "period": 3,
+    "clock": "2:39",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thompkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Myers kicks 60 yards from SEA 35 to ATL 5. D.Thompkins to ATL 32 for 27 yards (T.Knight)."
+  },
+  {
+    "wallclock": "2025-12-07T20:08:57Z",
+    "period": 3,
+    "clock": "2:32",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left guard to ATL 39 for 7 yards (E.Jones; D.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-07T20:09:17Z",
+    "period": 3,
+    "clock": "2:13",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) T.Allgeier left guard to ATL 47 for 8 yards (J.Reed)."
+  },
+  {
+    "wallclock": "2025-12-07T20:09:47Z",
+    "period": 3,
+    "clock": "1:42",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short right to T.Allgeier to SEA 32 for 21 yards (E.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T20:10:24Z",
+    "period": 3,
+    "clock": "1:06",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Drummond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Woolen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Nwosu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short middle to D.Drummond to SEA 17 for 15 yards (T.Woolen) [U.Nwosu]."
+  },
+  {
+    "wallclock": "2025-12-07T20:10:54Z",
+    "period": 3,
+    "clock": "0:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete short middle to D.Sills [L.Williams]."
+  },
+  {
+    "wallclock": "2025-12-07T20:11:34Z",
+    "period": 3,
+    "clock": "0:33",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mafe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson up the middle to SEA 12 for 5 yards (B.Mafe)."
+  },
+  {
+    "wallclock": "2025-12-07T20:12:06Z",
+    "period": 3,
+    "clock": "0:01",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Drummond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short left to D.Drummond to SEA 9 for 3 yards (L.Williams)."
+  },
+  {
+    "wallclock": "2025-12-07T20:12:06Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-07T20:15:12Z",
+    "period": 4,
+    "clock": "14:57",
+    "play_type": "Field Goal Good",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "Z.Gonzalez 27 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-12-07T20:15:43Z",
+    "period": 4,
+    "clock": "14:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:57."
+  },
+  {
+    "wallclock": "2025-12-07T20:16:33Z",
+    "period": 4,
+    "clock": "14:57",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez kicks 63 yards from ATL 35 to SEA 2, out of bounds.PENALTY on ATL-Z.Gonzalez, Kickoff Out of Bounds, placed at SEA 40."
+  },
+  {
+    "wallclock": "2025-12-07T20:17:32Z",
+    "period": 4,
+    "clock": "14:57",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass incomplete short middle to Z.Charbonnet."
+  },
+  {
+    "wallclock": "2025-12-07T20:18:07Z",
+    "period": 4,
+    "clock": "14:53",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Floyd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Charbonnet right tackle to SEA 44 for 4 yards (L.Floyd; A.Terrell)."
+  },
+  {
+    "wallclock": "2025-12-07T20:18:44Z",
+    "period": 4,
+    "clock": "14:18",
+    "play_type": "Pass Reception",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold pass deep right to R.Shaheed ran ob at ATL 23 for 33 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-12-07T20:19:31Z",
+    "period": 4,
+    "clock": "13:32",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Darnold scrambles left end to ATL 15 for 8 yards (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-12-07T20:20:14Z",
+    "period": 4,
+    "clock": "12:50",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Walker up the middle to ATL 11 for 4 yards (L.London; D.Deablo)."
+  },
+  {
+    "wallclock": "2025-12-07T20:20:46Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Passing Touchdown",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kupp",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle) S.Darnold pass short right to C.Kupp for 11 yards, TOUCHDOWN. J.Myers extra point is GOOD, Center-C.Stoll, Holder-M.Dickson."
+  },
+  {
+    "wallclock": "2025-12-07T20:21:38Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:13."
+  },
+  {
+    "wallclock": "2025-12-07T20:24:21Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Myers kicks 65 yards from SEA 35 to end zone, Touchback to the ATL 35."
+  },
+  {
+    "wallclock": "2025-12-07T20:25:05Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete deep right to D.Sills."
+  },
+  {
+    "wallclock": "2025-12-07T20:25:35Z",
+    "period": 4,
+    "clock": "12:09",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Drummond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short left to D.Drummond pushed ob at ATL 38 for 3 yards (D.Witherspoon)."
+  },
+  {
+    "wallclock": "2025-12-07T20:26:08Z",
+    "period": 4,
+    "clock": "11:38",
+    "play_type": "Pass Interception Return",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Witherspoon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Neuzil",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lindstrom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short right intended for D.Sills INTERCEPTED by D.Witherspoon (D.Hall) at ATL 38. D.Witherspoon to ATL 35 for 3 yards (R.Neuzil; C.Lindstrom)."
+  },
+  {
+    "wallclock": "2025-12-07T20:26:57Z",
+    "period": 4,
+    "clock": "11:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:29."
+  },
+  {
+    "wallclock": "2025-12-07T20:29:22Z",
+    "period": 4,
+    "clock": "11:29",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Garcia",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Z.Charbonnet up the middle to ATL 32 for 3 yards (L.London; E.Garcia)."
+  },
+  {
+    "wallclock": "2025-12-07T20:30:01Z",
+    "period": 4,
+    "clock": "10:51",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass short left to Z.Charbonnet to ATL 17 for 15 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-12-07T20:30:56Z",
+    "period": 4,
+    "clock": "10:08",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by SEA at 10:08."
+  },
+  {
+    "wallclock": "2025-12-07T20:31:47Z",
+    "period": 4,
+    "clock": "10:08",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Barner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Darnold pass short left to A.Barner to ATL 2 for 15 yards (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-12-07T20:32:32Z",
+    "period": 4,
+    "clock": "9:22",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Barner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Jones reported in as eligible.  S.Darnold pass incomplete short left to A.Barner."
+  },
+  {
+    "wallclock": "2025-12-07T20:33:10Z",
+    "period": 4,
+    "clock": "9:19",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Jones reported in as eligible.  Z.Charbonnet right guard to ATL 4 for -2 yards (D.Deablo, D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-12-07T20:33:55Z",
+    "period": 4,
+    "clock": "8:27",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Darnold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Njigba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) S.Darnold pass short middle to J.Smith-Njigba for 4 yards, TOUCHDOWN [D.Alford]. J.Myers extra point is GOOD, Center-C.Stoll, Holder-M.Dickson."
+  },
+  {
+    "wallclock": "2025-12-07T20:35:03Z",
+    "period": 4,
+    "clock": "8:27",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:27."
+  },
+  {
+    "wallclock": "2025-12-07T20:37:36Z",
+    "period": 4,
+    "clock": "8:27",
+    "play_type": "Kickoff",
+    "yards": 47,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thompkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Myers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Myers kicks 60 yards from SEA 35 to ATL 5. D.Thompkins pushed ob at SEA 48 for 47 yards (J.Myers)."
+  },
+  {
+    "wallclock": "2025-12-07T20:38:22Z",
+    "period": 4,
+    "clock": "8:20",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Woolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to D.Mooney to SEA 42 for 6 yards (T.Woolen)."
+  },
+  {
+    "wallclock": "2025-12-07T20:38:46Z",
+    "period": 4,
+    "clock": "7:56",
+    "play_type": "Penalty",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Morris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete short left to T.Allgeier.PENALTY on SEA-M.Morris, Roughing the Passer, 15 yards, enforced at SEA 42 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T20:39:54Z",
+    "period": 4,
+    "clock": "7:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete deep left to K.Pitts."
+  },
+  {
+    "wallclock": "2025-12-07T20:40:37Z",
+    "period": 4,
+    "clock": "7:47",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Emmanwori",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins sacked at SEA 35 for -8 yards (N.Emmanwori)."
+  },
+  {
+    "wallclock": "2025-12-07T20:41:22Z",
+    "period": 4,
+    "clock": "7:02",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Woolen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Woolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right to K.Pitts to SEA 32 for 3 yards (T.Woolen).PENALTY on SEA-T.Woolen, Taunting, 15 yards, enforced at SEA 32."
+  },
+  {
+    "wallclock": "2025-12-07T20:42:26Z",
+    "period": 4,
+    "clock": "6:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Drummond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Woolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short middle to D.Drummond (T.Woolen)."
+  },
+  {
+    "wallclock": "2025-12-07T20:43:01Z",
+    "period": 4,
+    "clock": "6:34",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier up the middle to SEA 15 for 2 yards (J.Reed; D.Hall)."
+  },
+  {
+    "wallclock": "2025-12-07T20:43:26Z",
+    "period": 4,
+    "clock": "6:09",
+    "play_type": "Penalty",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jobe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete short right to D.Sills.PENALTY on SEA-J.Jobe, Defensive Pass Interference, 10 yards, enforced at SEA 15 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T20:44:13Z",
+    "period": 4,
+    "clock": "6:05",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Nwosu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left guard to SEA 4 for 1 yard (T.Knight; U.Nwosu)."
+  },
+  {
+    "wallclock": "2025-12-07T20:44:36Z",
+    "period": 4,
+    "clock": "5:42",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jobe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Allgeier right end to SEA 3 for 1 yard (J.Jobe)."
+  },
+  {
+    "wallclock": "2025-12-07T20:44:59Z",
+    "period": 4,
+    "clock": "5:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Drummond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Woolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete short middle to D.Drummond (T.Woolen)."
+  },
+  {
+    "wallclock": "2025-12-07T20:45:41Z",
+    "period": 4,
+    "clock": "5:13",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Okada",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short right to D.Mooney (T.Okada)."
+  },
+  {
+    "wallclock": "2025-12-07T20:46:33Z",
+    "period": 4,
+    "clock": "5:07",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Street",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Garcia",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Charbonnet right guard to SEA 10 for 6 yards (K.Street; E.Garcia).PENALTY on ATL-L.London, Unnecessary Roughness, 15 yards, enforced at SEA 10."
+  },
+  {
+    "wallclock": "2025-12-07T20:47:36Z",
+    "period": 4,
+    "clock": "4:57",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Charbonnet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Charbonnet left tackle to SEA 30 for 5 yards (A.Ebiketie; K.Elliss)."
+  },
+  {
+    "wallclock": "2025-12-07T20:48:28Z",
+    "period": 4,
+    "clock": "4:05",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "V.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cabeldue",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "V.Jones left guard to SEA 42 for 12 yards (D.Deablo).PENALTY on SEA-B.Cabeldue, Offensive Holding, 10 yards, enforced at SEA 30 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T20:49:27Z",
+    "period": 4,
+    "clock": "3:59",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "V.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Street",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) V.Jones up the middle to SEA 21 for 1 yard (K.Street)."
+  },
+  {
+    "wallclock": "2025-12-07T20:50:12Z",
+    "period": 4,
+    "clock": "3:13",
+    "play_type": "Rush",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "V.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) V.Jones left tackle to SEA 46 for 25 yards (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-12-07T20:51:01Z",
+    "period": 4,
+    "clock": "2:24",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "V.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "V.Jones left tackle to SEA 48 for 2 yards (K.Elliss; L.London)."
+  },
+  {
+    "wallclock": "2025-12-07T20:51:27Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-07T20:54:14Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Lock",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lock",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Lock FUMBLES (Aborted) at SEA 48, and recovers at SEA 47. D.Lock to SEA 48 for 1 yard (L.London)."
+  },
+  {
+    "wallclock": "2025-12-07T20:54:57Z",
+    "period": 4,
+    "clock": "1:17",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "V.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) V.Jones left end to ATL 48 for 4 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-12-07T20:55:43Z",
+    "period": 4,
+    "clock": "0:31",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Dickson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Dickson punts 44 yards to ATL 4, Center-C.Stoll, downed by SEA-V.Jones."
+  },
+  {
+    "wallclock": "2025-12-07T20:56:31Z",
+    "period": 4,
+    "clock": "0:21",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Allgeier right guard to ATL 6 for 2 yards (T.Knight)."
+  },
+  {
+    "wallclock": "2025-12-07T20:56:31Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

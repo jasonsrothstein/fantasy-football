@@ -1,0 +1,3783 @@
+[
+  {
+    "wallclock": "2025-11-23T18:02:53Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.McManus kicks 65 yards from GB 35 to end zone, Touchback to the MIN 35."
+  },
+  {
+    "wallclock": "2025-11-23T18:03:47Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wooden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left guard to MIN 38 for 3 yards (C.Wooden)."
+  },
+  {
+    "wallclock": "2025-11-23T18:04:25Z",
+    "period": 1,
+    "clock": "14:22",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.McKinney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones up the middle to GB 49 for 13 yards (K.Nixon; X.McKinney)."
+  },
+  {
+    "wallclock": "2025-11-23T18:05:05Z",
+    "period": 1,
+    "clock": "13:42",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short middle to J.Jefferson to GB 34 for 15 yards (K.Nixon)."
+  },
+  {
+    "wallclock": "2025-11-23T18:05:36Z",
+    "period": 1,
+    "clock": "13:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Parsons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McCarthy pass incomplete short left [M.Parsons]."
+  },
+  {
+    "wallclock": "2025-11-23T18:06:16Z",
+    "period": 1,
+    "clock": "13:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short left to J.Addison (J.Bullard)."
+  },
+  {
+    "wallclock": "2025-11-23T18:06:56Z",
+    "period": 1,
+    "clock": "13:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short middle to A.Jones."
+  },
+  {
+    "wallclock": "2025-11-23T18:07:33Z",
+    "period": 1,
+    "clock": "12:53",
+    "play_type": "Field Goal Good",
+    "yards": 52,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Reichard 52 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-11-23T18:07:52Z",
+    "period": 1,
+    "clock": "12:53",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:53."
+  },
+  {
+    "wallclock": "2025-11-23T18:10:31Z",
+    "period": 1,
+    "clock": "12:53",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Batty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 60 yards from MIN 35 to GB 5. S.Williams to GB 30 for 25 yards (T.Batty)."
+  },
+  {
+    "wallclock": "2025-11-23T18:11:21Z",
+    "period": 1,
+    "clock": "12:48",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson right guard to GB 30 for no gain (J.Redmond)."
+  },
+  {
+    "wallclock": "2025-11-23T18:11:40Z",
+    "period": 1,
+    "clock": "12:28",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Love pass short middle to E.Wilson to GB 37 for 7 yards (J.Metellus)."
+  },
+  {
+    "wallclock": "2025-11-23T18:12:21Z",
+    "period": 1,
+    "clock": "11:48",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Watson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short right to C.Watson ran ob at GB 49 for 12 yards."
+  },
+  {
+    "wallclock": "2025-11-23T18:13:03Z",
+    "period": 1,
+    "clock": "11:17",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson left end to MIN 47 for 4 yards (B.Cashman; J.Metellus)."
+  },
+  {
+    "wallclock": "2025-11-23T18:13:27Z",
+    "period": 1,
+    "clock": "10:52",
+    "play_type": "Penalty",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Musgrave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Love pass incomplete deep left to L.Musgrave.PENALTY on MIN-J.Metellus, Defensive Pass Interference, 24 yards, enforced at MIN 47 - No Play."
+  },
+  {
+    "wallclock": "2025-11-23T18:14:30Z",
+    "period": 1,
+    "clock": "10:47",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rodriguez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Kinnard reported in as eligible.  E.Wilson right tackle to MIN 19 for 4 yards (L.Rodriguez)."
+  },
+  {
+    "wallclock": "2025-11-23T18:15:11Z",
+    "period": 1,
+    "clock": "10:05",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wicks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short left to D.Wicks to MIN 1 for 18 yards (I.Rodgers; J.Metellus)."
+  },
+  {
+    "wallclock": "2025-11-23T18:15:57Z",
+    "period": 1,
+    "clock": "9:15",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "D.Kinnard reported in as eligible.  E.Wilson up the middle for 1 yard, TOUCHDOWN. B.McManus extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-11-23T18:17:14Z",
+    "period": 1,
+    "clock": "9:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:15."
+  },
+  {
+    "wallclock": "2025-11-23T18:19:34Z",
+    "period": 1,
+    "clock": "9:15",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hopper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.McManus kicks 63 yards from GB 35 to MIN 2. M.Price to MIN 28 for 26 yards (T.Hopper)."
+  },
+  {
+    "wallclock": "2025-11-23T18:20:30Z",
+    "period": 1,
+    "clock": "9:10",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right tackle to MIN 31 for 3 yards (R.Gary; E.Cooper)."
+  },
+  {
+    "wallclock": "2025-11-23T18:21:12Z",
+    "period": 1,
+    "clock": "8:28",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short middle to A.Jones to MIN 37 for 6 yards (I.McDuffie)."
+  },
+  {
+    "wallclock": "2025-11-23T18:21:46Z",
+    "period": 1,
+    "clock": "7:54",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason up the middle to MIN 39 for 2 yards (R.Gary; I.McDuffie)."
+  },
+  {
+    "wallclock": "2025-11-23T18:22:27Z",
+    "period": 1,
+    "clock": "7:13",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy FUMBLES (Aborted) at MIN 37, and recovers at MIN 36."
+  },
+  {
+    "wallclock": "2025-11-23T18:23:09Z",
+    "period": 1,
+    "clock": "6:31",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones up the middle to MIN 40 for 4 yards (E.Williams)."
+  },
+  {
+    "wallclock": "2025-11-23T18:23:46Z",
+    "period": 1,
+    "clock": "5:54",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short left to T.Hockenson to MIN 45 for 5 yards (I.McDuffie)."
+  },
+  {
+    "wallclock": "2025-11-23T18:24:28Z",
+    "period": 1,
+    "clock": "5:12",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 53 yards to GB 2, Center-A.DePaola, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-23T18:24:59Z",
+    "period": 1,
+    "clock": "5:04",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:04."
+  },
+  {
+    "wallclock": "2025-11-23T18:27:25Z",
+    "period": 1,
+    "clock": "5:04",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Watson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short right to C.Watson pushed ob at GB 11 for 9 yards (T.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-23T18:28:03Z",
+    "period": 1,
+    "clock": "4:27",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Wilson left tackle to GB 11 for no gain (E.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-23T18:28:48Z",
+    "period": 1,
+    "clock": "3:42",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Kinnard reported in as eligible.  E.Wilson left end to GB 19 for 8 yards (B.Cashman; J.Metellus)."
+  },
+  {
+    "wallclock": "2025-11-23T18:29:33Z",
+    "period": 1,
+    "clock": "2:57",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass incomplete short right to R.Doubs (J.Redmond)."
+  },
+  {
+    "wallclock": "2025-11-23T18:30:09Z",
+    "period": 1,
+    "clock": "2:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Musgrave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass incomplete short right to L.Musgrave (I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-11-23T18:30:55Z",
+    "period": 1,
+    "clock": "2:49",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wicks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short middle to D.Wicks to GB 33 for 14 yards (B.Cashman) [E.Wilson]."
+  },
+  {
+    "wallclock": "2025-11-23T18:31:36Z",
+    "period": 1,
+    "clock": "2:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Watson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass incomplete deep right to C.Watson."
+  },
+  {
+    "wallclock": "2025-11-23T18:32:20Z",
+    "period": 1,
+    "clock": "2:03",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.FitzPatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on GB-J.FitzPatrick, False Start, 5 yards, enforced at GB 33 - No Play."
+  },
+  {
+    "wallclock": "2025-11-23T18:33:04Z",
+    "period": 1,
+    "clock": "2:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Watson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass incomplete deep left to C.Watson."
+  },
+  {
+    "wallclock": "2025-11-23T18:33:49Z",
+    "period": 1,
+    "clock": "1:59",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love sacked at GB 24 for -4 yards (D.Turner)."
+  },
+  {
+    "wallclock": "2025-11-23T18:34:33Z",
+    "period": 1,
+    "clock": "1:16",
+    "play_type": "Punt",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hopper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Whelan punts 63 yards to MIN 13, Center-M.Orzech. M.Price to MIN 24 for 11 yards (Z.Anderson; T.Hopper)."
+  },
+  {
+    "wallclock": "2025-11-23T18:35:24Z",
+    "period": 1,
+    "clock": "1:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:03."
+  },
+  {
+    "wallclock": "2025-11-23T18:37:38Z",
+    "period": 1,
+    "clock": "1:03",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short right to J.Jefferson pushed ob at MIN 31 for 7 yards (K.Nixon). GB-K.Nixon was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-23T18:39:22Z",
+    "period": 1,
+    "clock": "0:40",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hopper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.McKinney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left guard to MIN 35 for 4 yards (T.Hopper; X.McKinney)."
+  },
+  {
+    "wallclock": "2025-11-23T18:39:22Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-11-23T18:43:00Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hadden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason right tackle to MIN 40 for 5 yards (K.Hadden)."
+  },
+  {
+    "wallclock": "2025-11-23T18:43:39Z",
+    "period": 2,
+    "clock": "14:22",
+    "play_type": "Rush",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hopper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason up the middle to GB 38 for 22 yards (T.Hopper)."
+  },
+  {
+    "wallclock": "2025-11-23T18:44:13Z",
+    "period": 2,
+    "clock": "13:47",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason up the middle to GB 30 for 8 yards (I.McDuffie)."
+  },
+  {
+    "wallclock": "2025-11-23T18:44:49Z",
+    "period": 2,
+    "clock": "13:11",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wooden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left tackle to GB 26 for 4 yards (C.Wooden)."
+  },
+  {
+    "wallclock": "2025-11-23T18:45:26Z",
+    "period": 2,
+    "clock": "12:35",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Oliver",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.McKinney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short left to J.Oliver to GB 22 for 4 yards (X.McKinney)."
+  },
+  {
+    "wallclock": "2025-11-23T18:46:05Z",
+    "period": 2,
+    "clock": "11:55",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right tackle to GB 17 for 5 yards (E.Cooper)."
+  },
+  {
+    "wallclock": "2025-11-23T18:46:50Z",
+    "period": 2,
+    "clock": "11:10",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Direct snap to T.Hockenson.  T.Hockenson up the middle to GB 17 for no gain (I.McDuffie)."
+  },
+  {
+    "wallclock": "2025-11-23T18:47:30Z",
+    "period": 2,
+    "clock": "10:31",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Enagbare",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason up the middle to GB 18 for -1 yards (K.Enagbare)."
+  },
+  {
+    "wallclock": "2025-11-23T18:48:17Z",
+    "period": 2,
+    "clock": "10:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:26."
+  },
+  {
+    "wallclock": "2025-11-23T18:50:33Z",
+    "period": 2,
+    "clock": "10:26",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Wilson up the middle to GB 29 for 11 yards (T.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-23T18:51:19Z",
+    "period": 2,
+    "clock": "9:40",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson up the middle to GB 36 for 7 yards (J.Metellus; J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-11-23T18:52:03Z",
+    "period": 2,
+    "clock": "8:55",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Wilson right guard to GB 38 for 2 yards (B.Cashman; J.Metellus). MIN-J.Metellus was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-23T18:52:51Z",
+    "period": 2,
+    "clock": "8:46",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:46."
+  },
+  {
+    "wallclock": "2025-11-23T18:55:06Z",
+    "period": 2,
+    "clock": "8:38",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Wilson left guard to GB 42 for 4 yards (A.Van Ginkel; T.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-23T18:55:43Z",
+    "period": 2,
+    "clock": "8:02",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson left end to GB 46 for 4 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-11-23T18:56:21Z",
+    "period": 2,
+    "clock": "7:24",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass short right to C.Brooks pushed ob at MIN 49 for 5 yards (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-11-23T18:57:07Z",
+    "period": 2,
+    "clock": "6:41",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Kinnard reported in as eligible.  C.Brooks up the middle to MIN 47 for 2 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-11-23T18:58:01Z",
+    "period": 2,
+    "clock": "5:54",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by GB at 05:54."
+  },
+  {
+    "wallclock": "2025-11-23T18:58:54Z",
+    "period": 2,
+    "clock": "5:54",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson right end to MIN 37 for 10 yards (J.Metellus). ** Injury Update: MIN-J.Metellus has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-23T18:59:40Z",
+    "period": 2,
+    "clock": "5:07",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson up the middle to MIN 37 for no gain (B.Murphy; D.Turner)."
+  },
+  {
+    "wallclock": "2025-11-23T19:00:20Z",
+    "period": 2,
+    "clock": "4:28",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass deep middle to R.Doubs to MIN 19 for 18 yards (T.Jackson; J.Metellus) [J.Redmond]."
+  },
+  {
+    "wallclock": "2025-11-23T19:00:57Z",
+    "period": 2,
+    "clock": "3:51",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brooks left guard to MIN 19 for no gain (J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-11-23T19:01:32Z",
+    "period": 2,
+    "clock": "3:15",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Love pass short right to R.Doubs pushed ob at MIN 14 for 5 yards (I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-11-23T19:02:17Z",
+    "period": 2,
+    "clock": "2:34",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-11-23T19:04:19Z",
+    "period": 2,
+    "clock": "2:28",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIN at 02:28."
+  },
+  {
+    "wallclock": "2025-11-23T19:04:57Z",
+    "period": 2,
+    "clock": "2:25",
+    "play_type": "Field Goal Good",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "B.McManus 32 yard field goal is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-11-23T19:05:13Z",
+    "period": 2,
+    "clock": "2:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:25."
+  },
+  {
+    "wallclock": "2025-11-23T19:08:07Z",
+    "period": 2,
+    "clock": "2:25",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Felton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.McManus kicks 59 yards from GB 35 to MIN 6. T.Felton to MIN 27 for 21 yards (C.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-23T19:09:00Z",
+    "period": 2,
+    "clock": "2:20",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wooden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hadden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones right end to MIN 35 for 8 yards (C.Wooden; K.Hadden)."
+  },
+  {
+    "wallclock": "2025-11-23T19:09:23Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-23T19:12:08Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones up the middle to MIN 36 for 1 yard (R.Gary)."
+  },
+  {
+    "wallclock": "2025-11-23T19:12:48Z",
+    "period": 2,
+    "clock": "1:20",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Brinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones up the middle to MIN 41 for 5 yards (W.Brinson)."
+  },
+  {
+    "wallclock": "2025-11-23T19:13:09Z",
+    "period": 2,
+    "clock": "1:00",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McCarthy pass deep left to J.Jefferson to GB 40 for 19 yards (E.Williams)."
+  },
+  {
+    "wallclock": "2025-11-23T19:13:35Z",
+    "period": 2,
+    "clock": "0:33",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McCarthy pass incomplete short left to J.Jefferson."
+  },
+  {
+    "wallclock": "2025-11-23T19:14:16Z",
+    "period": 2,
+    "clock": "0:29",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Brinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked at GB 47 for -7 yards (sack split by I.McDuffie and W.Brinson)."
+  },
+  {
+    "wallclock": "2025-11-23T19:14:46Z",
+    "period": 2,
+    "clock": "0:23",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIN at 00:23."
+  },
+  {
+    "wallclock": "2025-11-23T19:15:23Z",
+    "period": 2,
+    "clock": "0:23",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short right to A.Jones to GB 41 for 6 yards (I.McDuffie; J.Bullard)."
+  },
+  {
+    "wallclock": "2025-11-23T19:16:00Z",
+    "period": 2,
+    "clock": "0:15",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by GB at 00:15."
+  },
+  {
+    "wallclock": "2025-11-23T19:16:45Z",
+    "period": 2,
+    "clock": "0:10",
+    "play_type": "Field Goal Good",
+    "yards": 59,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Reichard 59 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-11-23T19:18:17Z",
+    "period": 2,
+    "clock": "0:10",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the GB 35."
+  },
+  {
+    "wallclock": "2025-11-23T19:19:03Z",
+    "period": 2,
+    "clock": "0:10",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love kneels to GB 34 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-23T19:19:03Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-11-23T19:33:21Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Chambliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 58 yards from MIN 35 to GB 7. S.Williams to GB 28 for 21 yards (C.Chambliss)."
+  },
+  {
+    "wallclock": "2025-11-23T19:34:05Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson up the middle to GB 31 for 3 yards (J.Hargrave; B.Cashman)."
+  },
+  {
+    "wallclock": "2025-11-23T19:34:23Z",
+    "period": 3,
+    "clock": "14:36",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Love pass short left to E.Wilson to GB 42 for 11 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-11-23T19:35:02Z",
+    "period": 3,
+    "clock": "13:57",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Kinnard reported in as eligible.  J.Love scrambles right end ran ob at MIN 45 for 13 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-11-23T19:35:45Z",
+    "period": 3,
+    "clock": "13:18",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson left guard to MIN 46 for -1 yards (T.Jackson, E.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-23T19:36:29Z",
+    "period": 3,
+    "clock": "12:34",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brooks right end pushed ob at 50 for -4 yards (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-11-23T19:37:16Z",
+    "period": 3,
+    "clock": "11:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wicks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass incomplete deep middle to D.Wicks."
+  },
+  {
+    "wallclock": "2025-11-23T19:37:55Z",
+    "period": 3,
+    "clock": "11:49",
+    "play_type": "Muffed Punt Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Whelan punts 42 yards to MIN 8, Center-M.Orzech. M.Price MUFFS catch, RECOVERED by GB-Z.Anderson at MIN 5."
+  },
+  {
+    "wallclock": "2025-11-23T19:39:19Z",
+    "period": 3,
+    "clock": "11:37",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Wilson up the middle to MIN 1 for 4 yards (B.Cashman; J.Metellus)."
+  },
+  {
+    "wallclock": "2025-11-23T19:39:59Z",
+    "period": 3,
+    "clock": "10:53",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "E.Wilson right guard for 1 yard, TOUCHDOWN. B.McManus extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-11-23T19:41:22Z",
+    "period": 3,
+    "clock": "10:53",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:53."
+  },
+  {
+    "wallclock": "2025-11-23T19:43:43Z",
+    "period": 3,
+    "clock": "10:53",
+    "play_type": "Kickoff",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.McManus kicks 60 yards from GB 35 to MIN 5. M.Price to MIN 34 for 29 yards (Z.Anderson)."
+  },
+  {
+    "wallclock": "2025-11-23T19:44:32Z",
+    "period": 3,
+    "clock": "10:48",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Parsons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked at MIN 27 for -7 yards (M.Parsons)."
+  },
+  {
+    "wallclock": "2025-11-23T19:45:11Z",
+    "period": 3,
+    "clock": "10:08",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hadden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short left to T.Hockenson to MIN 32 for 5 yards (K.Hadden; E.Cooper)."
+  },
+  {
+    "wallclock": "2025-11-23T19:45:42Z",
+    "period": 3,
+    "clock": "9:38",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short right to T.Hockenson to MIN 36 for 4 yards (E.Williams) [R.Gary]."
+  },
+  {
+    "wallclock": "2025-11-23T19:47:12Z",
+    "period": 3,
+    "clock": "8:55",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 56 yards to GB 8, Center-A.DePaola, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-23T19:47:21Z",
+    "period": 3,
+    "clock": "8:45",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:45."
+  },
+  {
+    "wallclock": "2025-11-23T19:49:29Z",
+    "period": 3,
+    "clock": "8:45",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brooks right tackle to GB 13 for 5 yards (J.Redmond; J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-11-23T19:50:06Z",
+    "period": 3,
+    "clock": "8:07",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Williams right end pushed ob at GB 13 for no gain (J.Redmond)."
+  },
+  {
+    "wallclock": "2025-11-23T19:50:57Z",
+    "period": 3,
+    "clock": "7:21",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by GB at 07:21."
+  },
+  {
+    "wallclock": "2025-11-23T19:51:54Z",
+    "period": 3,
+    "clock": "7:21",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Watson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short left to C.Watson to GB 19 for 6 yards (I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-11-23T19:52:25Z",
+    "period": 3,
+    "clock": "6:51",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Watson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Love pass short left to C.Watson to GB 30 for 11 yards (F.Moreau)."
+  },
+  {
+    "wallclock": "2025-11-23T19:52:48Z",
+    "period": 3,
+    "clock": "6:28",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Love left end to GB 33 for 3 yards (J.Redmond; H.Smith). MIN-J.Metellus was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-23T19:53:58Z",
+    "period": 3,
+    "clock": "5:51",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Wilson up the middle to GB 39 for 6 yards (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-11-23T19:54:38Z",
+    "period": 3,
+    "clock": "5:12",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson up the middle to GB 37 for -2 yards (E.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-23T19:55:21Z",
+    "period": 3,
+    "clock": "4:29",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Whelan punts 50 yards to MIN 13, Center-M.Orzech, fair catch by M.Price."
+  },
+  {
+    "wallclock": "2025-11-23T19:55:47Z",
+    "period": 3,
+    "clock": "4:21",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:21."
+  },
+  {
+    "wallclock": "2025-11-23T19:58:22Z",
+    "period": 3,
+    "clock": "4:21",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right tackle to MIN 12 for -1 yards (E.Williams)."
+  },
+  {
+    "wallclock": "2025-11-23T19:59:01Z",
+    "period": 3,
+    "clock": "3:41",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Parsons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked at MIN 7 for -5 yards (M.Parsons)."
+  },
+  {
+    "wallclock": "2025-11-23T19:59:44Z",
+    "period": 3,
+    "clock": "2:58",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wyatt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked at MIN 1 for -6 yards (D.Wyatt)."
+  },
+  {
+    "wallclock": "2025-11-23T20:00:26Z",
+    "period": 3,
+    "clock": "2:17",
+    "play_type": "Punt",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 59 yards to GB 40, Center-A.DePaola. R.Doubs to GB 45 for 5 yards (T.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-23T20:01:16Z",
+    "period": 3,
+    "clock": "2:05",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:05."
+  },
+  {
+    "wallclock": "2025-11-23T20:03:29Z",
+    "period": 3,
+    "clock": "2:05",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson left guard to MIN 43 for 12 yards (T.Jackson; J.Metellus). ** Injury Update: MIN-J.Metellus has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-23T20:04:12Z",
+    "period": 3,
+    "clock": "1:22",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Kinnard reported in as eligible.  E.Wilson up the middle to MIN 37 for 6 yards (J.Allen)."
+  },
+  {
+    "wallclock": "2025-11-23T20:04:56Z",
+    "period": 3,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson right guard to MIN 29 for 8 yards (J.Metellus)."
+  },
+  {
+    "wallclock": "2025-11-23T20:04:56Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-11-23T20:08:19Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Kinnard reported in as eligible.  E.Wilson right guard to MIN 18 for 11 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-11-23T20:08:58Z",
+    "period": 4,
+    "clock": "14:22",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson left guard to MIN 15 for 3 yards (J.Allen; J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-11-23T20:09:38Z",
+    "period": 4,
+    "clock": "13:42",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brooks right guard to MIN 11 for 4 yards (J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-11-23T20:10:19Z",
+    "period": 4,
+    "clock": "13:00",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson right guard to MIN 12 for -1 yards (J.Redmond, B.Cashman)."
+  },
+  {
+    "wallclock": "2025-11-23T20:11:03Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Field Goal Good",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "B.McManus 30 yard field goal is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-11-23T20:11:21Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:13."
+  },
+  {
+    "wallclock": "2025-11-23T20:13:54Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Kickoff",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Oladapo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.McManus kicks 64 yards from GB 35 to MIN 1. M.Price to MIN 19 for 18 yards (K.Oladapo)."
+  },
+  {
+    "wallclock": "2025-11-23T20:14:47Z",
+    "period": 4,
+    "clock": "12:06",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wooden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason right end to MIN 17 for -2 yards (C.Wooden)."
+  },
+  {
+    "wallclock": "2025-11-23T20:15:34Z",
+    "period": 4,
+    "clock": "11:18",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Darrisaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIN-C.Darrisaw, False Start, 5 yards, enforced at MIN 17 - No Play."
+  },
+  {
+    "wallclock": "2025-11-23T20:16:12Z",
+    "period": 4,
+    "clock": "11:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Thielen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short left to A.Thielen [R.Gary]."
+  },
+  {
+    "wallclock": "2025-11-23T20:16:53Z",
+    "period": 4,
+    "clock": "11:14",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wyatt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked at MIN 2 for -10 yards (D.Wyatt)."
+  },
+  {
+    "wallclock": "2025-11-23T20:17:38Z",
+    "period": 4,
+    "clock": "10:29",
+    "play_type": "Punt",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 54 yards to GB 44, Center-A.DePaola. R.Doubs pushed ob at MIN 40 for 16 yards (T.Thomas)."
+  },
+  {
+    "wallclock": "2025-11-23T20:18:37Z",
+    "period": 4,
+    "clock": "10:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:17."
+  },
+  {
+    "wallclock": "2025-11-23T20:20:43Z",
+    "period": 4,
+    "clock": "10:17",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.FitzPatrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rodriguez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Kinnard reported in as eligible.  J.Love pass short right to J.FitzPatrick pushed ob at MIN 29 for 11 yards (B.Cashman; L.Rodriguez)."
+  },
+  {
+    "wallclock": "2025-11-23T20:21:27Z",
+    "period": 4,
+    "clock": "9:35",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.FitzPatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on GB-J.FitzPatrick, False Start, 5 yards, enforced at MIN 29 - No Play."
+  },
+  {
+    "wallclock": "2025-11-23T20:22:05Z",
+    "period": 4,
+    "clock": "9:35",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Whyle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass short right to J.Whyle to MIN 33 for 1 yard (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-11-23T20:22:50Z",
+    "period": 4,
+    "clock": "8:50",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Watson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rodriguez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Kinnard reported in as eligible.  J.Love pass short left to C.Watson ran ob at MIN 22 for 11 yards [L.Rodriguez]."
+  },
+  {
+    "wallclock": "2025-11-23T20:23:28Z",
+    "period": 4,
+    "clock": "8:21",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) E.Wilson left tackle to MIN 21 for 1 yard (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-11-23T20:24:09Z",
+    "period": 4,
+    "clock": "7:36",
+    "play_type": "Field Goal Good",
+    "yards": 40,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "B.McManus 40 yard field goal is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-11-23T20:24:26Z",
+    "period": 4,
+    "clock": "7:36",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:36."
+  },
+  {
+    "wallclock": "2025-11-23T20:27:18Z",
+    "period": 4,
+    "clock": "7:36",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.McManus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.McManus kicks 65 yards from GB 35 to end zone, Touchback to the MIN 35."
+  },
+  {
+    "wallclock": "2025-11-23T20:28:07Z",
+    "period": 4,
+    "clock": "7:36",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short middle intended for J.Jefferson INTERCEPTED by I.McDuffie (R.Gary) at MIN 40. I.McDuffie to MIN 40 for no gain (A.Jones)."
+  },
+  {
+    "wallclock": "2025-11-23T20:29:17Z",
+    "period": 4,
+    "clock": "7:30",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson up the middle to MIN 40 for no gain (E.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-23T20:30:05Z",
+    "period": 4,
+    "clock": "6:43",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ingram-Dawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson up the middle to MIN 39 for 1 yard (J.Metellus; T.Ingram-Dawkins)."
+  },
+  {
+    "wallclock": "2025-11-23T20:30:56Z",
+    "period": 4,
+    "clock": "5:59",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by GB at 05:59."
+  },
+  {
+    "wallclock": "2025-11-23T20:32:01Z",
+    "period": 4,
+    "clock": "5:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wicks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass incomplete deep right to D.Wicks (A.Van Ginkel, B.Murphy) [D.Turner]."
+  },
+  {
+    "wallclock": "2025-11-23T20:32:47Z",
+    "period": 4,
+    "clock": "5:53",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Whelan punts 32 yards to MIN 7, Center-M.Orzech, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-23T20:33:41Z",
+    "period": 4,
+    "clock": "5:46",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wyatt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short right to J.Jefferson to MIN 14 for 7 yards (D.Wyatt)."
+  },
+  {
+    "wallclock": "2025-11-23T20:34:03Z",
+    "period": 4,
+    "clock": "5:23",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McCarthy pass short right to A.Jones pushed ob at MIN 18 for 4 yards (E.Cooper)."
+  },
+  {
+    "wallclock": "2025-11-23T20:34:31Z",
+    "period": 4,
+    "clock": "5:01",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hadden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McCarthy scrambles left end to MIN 28 for 10 yards (I.McDuffie; K.Hadden)."
+  },
+  {
+    "wallclock": "2025-11-23T20:35:14Z",
+    "period": 4,
+    "clock": "4:19",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Enagbare",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short middle to T.Hockenson to MIN 33 for 5 yards (I.McDuffie) [K.Enagbare]."
+  },
+  {
+    "wallclock": "2025-11-23T20:35:49Z",
+    "period": 4,
+    "clock": "3:43",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McCarthy pass deep middle intended for J.Nailor INTERCEPTED by E.Williams at GB 37. E.Williams to GB 37 for no gain (J.Nailor)."
+  },
+  {
+    "wallclock": "2025-11-23T20:37:06Z",
+    "period": 4,
+    "clock": "3:37",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Kinnard reported in as eligible.  C.Brooks up the middle to GB 39 for 2 yards (J.Redmond)."
+  },
+  {
+    "wallclock": "2025-11-23T20:37:51Z",
+    "period": 4,
+    "clock": "2:52",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brooks up the middle to GB 49 for 10 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-11-23T20:38:37Z",
+    "period": 4,
+    "clock": "2:06",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Brooks up the middle to MIN 49 for 2 yards (B.Cashman; D.Turner)."
+  },
+  {
+    "wallclock": "2025-11-23T20:39:00Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-23T20:41:37Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Kinnard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Willis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Musgrave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Kinnard reported in as eligible.  M.Willis pass short right to L.Musgrave to MIN 42 for 7 yards (I.Pace)."
+  },
+  {
+    "wallclock": "2025-11-23T20:42:24Z",
+    "period": 4,
+    "clock": "1:14",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Willis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Willis up the middle to MIN 38 for 4 yards (I.Pace)."
+  },
+  {
+    "wallclock": "2025-11-23T20:43:03Z",
+    "period": 4,
+    "clock": "0:35",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Willis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Willis kneels to MIN 39 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-23T20:43:03Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

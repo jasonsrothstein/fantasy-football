@@ -1,0 +1,4573 @@
+[
+  {
+    "wallclock": "2025-09-14T20:05:56Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 62 yards from ARZ 35 to CAR 3. R.Dowdle to CAR 27 for 24 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-09-14T20:06:43Z",
+    "period": 1,
+    "clock": "14:55",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to C.Hubbard pushed ob at CAR 33 for 6 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-09-14T20:07:19Z",
+    "period": 1,
+    "clock": "14:19",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard left tackle to CAR 30 for -3 yards (B.Browning, A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-09-14T20:08:02Z",
+    "period": 1,
+    "clock": "13:27",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 3,
+    "athletes": [],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "Zaven Collins 3 Yd Fumble Return (Chad Ryland Kick)"
+  },
+  {
+    "wallclock": "2025-09-14T20:09:08Z",
+    "period": 1,
+    "clock": "13:27",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:27."
+  },
+  {
+    "wallclock": "2025-09-14T20:12:18Z",
+    "period": 1,
+    "clock": "13:27",
+    "play_type": "Kickoff",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Deguara",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 60 yards from ARZ 35 to CAR 5. T.Etienne to CAR 23 for 18 yards (J.Deguara)."
+  },
+  {
+    "wallclock": "2025-09-14T20:12:59Z",
+    "period": 1,
+    "clock": "13:20",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tomlinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to CAR 26 for 3 yards (Ma.Wilson; D.Tomlinson)."
+  },
+  {
+    "wallclock": "2025-09-14T20:13:35Z",
+    "period": 1,
+    "clock": "12:45",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to T.McMillan pushed ob at CAR 29 for 3 yards (M.Melton)."
+  },
+  {
+    "wallclock": "2025-09-14T20:14:19Z",
+    "period": 1,
+    "clock": "12:02",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete deep right to J.Sanders.PENALTY on ARZ-M.Melton, Defensive Holding, 5 yards, enforced at CAR 29 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T20:15:22Z",
+    "period": 1,
+    "clock": "11:55",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mustipher",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to C.Hubbard to CAR 37 for 3 yards (P.Mustipher)."
+  },
+  {
+    "wallclock": "2025-09-14T20:16:05Z",
+    "period": 1,
+    "clock": "11:12",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to B.Tremayne to ARZ 48 for 15 yards (J.Thompson) [A.Davis-Gaither]."
+  },
+  {
+    "wallclock": "2025-09-14T20:16:50Z",
+    "period": 1,
+    "clock": "10:26",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "X.Legette left end to ARZ 48 for no gain (B.Baker)."
+  },
+  {
+    "wallclock": "2025-09-14T20:17:32Z",
+    "period": 1,
+    "clock": "9:44",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to X.Legette to 50 for -2 yards (J.Sweat)."
+  },
+  {
+    "wallclock": "2025-09-14T20:18:16Z",
+    "period": 1,
+    "clock": "9:01",
+    "play_type": "Pass Interception Return",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle intended for T.McMillan INTERCEPTED by B.Browning (Ma.Wilson) [Ma.Wilson] at ARZ 48. B.Browning to CAR 48 for 4 yards (R.Hunt)."
+  },
+  {
+    "wallclock": "2025-09-14T20:20:14Z",
+    "period": 1,
+    "clock": "8:53",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:53."
+  },
+  {
+    "wallclock": "2025-09-14T20:21:31Z",
+    "period": 1,
+    "clock": "8:53",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short right to T.McBride to CAR 43 for 5 yards (C.Rozeboom).Penalty on CAR-T.Moehrig, Defensive Offside, offsetting, enforced at CAR 48 - No Play.Penalty on ARZ-I.Adams, Offensive Holding, offsetting."
+  },
+  {
+    "wallclock": "2025-09-14T20:22:31Z",
+    "period": 1,
+    "clock": "8:28",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Murray scrambles right end ran ob at CAR 46 for 2 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-09-14T20:23:12Z",
+    "period": 1,
+    "clock": "7:52",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Conner left tackle to CAR 43 for 3 yards (C.Rozeboom; D.Wonnum)."
+  },
+  {
+    "wallclock": "2025-09-14T20:23:51Z",
+    "period": 1,
+    "clock": "7:13",
+    "play_type": "Penalty",
+    "yards": 38,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass incomplete deep right to M.Harrison.PENALTY on CAR-M.Jackson, Defensive Pass Interference, 38 yards, enforced at CAR 43 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T20:24:55Z",
+    "period": 1,
+    "clock": "7:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass incomplete short left to M.Harrison (M.Jackson)."
+  },
+  {
+    "wallclock": "2025-09-14T20:25:35Z",
+    "period": 1,
+    "clock": "6:59",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray left end to CAR 7 for -2 yards (D.Wonnum)."
+  },
+  {
+    "wallclock": "2025-09-14T20:26:19Z",
+    "period": 1,
+    "clock": "6:16",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short right to Mi.Wilson to CAR 1 for 6 yards (D.Brown; C.Rozeboom).PENALTY on ARZ-T.McBride, Offensive Holding, 10 yards, enforced at CAR 7 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T20:27:22Z",
+    "period": 1,
+    "clock": "6:04",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short middle to T.Benson to CAR 11 for 6 yards (L.Ransom)."
+  },
+  {
+    "wallclock": "2025-09-14T20:28:04Z",
+    "period": 1,
+    "clock": "5:19",
+    "play_type": "Field Goal Good",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Gillikin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " C.Ryland 29 yard field goal is GOOD, Center-A.Brewer, Holder-B.Gillikin."
+  },
+  {
+    "wallclock": "2025-09-14T20:28:18Z",
+    "period": 1,
+    "clock": "5:19",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:19."
+  },
+  {
+    "wallclock": "2025-09-14T20:31:02Z",
+    "period": 1,
+    "clock": "5:19",
+    "play_type": "Kickoff",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 64 yards from ARZ 35 to CAR 1. T.Etienne to CAR 36 for 35 yards (K.Clark)."
+  },
+  {
+    "wallclock": "2025-09-14T20:31:52Z",
+    "period": 1,
+    "clock": "5:12",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Zavala",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Burch",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Zavala reported in as eligible.  R.Dowdle left tackle to CAR 38 for 2 yards (J.Burch)."
+  },
+  {
+    "wallclock": "2025-09-14T20:32:38Z",
+    "period": 1,
+    "clock": "4:26",
+    "play_type": "Pass Reception",
+    "yards": 40,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to T.McMillan to ARZ 22 for 40 yards (M.Melton). ARZ-M.Melton was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T20:33:14Z",
+    "period": 1,
+    "clock": "4:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:10."
+  },
+  {
+    "wallclock": "2025-09-14T20:36:05Z",
+    "period": 1,
+    "clock": "3:49",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Direct snap to R.Dowdle.  R.Dowdle up the middle to ARZ 19 for 3 yards (Z.Collins)."
+  },
+  {
+    "wallclock": "2025-09-14T20:36:44Z",
+    "period": 1,
+    "clock": "3:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short middle to X.Legette (G.Williams)."
+  },
+  {
+    "wallclock": "2025-09-14T20:37:23Z",
+    "period": 1,
+    "clock": "3:07",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to T.McMillan pushed ob at ARZ 9 for 10 yards (D.Taylor-Demerson)."
+  },
+  {
+    "wallclock": "2025-09-14T20:38:09Z",
+    "period": 1,
+    "clock": "2:23",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tomlinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle up the middle to ARZ 12 for -3 yards (D.Tomlinson)."
+  },
+  {
+    "wallclock": "2025-09-14T20:38:51Z",
+    "period": 1,
+    "clock": "1:41",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young scrambles right end pushed ob at ARZ 9 for 3 yards (B.Baker)."
+  },
+  {
+    "wallclock": "2025-09-14T20:39:37Z",
+    "period": 1,
+    "clock": "0:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short left to H.Renfrow."
+  },
+  {
+    "wallclock": "2025-09-14T20:40:19Z",
+    "period": 1,
+    "clock": "0:50",
+    "play_type": "Field Goal Good",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " R.Fitzgerald 27 yard field goal is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-09-14T20:40:33Z",
+    "period": 1,
+    "clock": "0:50",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:50."
+  },
+  {
+    "wallclock": "2025-09-14T20:42:11Z",
+    "period": 1,
+    "clock": "0:50",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Incoom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 62 yards from CAR 35 to ARZ 3. G.Dortch to ARZ 22 for 19 yards (B.Tremayne; T.Incoom)."
+  },
+  {
+    "wallclock": "2025-09-14T20:43:20Z",
+    "period": 1,
+    "clock": "0:45",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Conner left tackle to ARZ 24 for 2 yards (P.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T20:43:20Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-14T20:47:01Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass incomplete short right to M.Harrison (D.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T20:47:40Z",
+    "period": 2,
+    "clock": "14:57",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short right to T.McBride pushed ob at ARZ 33 for 9 yards (T.Moehrig) [D.Brown]."
+  },
+  {
+    "wallclock": "2025-09-14T20:48:21Z",
+    "period": 2,
+    "clock": "14:21",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray scrambles left end pushed ob at ARZ 35 for 2 yards (M.Jackson)."
+  },
+  {
+    "wallclock": "2025-09-14T20:49:07Z",
+    "period": 2,
+    "clock": "13:37",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Conner right tackle to ARZ 36 for 1 yard (D.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T20:49:48Z",
+    "period": 2,
+    "clock": "12:56",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Umanmielen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray sacked at ARZ 27 for -9 yards (P.Umanmielen)."
+  },
+  {
+    "wallclock": "2025-09-14T20:50:31Z",
+    "period": 2,
+    "clock": "12:13",
+    "play_type": "Punt",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Gillikin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Crawford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Gillikin punts 61 yards to CAR 12, Center-A.Brewer. T.Etienne to CAR 24 for 12 yards (K.Crawford)."
+  },
+  {
+    "wallclock": "2025-09-14T20:51:01Z",
+    "period": 2,
+    "clock": "12:01",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:01."
+  },
+  {
+    "wallclock": "2025-09-14T20:53:41Z",
+    "period": 2,
+    "clock": "12:01",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass deep left to T.McMillan to CAR 46 for 22 yards (A.Davis-Gaither; J.Thompson)."
+  },
+  {
+    "wallclock": "2025-09-14T20:54:19Z",
+    "period": 2,
+    "clock": "11:23",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Burch",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard right tackle to CAR 48 for 2 yards (J.Burch)."
+  },
+  {
+    "wallclock": "2025-09-14T20:54:55Z",
+    "period": 2,
+    "clock": "10:47",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to J.Sanders to ARZ 45 for 7 yards (B.Browning)."
+  },
+  {
+    "wallclock": "2025-09-14T20:55:30Z",
+    "period": 2,
+    "clock": "10:12",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard up the middle to ARZ 42 for 3 yards (D.Robinson)."
+  },
+  {
+    "wallclock": "2025-09-14T20:56:11Z",
+    "period": 2,
+    "clock": "9:31",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete deep left to C.Hubbard."
+  },
+  {
+    "wallclock": "2025-09-14T20:56:51Z",
+    "period": 2,
+    "clock": "9:26",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to T.Etienne pushed ob at ARZ 40 for 2 yards (C.Campbell) [Z.Collins]."
+  },
+  {
+    "wallclock": "2025-09-14T20:57:39Z",
+    "period": 2,
+    "clock": "8:39",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on CAR, Delay of Game, 5 yards, enforced at ARZ 40 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T20:58:36Z",
+    "period": 2,
+    "clock": "8:21",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to H.Renfrow to ARZ 40 for 5 yards (B.Baker)."
+  },
+  {
+    "wallclock": "2025-09-14T20:59:19Z",
+    "period": 2,
+    "clock": "7:36",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Punt formation) PENALTY on CAR, Delay of Game, 5 yards, enforced at ARZ 40 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T21:00:03Z",
+    "period": 2,
+    "clock": "7:30",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Martin punts 35 yards to ARZ 10, Center-J.Jansen, downed by CAR-C.Cherelus."
+  },
+  {
+    "wallclock": "2025-09-14T21:00:39Z",
+    "period": 2,
+    "clock": "7:19",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:19."
+  },
+  {
+    "wallclock": "2025-09-14T21:03:04Z",
+    "period": 2,
+    "clock": "7:19",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wallace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Conner up the middle to ARZ 14 for 4 yards (D.Wonnum; T.Wallace)."
+  },
+  {
+    "wallclock": "2025-09-14T21:03:52Z",
+    "period": 2,
+    "clock": "6:39",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Conner left end to ARZ 22 for 8 yards (B.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T21:04:31Z",
+    "period": 2,
+    "clock": "5:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass incomplete short right to M.Harrison."
+  },
+  {
+    "wallclock": "2025-09-14T21:05:16Z",
+    "period": 2,
+    "clock": "5:46",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wallace",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short left to J.Conner pushed ob at ARZ 40 for 18 yards (T.Wallace) [D.Wonnum]."
+  },
+  {
+    "wallclock": "2025-09-14T21:06:02Z",
+    "period": 2,
+    "clock": "5:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass incomplete short right to T.McBride."
+  },
+  {
+    "wallclock": "2025-09-14T21:06:49Z",
+    "period": 2,
+    "clock": "5:07",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ARZ at 05:07."
+  },
+  {
+    "wallclock": "2025-09-14T21:07:49Z",
+    "period": 2,
+    "clock": "5:06",
+    "play_type": "Pass Reception",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass deep middle to T.McBride to CAR 29 for 31 yards (N.Scott)."
+  },
+  {
+    "wallclock": "2025-09-14T21:08:31Z",
+    "period": 2,
+    "clock": "4:24",
+    "play_type": "Penalty",
+    "yards": -15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Froholdt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Conner left end pushed ob at CAR 25 for 4 yards (Ja.Horn).PENALTY on ARZ-H.Froholdt, Face Mask, 15 yards, enforced at CAR 29 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T21:09:34Z",
+    "period": 2,
+    "clock": "4:01",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray left end to CAR 39 for 5 yards (Ja.Horn)."
+  },
+  {
+    "wallclock": "2025-09-14T21:10:17Z",
+    "period": 2,
+    "clock": "3:18",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass incomplete short right.PENALTY on ARZ-J.Williams, Offensive Holding, 10 yards, enforced at CAR 39 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T21:11:22Z",
+    "period": 2,
+    "clock": "3:09",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short middle to T.McBride to CAR 40 for 9 yards (L.Ransom; C.Rozeboom)."
+  },
+  {
+    "wallclock": "2025-09-14T21:12:06Z",
+    "period": 2,
+    "clock": "2:26",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Benson right tackle to CAR 29 for 11 yards (L.Ransom; C.Rozeboom)."
+  },
+  {
+    "wallclock": "2025-09-14T21:12:36Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-14T21:15:32Z",
+    "period": 2,
+    "clock": "1:55",
+    "play_type": "Field Goal Good",
+    "yards": 47,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Gillikin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " C.Ryland 47 yard field goal is GOOD, Center-A.Brewer, Holder-B.Gillikin."
+  },
+  {
+    "wallclock": "2025-09-14T21:16:57Z",
+    "period": 2,
+    "clock": "1:55",
+    "play_type": "Kickoff",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Pappoe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Martin-Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tremble",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 60 yards from ARZ 35 to CAR 5. T.Etienne to CAR 35 for 30 yards (O.Pappoe).PENALTY on CAR-B.Martin-Scott, Offensive Holding, 10 yards, enforced at CAR 21.Penalty on CAR-T.Tremble, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-14T21:18:20Z",
+    "period": 2,
+    "clock": "1:47",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to CAR 14 for 3 yards (J.Sweat)."
+  },
+  {
+    "wallclock": "2025-09-14T21:18:57Z",
+    "period": 2,
+    "clock": "1:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to X.Legette."
+  },
+  {
+    "wallclock": "2025-09-14T21:19:40Z",
+    "period": 2,
+    "clock": "1:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Sanders to CAR 22 for 8 yards (B.Baker).The Replay Official reviewed the pass completion ruling, and the play was REVERSED.(Shotgun) B.Young pass incomplete short middle to J.Sanders."
+  },
+  {
+    "wallclock": "2025-09-14T21:23:02Z",
+    "period": 2,
+    "clock": "1:04",
+    "play_type": "Punt",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tremble",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Martin punts 60 yards to ARZ 26, Center-J.Jansen. G.Dortch to CAR 45 for 29 yards (T.Tremble)."
+  },
+  {
+    "wallclock": "2025-09-14T21:24:00Z",
+    "period": 2,
+    "clock": "0:51",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short left to T.Benson ran ob at CAR 39 for 6 yards (Ja.Horn)."
+  },
+  {
+    "wallclock": "2025-09-14T21:24:32Z",
+    "period": 2,
+    "clock": "0:45",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Murray pass short middle to T.McBride to CAR 29 for 10 yards (T.Moehrig; L.Ransom)."
+  },
+  {
+    "wallclock": "2025-09-14T21:24:51Z",
+    "period": 2,
+    "clock": "0:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Murray pass incomplete short middle to T.Benson (D.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T21:25:37Z",
+    "period": 2,
+    "clock": "0:23",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short right to T.Benson to CAR 23 for 6 yards (N.Scott)."
+  },
+  {
+    "wallclock": "2025-09-14T21:26:25Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by ARZ at 00:16."
+  },
+  {
+    "wallclock": "2025-09-14T21:26:48Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CAR at 00:16."
+  },
+  {
+    "wallclock": "2025-09-14T21:27:48Z",
+    "period": 2,
+    "clock": "0:15",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short middle to T.Benson to CAR 11 for 12 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-09-14T21:28:05Z",
+    "period": 2,
+    "clock": "0:09",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by ARZ at 00:09."
+  },
+  {
+    "wallclock": "2025-09-14T21:29:00Z",
+    "period": 2,
+    "clock": "0:09",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CAR at 00:09."
+  },
+  {
+    "wallclock": "2025-09-14T21:30:00Z",
+    "period": 2,
+    "clock": "0:04",
+    "play_type": "Passing Touchdown",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Gillikin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) K.Murray pass short left to Mi.Wilson for 11 yards, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-B.Gillikin."
+  },
+  {
+    "wallclock": "2025-09-14T21:32:11Z",
+    "period": 2,
+    "clock": "0:04",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 65 yards from ARZ 35 to end zone, Touchback to the CAR 35."
+  },
+  {
+    "wallclock": "2025-09-14T21:32:41Z",
+    "period": 2,
+    "clock": "0:04",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young kneels to CAR 34 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-14T21:32:41Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-14T21:47:04Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Martin-Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 61 yards from CAR 35 to ARZ 4. G.Dortch to ARZ 29 for 25 yards (B.Martin-Scott)."
+  },
+  {
+    "wallclock": "2025-09-14T21:47:47Z",
+    "period": 3,
+    "clock": "14:56",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Murray pass short right to T.McBride pushed ob at ARZ 36 for 7 yards (C.Rozeboom)."
+  },
+  {
+    "wallclock": "2025-09-14T21:48:34Z",
+    "period": 3,
+    "clock": "14:10",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Conner left tackle to ARZ 40 for 4 yards (D.Wonnum; T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-09-14T21:49:17Z",
+    "period": 3,
+    "clock": "13:28",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short middle to E.Higgins to CAR 42 for 18 yards (T.Moehrig, C.Rozeboom)."
+  },
+  {
+    "wallclock": "2025-09-14T21:49:59Z",
+    "period": 3,
+    "clock": "12:46",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short left to Mi.Wilson pushed ob at CAR 31 for 11 yards (C.Smith-Wade).PENALTY on ARZ-P.Johnson, Ineligible Downfield Pass, 5 yards, enforced at CAR 42 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T21:50:58Z",
+    "period": 3,
+    "clock": "12:23",
+    "play_type": "Pass Reception",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short middle to E.Higgins to CAR 20 for 27 yards (N.Scott)."
+  },
+  {
+    "wallclock": "2025-09-14T21:51:44Z",
+    "period": 3,
+    "clock": "11:37",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Conner right tackle to CAR 16 for 4 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-09-14T21:52:23Z",
+    "period": 3,
+    "clock": "10:59",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short left to M.Harrison to CAR 4 for 12 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-09-14T21:53:10Z",
+    "period": 3,
+    "clock": "10:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass incomplete short left to E.Higgins."
+  },
+  {
+    "wallclock": "2025-09-14T21:53:54Z",
+    "period": 3,
+    "clock": "10:07",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Conner right tackle to CAR 2 for 2 yards (D.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T21:54:36Z",
+    "period": 3,
+    "clock": "9:23",
+    "play_type": "Rushing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gaines",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Gillikin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Gaines and K.Beachum reported in as eligible.  J.Conner left tackle for 2 yards, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-B.Gillikin."
+  },
+  {
+    "wallclock": "2025-09-14T21:55:30Z",
+    "period": 3,
+    "clock": "9:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:23."
+  },
+  {
+    "wallclock": "2025-09-14T21:58:19Z",
+    "period": 3,
+    "clock": "9:23",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 61 yards from ARZ 35 to CAR 4. T.Etienne to CAR 24 for 20 yards (K.Clark; E.Higgins)."
+  },
+  {
+    "wallclock": "2025-09-14T21:59:13Z",
+    "period": 3,
+    "clock": "9:16",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mustipher",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle up the middle to CAR 29 for 5 yards (D.Stills; P.Mustipher)."
+  },
+  {
+    "wallclock": "2025-09-14T21:59:45Z",
+    "period": 3,
+    "clock": "8:45",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tremble",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass short right to T.Tremble to CAR 35 for 6 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:00:13Z",
+    "period": 3,
+    "clock": "8:16",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tremble",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass short middle to T.Tremble to CAR 40 for 5 yards (B.Baker)."
+  },
+  {
+    "wallclock": "2025-09-14T22:00:36Z",
+    "period": 3,
+    "clock": "7:53",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mustipher",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) R.Dowdle up the middle to CAR 42 for 2 yards (D.Stills; P.Mustipher)."
+  },
+  {
+    "wallclock": "2025-09-14T22:01:16Z",
+    "period": 3,
+    "clock": "7:14",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard right tackle to CAR 44 for 2 yards (C.Campbell, Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:01:58Z",
+    "period": 3,
+    "clock": "6:30",
+    "play_type": "Rush",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard up the middle to ARZ 42 for 14 yards (J.Thompson; W.Johnson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:02:38Z",
+    "period": 3,
+    "clock": "5:51",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to R.Dowdle to ARZ 32 for 10 yards (G.Williams)."
+  },
+  {
+    "wallclock": "2025-09-14T22:03:25Z",
+    "period": 3,
+    "clock": "5:04",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to M.Evans to ARZ 23 for 9 yards (J.Thompson; Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:04:00Z",
+    "period": 3,
+    "clock": "4:30",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Hubbard up the middle to ARZ 18 for 5 yards (C.Campbell; B.Baker). ARZ-C.Campbell was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T22:04:23Z",
+    "period": 3,
+    "clock": "4:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:15."
+  },
+  {
+    "wallclock": "2025-09-14T22:07:15Z",
+    "period": 3,
+    "clock": "3:59",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to J.Sanders to ARZ 11 for 7 yards (Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:07:39Z",
+    "period": 3,
+    "clock": "3:34",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) B.Young pass incomplete short left to T.McMillan."
+  },
+  {
+    "wallclock": "2025-09-14T22:08:23Z",
+    "period": 3,
+    "clock": "3:31",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Sanders to ARZ 4 for 7 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:09:07Z",
+    "period": 3,
+    "clock": "2:47",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle up the middle to ARZ 4 for no gain (B.Baker; A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-09-14T22:09:42Z",
+    "period": 3,
+    "clock": "2:06",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Young pass short right to H.Renfrow for 4 yards, TOUCHDOWN [Z.Collins]. TWO-POINT CONVERSION ATTEMPT. R.Dowdle rushes left tackle. ATTEMPT FAILS."
+  },
+  {
+    "wallclock": null,
+    "period": 3,
+    "clock": "2:06",
+    "play_type": "Penalty",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "TWO-POINT CONVERSION ATTEMPT. B.Young pass to T.McMillan is incomplete. ATTEMPT FAILS.\nPENALTY on ARZ-D.Burke, Defensive Pass Interference, 1 yard, enforced at ARZ 2 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T22:12:11Z",
+    "period": 3,
+    "clock": "2:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:06."
+  },
+  {
+    "wallclock": "2025-09-14T22:14:50Z",
+    "period": 3,
+    "clock": "2:06",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Incoom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 60 yards from CAR 35 to ARZ 5. Z.Knight to ARZ 28 for 23 yards (T.Incoom)."
+  },
+  {
+    "wallclock": "2025-09-14T22:15:35Z",
+    "period": 3,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short right to T.McBride to ARZ 40 for 12 yards (C.Rozeboom; P.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T22:16:13Z",
+    "period": 3,
+    "clock": "1:21",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Benson left end to ARZ 41 for 1 yard (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-09-14T22:17:01Z",
+    "period": 3,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray left tackle to ARZ 38 for -3 yards (B.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T22:17:01Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-14T22:20:22Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short middle to G.Dortch to ARZ 49 for 11 yards (C.Rozeboom; C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-09-14T22:21:06Z",
+    "period": 4,
+    "clock": "14:15",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett up the middle to CAR 49 for 2 yards (D.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T22:21:51Z",
+    "period": 4,
+    "clock": "13:31",
+    "play_type": "Rush",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wallace",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray scrambles left end ran ob at CAR 19 for 30 yards (T.Wallace; N.Scourton)."
+  },
+  {
+    "wallclock": "2025-09-14T22:22:42Z",
+    "period": 4,
+    "clock": "12:42",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Benson right end to CAR 16 for 3 yards (C.Smith-Wade; M.Jackson).PENALTY on ARZ-I.Adams, Offensive Holding, 10 yards, enforced at CAR 19 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T22:23:49Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Benson right tackle to CAR 27 for 2 yards (P.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T22:24:35Z",
+    "period": 4,
+    "clock": "11:27",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short middle to M.Harrison to CAR 12 for 15 yards (C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-09-14T22:25:19Z",
+    "period": 4,
+    "clock": "10:42",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Benson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass short left intended for T.Benson INTERCEPTED by D.Wonnum (P.Jones) [P.Jones] at CAR 12. D.Wonnum to CAR 12 for no gain (Ev.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T22:26:22Z",
+    "period": 4,
+    "clock": "10:32",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:32."
+  },
+  {
+    "wallclock": "2025-09-14T22:28:36Z",
+    "period": 4,
+    "clock": "10:32",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to J.Sanders to CAR 19 for 7 yards (G.Williams; B.Baker). ** Injury Update: ARZ-C.Campbell has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-14T22:29:04Z",
+    "period": 4,
+    "clock": "10:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass incomplete short left to T.McMillan (D.Burke)."
+  },
+  {
+    "wallclock": "2025-09-14T22:29:48Z",
+    "period": 4,
+    "clock": "9:59",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to T.McMillan to CAR 24 for 5 yards (W.Johnson). ARZ-W.Johnson was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T22:30:26Z",
+    "period": 4,
+    "clock": "9:47",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:47."
+  },
+  {
+    "wallclock": "2025-09-14T22:32:52Z",
+    "period": 4,
+    "clock": "9:33",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tremble",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to T.Tremble to CAR 33 for 9 yards (G.Williams)."
+  },
+  {
+    "wallclock": "2025-09-14T22:33:15Z",
+    "period": 4,
+    "clock": "9:08",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Hubbard up the middle to CAR 39 for 6 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:33:41Z",
+    "period": 4,
+    "clock": "8:43",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass incomplete short right to X.Legette (D.Burke)."
+  },
+  {
+    "wallclock": "2025-09-14T22:34:19Z",
+    "period": 4,
+    "clock": "8:39",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to C.Hubbard to ARZ 45 for 16 yards (G.Williams). ** Injury Update: ARZ-W.Johnson has returned to the game. Penalty on ARZ-C.Campbell, Defensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-14T22:35:14Z",
+    "period": 4,
+    "clock": "8:11",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to H.Renfrow to ARZ 30 for 15 yards (W.Johnson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:35:41Z",
+    "period": 4,
+    "clock": "7:44",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass short right to B.Tremayne to ARZ 23 for 7 yards (G.Williams)."
+  },
+  {
+    "wallclock": "2025-09-14T22:36:09Z",
+    "period": 4,
+    "clock": "7:16",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass short left to C.Hubbard pushed ob at ARZ 14 for 9 yards (Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:36:49Z",
+    "period": 4,
+    "clock": "6:38",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short middle to J.Sanders."
+  },
+  {
+    "wallclock": "2025-09-14T22:37:32Z",
+    "period": 4,
+    "clock": "6:33",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Moton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Ekwonu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on CAR-T.Moton, False Start, 5 yards, enforced at ARZ 14 - No Play.Penalty on CAR-I.Ekwonu, False Start, declined."
+  },
+  {
+    "wallclock": "2025-09-14T22:38:28Z",
+    "period": 4,
+    "clock": "6:33",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Sanders to ARZ 12 for 7 yards (G.Williams; Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:39:08Z",
+    "period": 4,
+    "clock": "5:53",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to H.Renfrow to ARZ 5 for 7 yards (Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:39:50Z",
+    "period": 4,
+    "clock": "5:05",
+    "play_type": "Passing Touchdown",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Young pass short right to C.Hubbard for 5 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. C.Hubbard rushes up the middle. ATTEMPT FAILS."
+  },
+  {
+    "wallclock": "2025-09-14T22:41:18Z",
+    "period": 4,
+    "clock": "5:05",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:05."
+  },
+  {
+    "wallclock": "2025-09-14T22:44:36Z",
+    "period": 4,
+    "clock": "5:05",
+    "play_type": "Kickoff",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 65 yards from CAR 35 to ARZ 0. Z.Knight to ARZ 20 for 20 yards (B.Tremayne).PENALTY on ARZ-A.Davis-Gaither, Illegal Block Above the Waist, 10 yards, enforced at ARZ 20."
+  },
+  {
+    "wallclock": "2025-09-14T22:45:58Z",
+    "period": 4,
+    "clock": "5:01",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Conner right tackle to ARZ 17 for 7 yards (A.Robinson; B.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T22:46:28Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CAR at 04:54."
+  },
+  {
+    "wallclock": "2025-09-14T22:49:09Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Conner up the middle to ARZ 14 for -3 yards (P.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T22:49:26Z",
+    "period": 4,
+    "clock": "4:49",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CAR at 04:49."
+  },
+  {
+    "wallclock": "2025-09-14T22:50:19Z",
+    "period": 4,
+    "clock": "4:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Murray pass incomplete deep right to Mi.Wilson."
+  },
+  {
+    "wallclock": "2025-09-14T22:51:35Z",
+    "period": 4,
+    "clock": "4:44",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Gillikin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Crawford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Gillikin punts 62 yards to CAR 24, Center-A.Brewer, downed by ARZ-K.Crawford."
+  },
+  {
+    "wallclock": "2025-09-14T22:52:30Z",
+    "period": 4,
+    "clock": "4:31",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Sanders to CAR 36 for 12 yards (B.Baker; D.Taylor-Demerson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:52:56Z",
+    "period": 4,
+    "clock": "4:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass incomplete short right to X.Legette."
+  },
+  {
+    "wallclock": "2025-09-14T22:53:39Z",
+    "period": 4,
+    "clock": "4:01",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young sacked at CAR 30 for -6 yards (C.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-14T22:54:12Z",
+    "period": 4,
+    "clock": "3:30",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass incomplete deep left."
+  },
+  {
+    "wallclock": "2025-09-14T22:54:58Z",
+    "period": 4,
+    "clock": "3:21",
+    "play_type": "Pass Reception",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass deep middle to B.Tremayne to ARZ 44 for 26 yards (J.Thompson) [Z.Collins]."
+  },
+  {
+    "wallclock": "2025-09-14T22:55:22Z",
+    "period": 4,
+    "clock": "2:57",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass short left to H.Renfrow pushed ob at ARZ 38 for 6 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:56:02Z",
+    "period": 4,
+    "clock": "2:54",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Corbett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Sanders to ARZ 31 for 7 yards (Ma.Wilson). CAR-A.Corbett was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T22:56:52Z",
+    "period": 4,
+    "clock": "2:45",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:45."
+  },
+  {
+    "wallclock": "2025-09-14T22:57:53Z",
+    "period": 4,
+    "clock": "2:37",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young pass short middle to T.McMillan to ARZ 11 for 20 yards (J.Thompson; D.Taylor-Demerson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:58:15Z",
+    "period": 4,
+    "clock": "2:14",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass incomplete short right to X.Legette (W.Johnson)."
+  },
+  {
+    "wallclock": "2025-09-14T22:59:00Z",
+    "period": 4,
+    "clock": "2:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short middle to X.Legette."
+  },
+  {
+    "wallclock": "2025-09-14T22:59:42Z",
+    "period": 4,
+    "clock": "2:06",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to H.Renfrow to ARZ 1 for 10 yards (G.Williams) [Z.Collins]."
+  },
+  {
+    "wallclock": "2025-09-14T23:00:14Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-14T23:03:25Z",
+    "period": 4,
+    "clock": "1:58",
+    "play_type": "Passing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Young pass short right to H.Renfrow for 1 yard, TOUCHDOWN. ARZ-B.Baker was injured during the play. ARZ-G.Williams was injured during the play. R.Fitzgerald extra point is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": null,
+    "period": 4,
+    "clock": "1:58",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ARZ at 01:58."
+  },
+  {
+    "wallclock": "2025-09-14T23:08:22Z",
+    "period": 4,
+    "clock": "1:58",
+    "play_type": "Kickoff",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Richardson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Martin kicks onside 14 yards from CAR 35 to CAR 49, impetus ends at CAR 44. RECOVERED by CAR-D.Richardson."
+  },
+  {
+    "wallclock": "2025-09-14T23:09:24Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short left to T.McMillan (D.Burke). ** Injury Update: ARZ-B.Baker has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-14T23:09:56Z",
+    "period": 4,
+    "clock": "1:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to X.Legette (D.Stills)."
+  },
+  {
+    "wallclock": "2025-09-14T23:10:38Z",
+    "period": 4,
+    "clock": "1:48",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on ARZ-B.Browning, Encroachment, 5 yards, enforced at CAR 49 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T23:11:40Z",
+    "period": 4,
+    "clock": "1:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short left to B.Tremayne [B.Browning]."
+  },
+  {
+    "wallclock": "2025-09-14T23:12:23Z",
+    "period": 4,
+    "clock": "1:45",
+    "play_type": "Penalty",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Burch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Burch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Ekwonu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young sacked at CAR 25 for -29 yards (Z.Collins). FUMBLES (Z.Collins) [Z.Collins], RECOVERED by ARZ-J.Burch at CAR 28. J.Burch to CAR 28 for no gain (I.Ekwonu).PENALTY on ARZ-D.Burke, Defensive Holding, 5 yards, enforced at ARZ 46 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T23:13:57Z",
+    "period": 4,
+    "clock": "1:32",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to ARZ 38 for 3 yards (A.Davis-Gaither; D.Taylor-Demerson)."
+  },
+  {
+    "wallclock": "2025-09-14T23:14:21Z",
+    "period": 4,
+    "clock": "1:09",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Zavala",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) B.Young pass short middle to C.Hubbard ran ob at ARZ 27 for 11 yards (A.Davis-Gaither).\nPENALTY on CAR-C.Zavala, Offensive Holding, 10 yards, enforced at ARZ 38 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T23:15:19Z",
+    "period": 4,
+    "clock": "1:00",
+    "play_type": "Penalty",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Young pass incomplete short left.\nPENALTY on ARZ-J.Sweat, Roughing the Passer, 15 yards, enforced at ARZ 48 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T23:16:30Z",
+    "period": 4,
+    "clock": "0:54",
+    "play_type": "Pass Incompletion",
+    "yards": -20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short left.PENALTY on CAR-B.Young, Intentional Grounding, 10 yards, enforced at ARZ 33."
+  },
+  {
+    "wallclock": "2025-09-14T23:17:49Z",
+    "period": 4,
+    "clock": "0:49",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by CAR at 00:49."
+  },
+  {
+    "wallclock": "2025-09-14T23:18:07Z",
+    "period": 4,
+    "clock": "0:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete deep middle to H.Renfrow."
+  },
+  {
+    "wallclock": "2025-09-14T23:18:48Z",
+    "period": 4,
+    "clock": "0:43",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Renfrow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete deep right to H.Renfrow.PENALTY on ARZ-D.Stills, Defensive Offside, 5 yards, enforced at ARZ 43 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T23:19:40Z",
+    "period": 4,
+    "clock": "0:38",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to B.Tremayne (K.Clark)."
+  },
+  {
+    "wallclock": "2025-09-14T23:20:24Z",
+    "period": 4,
+    "clock": "0:33",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young sacked at ARZ 46 for -8 yards (C.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-14T23:21:26Z",
+    "period": 4,
+    "clock": "0:26",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Murray kneels to ARZ 44 for -2 yards."
+  },
+  {
+    "wallclock": "2025-09-14T23:21:26Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

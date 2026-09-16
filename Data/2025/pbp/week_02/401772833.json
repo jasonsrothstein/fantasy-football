@@ -1,0 +1,4605 @@
+[
+  {
+    "wallclock": "2025-09-14T17:03:05Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the NO 35."
+  },
+  {
+    "wallclock": "2025-09-14T17:03:47Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sigle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Kamara up the middle to NO 40 for 5 yards (N.Bosa; M.Sigle)."
+  },
+  {
+    "wallclock": "2025-09-14T17:04:20Z",
+    "period": 1,
+    "clock": "14:27",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Green",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Fuaga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Rattler pass short left to C.Olave to SF 49 for 11 yards (R.Green).PENALTY on NO-T.Fuaga, Ineligible Downfield Pass, 5 yards, enforced at NO 40 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:05:11Z",
+    "period": 1,
+    "clock": "14:06",
+    "play_type": "Pass Reception",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Green",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Green",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass deep left to R.Shaheed to SF 26 for 39 yards (R.Green).Penalty on SF-R.Green, Defensive Pass Interference, declined."
+  },
+  {
+    "wallclock": "2025-09-14T17:06:06Z",
+    "period": 1,
+    "clock": "13:55",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pinnock",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Kamara left end ran ob at SF 22 for 4 yards (J.Pinnock)."
+  },
+  {
+    "wallclock": "2025-09-14T17:06:43Z",
+    "period": 1,
+    "clock": "13:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass incomplete deep left to C.Olave."
+  },
+  {
+    "wallclock": "2025-09-14T17:07:30Z",
+    "period": 1,
+    "clock": "13:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass incomplete short middle to C.Olave [N.Bosa]."
+  },
+  {
+    "wallclock": "2025-09-14T17:08:10Z",
+    "period": 1,
+    "clock": "13:13",
+    "play_type": "Field Goal Missed",
+    "yards": 40,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe 40 yard field goal is No Good, Wide Right, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-09-14T17:08:40Z",
+    "period": 1,
+    "clock": "13:09",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:09."
+  },
+  {
+    "wallclock": "2025-09-14T17:11:09Z",
+    "period": 1,
+    "clock": "13:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Farrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones pass incomplete short left to L.Farrell [C.Granderson]."
+  },
+  {
+    "wallclock": "2025-09-14T17:11:44Z",
+    "period": 1,
+    "clock": "13:05",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete short right to J.Tonges (P.Werner)."
+  },
+  {
+    "wallclock": "2025-09-14T17:12:25Z",
+    "period": 1,
+    "clock": "13:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete short middle to J.Jennings (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-09-14T17:13:09Z",
+    "period": 1,
+    "clock": "12:58",
+    "play_type": "Punt",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Morstead punts 49 yards to NO 21, Center-J.Weeks. R.Shaheed pushed ob at NO 40 for 19 yards (D.Luter)."
+  },
+  {
+    "wallclock": "2025-09-14T17:13:54Z",
+    "period": 1,
+    "clock": "12:44",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:44."
+  },
+  {
+    "wallclock": "2025-09-14T17:16:18Z",
+    "period": 1,
+    "clock": "12:44",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Kamara up the middle to NO 46 for 6 yards (F.Warner)."
+  },
+  {
+    "wallclock": "2025-09-14T17:16:51Z",
+    "period": 1,
+    "clock": "12:11",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Kamara right guard to SF 41 for 13 yards (F.Warner)."
+  },
+  {
+    "wallclock": "2025-09-14T17:17:18Z",
+    "period": 1,
+    "clock": "11:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Rattler pass incomplete short right to J.Johnson."
+  },
+  {
+    "wallclock": "2025-09-14T17:17:54Z",
+    "period": 1,
+    "clock": "11:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass incomplete short left to C.Olave (J.Brown)."
+  },
+  {
+    "wallclock": "2025-09-14T17:18:38Z",
+    "period": 1,
+    "clock": "11:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Green",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass incomplete deep left to C.Olave (R.Green)."
+  },
+  {
+    "wallclock": "2025-09-14T17:19:24Z",
+    "period": 1,
+    "clock": "11:28",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 41 yards to end zone, Center-Z.Wood, Touchback."
+  },
+  {
+    "wallclock": "2025-09-14T17:19:46Z",
+    "period": 1,
+    "clock": "11:21",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:21."
+  },
+  {
+    "wallclock": "2025-09-14T17:22:25Z",
+    "period": 1,
+    "clock": "11:21",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left end to SF 25 for 5 yards (C.Jordan)."
+  },
+  {
+    "wallclock": "2025-09-14T17:22:58Z",
+    "period": 1,
+    "clock": "10:48",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey left guard to SF 23 for -2 yards (C.Granderson, D.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T17:23:35Z",
+    "period": 1,
+    "clock": "10:11",
+    "play_type": "Penalty",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete short right to J.Jennings.PENALTY on NO-I.Yiadom, Defensive Pass Interference, 10 yards, enforced at SF 23 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:24:36Z",
+    "period": 1,
+    "clock": "10:07",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones sacked at SF 29 for -4 yards (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-09-14T17:25:18Z",
+    "period": 1,
+    "clock": "9:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bresee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones pass incomplete deep left to R.Pearsall [B.Bresee]."
+  },
+  {
+    "wallclock": "2025-09-14T17:26:01Z",
+    "period": 1,
+    "clock": "9:20",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short middle to R.Pearsall to SF 44 for 15 yards (I.Yiadom)."
+  },
+  {
+    "wallclock": "2025-09-14T17:26:40Z",
+    "period": 1,
+    "clock": "8:42",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bartch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Diggs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left tackle to SF 47 for 3 yards (C.Rumph). SF-B.Bartch was injured during the play. PENALTY on NO-F.Diggs, Illegal Use of Hands, 5 yards, enforced at SF 47."
+  },
+  {
+    "wallclock": "2025-09-14T17:27:46Z",
+    "period": 1,
+    "clock": "8:35",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:35."
+  },
+  {
+    "wallclock": "2025-09-14T17:30:07Z",
+    "period": 1,
+    "clock": "8:29",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Farrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones pass short left to L.Farrell to NO 44 for 4 yards (J.Reid)."
+  },
+  {
+    "wallclock": "2025-09-14T17:30:44Z",
+    "period": 1,
+    "clock": "7:53",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right tackle to NO 37 for 7 yards (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-09-14T17:31:29Z",
+    "period": 1,
+    "clock": "7:08",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Pearsall left end to NO 41 for -4 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-09-14T17:32:15Z",
+    "period": 1,
+    "clock": "6:21",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones scrambles right end to NO 28 for 13 yards (N.Shepherd, D.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T17:33:03Z",
+    "period": 1,
+    "clock": "5:33",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right end to NO 20 for 8 yards (J.Reid)."
+  },
+  {
+    "wallclock": "2025-09-14T17:33:47Z",
+    "period": 1,
+    "clock": "4:50",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Juszczyk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short right to K.Juszczyk to NO 15 for 5 yards (D.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T17:34:24Z",
+    "period": 1,
+    "clock": "4:13",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey up the middle to NO 11 for 4 yards (J.Reid)."
+  },
+  {
+    "wallclock": "2025-09-14T17:35:04Z",
+    "period": 1,
+    "clock": "3:25",
+    "play_type": "Passing Touchdown",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Farrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "M.Jones pass short left to L.Farrell for 11 yards, TOUCHDOWN. E.Pineiro extra point is No Good, Wide Right, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-09-14T17:36:18Z",
+    "period": 1,
+    "clock": "3:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:25."
+  },
+  {
+    "wallclock": "2025-09-14T17:38:56Z",
+    "period": 1,
+    "clock": "3:25",
+    "play_type": "Kickoff",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Gifford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 67 yards from SF 35 to NO -2. K.Miller to NO 32 for 34 yards (L.Gifford; D.Luter)."
+  },
+  {
+    "wallclock": "2025-09-14T17:39:35Z",
+    "period": 1,
+    "clock": "3:18",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Miller up the middle to NO 34 for 2 yards (D.Winters; K.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T17:40:10Z",
+    "period": 1,
+    "clock": "2:43",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sigle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.McCoy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler scrambles up the middle to NO 44 for 10 yards (M.Sigle).PENALTY on NO-E.McCoy, Offensive Holding, 10 yards, enforced at NO 34 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:41:03Z",
+    "period": 1,
+    "clock": "2:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass incomplete short left to J.Johnson."
+  },
+  {
+    "wallclock": "2025-09-14T17:41:43Z",
+    "period": 1,
+    "clock": "2:19",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short right to K.Miller to NO 26 for 2 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-09-14T17:42:30Z",
+    "period": 1,
+    "clock": "1:32",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 39 yards to SF 35, Center-Z.Wood, out of bounds."
+  },
+  {
+    "wallclock": "2025-09-14T17:43:35Z",
+    "period": 1,
+    "clock": "1:25",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by SF at 01:25."
+  },
+  {
+    "wallclock": "2025-09-14T17:44:35Z",
+    "period": 1,
+    "clock": "1:25",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right end to SF 45 for 10 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-09-14T17:45:12Z",
+    "period": 1,
+    "clock": "0:49",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left end to NO 48 for 7 yards (J.Sanker; I.Yiadom)."
+  },
+  {
+    "wallclock": "2025-09-14T17:45:12Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-14T17:48:59Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short left to J.Tonges to NO 37 for 11 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-09-14T17:49:37Z",
+    "period": 2,
+    "clock": "14:23",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left end to NO 35 for 2 yards (J.Sanker; D.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T17:50:23Z",
+    "period": 2,
+    "clock": "13:37",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short right to R.Pearsall to NO 22 for 13 yards (I.Yiadom)."
+  },
+  {
+    "wallclock": "2025-09-14T17:51:07Z",
+    "period": 2,
+    "clock": "12:52",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short left to J.Jennings to NO 21 for 1 yard (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-09-14T17:51:52Z",
+    "period": 2,
+    "clock": "12:07",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones to NO 26 for -5 yards. FUMBLES, and recovers at NO 26."
+  },
+  {
+    "wallclock": "2025-09-14T17:52:30Z",
+    "period": 2,
+    "clock": "11:30",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete short left to C.McCaffrey (P.Werner)."
+  },
+  {
+    "wallclock": "2025-09-14T17:53:24Z",
+    "period": 2,
+    "clock": "11:23",
+    "play_type": "Field Goal Good",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "E.Pineiro 44 yard field goal is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-09-14T17:53:44Z",
+    "period": 2,
+    "clock": "11:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:23."
+  },
+  {
+    "wallclock": "2025-09-14T17:56:18Z",
+    "period": 2,
+    "clock": "11:23",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Gifford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Neal",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 62 yards from SF 35 to NO 3. K.Miller to NO 29 for 26 yards (S.Neal; L.Gifford). SF-S.Neal was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T17:59:42Z",
+    "period": 2,
+    "clock": "11:17",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler sacked at NO 22 for -7 yards (U.Stout)."
+  },
+  {
+    "wallclock": "2025-09-14T18:00:22Z",
+    "period": 2,
+    "clock": "10:38",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pinnock",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short right to A.Kamara pushed ob at NO 26 for 4 yards (J.Pinnock)."
+  },
+  {
+    "wallclock": "2025-09-14T18:01:04Z",
+    "period": 2,
+    "clock": "9:59",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short right to C.Olave to NO 30 for 4 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-09-14T18:01:46Z",
+    "period": 2,
+    "clock": "9:17",
+    "play_type": "Punt",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 52 yards to SF 18, Center-Z.Wood. S.Moore ran ob at SF 19 for 1 yard."
+  },
+  {
+    "wallclock": "2025-09-14T18:02:37Z",
+    "period": 2,
+    "clock": "9:09",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones pass short left to R.Pearsall to SF 33 for 14 yards (I.Yiadom) [N.Shepherd]."
+  },
+  {
+    "wallclock": "2025-09-14T18:03:18Z",
+    "period": 2,
+    "clock": "8:29",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right end to SF 33 for no gain (D.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T18:03:59Z",
+    "period": 2,
+    "clock": "7:47",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones sacked at SF 30 for -3 yards (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-09-14T18:04:45Z",
+    "period": 2,
+    "clock": "7:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Valdes-Scantling",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete deep left to M.Valdes-Scantling."
+  },
+  {
+    "wallclock": "2025-09-14T18:05:28Z",
+    "period": 2,
+    "clock": "6:58",
+    "play_type": "Punt",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Morstead punts 48 yards to NO 22, Center-J.Weeks. R.Shaheed to NO 31 for 9 yards (T.Bethune).PENALTY on NO-I.Yiadom, Illegal Block Above the Waist, 10 yards, enforced at NO 26."
+  },
+  {
+    "wallclock": "2025-09-14T18:06:37Z",
+    "period": 2,
+    "clock": "6:48",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:48."
+  },
+  {
+    "wallclock": "2025-09-14T18:08:44Z",
+    "period": 2,
+    "clock": "6:48",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Kamara right tackle to NO 12 for -4 yards (M.Williams)."
+  },
+  {
+    "wallclock": "2025-09-14T18:09:06Z",
+    "period": 2,
+    "clock": "6:26",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sigle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Rattler pass deep left to B.Cooks to NO 32 for 20 yards (M.Sigle) [A.Collins]."
+  },
+  {
+    "wallclock": "2025-09-14T18:09:33Z",
+    "period": 2,
+    "clock": "5:59",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Kamara left guard to NO 32 for no gain (N.Bosa)."
+  },
+  {
+    "wallclock": "2025-09-14T18:10:05Z",
+    "period": 2,
+    "clock": "5:27",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Green",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short left to J.Johnson to NO 43 for 11 yards (R.Green)."
+  },
+  {
+    "wallclock": "2025-09-14T18:10:46Z",
+    "period": 2,
+    "clock": "4:46",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Kamara up the middle to 50 for 7 yards (N.Bosa; B.Huff)."
+  },
+  {
+    "wallclock": "2025-09-14T18:11:09Z",
+    "period": 2,
+    "clock": "4:22",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Green",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Kamara left end ran ob at SF 35 for 15 yards (R.Green)."
+  },
+  {
+    "wallclock": "2025-09-14T18:11:43Z",
+    "period": 2,
+    "clock": "3:56",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler right guard to SF 35 for no gain (B.Huff)."
+  },
+  {
+    "wallclock": "2025-09-14T18:12:24Z",
+    "period": 2,
+    "clock": "3:15",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short left to A.Kamara to SF 31 for 4 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-09-14T18:13:05Z",
+    "period": 2,
+    "clock": "2:34",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler scrambles right guard to SF 22 for 9 yards (U.Stout)."
+  },
+  {
+    "wallclock": "2025-09-14T18:13:40Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-14T18:16:32Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Miller left guard to SF 20 for 2 yards (N.Bosa; J.Elliott)."
+  },
+  {
+    "wallclock": "2025-09-14T18:17:07Z",
+    "period": 2,
+    "clock": "1:25",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short middle to R.Shaheed pushed ob at SF 18 for 2 yards (F.Warner)."
+  },
+  {
+    "wallclock": "2025-09-14T18:17:50Z",
+    "period": 2,
+    "clock": "1:14",
+    "play_type": "Passing Touchdown",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) S.Rattler pass deep left to J.Johnson for 18 yards, TOUCHDOWN.The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands. B.Grupe extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-09-14T18:21:33Z",
+    "period": 2,
+    "clock": "1:14",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Guerendo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 64 yards from NO 35 to SF 1. I.Guerendo to SF 23 for 22 yards (Q.Riley)."
+  },
+  {
+    "wallclock": "2025-09-14T18:22:28Z",
+    "period": 2,
+    "clock": "1:10",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short left to J.Jennings pushed ob at SF 36 for 13 yards (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-09-14T18:23:12Z",
+    "period": 2,
+    "clock": "1:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete deep right to R.Pearsall."
+  },
+  {
+    "wallclock": "2025-09-14T18:23:58Z",
+    "period": 2,
+    "clock": "0:58",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by SF at 00:58."
+  },
+  {
+    "wallclock": "2025-09-14T18:24:47Z",
+    "period": 2,
+    "clock": "0:58",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short right to C.McCaffrey pushed ob at SF 40 for 4 yards (I.Yiadom)."
+  },
+  {
+    "wallclock": "2025-09-14T18:25:26Z",
+    "period": 2,
+    "clock": "0:52",
+    "play_type": "Pass Reception",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass deep left to J.Jennings pushed ob at NO 31 for 29 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-09-14T18:26:57Z",
+    "period": 2,
+    "clock": "0:37",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Jones pass short right to K.Bourne pushed ob at NO 23 for 8 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-09-14T18:27:35Z",
+    "period": 2,
+    "clock": "0:32",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Broughton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short left to J.Tonges to NO 12 for 11 yards (V.Broughton; A.Taylor)."
+  },
+  {
+    "wallclock": "2025-09-14T18:28:03Z",
+    "period": 2,
+    "clock": "0:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones spiked the ball to stop the clock."
+  },
+  {
+    "wallclock": "2025-09-14T18:28:31Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short left to C.McCaffrey to NO 7 for 5 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-09-14T18:28:49Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by SF at 00:11."
+  },
+  {
+    "wallclock": "2025-09-14T18:29:38Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NO at 00:11."
+  },
+  {
+    "wallclock": "2025-09-14T18:30:28Z",
+    "period": 2,
+    "clock": "0:07",
+    "play_type": "Passing Touchdown",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) M.Jones pass short right to C.McCaffrey for 7 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-09-14T18:32:22Z",
+    "period": 2,
+    "clock": "0:07",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Neal",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the NO 35. ** Injury Update: SF-S.Neal has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-14T18:32:54Z",
+    "period": 2,
+    "clock": "0:06",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Miller right guard to NO 34 for -1 yards (F.Warner, U.Stout)."
+  },
+  {
+    "wallclock": "2025-09-14T18:32:54Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-14T18:47:17Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 41 yards from NO 35 to SF 24, short of landing zone.PENALTY on NO-B.Grupe, Kickoff Short of Landing Zone, placed at SF 40."
+  },
+  {
+    "wallclock": "2025-09-14T18:48:03Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson right guard to SF 42 for 2 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-09-14T18:48:39Z",
+    "period": 3,
+    "clock": "14:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete short left to J.Jennings."
+  },
+  {
+    "wallclock": "2025-09-14T18:49:24Z",
+    "period": 3,
+    "clock": "14:20",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on SF, Delay of Game, 5 yards, enforced at SF 42 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T18:50:11Z",
+    "period": 3,
+    "clock": "14:20",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete deep right to R.Pearsall.PENALTY on NO-K.McKinstry, Illegal Use of Hands, 5 yards, enforced at SF 37 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T18:51:19Z",
+    "period": 3,
+    "clock": "14:14",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left tackle to SF 49 for 7 yards (D.Davis). NO-J.Reid was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T18:53:28Z",
+    "period": 3,
+    "clock": "14:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:02."
+  },
+  {
+    "wallclock": "2025-09-14T18:54:26Z",
+    "period": 3,
+    "clock": "13:54",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left guard to NO 49 for 2 yards (N.Shepherd; C.Granderson)."
+  },
+  {
+    "wallclock": "2025-09-14T18:55:08Z",
+    "period": 3,
+    "clock": "13:11",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones right guard to NO 48 for 1 yard (D.Davis). ** Injury Update: NO-J.Reid has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-14T18:55:51Z",
+    "period": 3,
+    "clock": "12:29",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones sacked at SF 44 for -8 yards (C.Rumph). FUMBLES (C.Rumph) [C.Rumph], RECOVERED by NO-D.Davis at SF 47."
+  },
+  {
+    "wallclock": "2025-09-14T18:57:12Z",
+    "period": 3,
+    "clock": "12:19",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Kamara up the middle to SF 45 for 2 yards (N.Bosa; J.Elliott)."
+  },
+  {
+    "wallclock": "2025-09-14T18:57:37Z",
+    "period": 3,
+    "clock": "11:43",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sigle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short left to J.Johnson to SF 30 for 15 yards (F.Warner; M.Sigle)."
+  },
+  {
+    "wallclock": "2025-09-14T18:58:12Z",
+    "period": 3,
+    "clock": "11:07",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Kamara left guard to SF 28 for 2 yards (M.Williams)."
+  },
+  {
+    "wallclock": "2025-09-14T18:58:47Z",
+    "period": 3,
+    "clock": "10:32",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sigle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short left to J.Johnson to SF 26 for 2 yards (M.Sigle)."
+  },
+  {
+    "wallclock": "2025-09-14T18:59:28Z",
+    "period": 3,
+    "clock": "9:51",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short left to A.Kamara to SF 21 for 5 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-09-14T19:00:09Z",
+    "period": 3,
+    "clock": "9:10",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler scrambles left end to SF 18 for 3 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-09-14T19:00:48Z",
+    "period": 3,
+    "clock": "8:31",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Kamara right guard to SF 9 for 9 yards (F.Warner)."
+  },
+  {
+    "wallclock": "2025-09-14T19:01:08Z",
+    "period": 3,
+    "clock": "8:10",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Green",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Kamara up the middle to SF 6 for 3 yards (R.Green)."
+  },
+  {
+    "wallclock": "2025-09-14T19:01:30Z",
+    "period": 3,
+    "clock": "7:50",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Kamara up the middle to SF 3 for 3 yards (M.Williams; A.Collins)."
+  },
+  {
+    "wallclock": "2025-09-14T19:02:05Z",
+    "period": 3,
+    "clock": "7:11",
+    "play_type": "Passing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) S.Rattler pass short right to R.Shaheed for 3 yards, TOUCHDOWN. B.Grupe extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-09-14T19:03:08Z",
+    "period": 3,
+    "clock": "7:11",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:11."
+  },
+  {
+    "wallclock": "2025-09-14T19:05:47Z",
+    "period": 3,
+    "clock": "7:11",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Guerendo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 67 yards from NO 35 to SF -2. I.Guerendo to SF 23 for 25 yards (D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-09-14T19:06:41Z",
+    "period": 3,
+    "clock": "7:06",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short middle to R.Pearsall to SF 37 for 14 yards (J.Reid)."
+  },
+  {
+    "wallclock": "2025-09-14T19:07:11Z",
+    "period": 3,
+    "clock": "6:37",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right tackle to SF 44 for 7 yards (D.Davis; J.Sanker)."
+  },
+  {
+    "wallclock": "2025-09-14T19:07:46Z",
+    "period": 3,
+    "clock": "6:02",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left tackle to NO 47 for 9 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-09-14T19:08:25Z",
+    "period": 3,
+    "clock": "5:23",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones pass short middle to K.Bourne to NO 36 for 11 yards (J.Reid)."
+  },
+  {
+    "wallclock": "2025-09-14T19:08:58Z",
+    "period": 3,
+    "clock": "4:50",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left tackle to NO 32 for 4 yards (C.Granderson; D.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T19:09:38Z",
+    "period": 3,
+    "clock": "4:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Willis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete short left to B.Willis (J.Reid)."
+  },
+  {
+    "wallclock": "2025-09-14T19:10:22Z",
+    "period": 3,
+    "clock": "4:06",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short left to J.Tonges to NO 28 for 4 yards (D.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T19:11:03Z",
+    "period": 3,
+    "clock": "3:20",
+    "play_type": "Field Goal Good",
+    "yards": 46,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "E.Pineiro 46 yard field goal is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-09-14T19:11:23Z",
+    "period": 3,
+    "clock": "3:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:20."
+  },
+  {
+    "wallclock": "2025-09-14T19:14:08Z",
+    "period": 3,
+    "clock": "3:20",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the NO 35."
+  },
+  {
+    "wallclock": "2025-09-14T19:14:49Z",
+    "period": 3,
+    "clock": "3:20",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler scrambles left end pushed ob at NO 37 for 2 yards (M.Williams).PENALTY on SF-D.Winters, Unnecessary Roughness, 15 yards, enforced at NO 37."
+  },
+  {
+    "wallclock": "2025-09-14T19:16:12Z",
+    "period": 3,
+    "clock": "2:55",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short left to C.Olave to SF 36 for 12 yards (F.Warner)."
+  },
+  {
+    "wallclock": "2025-09-14T19:16:48Z",
+    "period": 3,
+    "clock": "2:19",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Miller left guard to SF 30 for 6 yards (A.Collins; F.Warner)."
+  },
+  {
+    "wallclock": "2025-09-14T19:17:23Z",
+    "period": 3,
+    "clock": "1:44",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Rattler pass short right to A.Kamara to SF 29 for 1 yard (J.Brown).San Francisco challenged the runner was down by contact ruling, and the play was REVERSED.S.Rattler pass short right to A.Kamara to SF 29 for 1 yard (J.Brown, F.Warner). FUMBLES (F.Warner), RECOVERED by SF-F.Warner at SF 32."
+  },
+  {
+    "wallclock": "2025-09-14T19:21:25Z",
+    "period": 3,
+    "clock": "1:38",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones pass short right to C.McCaffrey pushed ob at SF 46 for 14 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-09-14T19:22:09Z",
+    "period": 3,
+    "clock": "0:56",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey up the middle to NO 49 for 5 yards (D.Godchaux)."
+  },
+  {
+    "wallclock": "2025-09-14T19:22:45Z",
+    "period": 3,
+    "clock": "0:22",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left tackle to NO 43 for 6 yards (P.Werner).PENALTY on SF-J.Tonges, Offensive Holding, 10 yards, enforced at NO 49 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:22:45Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-14T19:26:30Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short right to J.Tonges to SF 46 for 5 yards (I.Yiadom)."
+  },
+  {
+    "wallclock": "2025-09-14T19:27:13Z",
+    "period": 4,
+    "clock": "14:17",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short right to C.McCaffrey to NO 41 for 13 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-09-14T19:27:51Z",
+    "period": 4,
+    "clock": "13:40",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Broughton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right tackle to NO 41 for no gain (V.Broughton; D.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T19:28:27Z",
+    "period": 4,
+    "clock": "13:03",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass short left to B.Robinson to NO 42 for -1 yards (I.Yiadom, A.Taylor)."
+  },
+  {
+    "wallclock": "2025-09-14T19:29:04Z",
+    "period": 4,
+    "clock": "12:18",
+    "play_type": "Passing Touchdown",
+    "yards": 42,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) M.Jones pass deep middle to J.Jennings for 42 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-09-14T19:30:36Z",
+    "period": 4,
+    "clock": "12:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:18."
+  },
+  {
+    "wallclock": "2025-09-14T19:32:50Z",
+    "period": 4,
+    "clock": "12:18",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Gifford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 58 yards from SF 35 to NO 7. K.Miller to NO 29 for 22 yards (J.Brown; L.Gifford)."
+  },
+  {
+    "wallclock": "2025-09-14T19:33:32Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Kamara left end to NO 27 for -2 yards (M.Williams)."
+  },
+  {
+    "wallclock": "2025-09-14T19:34:19Z",
+    "period": 4,
+    "clock": "11:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass incomplete deep right to R.Shaheed."
+  },
+  {
+    "wallclock": "2025-09-14T19:35:02Z",
+    "period": 4,
+    "clock": "11:41",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) S.Rattler pass incomplete deep left to C.Olave (U.Stout) [B.Huff].\nPENALTY on SF-U.Stout, Illegal Contact, 5 yards, enforced at NO 27 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:35:55Z",
+    "period": 4,
+    "clock": "11:35",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Kamara left guard to NO 37 for 5 yards (N.Bosa)."
+  },
+  {
+    "wallclock": "2025-09-14T19:36:30Z",
+    "period": 4,
+    "clock": "11:01",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Green",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Rattler pass short left to C.Olave pushed ob at NO 48 for 11 yards (R.Green)."
+  },
+  {
+    "wallclock": "2025-09-14T19:37:08Z",
+    "period": 4,
+    "clock": "10:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Rattler pass incomplete deep left to J.Johnson."
+  },
+  {
+    "wallclock": "2025-09-14T19:37:51Z",
+    "period": 4,
+    "clock": "10:23",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sigle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Kamara up the middle to SF 47 for 5 yards (D.Winters; M.Sigle)."
+  },
+  {
+    "wallclock": "2025-09-14T19:38:31Z",
+    "period": 4,
+    "clock": "9:44",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Gross-Matos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sigle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass incomplete short right [Y.Gross-Matos].PENALTY on SF-M.Sigle, Defensive Holding, 5 yards, enforced at SF 47 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:39:23Z",
+    "period": 4,
+    "clock": "9:37",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Kamara up the middle to SF 38 for 4 yards (B.Huff)."
+  },
+  {
+    "wallclock": "2025-09-14T19:39:58Z",
+    "period": 4,
+    "clock": "9:02",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Kamara up the middle to SF 35 for 3 yards (U.Stout)."
+  },
+  {
+    "wallclock": "2025-09-14T19:40:31Z",
+    "period": 4,
+    "clock": "8:30",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Okuayinonu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Kamara right guard to SF 24 for 11 yards (S.Okuayinonu; F.Warner)."
+  },
+  {
+    "wallclock": "2025-09-14T19:40:58Z",
+    "period": 4,
+    "clock": "8:05",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pinnock",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Kamara right end to SF 16 for 8 yards (J.Pinnock; N.Bosa)."
+  },
+  {
+    "wallclock": "2025-09-14T19:41:30Z",
+    "period": 4,
+    "clock": "7:31",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Miller right end to SF 17 for -1 yards (D.Lenoir, N.Bosa)."
+  },
+  {
+    "wallclock": "2025-09-14T19:42:10Z",
+    "period": 4,
+    "clock": "6:51",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short left to C.Olave to SF 3 for 14 yards (U.Stout). SF-U.Stout was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T19:43:33Z",
+    "period": 4,
+    "clock": "6:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:29."
+  },
+  {
+    "wallclock": "2025-09-14T19:45:54Z",
+    "period": 4,
+    "clock": "6:18",
+    "play_type": "Passing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) S.Rattler pass short middle to D.Vele for 3 yards, TOUCHDOWN. B.Grupe extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-09-14T19:48:12Z",
+    "period": 4,
+    "clock": "6:18",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 65 yards from NO 35 to end zone, Touchback to the SF 35."
+  },
+  {
+    "wallclock": "2025-09-14T19:48:58Z",
+    "period": 4,
+    "clock": "6:18",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones pass short right to K.Bourne to SF 48 for 13 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-09-14T19:49:40Z",
+    "period": 4,
+    "clock": "5:36",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Broughton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones pass short middle to J.Jennings to NO 48 for 4 yards (V.Broughton; A.Taylor)."
+  },
+  {
+    "wallclock": "2025-09-14T19:50:24Z",
+    "period": 4,
+    "clock": "4:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bresee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete short right to J.Jennings (B.Bresee)."
+  },
+  {
+    "wallclock": "2025-09-14T19:51:04Z",
+    "period": 4,
+    "clock": "4:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Jones pass incomplete deep left to J.Jennings (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-09-14T19:51:51Z",
+    "period": 4,
+    "clock": "4:41",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Morstead punts 37 yards to NO 11, Center-J.Weeks, fair catch by R.Shaheed."
+  },
+  {
+    "wallclock": "2025-09-14T19:52:37Z",
+    "period": 4,
+    "clock": "4:35",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short right to A.Kamara pushed ob at NO 15 for 4 yards (F.Warner)."
+  },
+  {
+    "wallclock": "2025-09-14T19:53:15Z",
+    "period": 4,
+    "clock": "4:29",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Kamara up the middle to NO 15 for no gain (K.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T19:53:53Z",
+    "period": 4,
+    "clock": "3:50",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bosa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " S.Rattler sacked at NO 10 for -5 yards (N.Bosa)."
+  },
+  {
+    "wallclock": "2025-09-14T19:54:32Z",
+    "period": 4,
+    "clock": "3:12",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 39 yards to NO 49, Center-Z.Wood, downed by NO-V.Jones."
+  },
+  {
+    "wallclock": "2025-09-14T19:55:28Z",
+    "period": 4,
+    "clock": "3:02",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left end to SF 46 for -5 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-09-14T19:55:46Z",
+    "period": 4,
+    "clock": "2:56",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NO at 02:56."
+  },
+  {
+    "wallclock": "2025-09-14T19:56:27Z",
+    "period": 4,
+    "clock": "2:56",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " M.Jones pass short middle to C.McCaffrey to NO 45 for 9 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-09-14T19:56:42Z",
+    "period": 4,
+    "clock": "2:50",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NO at 02:50."
+  },
+  {
+    "wallclock": "2025-09-14T19:57:30Z",
+    "period": 4,
+    "clock": "2:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) M.Jones pass incomplete short right to J.Jennings."
+  },
+  {
+    "wallclock": "2025-09-14T19:58:14Z",
+    "period": 4,
+    "clock": "2:47",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Morstead punts 39 yards to NO 6, Center-J.Weeks, fair catch by R.Shaheed."
+  },
+  {
+    "wallclock": "2025-09-14T19:59:08Z",
+    "period": 4,
+    "clock": "2:40",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short right to C.Olave pushed ob at NO 12 for 6 yards (D.Lenoir)."
+  },
+  {
+    "wallclock": "2025-09-14T19:59:43Z",
+    "period": 4,
+    "clock": "2:36",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lucas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short left to B.Cooks to NO 18 for 6 yards (C.Lucas)."
+  },
+  {
+    "wallclock": "2025-09-14T20:00:05Z",
+    "period": 4,
+    "clock": "2:14",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Shaheed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Rattler pass short left to R.Shaheed to NO 26 for 8 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-09-14T20:00:34Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-14T20:03:07Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short right to C.Olave pushed ob at NO 33 for 7 yards (D.Lenoir). ** Injury Update: SF-U.Stout has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-14T20:03:40Z",
+    "period": 4,
+    "clock": "1:56",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler pass short right to J.Johnson to NO 36 for 3 yards (D.Lenoir)."
+  },
+  {
+    "wallclock": "2025-09-14T20:04:02Z",
+    "period": 4,
+    "clock": "1:34",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Kamara",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Gross-Matos",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Rattler pass short right to A.Kamara to NO 42 for 6 yards (Y.Gross-Matos)."
+  },
+  {
+    "wallclock": "2025-09-14T20:04:29Z",
+    "period": 4,
+    "clock": "1:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Warner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) S.Rattler pass incomplete short right to J.Johnson (F.Warner)."
+  },
+  {
+    "wallclock": "2025-09-14T20:05:12Z",
+    "period": 4,
+    "clock": "1:03",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by SF at 01:03."
+  },
+  {
+    "wallclock": "2025-09-14T20:06:20Z",
+    "period": 4,
+    "clock": "1:03",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Rattler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ruiz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Rattler sacked at NO 34 for -8 yards (B.Huff). FUMBLES (B.Huff) [B.Huff], touched at NO 33, recovered by NO-C.Ruiz at NO 27."
+  },
+  {
+    "wallclock": "2025-09-14T20:07:30Z",
+    "period": 4,
+    "clock": "0:57",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " M.Jones kneels to NO 28 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-14T20:07:56Z",
+    "period": 4,
+    "clock": "0:54",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by NO at 00:54."
+  },
+  {
+    "wallclock": "2025-09-14T20:08:09Z",
+    "period": 4,
+    "clock": "0:54",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " M.Jones kneels to NO 29 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-14T20:08:49Z",
+    "period": 4,
+    "clock": "0:14",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " M.Jones kneels to NO 30 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-14T20:08:49Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

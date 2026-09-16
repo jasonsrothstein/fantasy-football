@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fantasy Football Matchups</title>
+  <style>
+    body { background:#0f1419; color:#e6edf3; font-family:'Segoe UI',system-ui,sans-serif;
+           max-width:480px; margin:2rem auto; padding:1rem 1.5rem; }
+    h1   { font-size:1.5rem; margin-bottom:.25rem; }
+    p    { color:#8b949e; font-size:.9rem; margin-bottom:1.5rem; }
+    ul   { list-style:none; padding:0; }
+    li   { margin:.5rem 0; }
+    a    { color:#58a6ff; text-decoration:none; font-size:1.05rem; }
+    a:hover { text-decoration:underline; }
+  </style>
+</head>
+<body>
+  <h1>🏈 Fantasy Football Matchups</h1>
+  <p>Tap a week to see the score timelines.</p>
+  <ul id="list"></ul>
+  <script>
+    // Automatically list any week_N_matchups.html files in this folder.
+    // Since GitHub Pages is static, we maintain a manually-updated list here.
+    const weeks = [
+      // Add entries here as new weeks are published, e.g.:
+      // { week: 10, label: "Week 10 — Nov 4–10, 2025", file: "week_10_matchups.html" },
+    ];
+    const ul = document.getElementById('list');
+    if (weeks.length === 0) {
+      ul.innerHTML = '<li style="color:#8b949e">No weeks published yet.</li>';
+    } else {
+      weeks.reverse().forEach(w => {
+        ul.innerHTML += `<li><a href="${w.file}">📅 ${w.label}</a></li>`;
+      });
+    }
+  </script>
+</body>
+</html>

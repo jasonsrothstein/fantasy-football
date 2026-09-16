@@ -1,0 +1,4606 @@
+[
+  {
+    "wallclock": "2025-10-17T00:16:01Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Heyward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 62 yards from CIN 35 to PIT 3. K.Williams to PIT 31 for 28 yards (S.Heyward)."
+  },
+  {
+    "wallclock": "2025-10-17T00:16:47Z",
+    "period": 1,
+    "clock": "14:55",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to J.Warren to PIT 35 for 4 yards (J.Battle)."
+  },
+  {
+    "wallclock": "2025-10-17T00:17:29Z",
+    "period": 1,
+    "clock": "14:08",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on PIT-J.Smith, False Start, 5 yards, enforced at PIT 35 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T00:18:08Z",
+    "period": 1,
+    "clock": "13:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete short left to J.Warren."
+  },
+  {
+    "wallclock": "2025-10-17T00:18:52Z",
+    "period": 1,
+    "clock": "13:50",
+    "play_type": "Pass Reception",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass deep right to D.Metcalf pushed ob at CIN 31 for 39 yards (D.Turner)."
+  },
+  {
+    "wallclock": "2025-10-17T00:19:36Z",
+    "period": 1,
+    "clock": "13:09",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren left tackle to CIN 24 for 7 yards (D.Knight; J.Battle)."
+  },
+  {
+    "wallclock": "2025-10-17T00:20:18Z",
+    "period": 1,
+    "clock": "12:27",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren up the middle to CIN 14 for 10 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-17T00:21:01Z",
+    "period": 1,
+    "clock": "11:44",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren left end to CIN 10 for 4 yards (B.Hill)."
+  },
+  {
+    "wallclock": "2025-10-17T00:21:40Z",
+    "period": 1,
+    "clock": "11:05",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Rodgers pass incomplete short left to Co.Heyward."
+  },
+  {
+    "wallclock": "2025-10-17T00:22:23Z",
+    "period": 1,
+    "clock": "10:51",
+    "play_type": "Passing Touchdown",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) A.Rodgers pass short middle to J.Smith for 10 yards, TOUCHDOWN [D.Knight]. C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-C.Waitman."
+  },
+  {
+    "wallclock": "2025-10-17T00:23:19Z",
+    "period": 1,
+    "clock": "10:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:51."
+  },
+  {
+    "wallclock": "2025-10-17T00:26:07Z",
+    "period": 1,
+    "clock": "10:51",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bruener",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks 63 yards from PIT 35 to CIN 2. T.Brooks to CIN 27 for 25 yards (C.Bruener; P.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-17T00:26:53Z",
+    "period": 1,
+    "clock": "10:45",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown up the middle to CIN 29 for 2 yards (Ca.Heyward)."
+  },
+  {
+    "wallclock": "2025-10-17T00:27:31Z",
+    "period": 1,
+    "clock": "10:07",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco sacked at CIN 23 for -6 yards (K.Benton)."
+  },
+  {
+    "wallclock": "2025-10-17T00:28:09Z",
+    "period": 1,
+    "clock": "9:28",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thornhill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass deep left to T.Higgins to CIN 41 for 18 yards (J.Thornhill)."
+  },
+  {
+    "wallclock": "2025-10-17T00:28:46Z",
+    "period": 1,
+    "clock": "8:51",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown up the middle to CIN 45 for 4 yards (D.Elliott)."
+  },
+  {
+    "wallclock": "2025-10-17T00:29:23Z",
+    "period": 1,
+    "clock": "8:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete deep right to T.Higgins."
+  },
+  {
+    "wallclock": "2025-10-17T00:30:05Z",
+    "period": 1,
+    "clock": "8:11",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thornhill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to J.Chase to CIN 47 for 2 yards (J.Thornhill)."
+  },
+  {
+    "wallclock": "2025-10-17T00:30:41Z",
+    "period": 1,
+    "clock": "7:35",
+    "play_type": "Punt",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sample",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Rehkow punts 37 yards to PIT 16, Center-W.Wagner. K.Williams to PIT 26 for 10 yards (T.Anderson; D.Sample)."
+  },
+  {
+    "wallclock": "2025-10-17T00:31:30Z",
+    "period": 1,
+    "clock": "7:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:25."
+  },
+  {
+    "wallclock": "2025-10-17T00:34:02Z",
+    "period": 1,
+    "clock": "7:25",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pennel",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren right end to PIT 38 for 12 yards (J.Battle; M.Pennel)."
+  },
+  {
+    "wallclock": "2025-10-17T00:34:31Z",
+    "period": 1,
+    "clock": "6:57",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass short left to D.Metcalf to PIT 44 for 6 yards (D.Hill; B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-17T00:35:12Z",
+    "period": 1,
+    "clock": "6:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Rodgers pass incomplete short middle to J.Smith."
+  },
+  {
+    "wallclock": "2025-10-17T00:35:57Z",
+    "period": 1,
+    "clock": "6:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete deep left to J.Smith."
+  },
+  {
+    "wallclock": "2025-10-17T00:36:36Z",
+    "period": 1,
+    "clock": "6:06",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Waitman punts 39 yards to CIN 17, Center-C.Kuntz, fair catch by C.Jones."
+  },
+  {
+    "wallclock": "2025-10-17T00:37:05Z",
+    "period": 1,
+    "clock": "5:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:58."
+  },
+  {
+    "wallclock": "2025-10-17T00:39:41Z",
+    "period": 1,
+    "clock": "5:58",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass short right to J.Chase to CIN 25 for 8 yards (D.Elliott)."
+  },
+  {
+    "wallclock": "2025-10-17T00:40:23Z",
+    "period": 1,
+    "clock": "5:16",
+    "play_type": "Pass Incompletion",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete deep right to J.Chase.PENALTY on PIT-J.Porter, Defensive Pass Interference, 14 yards, enforced at CIN 25 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T00:41:11Z",
+    "period": 1,
+    "clock": "5:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass incomplete short middle to J.Chase."
+  },
+  {
+    "wallclock": "2025-10-17T00:41:47Z",
+    "period": 1,
+    "clock": "5:09",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Herbig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine up the middle to CIN 44 for 5 yards (N.Herbig)."
+  },
+  {
+    "wallclock": "2025-10-17T00:42:23Z",
+    "period": 1,
+    "clock": "4:33",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Fant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to N.Fant to PIT 48 for 8 yards (P.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-17T00:43:01Z",
+    "period": 1,
+    "clock": "3:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to C.Brown [D.Elliott]."
+  },
+  {
+    "wallclock": "2025-10-17T00:43:40Z",
+    "period": 1,
+    "clock": "3:51",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Highsmith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine right guard to PIT 45 for 3 yards (A.Highsmith)."
+  },
+  {
+    "wallclock": "2025-10-17T00:44:23Z",
+    "period": 1,
+    "clock": "3:07",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Mims",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on CIN-A.Mims, False Start, 5 yards, enforced at PIT 45 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T00:44:23Z",
+    "period": 1,
+    "clock": "2:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Iosivas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to A.Iosivas (J.Porter)."
+  },
+  {
+    "wallclock": "2025-10-17T00:45:48Z",
+    "period": 1,
+    "clock": "2:52",
+    "play_type": "Punt",
+    "yards": -15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Jules",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Rehkow punts 38 yards to PIT 12, Center-W.Wagner, fair catch by K.Williams.PENALTY on CIN-P.Jules, Fair Catch Interference, 15 yards, enforced at PIT 12."
+  },
+  {
+    "wallclock": "2025-10-17T00:46:48Z",
+    "period": 1,
+    "clock": "2:45",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:45."
+  },
+  {
+    "wallclock": "2025-10-17T00:49:22Z",
+    "period": 1,
+    "clock": "2:45",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short left to R.Wilson to PIT 31 for 4 yards (G.Stone)."
+  },
+  {
+    "wallclock": "2025-10-17T00:49:44Z",
+    "period": 1,
+    "clock": "2:22",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass short right to J.Smith pushed ob at PIT 40 for 9 yards (D.Hill)."
+  },
+  {
+    "wallclock": "2025-10-17T00:50:31Z",
+    "period": 1,
+    "clock": "1:39",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Anderson reported in as eligible.  K.Gainwell left end to CIN 49 for 11 yards (J.Battle)."
+  },
+  {
+    "wallclock": "2025-10-17T00:51:16Z",
+    "period": 1,
+    "clock": "0:53",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Newton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Gainwell left end to CIN 49 for no gain (J.Newton)."
+  },
+  {
+    "wallclock": "2025-10-17T00:51:59Z",
+    "period": 1,
+    "clock": "0:10",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to J.Warren pushed ob at CIN 42 for 7 yards (D.Knight)."
+  },
+  {
+    "wallclock": "2025-10-17T00:51:59Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-10-17T00:52:34Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 15:00."
+  },
+  {
+    "wallclock": "2025-10-17T00:55:26Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Jenkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren left guard to CIN 39 for 3 yards (K.Jenkins)."
+  },
+  {
+    "wallclock": "2025-10-17T00:56:10Z",
+    "period": 2,
+    "clock": "14:16",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Murphy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Gainwell left end to CIN 36 for 3 yards (M.Murphy; G.Stone)."
+  },
+  {
+    "wallclock": "2025-10-17T00:56:53Z",
+    "period": 2,
+    "clock": "13:34",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short middle to J.Smith to CIN 27 for 9 yards (B.Carter; L.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-17T00:57:33Z",
+    "period": 2,
+    "clock": "13:00",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CIN at 13:00."
+  },
+  {
+    "wallclock": "2025-10-17T00:58:25Z",
+    "period": 2,
+    "clock": "13:00",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Rodgers pass short left to S.Miller to CIN 18 for 9 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-17T00:59:07Z",
+    "period": 2,
+    "clock": "12:19",
+    "play_type": "Rush",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Frazier",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Warren left end for 18 yards, TOUCHDOWN NULLIFIED by Penalty.PENALTY on PIT-Z.Frazier, Offensive Holding, 10 yards, enforced at CIN 18 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T01:00:10Z",
+    "period": 2,
+    "clock": "12:10",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers scrambles right end to CIN 22 for 6 yards (D.Hill)."
+  },
+  {
+    "wallclock": "2025-10-17T01:00:59Z",
+    "period": 2,
+    "clock": "11:22",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short left to K.Gainwell to CIN 18 for 4 yards (D.Knight)."
+  },
+  {
+    "wallclock": "2025-10-17T01:01:40Z",
+    "period": 2,
+    "clock": "10:39",
+    "play_type": "Penalty",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.McCormick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Run formation) PENALTY on PIT-M.McCormick, False Start, 4 yards, enforced at CIN 18 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T01:02:40Z",
+    "period": 2,
+    "clock": "10:26",
+    "play_type": "Field Goal Good",
+    "yards": 41,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Boswell 41 yard field goal is GOOD, Center-C.Kuntz, Holder-C.Waitman."
+  },
+  {
+    "wallclock": "2025-10-17T01:02:56Z",
+    "period": 2,
+    "clock": "10:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:26."
+  },
+  {
+    "wallclock": "2025-10-17T01:05:24Z",
+    "period": 2,
+    "clock": "10:26",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Skowronek",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks 61 yards from PIT 35 to CIN 4. S.Perine to CIN 28 for 24 yards (B.Skowronek)."
+  },
+  {
+    "wallclock": "2025-10-17T01:06:10Z",
+    "period": 2,
+    "clock": "10:21",
+    "play_type": "Rush",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Brown left tackle ran ob at PIT 45 for 27 yards (J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-10-17T01:07:02Z",
+    "period": 2,
+    "clock": "9:38",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CIN at 09:38."
+  },
+  {
+    "wallclock": "2025-10-17T01:07:51Z",
+    "period": 2,
+    "clock": "9:38",
+    "play_type": "Pass Reception",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to C.Brown to CIN 49 for -6 yards (C.Clark)."
+  },
+  {
+    "wallclock": "2025-10-17T01:08:33Z",
+    "period": 2,
+    "clock": "8:56",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Iosivas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to A.Iosivas to PIT 45 for 6 yards (C.Clark)."
+  },
+  {
+    "wallclock": "2025-10-17T01:09:10Z",
+    "period": 2,
+    "clock": "8:19",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass short left to J.Chase to PIT 30 for 15 yards (P.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-17T01:09:53Z",
+    "period": 2,
+    "clock": "7:35",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Holcomb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase pushed ob at PIT 23 for 7 yards (C.Holcomb)."
+  },
+  {
+    "wallclock": "2025-10-17T01:10:37Z",
+    "period": 2,
+    "clock": "6:51",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Iosivas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on CIN-A.Iosivas, False Start, 5 yards, enforced at PIT 23 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T01:11:25Z",
+    "period": 2,
+    "clock": "6:31",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine left guard to PIT 19 for 9 yards (D.Elliott)."
+  },
+  {
+    "wallclock": "2025-10-17T01:12:04Z",
+    "period": 2,
+    "clock": "5:51",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to T.Higgins to PIT 12 for 7 yards (J.Porter)."
+  },
+  {
+    "wallclock": "2025-10-17T01:13:00Z",
+    "period": 2,
+    "clock": "5:22",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Holcomb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown right tackle to PIT 8 for 4 yards (C.Holcomb)."
+  },
+  {
+    "wallclock": "2025-10-17T01:13:36Z",
+    "period": 2,
+    "clock": "4:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to J.Chase for 8 yards, TOUCHDOWN.The Replay Official reviewed the pass completion ruling, and the play was REVERSED.(Shotgun) J.Flacco pass incomplete short middle to J.Chase (C.Clark)."
+  },
+  {
+    "wallclock": "2025-10-17T01:15:30Z",
+    "period": 2,
+    "clock": "4:38",
+    "play_type": "Passing Touchdown",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase for 8 yards, TOUCHDOWN.Penalty on PIT-J.Ramsey, Defensive Pass Interference, declined. E.McPherson extra point is GOOD, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-17T01:16:39Z",
+    "period": 2,
+    "clock": "4:38",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:38."
+  },
+  {
+    "wallclock": "2025-10-17T01:19:22Z",
+    "period": 2,
+    "clock": "4:38",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Burks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 62 yards from CIN 35 to PIT 3. K.Gainwell to PIT 30 for 27 yards (O.Burks; T.Anderson)."
+  },
+  {
+    "wallclock": "2025-10-17T01:20:26Z",
+    "period": 2,
+    "clock": "4:32",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Anderson reported in as eligible.  A.Rodgers pass deep left intended for D.Metcalf INTERCEPTED by J.Battle at CIN 21. J.Battle to PIT 45 for 34 yards (D.Washington).The Replay Official reviewed the runner was not down by contact ruling, and the play was REVERSED.S.Anderson reported in as eligible.  A.Rodgers pass deep left intended for D.Metcalf INTERCEPTED by J.Battle at CIN 24. J.Battle to CIN 24 for no gain (D.Metcalf)."
+  },
+  {
+    "wallclock": "2025-10-17T01:22:48Z",
+    "period": 2,
+    "clock": "4:25",
+    "play_type": "Rush",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Brown up the middle to PIT 39 for 37 yards (P.Queen)."
+  },
+  {
+    "wallclock": "2025-10-17T01:23:35Z",
+    "period": 2,
+    "clock": "3:38",
+    "play_type": "Pass Incompletion",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to J.Chase.PENALTY on PIT-J.Ramsey, Defensive Pass Interference, 4 yards, enforced at PIT 39 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T01:24:32Z",
+    "period": 2,
+    "clock": "3:35",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Holcomb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Highsmith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine left end to PIT 29 for 6 yards (C.Holcomb; A.Highsmith)."
+  },
+  {
+    "wallclock": "2025-10-17T01:25:09Z",
+    "period": 2,
+    "clock": "2:52",
+    "play_type": "Passing Touchdown",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Flacco pass short left to T.Higgins for 29 yards, TOUCHDOWN. E.McPherson extra point is GOOD, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-17T01:26:09Z",
+    "period": 2,
+    "clock": "2:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:52."
+  },
+  {
+    "wallclock": "2025-10-17T01:29:02Z",
+    "period": 2,
+    "clock": "2:52",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Burks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 60 yards from CIN 35 to PIT 5. K.Gainwell to PIT 30 for 25 yards (O.Burks)."
+  },
+  {
+    "wallclock": "2025-10-17T01:29:57Z",
+    "period": 2,
+    "clock": "2:47",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ossai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren right end to PIT 33 for 3 yards (B.Carter; J.Ossai)."
+  },
+  {
+    "wallclock": "2025-10-17T01:30:36Z",
+    "period": 2,
+    "clock": "2:07",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to J.Warren to PIT 48 for 15 yards (J.Battle)."
+  },
+  {
+    "wallclock": "2025-10-17T01:31:02Z",
+    "period": 2,
+    "clock": "1:58",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-17T01:34:00Z",
+    "period": 2,
+    "clock": "1:58",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren left guard to CIN 47 for 5 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-17T01:34:24Z",
+    "period": 2,
+    "clock": "1:33",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Jenkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Warren up the middle to CIN 46 for 1 yard (K.Jenkins)."
+  },
+  {
+    "wallclock": "2025-10-17T01:35:03Z",
+    "period": 2,
+    "clock": "0:55",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short middle to J.Warren to CIN 41 for 5 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-17T01:35:21Z",
+    "period": 2,
+    "clock": "0:49",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PIT at 00:49."
+  },
+  {
+    "wallclock": "2025-10-17T01:36:19Z",
+    "period": 2,
+    "clock": "0:49",
+    "play_type": "Pass Reception",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ossai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short left to K.Gainwell to CIN 44 for -3 yards (J.Ossai) [B.Hill]."
+  },
+  {
+    "wallclock": "2025-10-17T01:36:45Z",
+    "period": 2,
+    "clock": "0:43",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by PIT at 00:43."
+  },
+  {
+    "wallclock": "2025-10-17T01:37:17Z",
+    "period": 2,
+    "clock": "0:43",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short left intended for D.Metcalf INTERCEPTED by D.Turner (G.Stone) at CIN 30. D.Turner pushed ob at CIN 30 for no gain (D.Metcalf)."
+  },
+  {
+    "wallclock": "2025-10-17T01:40:01Z",
+    "period": 2,
+    "clock": "0:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase ran ob at CIN 45 for 15 yards.The Replay Official reviewed the pass completion ruling, and the play was REVERSED.(Shotgun) J.Flacco pass incomplete short left to J.Chase."
+  },
+  {
+    "wallclock": "2025-10-17T01:43:54Z",
+    "period": 2,
+    "clock": "0:37",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thornhill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase pushed ob at CIN 43 for 13 yards (J.Ramsey; J.Thornhill)."
+  },
+  {
+    "wallclock": "2025-10-17T01:44:33Z",
+    "period": 2,
+    "clock": "0:30",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase pushed ob at PIT 49 for 8 yards (J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-10-17T01:45:16Z",
+    "period": 2,
+    "clock": "0:25",
+    "play_type": "Pass Incompletion",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to T.Higgins.PENALTY on PIT-J.Porter, Defensive Pass Interference, 12 yards, enforced at PIT 49 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T01:46:12Z",
+    "period": 2,
+    "clock": "0:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short left to J.Chase."
+  },
+  {
+    "wallclock": "2025-10-17T01:46:50Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Fant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to N.Fant to PIT 31 for 6 yards (P.Wilson; J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-10-17T01:47:11Z",
+    "period": 2,
+    "clock": "0:02",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by CIN at 00:02."
+  },
+  {
+    "wallclock": "2025-10-17T01:48:05Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "Field Goal Good",
+    "yards": 49,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "E.McPherson 49 yard field goal is GOOD, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-17T01:48:05Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-10-17T02:02:09Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks 59 yards from PIT 35 to CIN 6. S.Perine to CIN 32 for 26 yards (C.Clark)."
+  },
+  {
+    "wallclock": "2025-10-17T02:02:54Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass short left to J.Chase to CIN 37 for 5 yards (D.Slay). PIT-D.Slay was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-17T02:04:18Z",
+    "period": 3,
+    "clock": "14:32",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Echols",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase to CIN 40 for 3 yards (B.Echols; P.Queen)."
+  },
+  {
+    "wallclock": "2025-10-17T02:04:58Z",
+    "period": 3,
+    "clock": "13:52",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Holcomb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine up the middle to CIN 45 for 5 yards (D.Elliott; C.Holcomb)."
+  },
+  {
+    "wallclock": "2025-10-17T02:05:39Z",
+    "period": 3,
+    "clock": "13:11",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown left end to PIT 48 for 7 yards (K.Benton)."
+  },
+  {
+    "wallclock": "2025-10-17T02:06:20Z",
+    "period": 3,
+    "clock": "12:29",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase to PIT 32 for 16 yards (D.Slay). ** Injury Update: PIT-D.Slay has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-17T02:07:01Z",
+    "period": 3,
+    "clock": "11:49",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to J.Chase to PIT 18 for 14 yards (J.Porter)."
+  },
+  {
+    "wallclock": "2025-10-17T02:07:46Z",
+    "period": 3,
+    "clock": "11:02",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Harmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Herbig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown left guard to PIT 15 for 3 yards (D.Harmon; N.Herbig)."
+  },
+  {
+    "wallclock": "2025-10-17T02:08:27Z",
+    "period": 3,
+    "clock": "10:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Herbig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short right [N.Herbig]."
+  },
+  {
+    "wallclock": "2025-10-17T02:09:09Z",
+    "period": 3,
+    "clock": "10:16",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Iosivas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Echols",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to A.Iosivas to PIT 9 for 6 yards (B.Echols).Cincinnati challenged the short of the line to gain ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-10-17T02:09:09Z",
+    "period": 3,
+    "clock": "9:30",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Harmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Holcomb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco up the middle to PIT 7 for 2 yards (D.Harmon; C.Holcomb)."
+  },
+  {
+    "wallclock": "2025-10-17T02:14:23Z",
+    "period": 3,
+    "clock": "8:49",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Highsmith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine up the middle to PIT 5 for 2 yards (A.Highsmith; P.Queen)."
+  },
+  {
+    "wallclock": "2025-10-17T02:15:05Z",
+    "period": 3,
+    "clock": "8:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short right to T.Higgins (J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-10-17T02:15:47Z",
+    "period": 3,
+    "clock": "8:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-10-17T02:16:31Z",
+    "period": 3,
+    "clock": "7:55",
+    "play_type": "Field Goal Good",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "E.McPherson 23 yard field goal is GOOD, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-17T02:16:45Z",
+    "period": 3,
+    "clock": "7:55",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:55."
+  },
+  {
+    "wallclock": "2025-10-17T02:17:59Z",
+    "period": 3,
+    "clock": "7:55",
+    "play_type": "Kickoff",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Burks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 62 yards from CIN 35 to PIT 3. K.Gainwell to PIT 39 for 36 yards (L.Wilson; O.Burks)."
+  },
+  {
+    "wallclock": "2025-10-17T02:18:51Z",
+    "period": 3,
+    "clock": "7:48",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Slaton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Anderson reported in as eligible.  J.Warren left guard to PIT 44 for 5 yards (T.Slaton; L.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-17T02:19:32Z",
+    "period": 3,
+    "clock": "7:08",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren right end to 50 for 6 yards (D.Knight; B.Hill)."
+  },
+  {
+    "wallclock": "2025-10-17T02:20:15Z",
+    "period": 3,
+    "clock": "6:24",
+    "play_type": "Rush",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Anderson reported in as eligible.  J.Warren right tackle pushed ob at CIN 26 for 24 yards (G.Stone)."
+  },
+  {
+    "wallclock": "2025-10-17T02:21:01Z",
+    "period": 3,
+    "clock": "5:44",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren left tackle to CIN 24 for 2 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-17T02:21:42Z",
+    "period": 3,
+    "clock": "5:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete short left to D.Washington."
+  },
+  {
+    "wallclock": "2025-10-17T02:22:26Z",
+    "period": 3,
+    "clock": "4:59",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to R.Wilson to CIN 11 for 13 yards (M.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-17T02:22:46Z",
+    "period": 3,
+    "clock": "4:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ossai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass incomplete short middle to J.Smith (D.Knight).Penalty on PIT-D.Metcalf, Illegal Shift, offsetting, enforced at CIN 11 - No Play.Penalty on CIN-J.Ossai, Defensive Offside, offsetting.Penalty on CIN, Defensive Too Many Men on Field, offsetting."
+  },
+  {
+    "wallclock": "2025-10-17T02:24:15Z",
+    "period": 3,
+    "clock": "4:36",
+    "play_type": "Pass Reception",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sample",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to D.Washington to CIN 19 for -8 yards (C.Sample)."
+  },
+  {
+    "wallclock": "2025-10-17T02:24:49Z",
+    "period": 3,
+    "clock": "4:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass incomplete short left to J.Smith (D.Turner). CIN-D.Turner was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-17T02:26:48Z",
+    "period": 3,
+    "clock": "3:55",
+    "play_type": "Passing Touchdown",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Freiermuth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) A.Rodgers pass deep left to P.Freiermuth for 19 yards, TOUCHDOWN. C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-C.Waitman."
+  },
+  {
+    "wallclock": "2025-10-17T02:27:48Z",
+    "period": 3,
+    "clock": "3:55",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:55."
+  },
+  {
+    "wallclock": "2025-10-17T02:30:26Z",
+    "period": 3,
+    "clock": "3:55",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks 58 yards from PIT 35 to CIN 7. S.Perine to CIN 33 for 26 yards (P.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-17T02:31:22Z",
+    "period": 3,
+    "clock": "3:49",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to C.Brown to CIN 31 for -2 yards (Ca.Heyward)."
+  },
+  {
+    "wallclock": "2025-10-17T02:32:07Z",
+    "period": 3,
+    "clock": "3:05",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to T.Higgins to CIN 39 for 8 yards (J.Porter)."
+  },
+  {
+    "wallclock": "2025-10-17T02:32:43Z",
+    "period": 3,
+    "clock": "2:29",
+    "play_type": "Pass Reception",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Iosivas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass deep middle to A.Iosivas to PIT 24 for 37 yards (D.Slay)."
+  },
+  {
+    "wallclock": "2025-10-17T02:33:28Z",
+    "period": 3,
+    "clock": "1:43",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to T.Higgins to PIT 18 for 6 yards (D.Elliott; P.Queen)."
+  },
+  {
+    "wallclock": "2025-10-17T02:34:09Z",
+    "period": 3,
+    "clock": "1:02",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass short left to J.Chase to PIT 8 for 10 yards (D.Slay; D.Elliott)."
+  },
+  {
+    "wallclock": "2025-10-17T02:34:45Z",
+    "period": 3,
+    "clock": "0:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short left to C.Brown."
+  },
+  {
+    "wallclock": "2025-10-17T02:35:27Z",
+    "period": 3,
+    "clock": "0:23",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown left guard to PIT 5 for 3 yards (J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-10-17T02:35:27Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-10-17T02:38:57Z",
+    "period": 4,
+    "clock": "14:57",
+    "play_type": "Passing Touchdown",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Fant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Flacco pass short middle to N.Fant for 5 yards, TOUCHDOWN. E.McPherson extra point is GOOD, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-17T02:41:01Z",
+    "period": 4,
+    "clock": "14:57",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Jules",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 64 yards from CIN 35 to PIT 1. K.Williams to PIT 27 for 26 yards (P.Jules)."
+  },
+  {
+    "wallclock": "2025-10-17T02:41:55Z",
+    "period": 4,
+    "clock": "14:51",
+    "play_type": "Rush",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren right end pushed ob at CIN 36 for 37 yards (B.Carter). ** Injury Update: CIN-D.Turner has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-17T02:42:39Z",
+    "period": 4,
+    "clock": "14:11",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Freiermuth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass short left to P.Freiermuth pushed ob at CIN 18 for 18 yards (G.Stone)."
+  },
+  {
+    "wallclock": "2025-10-17T02:43:15Z",
+    "period": 4,
+    "clock": "13:39",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Freiermuth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass short right to P.Freiermuth to CIN 17 for 1 yard (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-17T02:43:56Z",
+    "period": 4,
+    "clock": "12:58",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Burks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short left to D.Metcalf to CIN 12 for 5 yards (O.Burks)."
+  },
+  {
+    "wallclock": "2025-10-17T02:44:36Z",
+    "period": 4,
+    "clock": "12:18",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Burks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short left to D.Washington pushed ob at CIN 4 for 8 yards (O.Burks; G.Stone)."
+  },
+  {
+    "wallclock": "2025-10-17T02:45:08Z",
+    "period": 4,
+    "clock": "11:50",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Slaton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Warren up the middle to CIN 2 for 2 yards (B.Carter; T.Slaton)."
+  },
+  {
+    "wallclock": "2025-10-17T02:45:51Z",
+    "period": 4,
+    "clock": "11:03",
+    "play_type": "Passing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "A.Rodgers pass short middle to D.Washington for 2 yards, TOUCHDOWN. C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-C.Waitman."
+  },
+  {
+    "wallclock": "2025-10-17T02:46:42Z",
+    "period": 4,
+    "clock": "11:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:03."
+  },
+  {
+    "wallclock": "2025-10-17T02:49:18Z",
+    "period": 4,
+    "clock": "11:03",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks 65 yards from PIT 35 to landing zone to end zone, Touchback to the CIN 20."
+  },
+  {
+    "wallclock": "2025-10-17T02:50:04Z",
+    "period": 4,
+    "clock": "11:00",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Holcomb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Brown left tackle pushed ob at CIN 32 for 12 yards (C.Holcomb)."
+  },
+  {
+    "wallclock": "2025-10-17T02:50:44Z",
+    "period": 4,
+    "clock": "10:23",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Fant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass short right to N.Fant to PIT 43 for 25 yards (J.Porter)."
+  },
+  {
+    "wallclock": "2025-10-17T02:51:26Z",
+    "period": 4,
+    "clock": "9:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sawyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sawyer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to T.Higgins (J.Sawyer) [J.Sawyer]."
+  },
+  {
+    "wallclock": "2025-10-17T02:52:06Z",
+    "period": 4,
+    "clock": "9:36",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase to PIT 38 for 5 yards (P.Wilson; J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-10-17T02:52:44Z",
+    "period": 4,
+    "clock": "8:58",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thornhill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to J.Chase to PIT 24 for 14 yards (J.Thornhill)."
+  },
+  {
+    "wallclock": "2025-10-17T02:53:29Z",
+    "period": 4,
+    "clock": "8:12",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown up the middle to PIT 17 for 7 yards (D.Elliott)."
+  },
+  {
+    "wallclock": "2025-10-17T02:54:13Z",
+    "period": 4,
+    "clock": "7:29",
+    "play_type": "Rush",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Harmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Black",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Rivers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown up the middle to PIT 15 for 2 yards (D.Harmon; Y.Black).PENALTY on CIN-J.Rivers, Offensive Holding, 10 yards, enforced at PIT 17 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T02:55:07Z",
+    "period": 4,
+    "clock": "7:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to J.Chase."
+  },
+  {
+    "wallclock": "2025-10-17T02:55:46Z",
+    "period": 4,
+    "clock": "7:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete deep right to T.Higgins (J.Porter)."
+  },
+  {
+    "wallclock": "2025-10-17T02:56:31Z",
+    "period": 4,
+    "clock": "6:58",
+    "play_type": "Field Goal Good",
+    "yards": 45,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " E.McPherson 45 yard field goal is GOOD, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-17T02:56:50Z",
+    "period": 4,
+    "clock": "6:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:58."
+  },
+  {
+    "wallclock": "2025-10-17T02:59:26Z",
+    "period": 4,
+    "clock": "6:58",
+    "play_type": "Kickoff",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Jules",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 63 yards from CIN 35 to PIT 2. K.Williams to PIT 39 for 37 yards (T.Anderson; P.Jules)."
+  },
+  {
+    "wallclock": "2025-10-17T03:00:20Z",
+    "period": 4,
+    "clock": "6:52",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren left tackle to PIT 41 for 2 yards (M.Murphy)."
+  },
+  {
+    "wallclock": "2025-10-17T03:01:00Z",
+    "period": 4,
+    "clock": "6:12",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Warren left end to PIT 45 for 4 yards (B.Hill)."
+  },
+  {
+    "wallclock": "2025-10-17T03:01:44Z",
+    "period": 4,
+    "clock": "5:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Freiermuth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete short middle to P.Freiermuth."
+  },
+  {
+    "wallclock": "2025-10-17T03:02:22Z",
+    "period": 4,
+    "clock": "5:26",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pierre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Waitman punts 45 yards to CIN 10, Center-C.Kuntz, downed by PIT-J.Pierre."
+  },
+  {
+    "wallclock": "2025-10-17T03:02:57Z",
+    "period": 4,
+    "clock": "5:16",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:16."
+  },
+  {
+    "wallclock": "2025-10-17T03:05:26Z",
+    "period": 4,
+    "clock": "5:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Echols",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass incomplete deep left to J.Chase (B.Echols)."
+  },
+  {
+    "wallclock": "2025-10-17T03:06:09Z",
+    "period": 4,
+    "clock": "5:11",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Holcomb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco left end to CIN 22 for 12 yards (C.Holcomb)."
+  },
+  {
+    "wallclock": "2025-10-17T03:06:54Z",
+    "period": 4,
+    "clock": "4:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete deep left to J.Chase."
+  },
+  {
+    "wallclock": "2025-10-17T03:07:37Z",
+    "period": 4,
+    "clock": "4:21",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Watt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco sacked at CIN 14 for -8 yards (sack split by Ca.Heyward and T.Watt)."
+  },
+  {
+    "wallclock": "2025-10-17T03:08:19Z",
+    "period": 4,
+    "clock": "3:39",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine up the middle to CIN 15 for 1 yard (K.Benton)."
+  },
+  {
+    "wallclock": "2025-10-17T03:09:01Z",
+    "period": 4,
+    "clock": "2:56",
+    "play_type": "Punt",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Rehkow punts 60 yards to PIT 25, Center-W.Wagner. K.Williams pushed ob at PIT 42 for 17 yards (L.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-17T03:10:07Z",
+    "period": 4,
+    "clock": "2:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete deep right to D.Washington (L.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-17T03:10:50Z",
+    "period": 4,
+    "clock": "2:39",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short middle to R.Wilson to CIN 45 for 13 yards (G.Stone).PENALTY on PIT-B.Jones, Offensive Holding, 10 yards, enforced at PIT 42 - No Play."
+  },
+  {
+    "wallclock": "2025-10-17T03:11:44Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Passing Touchdown",
+    "yards": 68,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Freiermuth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) A.Rodgers pass deep left to P.Freiermuth for 68 yards, TOUCHDOWN. C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-C.Waitman."
+  },
+  {
+    "wallclock": "2025-10-17T03:14:02Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Peppers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks 62 yards from PIT 35 to CIN 3. T.Brooks to CIN 30 for 27 yards (J.Peppers)."
+  },
+  {
+    "wallclock": "2025-10-17T03:15:09Z",
+    "period": 4,
+    "clock": "2:15",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to J.Chase to CIN 45 for 15 yards (J.Porter)."
+  },
+  {
+    "wallclock": "2025-10-17T03:15:37Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-17T03:15:37Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to J.Chase pushed ob at PIT 37 for 18 yards (D.Elliott)."
+  },
+  {
+    "wallclock": "2025-10-17T03:19:00Z",
+    "period": 4,
+    "clock": "1:52",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Echols",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown up the middle to PIT 35 for 2 yards (B.Echols)."
+  },
+  {
+    "wallclock": "2025-10-17T03:19:18Z",
+    "period": 4,
+    "clock": "1:47",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PIT at 01:47."
+  },
+  {
+    "wallclock": "2025-10-17T03:20:02Z",
+    "period": 4,
+    "clock": "1:47",
+    "play_type": "Pass Reception",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass deep left to T.Higgins to PIT 7 for 28 yards (D.Elliott)."
+  },
+  {
+    "wallclock": "2025-10-17T03:20:35Z",
+    "period": 4,
+    "clock": "1:39",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by PIT at 01:39."
+  },
+  {
+    "wallclock": "2025-10-17T03:21:13Z",
+    "period": 4,
+    "clock": "1:39",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco kneels to PIT 9 for -2 yards."
+  },
+  {
+    "wallclock": "2025-10-17T03:21:44Z",
+    "period": 4,
+    "clock": "1:37",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by PIT at 01:37."
+  },
+  {
+    "wallclock": "2025-10-17T03:22:13Z",
+    "period": 4,
+    "clock": "1:37",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco kneels to PIT 14 for -5 yards."
+  },
+  {
+    "wallclock": "2025-10-17T03:22:46Z",
+    "period": 4,
+    "clock": "0:53",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CIN at 00:53."
+  },
+  {
+    "wallclock": "2025-10-17T03:23:26Z",
+    "period": 4,
+    "clock": "0:53",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Flacco kneels to PIT 18 for -4 yards."
+  },
+  {
+    "wallclock": "2025-10-17T03:24:09Z",
+    "period": 4,
+    "clock": "0:11",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by CIN at 00:11."
+  },
+  {
+    "wallclock": "2025-10-17T03:25:03Z",
+    "period": 4,
+    "clock": "0:07",
+    "play_type": "Field Goal Good",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "E.McPherson 36 yard field goal is GOOD, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-17T03:26:37Z",
+    "period": 4,
+    "clock": "0:07",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback to the PIT 35."
+  },
+  {
+    "wallclock": "2025-10-17T03:27:32Z",
+    "period": 4,
+    "clock": "0:07",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Freiermuth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) A.Rodgers pass short right to P.Freiermuth pushed ob at PIT 40 for 5 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-17T03:28:10Z",
+    "period": 4,
+    "clock": "0:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Ivey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) A.Rodgers pass incomplete deep left (D.Ivey)."
+  },
+  {
+    "wallclock": "2025-10-17T03:28:10Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

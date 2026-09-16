@@ -1,0 +1,4509 @@
+[
+  {
+    "wallclock": "2025-09-21T17:02:23Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 65 yards from JAX 35 to end zone, Touchback to the HST 35."
+  },
+  {
+    "wallclock": "2025-09-21T17:03:05Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Stroud scrambles right end pushed ob at HST 41 for 6 yards (D.Gardeck)."
+  },
+  {
+    "wallclock": "2025-09-21T17:03:50Z",
+    "period": 1,
+    "clock": "14:22",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hines-Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Stroud pass incomplete deep right to N.Collins [J.Hines-Allen]."
+  },
+  {
+    "wallclock": "2025-09-21T17:04:33Z",
+    "period": 1,
+    "clock": "14:14",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kirk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to C.Kirk to HST 42 for 1 yard (J.Lewis)."
+  },
+  {
+    "wallclock": "2025-09-21T17:05:13Z",
+    "period": 1,
+    "clock": "13:34",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Townsend",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brinkman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Ross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Townsend punts 55 yards to JAX 3, Center-A.Brinkman, downed by HST-D.Ross."
+  },
+  {
+    "wallclock": "2025-09-21T17:06:05Z",
+    "period": 1,
+    "clock": "13:23",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 4 for 1 yard (W.Anderson; C.Gardner-Johnson)."
+  },
+  {
+    "wallclock": "2025-09-21T17:06:43Z",
+    "period": 1,
+    "clock": "12:46",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Rankins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Etienne up the middle to JAX 4 for no gain (S.Rankins)."
+  },
+  {
+    "wallclock": "2025-09-21T17:07:26Z",
+    "period": 1,
+    "clock": "12:02",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pitre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to P.Washington to JAX 10 for 6 yards (J.Pitre)."
+  },
+  {
+    "wallclock": "2025-09-21T17:08:09Z",
+    "period": 1,
+    "clock": "11:20",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Cooke punts 42 yards to HST 48, Center-R.Matiscik, out of bounds."
+  },
+  {
+    "wallclock": "2025-09-21T17:08:44Z",
+    "period": 1,
+    "clock": "11:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:10."
+  },
+  {
+    "wallclock": "2025-09-21T17:11:15Z",
+    "period": 1,
+    "clock": "11:10",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to N.Chubb to HST 46 for -2 yards (D.Gardeck)."
+  },
+  {
+    "wallclock": "2025-09-21T17:12:00Z",
+    "period": 1,
+    "clock": "10:26",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Schultz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to D.Schultz to JAX 42 for 12 yards (A.Wingard)."
+  },
+  {
+    "wallclock": "2025-09-21T17:12:37Z",
+    "period": 1,
+    "clock": "9:49",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Chubb right guard to JAX 34 for 8 yards (D.Lloyd; J.Lewis)."
+  },
+  {
+    "wallclock": "2025-09-21T17:13:13Z",
+    "period": 1,
+    "clock": "9:13",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Chubb up the middle to JAX 31 for 3 yards (D.Gardeck; F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-09-21T17:13:52Z",
+    "period": 1,
+    "clock": "8:34",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Chubb up the middle to JAX 27 for 4 yards (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T17:14:30Z",
+    "period": 1,
+    "clock": "7:56",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Stroud pass short right to N.Collins to JAX 28 for -1 yards (D.Lloyd)."
+  },
+  {
+    "wallclock": "2025-09-21T17:15:15Z",
+    "period": 1,
+    "clock": "7:10",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Howard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on HST-T.Howard, False Start, 5 yards, enforced at JAX 28 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T17:16:04Z",
+    "period": 1,
+    "clock": "6:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Marks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass incomplete short right to W.Marks."
+  },
+  {
+    "wallclock": "2025-09-21T17:16:45Z",
+    "period": 1,
+    "clock": "6:45",
+    "play_type": "Field Goal Missed",
+    "yards": 52,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Fairbairn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brinkman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Townsend",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Fairbairn 52 yard field goal is No Good, Wide Right, Center-A.Brinkman, Holder-T.Townsend."
+  },
+  {
+    "wallclock": "2025-09-21T17:17:08Z",
+    "period": 1,
+    "clock": "6:40",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:40."
+  },
+  {
+    "wallclock": "2025-09-21T17:19:45Z",
+    "period": 1,
+    "clock": "6:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bullock",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass incomplete short left to T.Hunter (C.Bullock)."
+  },
+  {
+    "wallclock": "2025-09-21T17:20:29Z",
+    "period": 1,
+    "clock": "6:33",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Lassiter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass deep left to B.Strange to HST 42 for 16 yards (K.Lassiter)."
+  },
+  {
+    "wallclock": "2025-09-21T17:21:11Z",
+    "period": 1,
+    "clock": "5:55",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Al-Shaair",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Togiai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Etienne up the middle to HST 40 for 2 yards (A.Al-Shaair; T.Togiai)."
+  },
+  {
+    "wallclock": "2025-09-21T17:21:59Z",
+    "period": 1,
+    "clock": "5:13",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.To'oTo'o",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to B.Thomas to HST 31 for 9 yards (H.To'oTo'o)."
+  },
+  {
+    "wallclock": "2025-09-21T17:22:44Z",
+    "period": 1,
+    "clock": "4:28",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Long",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Lassiter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to H.Long to HST 24 for 7 yards (K.Lassiter)."
+  },
+  {
+    "wallclock": "2025-09-21T17:23:29Z",
+    "period": 1,
+    "clock": "3:41",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Al-Shaair",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short middle to P.Washington to HST 13 for 11 yards (A.Al-Shaair)."
+  },
+  {
+    "wallclock": "2025-09-21T17:24:11Z",
+    "period": 1,
+    "clock": "3:01",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass short left to P.Washington to HST 12 for 1 yard (C.Gardner-Johnson)."
+  },
+  {
+    "wallclock": "2025-09-21T17:24:51Z",
+    "period": 1,
+    "clock": "2:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-09-21T17:25:35Z",
+    "period": 1,
+    "clock": "2:15",
+    "play_type": "Penalty",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stingley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short right to D.Brown.PENALTY on HST-D.Stingley, Defensive Pass Interference, 11 yards, enforced at HST 12 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T17:26:28Z",
+    "period": 1,
+    "clock": "2:06",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Tuten up the middle for 1 yard, TOUCHDOWN. C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke."
+  },
+  {
+    "wallclock": "2025-09-21T17:27:23Z",
+    "period": 1,
+    "clock": "2:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:06."
+  },
+  {
+    "wallclock": "2025-09-21T17:29:58Z",
+    "period": 1,
+    "clock": "2:06",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 65 yards from JAX 35 to landing zone to end zone, Touchback to the HST 20."
+  },
+  {
+    "wallclock": "2025-09-21T17:30:44Z",
+    "period": 1,
+    "clock": "2:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Stroud pass incomplete short middle to N.Collins (D.Gardeck)."
+  },
+  {
+    "wallclock": "2025-09-21T17:31:25Z",
+    "period": 1,
+    "clock": "2:01",
+    "play_type": "Sack",
+    "yards": -12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud sacked at HST 8 for -12 yards (T.Walker)."
+  },
+  {
+    "wallclock": "2025-09-21T17:32:08Z",
+    "period": 1,
+    "clock": "1:18",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Marks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) W.Marks up the middle to HST 16 for 8 yards (T.Walker; An.Johnson)."
+  },
+  {
+    "wallclock": "2025-09-21T17:32:46Z",
+    "period": 1,
+    "clock": "0:42",
+    "play_type": "Punt",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Townsend",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brinkman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Speed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Townsend punts 47 yards to JAX 37, Center-A.Brinkman. P.Washington to JAX 41 for 4 yards (E.Speed; J.Hansen).PENALTY on JAX-V.Miller, Illegal Block Above the Waist, 10 yards, enforced at JAX 41."
+  },
+  {
+    "wallclock": "2025-09-21T17:34:26Z",
+    "period": 1,
+    "clock": "0:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:29."
+  },
+  {
+    "wallclock": "2025-09-21T17:36:14Z",
+    "period": 1,
+    "clock": "0:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-09-21T17:36:56Z",
+    "period": 1,
+    "clock": "0:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stingley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete deep left to B.Thomas (D.Stingley)."
+  },
+  {
+    "wallclock": "2025-09-21T17:37:45Z",
+    "period": 1,
+    "clock": "0:18",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Hunter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on HST-D.Hunter, Neutral Zone Infraction, 5 yards, enforced at JAX 31 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T17:38:34Z",
+    "period": 1,
+    "clock": "0:18",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Lassiter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to D.Brown to JAX 42 for 6 yards (K.Lassiter)."
+  },
+  {
+    "wallclock": "2025-09-21T17:38:34Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-21T17:41:38Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pitre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass incomplete short right to T.Etienne (J.Pitre)."
+  },
+  {
+    "wallclock": "2025-09-21T17:42:20Z",
+    "period": 2,
+    "clock": "14:55",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on JAX-B.Strange, False Start, 5 yards, enforced at JAX 42 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T17:43:03Z",
+    "period": 2,
+    "clock": "14:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete deep middle to D.Brown."
+  },
+  {
+    "wallclock": "2025-09-21T17:43:45Z",
+    "period": 2,
+    "clock": "14:49",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Speed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to L.Allen to JAX 46 for 9 yards (E.Speed) [W.Anderson]."
+  },
+  {
+    "wallclock": "2025-09-21T17:44:33Z",
+    "period": 2,
+    "clock": "14:00",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Cooke punts 54 yards to end zone, Center-R.Matiscik, Touchback."
+  },
+  {
+    "wallclock": "2025-09-21T17:45:10Z",
+    "period": 2,
+    "clock": "13:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:51."
+  },
+  {
+    "wallclock": "2025-09-21T17:47:35Z",
+    "period": 2,
+    "clock": "13:51",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Noel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ersery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Noel left end ran ob at HST 32 for 12 yards (E.Murray).Penalty on HST-A.Ersery, Offensive Holding, offsetting, enforced at HST 20 - No Play.Penalty on JAX-E.Murray, Unnecessary Roughness, offsetting."
+  },
+  {
+    "wallclock": "2025-09-21T17:48:49Z",
+    "period": 2,
+    "clock": "13:30",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Stroud pass short left to N.Collins to HST 25 for 5 yards (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T17:49:27Z",
+    "period": 2,
+    "clock": "12:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kirk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kirk",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short right to C.Kirk ran ob at HST 28 for 3 yards.Jacksonville challenged the pass completion ruling, and the play was REVERSED.(Shotgun) C.Stroud pass incomplete short right to C.Kirk."
+  },
+  {
+    "wallclock": "2025-09-21T17:51:45Z",
+    "period": 2,
+    "clock": "12:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:49."
+  },
+  {
+    "wallclock": "2025-09-21T17:53:06Z",
+    "period": 2,
+    "clock": "12:49",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Schultz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to D.Schultz to HST 37 for 12 yards (T.Hunter; A.Wingard)."
+  },
+  {
+    "wallclock": "2025-09-21T17:53:30Z",
+    "period": 2,
+    "clock": "12:26",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Hutchinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Stroud pass short right to X.Hutchinson to HST 41 for 4 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-09-21T17:54:09Z",
+    "period": 2,
+    "clock": "11:46",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Hutchinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ersery",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to X.Hutchinson to JAX 47 for 12 yards (J.Lewis; T.Campbell).PENALTY on HST-A.Ersery, Offensive Holding, 10 yards, enforced at HST 41 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T17:55:11Z",
+    "period": 2,
+    "clock": "11:26",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Marks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) W.Marks right end to HST 33 for 2 yards (T.Hunter)."
+  },
+  {
+    "wallclock": "2025-09-21T17:55:51Z",
+    "period": 2,
+    "clock": "10:44",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass deep middle to N.Collins to JAX 49 for 18 yards (An.Johnson).PENALTY on JAX-E.Murray, Unnecessary Roughness, 15 yards, enforced at JAX 49."
+  },
+  {
+    "wallclock": "2025-09-21T17:57:32Z",
+    "period": 2,
+    "clock": "10:17",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Chubb up the middle to JAX 31 for 3 yards (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T17:58:12Z",
+    "period": 2,
+    "clock": "9:37",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short right to N.Collins to JAX 25 for 6 yards (T.Hunter)."
+  },
+  {
+    "wallclock": "2025-09-21T17:58:37Z",
+    "period": 2,
+    "clock": "9:13",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Stroud pass short right to J.Higgins to JAX 20 for 5 yards (T.Hunter)."
+  },
+  {
+    "wallclock": "2025-09-21T17:59:16Z",
+    "period": 2,
+    "clock": "8:33",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Hutchinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Stroud pass incomplete short left to X.Hutchinson.PENALTY on JAX-D.Gardeck, Defensive Holding, 5 yards, enforced at JAX 20 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T18:00:15Z",
+    "period": 2,
+    "clock": "8:26",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short right to N.Chubb to JAX 15 for no gain (D.Lloyd)."
+  },
+  {
+    "wallclock": "2025-09-21T18:00:57Z",
+    "period": 2,
+    "clock": "7:43",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Marks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Marks right guard to JAX 9 for 6 yards (A.Wingard)."
+  },
+  {
+    "wallclock": "2025-09-21T18:01:37Z",
+    "period": 2,
+    "clock": "7:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Schultz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass incomplete short right to D.Schultz."
+  },
+  {
+    "wallclock": "2025-09-21T18:02:27Z",
+    "period": 2,
+    "clock": "6:54",
+    "play_type": "Field Goal Good",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Fairbairn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brinkman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Townsend",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "K.Fairbairn 27 yard field goal is GOOD, Center-A.Brinkman, Holder-T.Townsend."
+  },
+  {
+    "wallclock": "2025-09-21T18:02:43Z",
+    "period": 2,
+    "clock": "6:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:54."
+  },
+  {
+    "wallclock": "2025-09-21T18:05:24Z",
+    "period": 2,
+    "clock": "6:54",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Fairbairn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Speed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Fairbairn kicks 67 yards from HST 35 to JAX -2. L.Allen to JAX 20 for 22 yards (E.Speed)."
+  },
+  {
+    "wallclock": "2025-09-21T18:06:18Z",
+    "period": 2,
+    "clock": "6:49",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Al-Shaair",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Tuten up the middle to JAX 25 for 5 yards (C.Gardner-Johnson; A.Al-Shaair)."
+  },
+  {
+    "wallclock": "2025-09-21T18:06:59Z",
+    "period": 2,
+    "clock": "6:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass incomplete deep left to P.Washington (C.Harris)."
+  },
+  {
+    "wallclock": "2025-09-21T18:07:48Z",
+    "period": 2,
+    "clock": "6:01",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by JAX at 06:01."
+  },
+  {
+    "wallclock": "2025-09-21T18:08:50Z",
+    "period": 2,
+    "clock": "6:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete deep middle to P.Washington."
+  },
+  {
+    "wallclock": "2025-09-21T18:09:25Z",
+    "period": 2,
+    "clock": "5:55",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Noel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Stewart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Cooke punts 40 yards to HST 35, Center-R.Matiscik. J.Noel pushed ob at HST 40 for 5 yards (R.Lane).Penalty on HST-M.Stewart, Offensive Holding, offsetting, enforced at HST 35.Penalty on JAX-D.Gardeck, Unnecessary Roughness, offsetting."
+  },
+  {
+    "wallclock": "2025-09-21T18:12:49Z",
+    "period": 2,
+    "clock": "5:45",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:45."
+  },
+  {
+    "wallclock": "2025-09-21T18:14:39Z",
+    "period": 2,
+    "clock": "5:45",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Marks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Marks right tackle to HST 38 for 3 yards (J.Lewis)."
+  },
+  {
+    "wallclock": "2025-09-21T18:15:19Z",
+    "period": 2,
+    "clock": "5:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Stroud pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-09-21T18:16:07Z",
+    "period": 2,
+    "clock": "4:58",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Hutchinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to X.Hutchinson to HST 44 for 6 yards (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T18:16:47Z",
+    "period": 2,
+    "clock": "4:25",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Townsend",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brinkman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Townsend punts 25 yards to JAX 31, Center-A.Brinkman, out of bounds."
+  },
+  {
+    "wallclock": "2025-09-21T18:17:14Z",
+    "period": 2,
+    "clock": "4:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:17."
+  },
+  {
+    "wallclock": "2025-09-21T18:18:01Z",
+    "period": 2,
+    "clock": "4:17",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 33 for 2 yards (W.Anderson)."
+  },
+  {
+    "wallclock": "2025-09-21T18:18:39Z",
+    "period": 2,
+    "clock": "3:40",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mundt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on JAX-J.Mundt, False Start, 5 yards, enforced at JAX 33 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T18:19:16Z",
+    "period": 2,
+    "clock": "3:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short right to B.Strange."
+  },
+  {
+    "wallclock": "2025-09-21T18:19:58Z",
+    "period": 2,
+    "clock": "3:22",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bullock",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass deep right to B.Thomas to JAX 46 for 18 yards (C.Bullock).PENALTY on JAX-D.Brown, Illegal Shift, 5 yards, enforced at JAX 28 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T18:21:04Z",
+    "period": 2,
+    "clock": "2:54",
+    "play_type": "Sack",
+    "yards": -13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence sacked at JAX 10 for -13 yards (W.Anderson)."
+  },
+  {
+    "wallclock": "2025-09-21T18:21:50Z",
+    "period": 2,
+    "clock": "2:09",
+    "play_type": "Punt",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Noel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Cooke punts 59 yards to HST 31, Center-R.Matiscik. J.Noel to HST 42 for 11 yards (An.Johnson; V.Miller)."
+  },
+  {
+    "wallclock": "2025-09-21T18:22:35Z",
+    "period": 2,
+    "clock": "1:53",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-21T18:24:58Z",
+    "period": 2,
+    "clock": "1:53",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Schultz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on HST-D.Schultz, False Start, 5 yards, enforced at HST 42 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T18:25:34Z",
+    "period": 2,
+    "clock": "1:53",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Schultz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to D.Schultz to HST 40 for 3 yards (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T18:26:15Z",
+    "period": 2,
+    "clock": "1:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hines-Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass incomplete short left to N.Chubb [J.Hines-Allen]."
+  },
+  {
+    "wallclock": "2025-09-21T18:27:02Z",
+    "period": 2,
+    "clock": "1:07",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by HST at 01:07."
+  },
+  {
+    "wallclock": "2025-09-21T18:28:02Z",
+    "period": 2,
+    "clock": "1:07",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smoot",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Howard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) N.Chubb up the middle to HST 48 for 8 yards (D.Smoot; E.Murray).Penalty on HST-T.Howard, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-21T18:29:14Z",
+    "period": 2,
+    "clock": "1:01",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Townsend",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brinkman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Townsend punts 33 yards to JAX 19, Center-A.Brinkman, out of bounds."
+  },
+  {
+    "wallclock": "2025-09-21T18:30:06Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Al-Shaair",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to D.Brown to JAX 20 for 1 yard (A.Al-Shaair). JAX-D.Brown was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-21T18:30:51Z",
+    "period": 2,
+    "clock": "0:42",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by JAX at 00:42."
+  },
+  {
+    "wallclock": "2025-09-21T18:32:23Z",
+    "period": 2,
+    "clock": "0:42",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pitre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to B.Strange pushed ob at JAX 36 for 16 yards (J.Pitre)."
+  },
+  {
+    "wallclock": "2025-09-21T18:32:51Z",
+    "period": 2,
+    "clock": "0:36",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.To'oTo'o",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short middle to B.Strange to JAX 44 for 8 yards (H.To'oTo'o)."
+  },
+  {
+    "wallclock": "2025-09-21T18:33:08Z",
+    "period": 2,
+    "clock": "0:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hunter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Lawrence pass incomplete deep left to P.Washington [D.Hunter]."
+  },
+  {
+    "wallclock": "2025-09-21T18:33:48Z",
+    "period": 2,
+    "clock": "0:14",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Long",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short right to H.Long."
+  },
+  {
+    "wallclock": "2025-09-21T18:34:33Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Cooke punts 38 yards to HST 18, Center-R.Matiscik, out of bounds."
+  },
+  {
+    "wallclock": "2025-09-21T18:35:14Z",
+    "period": 2,
+    "clock": "0:04",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Stroud kneels to HST 17 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-21T18:35:14Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-21T18:48:52Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Fairbairn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Fairbairn kicks 65 yards from HST 35 to landing zone to end zone, Touchback to the JAX 20."
+  },
+  {
+    "wallclock": "2025-09-21T18:49:35Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bullock",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne left tackle to JAX 27 for 7 yards (C.Bullock)."
+  },
+  {
+    "wallclock": "2025-09-21T18:50:10Z",
+    "period": 3,
+    "clock": "14:26",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Tuten up the middle to JAX 33 for 6 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-21T18:50:45Z",
+    "period": 3,
+    "clock": "13:50",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Al-Shaair",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Little",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne left end to JAX 38 for 5 yards (A.Al-Shaair).PENALTY on JAX-W.Little, Offensive Holding, 10 yards, enforced at JAX 33 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T18:51:46Z",
+    "period": 3,
+    "clock": "13:21",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to T.Hunter to JAX 44 for 21 yards (C.Gardner-Johnson)."
+  },
+  {
+    "wallclock": "2025-09-21T18:52:31Z",
+    "period": 3,
+    "clock": "12:35",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 45 for 1 yard (C.Gardner-Johnson). HST-C.Gardner-Johnson was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-21T18:54:02Z",
+    "period": 3,
+    "clock": "12:04",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.To'oTo'o",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Etienne left end pushed ob at HST 49 for 6 yards (H.To'oTo'o)."
+  },
+  {
+    "wallclock": "2025-09-21T18:54:53Z",
+    "period": 3,
+    "clock": "11:22",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short middle to P.Washington pushed ob at HST 33 for 16 yards (M.Stewart)."
+  },
+  {
+    "wallclock": "2025-09-21T18:55:42Z",
+    "period": 3,
+    "clock": "10:36",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Settle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to HST 34 for -1 yards (T.Settle)."
+  },
+  {
+    "wallclock": "2025-09-21T18:56:22Z",
+    "period": 3,
+    "clock": "9:56",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Horton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Settle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mekari",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Etienne up the middle to HST 32 for 2 yards (D.Horton; T.Settle).PENALTY on JAX-P.Mekari, Offensive Holding, 10 yards, enforced at HST 34 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T18:57:13Z",
+    "period": 3,
+    "clock": "9:30",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to B.Strange to HST 46 for -2 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-21T18:57:59Z",
+    "period": 3,
+    "clock": "8:45",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Lassiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short middle to B.Strange to HST 33 for 13 yards (K.Lassiter). ** Injury Update: HST-C.Gardner-Johnson has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-21T18:58:45Z",
+    "period": 3,
+    "clock": "8:00",
+    "play_type": "Penalty",
+    "yards": 52,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Barnett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little 52 yard field goal is GOOD, NULLIFIED by Penalty, Center-R.Matiscik, Holder-L.Cooke.PENALTY on HST-D.Barnett, Leverage, 15 yards, enforced at HST 33 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T19:00:01Z",
+    "period": 3,
+    "clock": "7:55",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Horton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Etienne up the middle to HST 17 for 1 yard (D.Horton)."
+  },
+  {
+    "wallclock": "2025-09-21T19:00:37Z",
+    "period": 3,
+    "clock": "7:19",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Horton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Fatukasi",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence sacked at HST 21 for -4 yards (sack split by D.Horton and F.Fatukasi)."
+  },
+  {
+    "wallclock": "2025-09-21T19:01:23Z",
+    "period": 3,
+    "clock": "6:33",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pitre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short left to B.Thomas (J.Pitre)."
+  },
+  {
+    "wallclock": "2025-09-21T19:02:14Z",
+    "period": 3,
+    "clock": "6:23",
+    "play_type": "Field Goal Good",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Little 39 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke."
+  },
+  {
+    "wallclock": "2025-09-21T19:02:26Z",
+    "period": 3,
+    "clock": "6:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:23."
+  },
+  {
+    "wallclock": "2025-09-21T19:05:02Z",
+    "period": 3,
+    "clock": "6:23",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Noel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 65 yards from JAX 35 to HST 0. J.Noel to HST 30 for 30 yards (D.Lloyd)."
+  },
+  {
+    "wallclock": "2025-09-21T19:05:51Z",
+    "period": 3,
+    "clock": "6:18",
+    "play_type": "Rush",
+    "yards": -28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Marks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hines-Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ersery",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Marks left end to HST 32 for 2 yards (J.Hines-Allen). JAX-D.Gardeck was injured during the play. PENALTY on HST-A.Ersery, Face Mask, 15 yards, enforced at HST 32."
+  },
+  {
+    "wallclock": "2025-09-21T19:07:03Z",
+    "period": 3,
+    "clock": "5:57",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Noel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short right to J.Noel to HST 21 for 4 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-09-21T19:07:37Z",
+    "period": 3,
+    "clock": "5:23",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Marks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) W.Marks right tackle to HST 27 for 6 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-09-21T19:08:20Z",
+    "period": 3,
+    "clock": "4:40",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hines-Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Armstead",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud sacked at HST 19 for -8 yards (sack split by J.Hines-Allen and A.Armstead)."
+  },
+  {
+    "wallclock": "2025-09-21T19:09:02Z",
+    "period": 3,
+    "clock": "3:58",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Townsend",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brinkman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Townsend punts 35 yards to JAX 46, Center-A.Brinkman, downed by HST-J.Hill."
+  },
+  {
+    "wallclock": "2025-09-21T19:09:47Z",
+    "period": 3,
+    "clock": "3:45",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:45."
+  },
+  {
+    "wallclock": "2025-09-21T19:12:00Z",
+    "period": 3,
+    "clock": "3:45",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Patrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Al-Shaair",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to T.Patrick to HST 38 for 16 yards (A.Al-Shaair)."
+  },
+  {
+    "wallclock": "2025-09-21T19:12:41Z",
+    "period": 3,
+    "clock": "3:06",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Al-Shaair",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Tuten up the middle to HST 34 for 4 yards (A.Al-Shaair)."
+  },
+  {
+    "wallclock": "2025-09-21T19:13:20Z",
+    "period": 3,
+    "clock": "2:28",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Tuten up the middle to HST 30 for 4 yards (C.Harris)."
+  },
+  {
+    "wallclock": "2025-09-21T19:13:45Z",
+    "period": 3,
+    "clock": "2:03",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Togiai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Tuten up the middle to HST 29 for 1 yard (T.Togiai)."
+  },
+  {
+    "wallclock": "2025-09-21T19:14:38Z",
+    "period": 3,
+    "clock": "1:15",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by JAX at 01:15."
+  },
+  {
+    "wallclock": "2025-09-21T19:15:21Z",
+    "period": 3,
+    "clock": "1:15",
+    "play_type": "Field Goal Missed",
+    "yards": 47,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little 47 yard field goal is No Good, Wide Right, Center-R.Matiscik, Holder-L.Cooke."
+  },
+  {
+    "wallclock": "2025-09-21T19:15:48Z",
+    "period": 3,
+    "clock": "1:11",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:11."
+  },
+  {
+    "wallclock": "2025-09-21T19:18:08Z",
+    "period": 3,
+    "clock": "1:11",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Schultz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to D.Schultz to HST 42 for 5 yards (T.Campbell). ** Injury Update: JAX-D.Gardeck has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-21T19:18:42Z",
+    "period": 3,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Chubb up the middle to HST 45 for 3 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-09-21T19:18:42Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-21T19:22:15Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short right to N.Collins to JAX 38 for 17 yards (T.Hunter, A.Wingard)."
+  },
+  {
+    "wallclock": "2025-09-21T19:22:42Z",
+    "period": 4,
+    "clock": "14:34",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Hutchinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Stroud pass short right to X.Hutchinson to JAX 32 for 6 yards (T.Hunter; D.Lloyd)."
+  },
+  {
+    "wallclock": "2025-09-21T19:23:20Z",
+    "period": 4,
+    "clock": "13:56",
+    "play_type": "Pass Interception Return",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kirk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Schultz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left intended for C.Kirk INTERCEPTED by J.Lewis at JAX 19. J.Lewis to JAX 25 for 6 yards (D.Schultz)."
+  },
+  {
+    "wallclock": "2025-09-21T19:24:03Z",
+    "period": 4,
+    "clock": "13:48",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:48."
+  },
+  {
+    "wallclock": "2025-09-21T19:26:30Z",
+    "period": 4,
+    "clock": "13:48",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mundt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Speed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to J.Mundt to JAX 32 for 7 yards (E.Speed; T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-21T19:27:09Z",
+    "period": 4,
+    "clock": "13:09",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Rankins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 32 for no gain (S.Rankins)."
+  },
+  {
+    "wallclock": "2025-09-21T19:27:53Z",
+    "period": 4,
+    "clock": "12:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short left to B.Thomas."
+  },
+  {
+    "wallclock": "2025-09-21T19:28:36Z",
+    "period": 4,
+    "clock": "12:20",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Cooke punts 60 yards to HST 8, Center-R.Matiscik, downed by JAX-An.Johnson."
+  },
+  {
+    "wallclock": "2025-09-21T19:29:02Z",
+    "period": 4,
+    "clock": "12:08",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:08."
+  },
+  {
+    "wallclock": "2025-09-21T19:31:35Z",
+    "period": 4,
+    "clock": "12:08",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Chubb right end pushed ob at HST 10 for 2 yards (D.Gardeck)."
+  },
+  {
+    "wallclock": "2025-09-21T19:32:21Z",
+    "period": 4,
+    "clock": "11:25",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to N.Collins to HST 9 for -1 yards (J.Lewis)."
+  },
+  {
+    "wallclock": "2025-09-21T19:33:05Z",
+    "period": 4,
+    "clock": "10:41",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smoot",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud scrambles right end to HST 14 for 5 yards (D.Smoot; T.Walker)."
+  },
+  {
+    "wallclock": "2025-09-21T19:33:51Z",
+    "period": 4,
+    "clock": "9:55",
+    "play_type": "Punt",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Townsend",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brinkman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Townsend punts 66 yards to JAX 20, Center-A.Brinkman. P.Washington ran ob at JAX 33 for 13 yards (J.Johnson)."
+  },
+  {
+    "wallclock": "2025-09-21T19:34:40Z",
+    "period": 4,
+    "clock": "9:43",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:43."
+  },
+  {
+    "wallclock": "2025-09-21T19:36:53Z",
+    "period": 4,
+    "clock": "9:43",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short middle to P.Washington."
+  },
+  {
+    "wallclock": "2025-09-21T19:37:33Z",
+    "period": 4,
+    "clock": "9:38",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short right to T.Etienne."
+  },
+  {
+    "wallclock": "2025-09-21T19:38:18Z",
+    "period": 4,
+    "clock": "9:33",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pitre",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pitre",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass deep right intended for P.Washington INTERCEPTED by J.Pitre at 50. J.Pitre to 50 for no gain (P.Washington)."
+  },
+  {
+    "wallclock": "2025-09-21T19:39:22Z",
+    "period": 4,
+    "clock": "9:17",
+    "play_type": "Passing Touchdown",
+    "yards": 50,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Fairbairn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brinkman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Townsend",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) C.Stroud pass deep left to N.Collins for 50 yards, TOUCHDOWN. K.Fairbairn extra point is GOOD, Center-A.Brinkman, Holder-T.Townsend."
+  },
+  {
+    "wallclock": "2025-09-21T19:41:27Z",
+    "period": 4,
+    "clock": "9:17",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Fairbairn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Speed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Ogunbowale",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Fairbairn kicks 63 yards from HST 35 to JAX 2. L.Allen to JAX 28 for 26 yards (E.Speed; D.Ogunbowale)."
+  },
+  {
+    "wallclock": "2025-09-21T19:42:16Z",
+    "period": 4,
+    "clock": "9:12",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Togiai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 35 for 7 yards (T.Togiai)."
+  },
+  {
+    "wallclock": "2025-09-21T19:42:55Z",
+    "period": 4,
+    "clock": "8:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short middle to P.Washington."
+  },
+  {
+    "wallclock": "2025-09-21T19:43:36Z",
+    "period": 4,
+    "clock": "8:28",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bullock",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to B.Strange to JAX 45 for 10 yards (C.Bullock)."
+  },
+  {
+    "wallclock": "2025-09-21T19:44:15Z",
+    "period": 4,
+    "clock": "7:50",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Horton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 48 for 3 yards (D.Horton)."
+  },
+  {
+    "wallclock": "2025-09-21T19:45:00Z",
+    "period": 4,
+    "clock": "7:05",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass incomplete short left to B.Tuten."
+  },
+  {
+    "wallclock": "2025-09-21T19:45:43Z",
+    "period": 4,
+    "clock": "7:00",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Long",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pitre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to H.Long pushed ob at HST 47 for 5 yards (J.Pitre)."
+  },
+  {
+    "wallclock": "2025-09-21T19:46:31Z",
+    "period": 4,
+    "clock": "6:18",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by JAX at 06:18."
+  },
+  {
+    "wallclock": "2025-09-21T19:47:37Z",
+    "period": 4,
+    "clock": "6:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Settle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short left to P.Washington (T.Settle)."
+  },
+  {
+    "wallclock": "2025-09-21T19:48:30Z",
+    "period": 4,
+    "clock": "6:14",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Chubb left tackle to 50 for 3 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-09-21T19:49:06Z",
+    "period": 4,
+    "clock": "5:38",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kirk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to C.Kirk ran ob at JAX 39 for 11 yards (A.Wingard)."
+  },
+  {
+    "wallclock": "2025-09-21T19:49:47Z",
+    "period": 4,
+    "clock": "5:00",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smoot",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Chubb left tackle to JAX 35 for 4 yards (D.Smoot)."
+  },
+  {
+    "wallclock": "2025-09-21T19:50:28Z",
+    "period": 4,
+    "clock": "4:19",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short middle to N.Chubb to JAX 31 for 4 yards (E.Murray) [D.Hamilton]."
+  },
+  {
+    "wallclock": "2025-09-21T19:50:48Z",
+    "period": 4,
+    "clock": "3:58",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Schultz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Hutchinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Stroud pass short left to N.Collins to JAX 21 for 10 yards (T.Campbell). FUMBLES (T.Campbell), RECOVERED by JAX-D.Lloyd at JAX 15. D.Lloyd to JAX 17 for 2 yards (D.Schultz; X.Hutchinson)."
+  },
+  {
+    "wallclock": "2025-09-21T19:52:01Z",
+    "period": 4,
+    "clock": "3:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short left to B.Thomas."
+  },
+  {
+    "wallclock": "2025-09-21T19:52:34Z",
+    "period": 4,
+    "clock": "3:44",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 21 for 4 yards (W.Anderson). HST-W.Anderson was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-21T19:53:52Z",
+    "period": 4,
+    "clock": "3:06",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence scrambles up the middle to JAX 31 for 10 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-21T19:54:30Z",
+    "period": 4,
+    "clock": "2:28",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.To'oTo'o",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Al-Shaair",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 38 for 7 yards (H.To'oTo'o; A.Al-Shaair)."
+  },
+  {
+    "wallclock": "2025-09-21T19:54:52Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by HST at 02:21."
+  },
+  {
+    "wallclock": "2025-09-21T19:55:43Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bullock",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Al-Shaair",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Etienne right tackle to JAX 44 for 6 yards (C.Bullock; A.Al-Shaair). ** Injury Update: HST-W.Anderson has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-21T19:56:12Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-21T19:58:58Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 46,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Lassiter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short middle to B.Thomas pushed ob at HST 10 for 46 yards (K.Lassiter)."
+  },
+  {
+    "wallclock": "2025-09-21T19:59:45Z",
+    "period": 4,
+    "clock": "1:48",
+    "play_type": "Rushing Touchdown",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "T.Etienne up the middle for 10 yards, TOUCHDOWN. C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke."
+  },
+  {
+    "wallclock": "2025-09-21T20:01:30Z",
+    "period": 4,
+    "clock": "1:48",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Noel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 62 yards from JAX 35 to HST 3. J.Noel to HST 26 for 23 yards (D.Lloyd)."
+  },
+  {
+    "wallclock": "2025-09-21T20:02:14Z",
+    "period": 4,
+    "clock": "1:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass incomplete deep left to N.Collins (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T20:02:56Z",
+    "period": 4,
+    "clock": "1:36",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Schultz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to D.Schultz to HST 33 for 7 yards (A.Wingard)."
+  },
+  {
+    "wallclock": "2025-09-21T20:03:15Z",
+    "period": 4,
+    "clock": "1:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kirk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Stroud pass incomplete deep right to C.Kirk (J.Lewis)."
+  },
+  {
+    "wallclock": "2025-09-21T20:03:58Z",
+    "period": 4,
+    "clock": "1:12",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kirk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short middle to C.Kirk to HST 46 for 13 yards (An.Johnson; E.Murray)."
+  },
+  {
+    "wallclock": "2025-09-21T20:04:37Z",
+    "period": 4,
+    "clock": "0:58",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Stroud spiked the ball to stop the clock."
+  },
+  {
+    "wallclock": "2025-09-21T20:04:51Z",
+    "period": 4,
+    "clock": "0:57",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass incomplete short left.PENALTY on JAX-T.Campbell, Defensive Holding, 5 yards, enforced at HST 46 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T20:05:46Z",
+    "period": 4,
+    "clock": "0:50",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smoot",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud scrambles right end pushed ob at JAX 37 for 12 yards (D.Smoot)."
+  },
+  {
+    "wallclock": "2025-09-21T20:06:35Z",
+    "period": 4,
+    "clock": "0:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kirk",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass incomplete deep left to C.Kirk."
+  },
+  {
+    "wallclock": "2025-09-21T20:07:20Z",
+    "period": 4,
+    "clock": "0:36",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Marks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass short left to W.Marks to JAX 28 for 9 yards (E.Murray)."
+  },
+  {
+    "wallclock": "2025-09-21T20:07:44Z",
+    "period": 4,
+    "clock": "0:27",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by HST at 00:27."
+  },
+  {
+    "wallclock": "2025-09-21T20:08:34Z",
+    "period": 4,
+    "clock": "0:27",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Stroud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kirk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hines-Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Hutchinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Stroud pass deep middle intended for C.Kirk INTERCEPTED by An.Johnson (J.Hines-Allen) at JAX 4. An.Johnson to JAX 4 for no gain (X.Hutchinson)."
+  },
+  {
+    "wallclock": "2025-09-21T20:09:46Z",
+    "period": 4,
+    "clock": "0:20",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence kneels to JAX 3 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-21T20:09:46Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

@@ -1,0 +1,4080 @@
+[
+  {
+    "wallclock": "2025-12-25T21:36:55Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Vaki",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bates kicks 64 yards from DET 35 to MIN 1. M.Price to MIN 25 for 24 yards (S.Vaki). MIN-M.Price was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-25T21:38:24Z",
+    "period": 1,
+    "clock": "14:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:56."
+  },
+  {
+    "wallclock": "2025-12-25T21:40:39Z",
+    "period": 1,
+    "clock": "14:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Brosmer pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-25T21:41:22Z",
+    "period": 1,
+    "clock": "14:50",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ya-Sin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left tackle to MIN 26 for 1 yard (R.Ya-Sin)."
+  },
+  {
+    "wallclock": "2025-12-25T21:42:04Z",
+    "period": 1,
+    "clock": "14:08",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Anzalone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer sacked at MIN 19 for -7 yards (A.Anzalone)."
+  },
+  {
+    "wallclock": "2025-12-25T21:42:40Z",
+    "period": 1,
+    "clock": "13:32",
+    "play_type": "Punt",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Raymond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Takitaki",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 48 yards to DET 33, Center-A.DePaola. K.Raymond to DET 37 for 4 yards (S.Takitaki; T.Chandler)."
+  },
+  {
+    "wallclock": "2025-12-25T21:43:34Z",
+    "period": 1,
+    "clock": "13:23",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Goff pass short right to A.St. Brown pushed ob at DET 48 for 11 yards (J.Ward)."
+  },
+  {
+    "wallclock": "2025-12-25T21:44:07Z",
+    "period": 1,
+    "clock": "12:52",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rodriguez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs left tackle to MIN 48 for 4 yards (L.Rodriguez)."
+  },
+  {
+    "wallclock": "2025-12-25T21:44:44Z",
+    "period": 1,
+    "clock": "12:15",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff sacked at DET 45 for -7 yards (H.Smith)."
+  },
+  {
+    "wallclock": "2025-12-25T21:45:20Z",
+    "period": 1,
+    "clock": "11:39",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass short left to J.Gibbs to MIN 45 for 10 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-25T21:46:06Z",
+    "period": 1,
+    "clock": "10:53",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Eguakun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on DET-K.Eguakun, False Start, 5 yards, enforced at MIN 45 - No Play."
+  },
+  {
+    "wallclock": "2025-12-25T21:47:15Z",
+    "period": 1,
+    "clock": "10:42",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Fox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Hatten",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Fox punts 50 yards to end zone, Center-H.Hatten, Touchback."
+  },
+  {
+    "wallclock": "2025-12-25T21:47:35Z",
+    "period": 1,
+    "clock": "10:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:34."
+  },
+  {
+    "wallclock": "2025-12-25T21:50:20Z",
+    "period": 1,
+    "clock": "10:34",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Harper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hutchinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right guard to MIN 23 for 3 yards (T.Harper; A.Hutchinson)."
+  },
+  {
+    "wallclock": "2025-12-25T21:50:56Z",
+    "period": 1,
+    "clock": "9:58",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ya-Sin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Brosmer pass incomplete short left.PENALTY on DET-R.Ya-Sin, Defensive Holding, 5 yards, enforced at MIN 23 - No Play."
+  },
+  {
+    "wallclock": "2025-12-25T21:51:50Z",
+    "period": 1,
+    "clock": "9:51",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass short left to J.Jefferson pushed ob at MIN 33 for 5 yards (D.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-25T21:52:31Z",
+    "period": 1,
+    "clock": "9:12",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Reed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Harper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones up the middle to MIN 43 for 10 yards (D.Reed; T.Harper)."
+  },
+  {
+    "wallclock": "2025-12-25T21:53:13Z",
+    "period": 1,
+    "clock": "8:31",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Reed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Barnes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass short right to J.Jefferson to DET 48 for 9 yards (D.Reed; D.Barnes)."
+  },
+  {
+    "wallclock": "2025-12-25T21:54:03Z",
+    "period": 1,
+    "clock": "7:47",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIN at 07:47."
+  },
+  {
+    "wallclock": "2025-12-25T21:54:46Z",
+    "period": 1,
+    "clock": "7:47",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lopez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left guard to DET 48 for no gain (R.Lopez)."
+  },
+  {
+    "wallclock": "2025-12-25T21:55:30Z",
+    "period": 1,
+    "clock": "7:03",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Barnes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer scrambles right end ran ob at DET 37 for 11 yards (D.Barnes)."
+  },
+  {
+    "wallclock": "2025-12-25T21:56:14Z",
+    "period": 1,
+    "clock": "6:23",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones left tackle to DET 32 for 5 yards (D.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-25T21:56:49Z",
+    "period": 1,
+    "clock": "5:48",
+    "play_type": "Pass Reception",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass short right to A.Jones to DET 36 for -4 yards (D.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-25T21:57:34Z",
+    "period": 1,
+    "clock": "5:03",
+    "play_type": "Sack",
+    "yards": -15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hutchinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer sacked at MIN 49 for -15 yards (A.Hutchinson)."
+  },
+  {
+    "wallclock": "2025-12-25T21:59:05Z",
+    "period": 1,
+    "clock": "4:44",
+    "play_type": "Punt",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Raymond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 45 yards to DET 6, Center-A.DePaola. K.Raymond to DET 9 for 3 yards (T.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-25T21:59:32Z",
+    "period": 1,
+    "clock": "4:35",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:35."
+  },
+  {
+    "wallclock": "2025-12-25T22:02:10Z",
+    "period": 1,
+    "clock": "4:35",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs up the middle to DET 13 for 4 yards (D.Turner; J.Ward)."
+  },
+  {
+    "wallclock": "2025-12-25T22:02:47Z",
+    "period": 1,
+    "clock": "3:59",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Montgomery up the middle to DET 19 for 6 yards (B.Cashman; A.Van Ginkel).Minnesota challenged the first down ruling, and the play was REVERSED.D.Montgomery up the middle to DET 18 for 5 yards (B.Cashman; A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-12-25T22:06:47Z",
+    "period": 1,
+    "clock": "3:46",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Goff FUMBLES (Aborted) at DET 18, RECOVERED by MIN-A.Van Ginkel at DET 16."
+  },
+  {
+    "wallclock": "2025-12-25T22:07:49Z",
+    "period": 1,
+    "clock": "3:42",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Harper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones up the middle to DET 7 for 9 yards (T.Harper)."
+  },
+  {
+    "wallclock": "2025-12-25T22:08:28Z",
+    "period": 1,
+    "clock": "3:03",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hutchinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right guard to DET 5 for 2 yards (D.Thomas; A.Hutchinson)."
+  },
+  {
+    "wallclock": "2025-12-25T22:09:07Z",
+    "period": 1,
+    "clock": "2:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass incomplete short left to J.Jefferson."
+  },
+  {
+    "wallclock": "2025-12-25T22:09:45Z",
+    "period": 1,
+    "clock": "2:21",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hutchinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones up the middle to DET 1 for 4 yards (A.Hutchinson)."
+  },
+  {
+    "wallclock": "2025-12-25T22:10:28Z",
+    "period": 1,
+    "clock": "1:35",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "A.Jones left tackle for 1 yard, TOUCHDOWN. W.Reichard extra point is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-25T22:11:25Z",
+    "period": 1,
+    "clock": "1:35",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:35."
+  },
+  {
+    "wallclock": "2025-12-25T22:14:16Z",
+    "period": 1,
+    "clock": "1:35",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kennedy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ham",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 60 yards from MIN 35 to DET 5. T.Kennedy pushed ob at DET 30 for 25 yards (C.Ham)."
+  },
+  {
+    "wallclock": "2025-12-25T22:14:58Z",
+    "period": 1,
+    "clock": "1:31",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Montgomery up the middle to DET 32 for 2 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-25T22:15:42Z",
+    "period": 1,
+    "clock": "0:45",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass short middle to J.Williams to DET 47 for 15 yards (I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-12-25T22:16:30Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-25T22:19:31Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs left guard to MIN 49 for 4 yards (D.Turner; J.Allen)."
+  },
+  {
+    "wallclock": "2025-12-25T22:20:09Z",
+    "period": 2,
+    "clock": "14:22",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs left tackle to MIN 47 for 2 yards (E.Wilson; B.Cashman). FUMBLES (E.Wilson), RECOVERED by MIN-B.Murphy at DET 47."
+  },
+  {
+    "wallclock": "2025-12-25T22:21:12Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Barnes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left end to DET 45 for 2 yards (D.Barnes; D.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-25T22:21:56Z",
+    "period": 2,
+    "clock": "13:30",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Sims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Anzalone",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hutchinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass short middle to B.Sims to DET 42 for 3 yards (A.Anzalone) [A.Hutchinson]."
+  },
+  {
+    "wallclock": "2025-12-25T22:22:39Z",
+    "period": 2,
+    "clock": "12:47",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Brandel",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIN-B.Brandel, False Start, 5 yards, enforced at DET 42 - No Play."
+  },
+  {
+    "wallclock": "2025-12-25T22:23:33Z",
+    "period": 2,
+    "clock": "12:21",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIN-J.Nailor, False Start, 5 yards, enforced at DET 47 - No Play."
+  },
+  {
+    "wallclock": "2025-12-25T22:24:17Z",
+    "period": 2,
+    "clock": "11:55",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hutchinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer sacked at MIN 41 for -7 yards (A.Hutchinson)."
+  },
+  {
+    "wallclock": "2025-12-25T22:24:53Z",
+    "period": 2,
+    "clock": "11:20",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 59 yards to end zone, Center-A.DePaola, Touchback."
+  },
+  {
+    "wallclock": "2025-12-25T22:25:14Z",
+    "period": 2,
+    "clock": "11:13",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:13."
+  },
+  {
+    "wallclock": "2025-12-25T22:28:01Z",
+    "period": 2,
+    "clock": "11:13",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Goff sacked at DET 14 for -6 yards (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-12-25T22:28:48Z",
+    "period": 2,
+    "clock": "10:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass incomplete short middle to J.Gibbs."
+  },
+  {
+    "wallclock": "2025-12-25T22:29:27Z",
+    "period": 2,
+    "clock": "10:22",
+    "play_type": "Pass Reception",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.TeSlaa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass deep middle to I.TeSlaa to DET 42 for 28 yards (F.Moreau)."
+  },
+  {
+    "wallclock": "2025-12-25T22:30:06Z",
+    "period": 2,
+    "clock": "9:42",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs left tackle to DET 43 for 1 yard (I.Rodgers; B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-25T22:30:50Z",
+    "period": 2,
+    "clock": "8:57",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass incomplete short left to J.Williams (H.Smith)."
+  },
+  {
+    "wallclock": "2025-12-25T22:31:33Z",
+    "period": 2,
+    "clock": "8:55",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass short left to A.St. Brown to MIN 44 for 13 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-25T22:32:07Z",
+    "period": 2,
+    "clock": "8:24",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs right end to MIN 36 for 8 yards (J.Ward)."
+  },
+  {
+    "wallclock": "2025-12-25T22:32:46Z",
+    "period": 2,
+    "clock": "7:44",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs left guard to MIN 30 for 6 yards (H.Smith)."
+  },
+  {
+    "wallclock": "2025-12-25T22:33:29Z",
+    "period": 2,
+    "clock": "7:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass incomplete short right to A.St. Brown."
+  },
+  {
+    "wallclock": "2025-12-25T22:34:06Z",
+    "period": 2,
+    "clock": "6:59",
+    "play_type": "Pass Reception",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Goff pass short left to A.St. Brown to MIN 35 for -5 yards (H.Smith)."
+  },
+  {
+    "wallclock": "2025-12-25T22:34:53Z",
+    "period": 2,
+    "clock": "6:12",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass deep right to A.St. Brown to MIN 12 for 23 yards (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-12-25T22:35:37Z",
+    "period": 2,
+    "clock": "5:27",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs right tackle to MIN 9 for 3 yards (J.Ward). DET-P.Sewell was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-25T22:36:23Z",
+    "period": 2,
+    "clock": "5:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:17."
+  },
+  {
+    "wallclock": "2025-12-25T22:39:28Z",
+    "period": 2,
+    "clock": "5:09",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs right guard to MIN 7 for 2 yards (J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-12-25T22:40:14Z",
+    "period": 2,
+    "clock": "4:24",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass short middle to A.St. Brown to MIN 3 for 4 yards (A.Van Ginkel; E.Wilson) [J.Redmond]."
+  },
+  {
+    "wallclock": "2025-12-25T22:42:40Z",
+    "period": 2,
+    "clock": "3:16",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Montgomery right tackle to MIN 2 for 1 yard (E.Wilson).Minnesota challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)"
+  },
+  {
+    "wallclock": "2025-12-25T22:46:12Z",
+    "period": 2,
+    "clock": "2:38",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Montgomery up the middle to MIN 3 for -1 yards (L.Rodriguez, B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-25T22:46:52Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-25T22:49:58Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Ricci",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Goff pass incomplete short left to G.Ricci."
+  },
+  {
+    "wallclock": "2025-12-25T22:50:39Z",
+    "period": 2,
+    "clock": "1:56",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Montgomery right guard to MIN 4 for -1 yards (J.Redmond)."
+  },
+  {
+    "wallclock": "2025-12-25T22:51:30Z",
+    "period": 2,
+    "clock": "1:10",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by DET at 01:10."
+  },
+  {
+    "wallclock": "2025-12-25T22:52:37Z",
+    "period": 2,
+    "clock": "1:05",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.TeSlaa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Sewell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Hatten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Fox",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Goff pass short middle to I.TeSlaa for 4 yards, TOUCHDOWN. ** Injury Update: DET-P.Sewell has returned to the game. J.Bates extra point is GOOD, Center-H.Hatten, Holder-J.Fox."
+  },
+  {
+    "wallclock": "2025-12-25T22:55:26Z",
+    "period": 2,
+    "clock": "1:05",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the MIN 35."
+  },
+  {
+    "wallclock": "2025-12-25T22:56:16Z",
+    "period": 2,
+    "clock": "1:05",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Barnes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Reed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass incomplete short right [D.Barnes].PENALTY on DET-D.Reed, Illegal Contact, 5 yards, enforced at MIN 35 - No Play."
+  },
+  {
+    "wallclock": "2025-12-25T22:57:08Z",
+    "period": 2,
+    "clock": "0:59",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robertson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass short right to A.Jones to MIN 44 for 4 yards (A.Robertson)."
+  },
+  {
+    "wallclock": "2025-12-25T22:57:28Z",
+    "period": 2,
+    "clock": "0:39",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Muhammad",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Brosmer sacked at MIN 34 for -10 yards (A.Muhammad)."
+  },
+  {
+    "wallclock": "2025-12-25T22:57:50Z",
+    "period": 2,
+    "clock": "0:35",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by MIN at 00:35."
+  },
+  {
+    "wallclock": "2025-12-25T22:58:37Z",
+    "period": 2,
+    "clock": "0:35",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass short middle to A.Jones to MIN 44 for 10 yards (J.Campbell). MIN-A.Jones was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-25T22:59:29Z",
+    "period": 2,
+    "clock": "0:26",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #4 by MIN at 00:26."
+  },
+  {
+    "wallclock": "2025-12-25T23:00:23Z",
+    "period": 2,
+    "clock": "0:26",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 56 yards to end zone, Center-A.DePaola, Touchback."
+  },
+  {
+    "wallclock": "2025-12-25T23:01:30Z",
+    "period": 2,
+    "clock": "0:18",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff sacked at DET 15 for -5 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-25T23:01:30Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-25T23:22:40Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kennedy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Batty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 63 yards from MIN 35 to DET 2. T.Kennedy to DET 33 for 31 yards (T.Batty)."
+  },
+  {
+    "wallclock": "2025-12-25T23:23:25Z",
+    "period": 3,
+    "clock": "14:55",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs left guard to DET 33 for no gain (J.Allen)."
+  },
+  {
+    "wallclock": "2025-12-25T23:24:07Z",
+    "period": 3,
+    "clock": "14:14",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass short right to A.St. Brown to DET 43 for 10 yards (B.Murphy)."
+  },
+  {
+    "wallclock": "2025-12-25T23:25:09Z",
+    "period": 3,
+    "clock": "13:18",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Montgomery right guard to DET 45 for 2 yards (J.Allen)."
+  },
+  {
+    "wallclock": "2025-12-25T23:25:45Z",
+    "period": 3,
+    "clock": "12:43",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Montgomery up the middle to 50 for 5 yards (T.Jackson; J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-12-25T23:26:30Z",
+    "period": 3,
+    "clock": "11:58",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Montgomery up the middle to MIN 48 for 2 yards (J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-12-25T23:27:10Z",
+    "period": 3,
+    "clock": "11:18",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Ricci",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Run formation) PENALTY on DET-G.Ricci, False Start, 5 yards, enforced at MIN 48 - No Play."
+  },
+  {
+    "wallclock": "2025-12-25T23:27:51Z",
+    "period": 3,
+    "clock": "11:11",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Fox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Hatten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Fox punts 39 yards to MIN 14, Center-H.Hatten, fair catch by J.Nailor."
+  },
+  {
+    "wallclock": "2025-12-25T23:28:14Z",
+    "period": 3,
+    "clock": "11:05",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:05."
+  },
+  {
+    "wallclock": "2025-12-25T23:30:47Z",
+    "period": 3,
+    "clock": "11:05",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Davenport",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right end to MIN 15 for 1 yard (J.Campbell; M.Davenport). ** Injury Update: MIN-A.Jones has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-25T23:31:26Z",
+    "period": 3,
+    "clock": "10:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Oliver",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass incomplete short left to J.Oliver (J.Mills)."
+  },
+  {
+    "wallclock": "2025-12-25T23:32:09Z",
+    "period": 3,
+    "clock": "10:22",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ya-Sin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robertson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass short left to J.Jefferson to MIN 21 for 6 yards (R.Ya-Sin; A.Robertson)."
+  },
+  {
+    "wallclock": "2025-12-25T23:32:47Z",
+    "period": 3,
+    "clock": "9:44",
+    "play_type": "Punt",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Raymond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 46 yards to DET 33, Center-A.DePaola. K.Raymond pushed ob at DET 36 for 3 yards (Z.Scott)."
+  },
+  {
+    "wallclock": "2025-12-25T23:33:49Z",
+    "period": 3,
+    "clock": "9:33",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs right end to DET 37 for 1 yard (J.Ward; J.Allen)."
+  },
+  {
+    "wallclock": "2025-12-25T23:34:34Z",
+    "period": 3,
+    "clock": "8:47",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff sacked at DET 28 for -9 yards (T.Jackson)."
+  },
+  {
+    "wallclock": "2025-12-25T23:35:19Z",
+    "period": 3,
+    "clock": "8:02",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.TeSlaa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.TeSlaa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass deep left intended for I.TeSlaa INTERCEPTED by B.Murphy [A.Van Ginkel] at MIN 38. B.Murphy to MIN 38 for no gain (I.TeSlaa)."
+  },
+  {
+    "wallclock": "2025-12-25T23:37:16Z",
+    "period": 3,
+    "clock": "7:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:57."
+  },
+  {
+    "wallclock": "2025-12-25T23:38:34Z",
+    "period": 3,
+    "clock": "7:57",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ya-Sin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Brosmer scrambles left guard to MIN 43 for 5 yards (J.Mills; J.Campbell).PENALTY on DET-R.Ya-Sin, Defensive Holding, 5 yards, enforced at MIN 43."
+  },
+  {
+    "wallclock": "2025-12-25T23:39:27Z",
+    "period": 3,
+    "clock": "7:34",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Chandler up the middle to DET 49 for 3 yards (J.Mills; J.Campbell)."
+  },
+  {
+    "wallclock": "2025-12-25T23:40:00Z",
+    "period": 3,
+    "clock": "7:01",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Oliver",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ya-Sin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Brosmer pass short left to J.Oliver to DET 41 for 8 yards (R.Ya-Sin)."
+  },
+  {
+    "wallclock": "2025-12-25T23:40:41Z",
+    "period": 3,
+    "clock": "6:20",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Chandler right guard to DET 36 for 5 yards (J.Mills; D.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-25T23:41:19Z",
+    "period": 3,
+    "clock": "5:42",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Anzalone",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Anzalone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Chandler right guard to DET 31 for 5 yards (J.Campbell; A.Anzalone). DET-A.Anzalone was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-25T23:42:29Z",
+    "period": 3,
+    "clock": "5:05",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Barnes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Davenport",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Chandler up the middle to DET 29 for 2 yards (D.Barnes; M.Davenport)."
+  },
+  {
+    "wallclock": "2025-12-25T23:43:05Z",
+    "period": 3,
+    "clock": "4:29",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer sacked at DET 29 for 0 yards (T.Williams)."
+  },
+  {
+    "wallclock": "2025-12-25T23:43:48Z",
+    "period": 3,
+    "clock": "3:46",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Muhammad",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer sacked at DET 34 for -5 yards (A.Muhammad)."
+  },
+  {
+    "wallclock": "2025-12-25T23:44:27Z",
+    "period": 3,
+    "clock": "3:03",
+    "play_type": "Field Goal Good",
+    "yards": 52,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Reichard 52 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-25T23:44:41Z",
+    "period": 3,
+    "clock": "3:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:03."
+  },
+  {
+    "wallclock": "2025-12-25T23:47:44Z",
+    "period": 3,
+    "clock": "3:03",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kennedy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ham",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 65 yards from MIN 35 to DET 0. T.Kennedy to DET 30 for 30 yards (T.Thomas; C.Ham)."
+  },
+  {
+    "wallclock": "2025-12-25T23:48:41Z",
+    "period": 3,
+    "clock": "2:57",
+    "play_type": "Pass Interception Return",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Goff pass short middle intended for A.St. Brown INTERCEPTED by H.Smith at DET 43. H.Smith to DET 42 for 1 yard (A.St. Brown)."
+  },
+  {
+    "wallclock": "2025-12-25T23:49:37Z",
+    "period": 3,
+    "clock": "2:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Reed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Brosmer pass incomplete deep left to J.Addison (D.Reed)."
+  },
+  {
+    "wallclock": "2025-12-25T23:50:20Z",
+    "period": 3,
+    "clock": "2:46",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Direct snap to T.Chandler.  T.Chandler right end to DET 38 for 4 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-12-25T23:50:59Z",
+    "period": 3,
+    "clock": "2:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-25T23:51:39Z",
+    "period": 3,
+    "clock": "1:57",
+    "play_type": "Field Goal Good",
+    "yards": 56,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Reichard 56 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-25T23:51:56Z",
+    "period": 3,
+    "clock": "1:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:57."
+  },
+  {
+    "wallclock": "2025-12-25T23:54:47Z",
+    "period": 3,
+    "clock": "1:57",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kennedy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Batty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 61 yards from MIN 35 to DET 4. T.Kennedy to DET 34 for 30 yards (T.Batty)."
+  },
+  {
+    "wallclock": "2025-12-25T23:55:31Z",
+    "period": 3,
+    "clock": "1:52",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs left tackle to DET 38 for 4 yards (B.Cashman; J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-12-25T23:56:06Z",
+    "period": 3,
+    "clock": "1:16",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs right guard to DET 40 for 2 yards (B.Cashman; J.Allen)."
+  },
+  {
+    "wallclock": "2025-12-25T23:56:51Z",
+    "period": 3,
+    "clock": "0:31",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass short left to A.St. Brown pushed ob at DET 47 for 7 yards (B.Murphy)."
+  },
+  {
+    "wallclock": "2025-12-25T23:56:51Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-26T00:00:30Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff sacked at DET 39 for -8 yards (sack split by D.Turner and A.Van Ginkel). FUMBLES (D.Turner) [D.Turner], RECOVERED by MIN-J.Redmond at DET 40."
+  },
+  {
+    "wallclock": "2025-12-26T00:01:29Z",
+    "period": 4,
+    "clock": "14:54",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Skule",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Brosmer pass short middle to A.Jones to DET 34 for 6 yards (M.Rodriguez).PENALTY on MIN-J.Skule, Offensive Holding, 10 yards, enforced at DET 40 - No Play."
+  },
+  {
+    "wallclock": "2025-12-26T00:02:22Z",
+    "period": 4,
+    "clock": "14:29",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer sacked at MIN 45 for -5 yards. FUMBLES, and recovers at MIN 46."
+  },
+  {
+    "wallclock": "2025-12-26T00:03:03Z",
+    "period": 4,
+    "clock": "13:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Brosmer pass incomplete short right to A.Jones."
+  },
+  {
+    "wallclock": "2025-12-26T00:03:46Z",
+    "period": 4,
+    "clock": "13:44",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lopez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones up the middle to 50 for 4 yards (R.Lopez)."
+  },
+  {
+    "wallclock": "2025-12-26T00:04:27Z",
+    "period": 4,
+    "clock": "13:03",
+    "play_type": "Punt",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Raymond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 41 yards to DET 9, Center-A.DePaola. K.Raymond pushed ob at DET 16 for 7 yards (I.Pace)."
+  },
+  {
+    "wallclock": "2025-12-26T00:04:58Z",
+    "period": 4,
+    "clock": "12:55",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:55."
+  },
+  {
+    "wallclock": "2025-12-26T00:07:29Z",
+    "period": 4,
+    "clock": "12:55",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs right end to DET 20 for 4 yards (B.Cashman; J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-12-26T00:08:04Z",
+    "period": 4,
+    "clock": "12:19",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gibbs left guard to DET 25 for 5 yards (D.Turner)."
+  },
+  {
+    "wallclock": "2025-12-26T00:08:39Z",
+    "period": 4,
+    "clock": "11:44",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Goff up the middle to DET 27 for 2 yards (J.Allen)."
+  },
+  {
+    "wallclock": "2025-12-26T00:09:12Z",
+    "period": 4,
+    "clock": "11:11",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Gibbs right tackle to DET 27 for no gain (I.Rodgers; B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-26T00:10:02Z",
+    "period": 4,
+    "clock": "10:21",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Gibbs right end to DET 24 for -3 yards (D.Turner)."
+  },
+  {
+    "wallclock": "2025-12-26T00:10:44Z",
+    "period": 4,
+    "clock": "9:39",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass short right to A.St. Brown to DET 29 for 5 yards (I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-12-26T00:11:23Z",
+    "period": 4,
+    "clock": "9:01",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Fox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Hatten",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Fox punts 70 yards to MIN 1, Center-H.Hatten, out of bounds."
+  },
+  {
+    "wallclock": "2025-12-26T00:11:52Z",
+    "period": 4,
+    "clock": "8:53",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:53."
+  },
+  {
+    "wallclock": "2025-12-26T00:14:41Z",
+    "period": 4,
+    "clock": "8:53",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Davenport",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Chandler up the middle to MIN 4 for 3 yards (M.Rodriguez; M.Davenport)."
+  },
+  {
+    "wallclock": "2025-12-26T00:15:16Z",
+    "period": 4,
+    "clock": "8:17",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Chandler up the middle to MIN 6 for 2 yards (M.Rodriguez; J.Mills)."
+  },
+  {
+    "wallclock": "2025-12-26T00:16:01Z",
+    "period": 4,
+    "clock": "7:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lopez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Brosmer pass incomplete short left to J.Nailor [R.Lopez]."
+  },
+  {
+    "wallclock": "2025-12-26T00:16:50Z",
+    "period": 4,
+    "clock": "7:24",
+    "play_type": "Punt",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Raymond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ham",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 63 yards to DET 31, Center-A.DePaola. K.Raymond to DET 45 for 14 yards (C.Ham; Z.Scott)."
+  },
+  {
+    "wallclock": "2025-12-26T00:17:48Z",
+    "period": 4,
+    "clock": "7:12",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Goff pass short left to D.Montgomery to MIN 42 for 13 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-26T00:18:26Z",
+    "period": 4,
+    "clock": "6:33",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Goff pass short right to D.Montgomery to MIN 40 for 2 yards (B.Murphy)."
+  },
+  {
+    "wallclock": "2025-12-26T00:19:04Z",
+    "period": 4,
+    "clock": "5:56",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Montgomery right tackle to MIN 32 for 8 yards (B.Cashman; T.Jackson). MIN-T.Jackson was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-26T00:20:52Z",
+    "period": 4,
+    "clock": "5:27",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Montgomery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Montgomery up the middle to MIN 30 for 2 yards (J.Allen; B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-26T00:21:29Z",
+    "period": 4,
+    "clock": "4:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass incomplete short right to A.St. Brown (J.Redmond)."
+  },
+  {
+    "wallclock": "2025-12-26T00:22:02Z",
+    "period": 4,
+    "clock": "4:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Raymond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass incomplete short left to K.Raymond (H.Smith)."
+  },
+  {
+    "wallclock": "2025-12-26T00:22:49Z",
+    "period": 4,
+    "clock": "4:39",
+    "play_type": "Field Goal Good",
+    "yards": 48,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Hatten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Fox",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Bates 48 yard field goal is GOOD, Center-H.Hatten, Holder-J.Fox."
+  },
+  {
+    "wallclock": "2025-12-26T00:24:27Z",
+    "period": 4,
+    "clock": "4:39",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the MIN 35."
+  },
+  {
+    "wallclock": "2025-12-26T00:25:17Z",
+    "period": 4,
+    "clock": "4:39",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Davenport",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right tackle to MIN 35 for no gain (M.Davenport)."
+  },
+  {
+    "wallclock": "2025-12-26T00:26:06Z",
+    "period": 4,
+    "clock": "3:52",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIN at 03:52."
+  },
+  {
+    "wallclock": "2025-12-26T00:26:50Z",
+    "period": 4,
+    "clock": "3:43",
+    "play_type": "Rushing Touchdown",
+    "yards": 65,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Addison right end for 65 yards, TOUCHDOWN. W.Reichard extra point is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-26T00:29:40Z",
+    "period": 4,
+    "clock": "3:43",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the DET 35."
+  },
+  {
+    "wallclock": "2025-12-26T00:30:33Z",
+    "period": 4,
+    "clock": "3:43",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass deep right to J.Williams to MIN 43 for 22 yards (T.Jackson). ** Injury Update: MIN-T.Jackson has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-26T00:31:02Z",
+    "period": 4,
+    "clock": "3:14",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Firkser",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Goff pass incomplete short right to A.Firkser."
+  },
+  {
+    "wallclock": "2025-12-26T00:31:40Z",
+    "period": 4,
+    "clock": "3:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass incomplete deep middle to A.St. Brown [J.Hargrave]."
+  },
+  {
+    "wallclock": "2025-12-26T00:32:23Z",
+    "period": 4,
+    "clock": "3:08",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff FUMBLES (Aborted) at MIN 48, RECOVERED by MIN-A.Van Ginkel at DET 45."
+  },
+  {
+    "wallclock": "2025-12-26T00:34:05Z",
+    "period": 4,
+    "clock": "3:05",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Barnes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Reader",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left tackle to DET 42 for 3 yards (D.Barnes; D.Reader)."
+  },
+  {
+    "wallclock": "2025-12-26T00:34:31Z",
+    "period": 4,
+    "clock": "3:01",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by DET at 03:01."
+  },
+  {
+    "wallclock": "2025-12-26T00:35:05Z",
+    "period": 4,
+    "clock": "3:01",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Rodriguez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right guard to DET 40 for 2 yards (M.Rodriguez)."
+  },
+  {
+    "wallclock": "2025-12-26T00:35:31Z",
+    "period": 4,
+    "clock": "2:57",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by DET at 02:57."
+  },
+  {
+    "wallclock": "2025-12-26T00:36:11Z",
+    "period": 4,
+    "clock": "2:57",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Brosmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ya-Sin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Brosmer pass short left to J.Jefferson to DET 30 for 10 yards (R.Ya-Sin)."
+  },
+  {
+    "wallclock": "2025-12-26T00:36:57Z",
+    "period": 4,
+    "clock": "2:10",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Rodriguez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones up the middle to DET 30 for no gain (M.Rodriguez)."
+  },
+  {
+    "wallclock": "2025-12-26T00:37:33Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-26T00:39:59Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Reed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right end to DET 29 for 1 yard (D.Thomas; D.Reed)."
+  },
+  {
+    "wallclock": "2025-12-26T00:40:21Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by DET at 01:55."
+  },
+  {
+    "wallclock": "2025-12-26T00:40:56Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hutchinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones up the middle to DET 24 for 5 yards (A.Hutchinson)."
+  },
+  {
+    "wallclock": "2025-12-26T00:41:47Z",
+    "period": 4,
+    "clock": "1:08",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIN at 01:08."
+  },
+  {
+    "wallclock": "2025-12-26T00:42:42Z",
+    "period": 4,
+    "clock": "1:04",
+    "play_type": "Field Goal Good",
+    "yards": 42,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Reichard 42 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-26T00:44:12Z",
+    "period": 4,
+    "clock": "1:04",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the DET 35."
+  },
+  {
+    "wallclock": "2025-12-26T00:44:55Z",
+    "period": 4,
+    "clock": "1:04",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.TeSlaa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass short right to I.TeSlaa to MIN 48 for 17 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-26T00:45:17Z",
+    "period": 4,
+    "clock": "0:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.St",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Goff pass incomplete short left to A.St. Brown. DET-A.St. Brown was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-26T00:45:45Z",
+    "period": 4,
+    "clock": "0:38",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #4 by DET at 00:38."
+  },
+  {
+    "wallclock": "2025-12-26T00:48:01Z",
+    "period": 4,
+    "clock": "0:38",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Goff pass short middle to J.Gibbs to MIN 35 for 13 yards (B.Cashman; E.Wilson)."
+  },
+  {
+    "wallclock": "2025-12-26T00:48:27Z",
+    "period": 4,
+    "clock": "0:12",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Goff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Raymond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Goff pass short left to K.Raymond to MIN 30 for 5 yards (F.Moreau)."
+  },
+  {
+    "wallclock": "2025-12-26T00:48:27Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

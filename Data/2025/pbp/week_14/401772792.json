@@ -1,0 +1,4292 @@
+[
+  {
+    "wallclock": "2025-12-07T18:02:44Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 54,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Tipton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 64 yards from TB 35 to NO 1. M.Tipton ran ob at TB 45 for 54 yards (R.Miller)."
+  },
+  {
+    "wallclock": "2025-12-07T18:03:37Z",
+    "period": 1,
+    "clock": "14:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass incomplete deep right to C.Olave."
+  },
+  {
+    "wallclock": "2025-12-07T18:04:19Z",
+    "period": 1,
+    "clock": "14:46",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short middle to D.Vele to TB 29 for 16 yards (L.David)."
+  },
+  {
+    "wallclock": "2025-12-07T18:04:58Z",
+    "period": 1,
+    "clock": "14:08",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal left guard to TB 26 for 3 yards (L.David; H.Reddick)."
+  },
+  {
+    "wallclock": "2025-12-07T18:05:33Z",
+    "period": 1,
+    "clock": "13:33",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short middle to J.Johnson to TB 14 for 12 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-12-07T18:06:01Z",
+    "period": 1,
+    "clock": "13:05",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough left end pushed ob at TB 3 for 11 yards (J.Dean)."
+  },
+  {
+    "wallclock": "2025-12-07T18:06:38Z",
+    "period": 1,
+    "clock": "12:24",
+    "play_type": "Rushing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) D.Neal up the middle for 3 yards, TOUCHDOWN. C.Smyth extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-07T18:07:52Z",
+    "period": 1,
+    "clock": "12:24",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:24."
+  },
+  {
+    "wallclock": "2025-12-07T18:10:39Z",
+    "period": 1,
+    "clock": "12:24",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 55 yards from NO 35 to TB 10. K.Johnson to TB 33 for 23 yards (I.Yiadom)."
+  },
+  {
+    "wallclock": "2025-12-07T18:11:25Z",
+    "period": 1,
+    "clock": "12:19",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short left to E.Egbuka pushed ob at TB 39 for 6 yards (Q.Riley)."
+  },
+  {
+    "wallclock": "2025-12-07T18:12:05Z",
+    "period": 1,
+    "clock": "11:42",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left guard to TB 38 for -1 yards (D.Godchaux)."
+  },
+  {
+    "wallclock": "2025-12-07T18:12:47Z",
+    "period": 1,
+    "clock": "10:59",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NO-C.Young, Neutral Zone Infraction, 5 yards, enforced at TB 38 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:13:38Z",
+    "period": 1,
+    "clock": "10:41",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to B.Irving pushed ob at TB 45 for 2 yards (J.Howden)."
+  },
+  {
+    "wallclock": "2025-12-07T18:14:21Z",
+    "period": 1,
+    "clock": "10:01",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to C.Otton to NO 48 for 7 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-12-07T18:14:48Z",
+    "period": 1,
+    "clock": "9:34",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Irving up the middle to NO 45 for 3 yards (N.Shepherd; C.Jordan)."
+  },
+  {
+    "wallclock": "2025-12-07T18:15:28Z",
+    "period": 1,
+    "clock": "8:54",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short right to C.Godwin to NO 24 for 21 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-07T18:16:16Z",
+    "period": 1,
+    "clock": "7:57",
+    "play_type": "Passing Touchdown",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Mayfield pass short left to B.Irving for 24 yards, TOUCHDOWN. C.McLaughlin extra point is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-12-07T18:17:18Z",
+    "period": 1,
+    "clock": "7:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:57."
+  },
+  {
+    "wallclock": "2025-12-07T18:20:14Z",
+    "period": 1,
+    "clock": "7:57",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullock",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 61 yards from TB 35 to NO 4. D.Pettis pushed ob at NO 23 for 19 yards (J.Bullock)."
+  },
+  {
+    "wallclock": "2025-12-07T18:21:05Z",
+    "period": 1,
+    "clock": "7:52",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough sacked at NO 16 for -7 yards (V.Vea)."
+  },
+  {
+    "wallclock": "2025-12-07T18:21:49Z",
+    "period": 1,
+    "clock": "7:08",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to J.Johnson to NO 22 for 6 yards (L.David)."
+  },
+  {
+    "wallclock": "2025-12-07T18:22:31Z",
+    "period": 1,
+    "clock": "6:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete deep left to D.Vele."
+  },
+  {
+    "wallclock": "2025-12-07T18:23:18Z",
+    "period": 1,
+    "clock": "6:21",
+    "play_type": "Punt",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hayes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 48 yards to TB 30, Center-Z.Wood. K.Johnson pushed ob at TB 43 for 13 yards (T.Hill).PENALTY on TB-J.Hayes, Offensive Holding, 10 yards, enforced at TB 30."
+  },
+  {
+    "wallclock": "2025-12-07T18:25:00Z",
+    "period": 1,
+    "clock": "6:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:10."
+  },
+  {
+    "wallclock": "2025-12-07T18:26:49Z",
+    "period": 1,
+    "clock": "6:10",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Goedeke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on TB-L.Goedeke, False Start, 5 yards, enforced at TB 20 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:27:27Z",
+    "period": 1,
+    "clock": "6:10",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Irving right tackle to TB 21 for 6 yards (N.Shepherd)."
+  },
+  {
+    "wallclock": "2025-12-07T18:28:01Z",
+    "period": 1,
+    "clock": "5:37",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to C.Godwin to TB 25 for 4 yards (J.Howden)."
+  },
+  {
+    "wallclock": "2025-12-07T18:28:45Z",
+    "period": 1,
+    "clock": "4:53",
+    "play_type": "Penalty",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Shepard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass short left intended for S.Shepard INTERCEPTED by J.Sanker (Q.Riley) at TB 40. J.Sanker to TB 40 for no gain (E.Egbuka).PENALTY on NO-Q.Riley, Defensive Pass Interference, 5 yards, enforced at TB 25 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:30:00Z",
+    "period": 1,
+    "clock": "4:44",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.White left end to TB 35 for 5 yards (D.Davis)."
+  },
+  {
+    "wallclock": "2025-12-07T18:30:44Z",
+    "period": 1,
+    "clock": "4:00",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to C.Godwin to TB 46 for 11 yards (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-12-07T18:31:28Z",
+    "period": 1,
+    "clock": "3:16",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chukwuma",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass incomplete short left to T.Johnson.PENALTY on TB-B.Chukwuma, Ineligible Downfield Pass, 5 yards, enforced at TB 46 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:32:35Z",
+    "period": 1,
+    "clock": "3:12",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to E.Egbuka pushed ob at 50 for 9 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-07T18:33:18Z",
+    "period": 1,
+    "clock": "2:30",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Irving left guard to NO 47 for 3 yards (J.Sanker; Q.Riley)."
+  },
+  {
+    "wallclock": "2025-12-07T18:34:11Z",
+    "period": 1,
+    "clock": "1:42",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TB at 01:42."
+  },
+  {
+    "wallclock": "2025-12-07T18:35:02Z",
+    "period": 1,
+    "clock": "1:42",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.White left tackle to NO 45 for 2 yards (J.Howden)."
+  },
+  {
+    "wallclock": "2025-12-07T18:35:44Z",
+    "period": 1,
+    "clock": "1:01",
+    "play_type": "Rush",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving right end to TB 48 for -7 yards (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-12-07T18:36:29Z",
+    "period": 1,
+    "clock": "0:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:57."
+  },
+  {
+    "wallclock": "2025-12-07T18:38:51Z",
+    "period": 1,
+    "clock": "0:57",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Hill to NO 47 for -5 yards. FUMBLES, and recovers at NO 48. T.Hill to NO 49 for 1 yard."
+  },
+  {
+    "wallclock": "2025-12-07T18:39:29Z",
+    "period": 1,
+    "clock": "0:20",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short middle to F.Moreau to TB 35 for 16 yards (T.Smith; S.Dennis)."
+  },
+  {
+    "wallclock": "2025-12-07T18:39:29Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-07T18:42:48Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short right to T.Hill."
+  },
+  {
+    "wallclock": "2025-12-07T18:43:33Z",
+    "period": 2,
+    "clock": "14:57",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Gaines",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough sacked at TB 38 for -3 yards (G.Gaines)."
+  },
+  {
+    "wallclock": "2025-12-07T18:44:03Z",
+    "period": 2,
+    "clock": "14:28",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short left to C.Olave to TB 30 for 8 yards (J.Dean)."
+  },
+  {
+    "wallclock": "2025-12-07T18:44:46Z",
+    "period": 2,
+    "clock": "13:45",
+    "play_type": "Field Goal Missed",
+    "yards": 48,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth 48 yard field goal is No Good, Wide Left, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-07T18:45:13Z",
+    "period": 2,
+    "clock": "13:41",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:41."
+  },
+  {
+    "wallclock": "2025-12-07T18:47:47Z",
+    "period": 2,
+    "clock": "13:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass incomplete deep left to E.Egbuka."
+  },
+  {
+    "wallclock": "2025-12-07T18:48:26Z",
+    "period": 2,
+    "clock": "13:37",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.White up the middle to TB 41 for 3 yards (N.Shepherd).PENALTY on NO-N.Shepherd, Tripping, 15 yards, enforced at TB 41."
+  },
+  {
+    "wallclock": "2025-12-07T18:49:40Z",
+    "period": 2,
+    "clock": "13:15",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left guard to NO 49 for -5 yards (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-12-07T18:50:21Z",
+    "period": 2,
+    "clock": "12:33",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield scrambles left end to NO 47 for 2 yards (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-12-07T18:51:04Z",
+    "period": 2,
+    "clock": "11:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right to E.Egbuka."
+  },
+  {
+    "wallclock": "2025-12-07T18:51:46Z",
+    "period": 2,
+    "clock": "11:46",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dixon punts 31 yards to NO 16, Center-E.Deckers, fair catch by D.Pettis."
+  },
+  {
+    "wallclock": "2025-12-07T18:52:17Z",
+    "period": 2,
+    "clock": "11:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:39."
+  },
+  {
+    "wallclock": "2025-12-07T18:54:47Z",
+    "period": 2,
+    "clock": "11:39",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal right guard to NO 19 for 3 yards (L.David; S.Dennis).PENALTY on TB-L.Hall, Defensive Offside, 5 yards, enforced at NO 16 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:55:37Z",
+    "period": 2,
+    "clock": "11:20",
+    "play_type": "Pass Interception Return",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass deep right intended for C.Olave INTERCEPTED by Z.McCollum at TB 41. Z.McCollum pushed ob at NO 40 for 19 yards (D.Neal)."
+  },
+  {
+    "wallclock": "2025-12-07T18:56:47Z",
+    "period": 2,
+    "clock": "11:08",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left tackle to NO 28 for 12 yards (C.Rumph; J.Howden)."
+  },
+  {
+    "wallclock": "2025-12-07T18:57:26Z",
+    "period": 2,
+    "clock": "10:30",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left guard to NO 23 for 5 yards (J.Bullard; K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-07T18:57:50Z",
+    "period": 2,
+    "clock": "10:04",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Irving left end to NO 23 for no gain (C.Rumph)."
+  },
+  {
+    "wallclock": "2025-12-07T18:58:35Z",
+    "period": 2,
+    "clock": "9:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right to C.Godwin (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-07T18:59:28Z",
+    "period": 2,
+    "clock": "9:11",
+    "play_type": "Field Goal Good",
+    "yards": 41,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " C.McLaughlin 41 yard field goal is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-12-07T18:59:55Z",
+    "period": 2,
+    "clock": "9:11",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:11."
+  },
+  {
+    "wallclock": "2025-12-07T19:02:24Z",
+    "period": 2,
+    "clock": "9:11",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 60 yards from TB 35 to NO 5. D.Pettis pushed ob at NO 28 for 23 yards (J.Parrish)."
+  },
+  {
+    "wallclock": "2025-12-07T19:03:20Z",
+    "period": 2,
+    "clock": "9:02",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Hill right guard to NO 30 for 2 yards (A.Winfield)."
+  },
+  {
+    "wallclock": "2025-12-07T19:03:55Z",
+    "period": 2,
+    "clock": "8:27",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Richards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NO-A.Richards, False Start, 5 yards, enforced at NO 30 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T19:04:38Z",
+    "period": 2,
+    "clock": "8:07",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to E.Hull pushed ob at NO 31 for 6 yards (Z.McCollum)."
+  },
+  {
+    "wallclock": "2025-12-07T19:05:22Z",
+    "period": 2,
+    "clock": "7:27",
+    "play_type": "Sack",
+    "yards": -13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Braswell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough sacked at NO 18 for -13 yards (C.Braswell)."
+  },
+  {
+    "wallclock": "2025-12-07T19:06:10Z",
+    "period": 2,
+    "clock": "6:38",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 53 yards to TB 29, Center-Z.Wood. K.Johnson MUFFS catch, and recovers at TB 28. K.Johnson pushed ob at TB 28 for no gain (M.Davis)."
+  },
+  {
+    "wallclock": "2025-12-07T19:06:57Z",
+    "period": 2,
+    "clock": "6:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:29."
+  },
+  {
+    "wallclock": "2025-12-07T19:09:13Z",
+    "period": 2,
+    "clock": "6:29",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.White up the middle to TB 28 for no gain (C.Granderson; D.Davis)."
+  },
+  {
+    "wallclock": "2025-12-07T19:09:55Z",
+    "period": 2,
+    "clock": "5:48",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bresee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Irving left guard to TB 30 for 2 yards (B.Bresee)."
+  },
+  {
+    "wallclock": "2025-12-07T19:10:37Z",
+    "period": 2,
+    "clock": "5:06",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield scrambles up the middle to TB 42 for 12 yards (C.Rumph)."
+  },
+  {
+    "wallclock": "2025-12-07T19:11:24Z",
+    "period": 2,
+    "clock": "4:19",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.White left end to TB 45 for 3 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-07T19:11:53Z",
+    "period": 2,
+    "clock": "3:50",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) R.White left guard to NO 49 for 6 yards (D.Godchaux; A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-07T19:12:36Z",
+    "period": 2,
+    "clock": "3:07",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bresee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bredeson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving up the middle to NO 49 for no gain (B.Bresee). TB-B.Bredeson was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-07T19:14:59Z",
+    "period": 2,
+    "clock": "2:42",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Tucker up the middle to NO 49 for no gain (D.Davis)."
+  },
+  {
+    "wallclock": "2025-12-07T19:16:17Z",
+    "period": 2,
+    "clock": "2:36",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Hull up the middle to TB 47 for 4 yards (Y.Diaby)."
+  },
+  {
+    "wallclock": "2025-12-07T19:16:56Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-07T19:19:37Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Radunz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NO-D.Radunz, False Start, 5 yards, enforced at TB 47 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T19:20:26Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to C.Olave to TB 42 for 10 yards (J.Parrish).PENALTY on NO-C.Olave, Illegal Shift, 5 yards, enforced at NO 48 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T19:21:24Z",
+    "period": 2,
+    "clock": "1:54",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to J.Johnson to TB 45 for 12 yards (T.Smith). TB-T.Smith was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-07T19:22:27Z",
+    "period": 2,
+    "clock": "1:39",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TB at 01:39."
+  },
+  {
+    "wallclock": "2025-12-07T19:22:40Z",
+    "period": 2,
+    "clock": "1:39",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal right tackle to TB 42 for 3 yards (C.Izien; L.David)."
+  },
+  {
+    "wallclock": "2025-12-07T19:23:22Z",
+    "period": 2,
+    "clock": "0:57",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal left guard to TB 44 for -2 yards (H.Reddick). TB-H.Reddick was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-07T19:24:11Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:53."
+  },
+  {
+    "wallclock": "2025-12-07T19:24:49Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right to C.Godwin (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-12-07T19:25:32Z",
+    "period": 2,
+    "clock": "0:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-07T19:26:18Z",
+    "period": 2,
+    "clock": "0:46",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.White right guard to NO 46 for 9 yards (J.Howden)."
+  },
+  {
+    "wallclock": "2025-12-07T19:26:43Z",
+    "period": 2,
+    "clock": "0:40",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NO at 00:40."
+  },
+  {
+    "wallclock": "2025-12-07T19:27:22Z",
+    "period": 2,
+    "clock": "0:40",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield right tackle to NO 42 for 4 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-07T19:27:41Z",
+    "period": 2,
+    "clock": "0:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass incomplete short middle to E.Egbuka (P.Werner)."
+  },
+  {
+    "wallclock": "2025-12-07T19:28:25Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Shepard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to S.Shepard to NO 37 for 5 yards (Q.Riley)."
+  },
+  {
+    "wallclock": "2025-12-07T19:28:45Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by TB at 00:11."
+  },
+  {
+    "wallclock": "2025-12-07T19:29:27Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NO at 00:11."
+  },
+  {
+    "wallclock": "2025-12-07T19:30:15Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to E.Egbuka ran ob at NO 28 for 9 yards (A.Taylor).PENALTY on TB-E.Egbuka, Offensive Pass Interference, 10 yards, enforced at NO 37 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T19:31:31Z",
+    "period": 2,
+    "clock": "0:07",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by NO at 00:07."
+  },
+  {
+    "wallclock": "2025-12-07T19:32:14Z",
+    "period": 2,
+    "clock": "0:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep left to E.Egbuka."
+  },
+  {
+    "wallclock": "2025-12-07T19:33:01Z",
+    "period": 2,
+    "clock": "0:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep left."
+  },
+  {
+    "wallclock": "2025-12-07T19:33:01Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-07T19:47:27Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 65 yards from NO 35 to landing zone to end zone, Touchback to the TB 20."
+  },
+  {
+    "wallclock": "2025-12-07T19:48:20Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving up the middle to TB 20 for no gain (C.Rumph)."
+  },
+  {
+    "wallclock": "2025-12-07T19:48:59Z",
+    "period": 3,
+    "clock": "14:22",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short middle to C.Godwin to TB 32 for 12 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-07T19:49:39Z",
+    "period": 3,
+    "clock": "13:41",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short left to C.Otton to TB 41 for 9 yards (J.Sanker; P.Werner)."
+  },
+  {
+    "wallclock": "2025-12-07T19:50:27Z",
+    "period": 3,
+    "clock": "12:54",
+    "play_type": "Pass Interception Return",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Durham",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass deep right intended for K.Johnson INTERCEPTED by A.Taylor at NO 43. A.Taylor to TB 47 for 10 yards (P.Durham)."
+  },
+  {
+    "wallclock": "2025-12-07T19:51:25Z",
+    "period": 3,
+    "clock": "12:46",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:46."
+  },
+  {
+    "wallclock": "2025-12-07T19:53:43Z",
+    "period": 3,
+    "clock": "12:46",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal right guard to TB 42 for 5 yards (C.Izien)."
+  },
+  {
+    "wallclock": "2025-12-07T19:54:16Z",
+    "period": 3,
+    "clock": "12:13",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal left end pushed ob at TB 34 for 8 yards (J.Dean)."
+  },
+  {
+    "wallclock": "2025-12-07T19:54:56Z",
+    "period": 3,
+    "clock": "11:27",
+    "play_type": "Rushing Touchdown",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Shough left end for 34 yards, TOUCHDOWN. C.Smyth extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-07T19:56:05Z",
+    "period": 3,
+    "clock": "11:27",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:27."
+  },
+  {
+    "wallclock": "2025-12-07T19:58:58Z",
+    "period": 3,
+    "clock": "11:27",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 65 yards from NO 35 to end zone, Touchback to the TB 35."
+  },
+  {
+    "wallclock": "2025-12-07T19:59:44Z",
+    "period": 3,
+    "clock": "11:27",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Tucker left end to TB 41 for 6 yards (J.Williams)."
+  },
+  {
+    "wallclock": "2025-12-07T20:00:22Z",
+    "period": 3,
+    "clock": "10:49",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Tucker left end to TB 44 for 3 yards (D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-07T20:00:47Z",
+    "period": 3,
+    "clock": "10:25",
+    "play_type": "Penalty",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Barton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Tucker up the middle to 50 for 6 yards (D.Davis; T.Burgess).PENALTY on TB-G.Barton, Offensive Holding, 9 yards, enforced at TB 44 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T20:01:44Z",
+    "period": 3,
+    "clock": "10:01",
+    "play_type": "Penalty",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep right to T.Johnson.PENALTY on NO-J.Sanker, Defensive Pass Interference, 28 yards, enforced at TB 35 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T20:02:47Z",
+    "period": 3,
+    "clock": "9:55",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.White left guard to NO 26 for 11 yards (T.Burgess; D.Davis)."
+  },
+  {
+    "wallclock": "2025-12-07T20:03:16Z",
+    "period": 3,
+    "clock": "9:27",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) R.White left tackle to NO 19 for 7 yards (D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-07T20:03:58Z",
+    "period": 3,
+    "clock": "8:45",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.White left tackle to NO 14 for 5 yards (D.Godchaux; D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-07T20:04:39Z",
+    "period": 3,
+    "clock": "8:04",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Tucker left end to NO 1 for 13 yards (T.Burgess)."
+  },
+  {
+    "wallclock": "2025-12-07T20:05:02Z",
+    "period": 3,
+    "clock": "7:37",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle) S.Tucker up the middle for 1 yard, TOUCHDOWN. C.McLaughlin extra point is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-12-07T20:06:10Z",
+    "period": 3,
+    "clock": "7:37",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:37."
+  },
+  {
+    "wallclock": "2025-12-07T20:08:55Z",
+    "period": 3,
+    "clock": "7:37",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 51 yards from TB 35 to NO 14. D.Pettis to NO 35 for 21 yards (J.Parrish)."
+  },
+  {
+    "wallclock": "2025-12-07T20:09:42Z",
+    "period": 3,
+    "clock": "7:32",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal left guard to NO 39 for 4 yards (C.Izien)."
+  },
+  {
+    "wallclock": "2025-12-07T20:10:13Z",
+    "period": 3,
+    "clock": "7:01",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Hall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal up the middle to NO 40 for 1 yard (L.Hall; V.Vea)."
+  },
+  {
+    "wallclock": "2025-12-07T20:10:57Z",
+    "period": 3,
+    "clock": "6:17",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to J.Johnson to NO 48 for 8 yards (C.Izien)."
+  },
+  {
+    "wallclock": "2025-12-07T20:11:22Z",
+    "period": 3,
+    "clock": "5:51",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Neal right guard to TB 48 for 4 yards (C.Izien)."
+  },
+  {
+    "wallclock": "2025-12-07T20:11:59Z",
+    "period": 3,
+    "clock": "5:15",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Estime up the middle to TB 39 for 9 yards (A.Winfield). TB-S.Dennis was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-07T20:13:18Z",
+    "period": 3,
+    "clock": "4:49",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Estime up the middle to TB 38 for 1 yard (C.Izien; V.Vea)."
+  },
+  {
+    "wallclock": "2025-12-07T20:13:59Z",
+    "period": 3,
+    "clock": "4:08",
+    "play_type": "Rush",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal right end to TB 17 for 21 yards (A.Winfield; D.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T20:14:34Z",
+    "period": 3,
+    "clock": "3:33",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Neal right guard to TB 15 for 2 yards (L.David)."
+  },
+  {
+    "wallclock": "2025-12-07T20:14:57Z",
+    "period": 3,
+    "clock": "3:10",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brewer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Neal left end to TB 9 for 6 yards (C.Brewer)."
+  },
+  {
+    "wallclock": "2025-12-07T20:15:41Z",
+    "period": 3,
+    "clock": "2:26",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Braswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Estime up the middle to TB 8 for 1 yard (C.Braswell, C.Izien)."
+  },
+  {
+    "wallclock": "2025-12-07T20:16:13Z",
+    "period": 3,
+    "clock": "1:54",
+    "play_type": "Penalty",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Hall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ruiz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short right to C.Olave to TB 5 for 3 yards (L.Hall).PENALTY on NO-C.Ruiz, Ineligible Downfield Pass, 4 yards, enforced at TB 8 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T20:17:20Z",
+    "period": 3,
+    "clock": "1:32",
+    "play_type": "Field Goal Good",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Smyth 30 yard field goal is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-07T20:17:41Z",
+    "period": 3,
+    "clock": "1:32",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:32."
+  },
+  {
+    "wallclock": "2025-12-07T20:20:20Z",
+    "period": 3,
+    "clock": "1:32",
+    "play_type": "Kickoff",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 53 yards from NO 35 to TB 12. K.Johnson to TB 28 for 16 yards (D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-07T20:21:09Z",
+    "period": 3,
+    "clock": "1:27",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Irving up the middle to TB 30 for 2 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-12-07T20:21:49Z",
+    "period": 3,
+    "clock": "0:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right to R.White (C.Jordan)."
+  },
+  {
+    "wallclock": "2025-12-07T20:22:31Z",
+    "period": 3,
+    "clock": "0:44",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield scrambles up the middle ran ob at TB 46 for 16 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-07T20:22:31Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-07T20:26:13Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Tucker right end to TB 49 for 3 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-07T20:26:54Z",
+    "period": 4,
+    "clock": "14:20",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Tucker right guard to NO 48 for 3 yards (N.Shepherd)."
+  },
+  {
+    "wallclock": "2025-12-07T20:27:38Z",
+    "period": 4,
+    "clock": "13:37",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield scrambles up the middle to NO 46 for 2 yards (C.Young)."
+  },
+  {
+    "wallclock": "2025-12-07T20:28:18Z",
+    "period": 4,
+    "clock": "12:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right to C.Godwin (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-07T20:28:57Z",
+    "period": 4,
+    "clock": "12:48",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:48."
+  },
+  {
+    "wallclock": "2025-12-07T20:31:40Z",
+    "period": 4,
+    "clock": "12:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Stoll",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass incomplete short right to J.Stoll (Y.Diaby). ** Injury Update: TB-S.Dennis has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-07T20:32:21Z",
+    "period": 4,
+    "clock": "12:43",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal left guard to NO 47 for no gain (E.Roberts)."
+  },
+  {
+    "wallclock": "2025-12-07T20:32:54Z",
+    "period": 4,
+    "clock": "12:10",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short left to C.Olave to TB 41 for 12 yards (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-12-07T20:33:26Z",
+    "period": 4,
+    "clock": "11:39",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Gaines",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Neal right guard to TB 39 for 2 yards (G.Gaines)."
+  },
+  {
+    "wallclock": "2025-12-07T20:34:11Z",
+    "period": 4,
+    "clock": "10:54",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Nelson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short middle to C.Olave to TB 29 for 10 yards (A.Nelson)."
+  },
+  {
+    "wallclock": "2025-12-07T20:34:39Z",
+    "period": 4,
+    "clock": "10:26",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Neal up the middle to TB 25 for 4 yards (Z.McCollum; L.Hall)."
+  },
+  {
+    "wallclock": "2025-12-07T20:35:19Z",
+    "period": 4,
+    "clock": "9:45",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough right end to TB 27 for -2 yards (C.Izien)."
+  },
+  {
+    "wallclock": "2025-12-07T20:36:01Z",
+    "period": 4,
+    "clock": "9:03",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to D.Neal pushed ob at TB 13 for 14 yards (A.Winfield)."
+  },
+  {
+    "wallclock": "2025-12-07T20:36:44Z",
+    "period": 4,
+    "clock": "8:34",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TB at 08:34."
+  },
+  {
+    "wallclock": "2025-12-07T20:37:41Z",
+    "period": 4,
+    "clock": "8:26",
+    "play_type": "Rushing Touchdown",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Shough scrambles left end for 13 yards, TOUCHDOWN. C.Smyth extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-07T20:40:44Z",
+    "period": 4,
+    "clock": "8:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:26."
+  },
+  {
+    "wallclock": "2025-12-07T20:41:32Z",
+    "period": 4,
+    "clock": "8:26",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 33 yards from NO 35 to TB 32, short of landing zone.PENALTY on NO-C.Smyth, Kickoff Short of Landing Zone, placed at TB 40."
+  },
+  {
+    "wallclock": "2025-12-07T20:42:20Z",
+    "period": 4,
+    "clock": "8:26",
+    "play_type": "Rush",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left guard pushed ob at NO 28 for 32 yards (J.Howden)."
+  },
+  {
+    "wallclock": "2025-12-07T20:43:06Z",
+    "period": 4,
+    "clock": "7:46",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to R.White to NO 26 for 2 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-12-07T20:43:49Z",
+    "period": 4,
+    "clock": "7:05",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep right to E.Egbuka."
+  },
+  {
+    "wallclock": "2025-12-07T20:44:32Z",
+    "period": 4,
+    "clock": "7:00",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to C.Godwin to NO 19 for 7 yards (D.Davis)."
+  },
+  {
+    "wallclock": "2025-12-07T20:44:58Z",
+    "period": 4,
+    "clock": "6:35",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) R.White left guard to NO 17 for 2 yards (D.Godchaux; D.Davis)."
+  },
+  {
+    "wallclock": "2025-12-07T20:45:39Z",
+    "period": 4,
+    "clock": "5:52",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on TB-M.Jordan, False Start, 5 yards, enforced at NO 17 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T20:46:27Z",
+    "period": 4,
+    "clock": "5:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep right to E.Egbuka."
+  },
+  {
+    "wallclock": "2025-12-07T20:47:08Z",
+    "period": 4,
+    "clock": "5:47",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Irving up the middle to NO 19 for 3 yards (N.Shepherd; J.Williams)."
+  },
+  {
+    "wallclock": "2025-12-07T20:47:53Z",
+    "period": 4,
+    "clock": "5:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep left to C.Otton."
+  },
+  {
+    "wallclock": "2025-12-07T20:48:38Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Field Goal Good",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.McLaughlin 37 yard field goal is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-12-07T20:50:27Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Kickoff",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Watts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 58 yards from TB 35 to NO 7. D.Pettis to NO 34 for 27 yards (M.Watts; J.Parrish).PENALTY on NO-C.Rumph, Offensive Holding, 10 yards, enforced at NO 28."
+  },
+  {
+    "wallclock": "2025-12-07T20:51:48Z",
+    "period": 4,
+    "clock": "4:48",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Braswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal up the middle to NO 22 for 4 yards (Y.Diaby; C.Braswell). ** Injury Update: TB-T.Smith has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-07T20:52:32Z",
+    "period": 4,
+    "clock": "4:05",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short right to T.Hill."
+  },
+  {
+    "wallclock": "2025-12-07T20:53:12Z",
+    "period": 4,
+    "clock": "4:02",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short middle to D.Vele to NO 33 for 11 yards (A.Winfield) [Y.Diaby]. ** Injury Update: TB-H.Reddick has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-07T20:53:53Z",
+    "period": 4,
+    "clock": "3:21",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough left end to NO 35 for 2 yards (J.Dean)."
+  },
+  {
+    "wallclock": "2025-12-07T20:54:14Z",
+    "period": 4,
+    "clock": "3:14",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TB at 03:14."
+  },
+  {
+    "wallclock": "2025-12-07T20:55:01Z",
+    "period": 4,
+    "clock": "3:14",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Gaines",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal left tackle to NO 38 for 3 yards (G.Gaines)."
+  },
+  {
+    "wallclock": "2025-12-07T20:55:43Z",
+    "period": 4,
+    "clock": "2:33",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to D.Vele to TB 49 for 13 yards (J.Parrish).Penalty on TB-E.Roberts, Defensive Offside, declined."
+  },
+  {
+    "wallclock": "2025-12-07T20:57:13Z",
+    "period": 4,
+    "clock": "2:29",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal left tackle to 50 for -1 yards (V.Vea)."
+  },
+  {
+    "wallclock": "2025-12-07T20:57:34Z",
+    "period": 4,
+    "clock": "2:24",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by TB at 02:24."
+  },
+  {
+    "wallclock": "2025-12-07T20:58:21Z",
+    "period": 4,
+    "clock": "2:24",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal left tackle to 50 for no gain (V.Vea)."
+  },
+  {
+    "wallclock": "2025-12-07T20:58:53Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-07T21:01:32Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Nelson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short right to D.Vele (A.Nelson, A.Winfield)."
+  },
+  {
+    "wallclock": "2025-12-07T21:02:20Z",
+    "period": 4,
+    "clock": "1:54",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 50 yards to end zone, Center-Z.Wood, Touchback."
+  },
+  {
+    "wallclock": "2025-12-07T21:03:22Z",
+    "period": 4,
+    "clock": "1:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short left to B.Irving [N.Shepherd]."
+  },
+  {
+    "wallclock": "2025-12-07T21:04:03Z",
+    "period": 4,
+    "clock": "1:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bresee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep left to E.Egbuka (B.Bresee) [N.Shepherd]."
+  },
+  {
+    "wallclock": "2025-12-07T21:04:45Z",
+    "period": 4,
+    "clock": "1:35",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield scrambles right end ran ob at TB 26 for 6 yards (C.Jordan)."
+  },
+  {
+    "wallclock": "2025-12-07T21:05:36Z",
+    "period": 4,
+    "clock": "1:27",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short middle to C.Otton to TB 29 for 3 yards (D.Davis)."
+  },
+  {
+    "wallclock": "2025-12-07T21:06:47Z",
+    "period": 4,
+    "clock": "1:21",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Shough kneels to TB 31 for -2 yards."
+  },
+  {
+    "wallclock": "2025-12-07T21:07:27Z",
+    "period": 4,
+    "clock": "0:40",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Shough kneels to TB 32 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-07T21:07:27Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

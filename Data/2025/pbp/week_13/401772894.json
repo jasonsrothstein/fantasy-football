@@ -1,0 +1,3726 @@
+[
+  {
+    "wallclock": "2025-11-30T18:02:51Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Incoom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 61 yards from CAR 35 to LA 4. R.Rivers pushed ob at 50 for 46 yards (R.Fitzgerald).PENALTY on CAR-T.Incoom, Unnecessary Roughness, 15 yards, enforced at 50."
+  },
+  {
+    "wallclock": "2025-11-30T18:04:08Z",
+    "period": 1,
+    "clock": "14:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short left to K.Williams (A.Robinson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:04:52Z",
+    "period": 1,
+    "clock": "14:49",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Barnes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short middle to P.Nacua to CAR 25 for 10 yards (N.Scott; K.Barnes)."
+  },
+  {
+    "wallclock": "2025-11-30T18:05:28Z",
+    "period": 1,
+    "clock": "14:13",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right guard to CAR 21 for 4 yards (N.Scourton)."
+  },
+  {
+    "wallclock": "2025-11-30T18:06:03Z",
+    "period": 1,
+    "clock": "13:37",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Parkinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wharton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to C.Parkinson to CAR 11 for 10 yards (L.Ransom; T.Wharton)."
+  },
+  {
+    "wallclock": "2025-11-30T18:06:46Z",
+    "period": 1,
+    "clock": "12:55",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wallace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short right to P.Nacua to CAR 4 for 7 yards (T.Wallace)."
+  },
+  {
+    "wallclock": "2025-11-30T18:07:28Z",
+    "period": 1,
+    "clock": "12:10",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Mevis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McQuaide",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "M.Stafford pass short middle to D.Adams for 4 yards, TOUCHDOWN. H.Mevis extra point is GOOD, Center-J.McQuaide, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-11-30T18:08:21Z",
+    "period": 1,
+    "clock": "12:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:10."
+  },
+  {
+    "wallclock": "2025-11-30T18:11:12Z",
+    "period": 1,
+    "clock": "12:10",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "H.Mevis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Reeder",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "H.Mevis kicks 56 yards from LA 35 to CAR 9. T.Etienne to CAR 31 for 22 yards (T.Reeder)."
+  },
+  {
+    "wallclock": "2025-11-30T18:12:02Z",
+    "period": 1,
+    "clock": "12:04",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Fiske",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle right end to CAR 30 for -1 yards (B.Fiske, P.Ford)."
+  },
+  {
+    "wallclock": "2025-11-30T18:12:37Z",
+    "period": 1,
+    "clock": "11:30",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle up the middle to CAR 34 for 4 yards (N.Landman)."
+  },
+  {
+    "wallclock": "2025-11-30T18:13:13Z",
+    "period": 1,
+    "clock": "10:54",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to J.Coker to CAR 49 for 15 yards (J.Stewart)."
+  },
+  {
+    "wallclock": "2025-11-30T18:13:43Z",
+    "period": 1,
+    "clock": "10:27",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Hubbard left guard to LA 45 for 6 yards (T.Davis; T.Hamilton)."
+  },
+  {
+    "wallclock": "2025-11-30T18:14:20Z",
+    "period": 1,
+    "clock": "9:46",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle left tackle to LA 44 for 1 yard (B.Young)."
+  },
+  {
+    "wallclock": "2025-11-30T18:14:59Z",
+    "period": 1,
+    "clock": "9:07",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to LA 37 for 7 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-11-30T18:15:38Z",
+    "period": 1,
+    "clock": "8:28",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to LA 35 for 2 yards (O.Speights; K.Turner)."
+  },
+  {
+    "wallclock": "2025-11-30T18:16:18Z",
+    "period": 1,
+    "clock": "7:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to J.Coker."
+  },
+  {
+    "wallclock": "2025-11-30T18:16:56Z",
+    "period": 1,
+    "clock": "7:38",
+    "play_type": "Passing Touchdown",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Young pass short right to C.Hubbard for 35 yards, TOUCHDOWN. R.Fitzgerald extra point is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-11-30T18:17:58Z",
+    "period": 1,
+    "clock": "7:38",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:38."
+  },
+  {
+    "wallclock": "2025-11-30T18:20:51Z",
+    "period": 1,
+    "clock": "7:38",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rochell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 59 yards from CAR 35 to LA 6. R.Rivers to LA 32 for 26 yards (R.Rochell)."
+  },
+  {
+    "wallclock": "2025-11-30T18:21:36Z",
+    "period": 1,
+    "clock": "7:31",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Richardson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum right end to LA 45 for 13 yards (D.Richardson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:22:13Z",
+    "period": 1,
+    "clock": "6:54",
+    "play_type": "Pass Reception",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass deep middle to D.Adams pushed ob at CAR 23 for 32 yards (C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-11-30T18:22:59Z",
+    "period": 1,
+    "clock": "6:12",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Barnes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short left to P.Nacua to CAR 18 for 5 yards (N.Scott; K.Barnes)."
+  },
+  {
+    "wallclock": "2025-11-30T18:23:37Z",
+    "period": 1,
+    "clock": "5:33",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum right tackle to CAR 12 for 6 yards (A.Robinson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:24:16Z",
+    "period": 1,
+    "clock": "4:55",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short left to X.Smith to CAR 8 for 4 yards (C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-11-30T18:24:57Z",
+    "period": 1,
+    "clock": "4:13",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short right to P.Nacua."
+  },
+  {
+    "wallclock": "2025-11-30T18:25:40Z",
+    "period": 1,
+    "clock": "4:07",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Parkinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short middle intended for C.Parkinson INTERCEPTED by N.Scott (D.Brown) at CAR -4. Touchback."
+  },
+  {
+    "wallclock": "2025-11-30T18:26:25Z",
+    "period": 1,
+    "clock": "4:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:02."
+  },
+  {
+    "wallclock": "2025-11-30T18:28:44Z",
+    "period": 1,
+    "clock": "4:02",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to M.Evans ran ob at CAR 27 for 7 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-11-30T18:29:21Z",
+    "period": 1,
+    "clock": "3:28",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left tackle to CAR 27 for no gain (J.McCollough)."
+  },
+  {
+    "wallclock": "2025-11-30T18:30:01Z",
+    "period": 1,
+    "clock": "2:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tremble",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to T.Tremble."
+  },
+  {
+    "wallclock": "2025-11-30T18:30:43Z",
+    "period": 1,
+    "clock": "2:44",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Martin punts 45 yards to LA 28, Center-J.Jansen, fair catch by X.Smith."
+  },
+  {
+    "wallclock": "2025-11-30T18:31:02Z",
+    "period": 1,
+    "clock": "2:37",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:37."
+  },
+  {
+    "wallclock": "2025-11-30T18:33:39Z",
+    "period": 1,
+    "clock": "2:37",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wallace",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Gipson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to LA 35 for 7 yards (T.Wallace; T.Gipson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:34:12Z",
+    "period": 1,
+    "clock": "2:04",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left guard to LA 41 for 6 yards (L.Ransom; C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-11-30T18:34:49Z",
+    "period": 1,
+    "clock": "1:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ferguson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete deep right to T.Ferguson."
+  },
+  {
+    "wallclock": "2025-11-30T18:35:33Z",
+    "period": 1,
+    "clock": "1:10",
+    "play_type": "Interception Return Touchdown",
+    "yards": 48,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) M.Stafford pass short left intended for P.Nacua INTERCEPTED by M.Jackson at LA 48. M.Jackson for 48 yards, TOUCHDOWN. R.Fitzgerald extra point is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-11-30T18:37:08Z",
+    "period": 1,
+    "clock": "1:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:10."
+  },
+  {
+    "wallclock": "2025-11-30T18:39:54Z",
+    "period": 1,
+    "clock": "1:10",
+    "play_type": "Kickoff",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Simmons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Umanmielen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 52 yards from CAR 35 to LA 13. R.Rivers to LA 31 for 18 yards (I.Simmons; P.Umanmielen).\nPENALTY on CAR, Illegal Formation, 5 yards, enforced at LA 31."
+  },
+  {
+    "wallclock": "2025-11-30T18:40:59Z",
+    "period": 1,
+    "clock": "1:06",
+    "play_type": "Pass Reception",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Richardson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short right to X.Smith to CAR 37 for 27 yards (D.Richardson; L.Ransom)."
+  },
+  {
+    "wallclock": "2025-11-30T18:41:35Z",
+    "period": 1,
+    "clock": "0:18",
+    "play_type": "Rush",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wallace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum up the middle to CAR 23 for 14 yards (T.Wallace)."
+  },
+  {
+    "wallclock": "2025-11-30T18:41:35Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-11-30T18:44:55Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Corum right end to CAR 17 for 6 yards (L.Ransom; C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-11-30T18:45:38Z",
+    "period": 2,
+    "clock": "14:18",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Parkinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short left to C.Parkinson pushed ob at CAR 11 for 6 yards (C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-11-30T18:46:20Z",
+    "period": 2,
+    "clock": "13:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ferguson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short left to T.Ferguson."
+  },
+  {
+    "wallclock": "2025-11-30T18:47:00Z",
+    "period": 2,
+    "clock": "13:34",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short left to D.Allen to CAR 7 for 4 yards (N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-30T18:47:44Z",
+    "period": 2,
+    "clock": "12:46",
+    "play_type": "Passing Touchdown",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Mevis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McQuaide",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) M.Stafford pass short right to D.Adams for 7 yards, TOUCHDOWN. H.Mevis extra point is GOOD, Center-J.McQuaide, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-11-30T18:48:43Z",
+    "period": 2,
+    "clock": "12:46",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:46."
+  },
+  {
+    "wallclock": "2025-11-30T18:51:32Z",
+    "period": 2,
+    "clock": "12:46",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "H.Mevis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "H.Mevis kicks 61 yards from LA 35 to CAR 4. T.Etienne to CAR 26 for 22 yards (J.McCollough)."
+  },
+  {
+    "wallclock": "2025-11-30T18:52:22Z",
+    "period": 2,
+    "clock": "12:41",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard up the middle to CAR 29 for 3 yards (O.Speights)."
+  },
+  {
+    "wallclock": "2025-11-30T18:52:56Z",
+    "period": 2,
+    "clock": "12:07",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard right tackle to CAR 37 for 8 yards (J.McCollough; D.Williams)."
+  },
+  {
+    "wallclock": "2025-11-30T18:53:30Z",
+    "period": 2,
+    "clock": "11:33",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard left end to CAR 43 for 6 yards (N.Landman)."
+  },
+  {
+    "wallclock": "2025-11-30T18:54:04Z",
+    "period": 2,
+    "clock": "10:59",
+    "play_type": "Rush",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young scrambles left end ran ob at LA 33 for 24 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-11-30T18:54:50Z",
+    "period": 2,
+    "clock": "10:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete deep left to T.McMillan."
+  },
+  {
+    "wallclock": "2025-11-30T18:55:29Z",
+    "period": 2,
+    "clock": "10:11",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young pass short right to M.Evans to LA 26 for 7 yards (N.Landman)."
+  },
+  {
+    "wallclock": "2025-11-30T18:56:16Z",
+    "period": 2,
+    "clock": "9:25",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tremble",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young pass short left to T.Tremble pushed ob at LA 24 for 2 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-11-30T18:56:55Z",
+    "period": 2,
+    "clock": "8:50",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle right end to LA 18 for 6 yards (B.Young; J.McCollough)."
+  },
+  {
+    "wallclock": "2025-11-30T18:57:38Z",
+    "period": 2,
+    "clock": "8:07",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Wallace",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard left end to LA 11 for 7 yards (J.Wallace).PENALTY on CAR-M.Evans, Offensive Holding, 10 yards, enforced at LA 18 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T18:58:29Z",
+    "period": 2,
+    "clock": "7:40",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hamilton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to LA 23 for 5 yards (T.Hamilton; N.Landman)."
+  },
+  {
+    "wallclock": "2025-11-30T18:59:06Z",
+    "period": 2,
+    "clock": "7:03",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to C.Hubbard to LA 17 for 6 yards (E.Forbes; N.Landman)."
+  },
+  {
+    "wallclock": "2025-11-30T18:59:50Z",
+    "period": 2,
+    "clock": "6:18",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young scrambles right end pushed ob at LA 14 for 3 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-11-30T19:00:35Z",
+    "period": 2,
+    "clock": "5:33",
+    "play_type": "Field Goal Good",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Fitzgerald 33 yard field goal is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-11-30T19:00:50Z",
+    "period": 2,
+    "clock": "5:33",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:33."
+  },
+  {
+    "wallclock": "2025-11-30T19:03:35Z",
+    "period": 2,
+    "clock": "5:33",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 65 yards from CAR 35 to landing zone to end zone, Touchback to the LA 20."
+  },
+  {
+    "wallclock": "2025-11-30T19:04:38Z",
+    "period": 2,
+    "clock": "5:32",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wallace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to LA 26 for 6 yards (L.Ransom; T.Wallace)."
+  },
+  {
+    "wallclock": "2025-11-30T19:05:11Z",
+    "period": 2,
+    "clock": "5:02",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wharton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right tackle to LA 29 for 3 yards (B.Brown).PENALTY on CAR-T.Wharton, Defensive Offside, 5 yards, enforced at LA 26 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T19:06:02Z",
+    "period": 2,
+    "clock": "4:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-11-30T19:06:44Z",
+    "period": 2,
+    "clock": "4:32",
+    "play_type": "Pass Reception",
+    "yards": 51,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass deep left to X.Smith pushed ob at CAR 18 for 51 yards (N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-30T19:07:29Z",
+    "period": 2,
+    "clock": "3:50",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right end to CAR 14 for 4 yards (L.Ray; L.Ransom)."
+  },
+  {
+    "wallclock": "2025-11-30T19:08:08Z",
+    "period": 2,
+    "clock": "3:12",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Williams right guard to CAR 7 for 7 yards (L.Ransom)."
+  },
+  {
+    "wallclock": "2025-11-30T19:08:45Z",
+    "period": 2,
+    "clock": "2:34",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left tackle to CAR 2 for 5 yards (A.Evans; L.Ransom)."
+  },
+  {
+    "wallclock": "2025-11-30T19:09:23Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-30T19:12:08Z",
+    "period": 2,
+    "clock": "1:55",
+    "play_type": "Rushing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Mevis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McQuaide",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Corum up the middle for 2 yards, TOUCHDOWN.Penalty on CAR-N.Scourton, Defensive Offside, declined. H.Mevis extra point is GOOD, Center-J.McQuaide, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-11-30T19:14:27Z",
+    "period": 2,
+    "clock": "1:55",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "H.Mevis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Hampton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "H.Mevis kicks 58 yards from LA 35 to CAR 7. T.Etienne to CAR 34 for 27 yards (N.Hampton)."
+  },
+  {
+    "wallclock": "2025-11-30T19:15:29Z",
+    "period": 2,
+    "clock": "1:49",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Fiske",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle up the middle to CAR 35 for 1 yard (B.Fiske; B.Young)."
+  },
+  {
+    "wallclock": "2025-11-30T19:16:08Z",
+    "period": 2,
+    "clock": "1:10",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle up the middle to LA 48 for 17 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-11-30T19:16:35Z",
+    "period": 2,
+    "clock": "0:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass incomplete deep right to X.Legette."
+  },
+  {
+    "wallclock": "2025-11-30T19:17:17Z",
+    "period": 2,
+    "clock": "0:36",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young sacked at CAR 44 for -8 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-11-30T19:17:41Z",
+    "period": 2,
+    "clock": "0:29",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LA at 00:29."
+  },
+  {
+    "wallclock": "2025-11-30T19:18:22Z",
+    "period": 2,
+    "clock": "0:29",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to R.Dowdle to LA 48 for 8 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-11-30T19:18:54Z",
+    "period": 2,
+    "clock": "0:21",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by LA at 00:21."
+  },
+  {
+    "wallclock": "2025-11-30T19:19:17Z",
+    "period": 2,
+    "clock": "0:21",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Martin punts 39 yards to LA 9, Center-J.Jansen, downed by CAR-B.Tremayne."
+  },
+  {
+    "wallclock": "2025-11-30T19:19:59Z",
+    "period": 2,
+    "clock": "0:14",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford kneels to LA 8 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-30T19:19:59Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-11-30T19:34:08Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Hampton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Evans kicks 54 yards from LA 35 to CAR 11. T.Etienne to CAR 29 for 18 yards (N.Hampton)."
+  },
+  {
+    "wallclock": "2025-11-30T19:34:59Z",
+    "period": 3,
+    "clock": "14:55",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle up the middle to CAR 32 for 3 yards (N.Landman; O.Speights)."
+  },
+  {
+    "wallclock": "2025-11-30T19:35:34Z",
+    "period": 3,
+    "clock": "14:20",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle left guard to CAR 36 for 4 yards (K.Turner)."
+  },
+  {
+    "wallclock": "2025-11-30T19:36:15Z",
+    "period": 3,
+    "clock": "13:39",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard right guard to CAR 39 for 3 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-11-30T19:36:57Z",
+    "period": 3,
+    "clock": "12:57",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle up the middle to CAR 41 for 2 yards (J.Verse)."
+  },
+  {
+    "wallclock": "2025-11-30T19:37:39Z",
+    "period": 3,
+    "clock": "12:15",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Fiske",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle right guard to CAR 44 for 3 yards (B.Fiske)."
+  },
+  {
+    "wallclock": "2025-11-30T19:38:21Z",
+    "period": 3,
+    "clock": "11:33",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Coker to LA 40 for 16 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-11-30T19:38:58Z",
+    "period": 3,
+    "clock": "10:57",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left end to LA 34 for 6 yards (P.Ford)."
+  },
+  {
+    "wallclock": "2025-11-30T19:39:38Z",
+    "period": 3,
+    "clock": "10:17",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle right tackle to LA 34 for no gain (T.Davis; P.Ford)."
+  },
+  {
+    "wallclock": "2025-11-30T19:40:17Z",
+    "period": 3,
+    "clock": "9:37",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Fiske",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to LA 33 for 1 yard (K.Turner; B.Fiske)."
+  },
+  {
+    "wallclock": "2025-11-30T19:41:00Z",
+    "period": 3,
+    "clock": "8:48",
+    "play_type": "Passing Touchdown",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Young pass deep right to J.Coker for 33 yards, TOUCHDOWN. R.Fitzgerald extra point is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-11-30T19:42:10Z",
+    "period": 3,
+    "clock": "8:48",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:48."
+  },
+  {
+    "wallclock": "2025-11-30T19:44:56Z",
+    "period": 3,
+    "clock": "8:48",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Incoom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 60 yards from CAR 35 to LA 5. R.Rivers to LA 28 for 23 yards (T.Incoom)."
+  },
+  {
+    "wallclock": "2025-11-30T19:45:43Z",
+    "period": 3,
+    "clock": "8:42",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to LA 33 for 5 yards (A.Robinson; D.Brown)."
+  },
+  {
+    "wallclock": "2025-11-30T19:46:26Z",
+    "period": 3,
+    "clock": "8:01",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford sacked at LA 25 for -8 yards (L.Ransom)."
+  },
+  {
+    "wallclock": "2025-11-30T19:47:08Z",
+    "period": 3,
+    "clock": "7:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete deep left to D.Adams."
+  },
+  {
+    "wallclock": "2025-11-30T19:47:47Z",
+    "period": 3,
+    "clock": "7:12",
+    "play_type": "Punt",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McQuaide",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Incoom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Evans punts 56 yards to CAR 19, Center-J.McQuaide. T.Etienne pushed ob at LA 46 for 35 yards (R.Rivers).PENALTY on CAR-T.Incoom, Offensive Holding, 10 yards, enforced at CAR 34."
+  },
+  {
+    "wallclock": "2025-11-30T19:48:56Z",
+    "period": 3,
+    "clock": "6:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:58."
+  },
+  {
+    "wallclock": "2025-11-30T19:51:15Z",
+    "period": 3,
+    "clock": "6:58",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard up the middle to CAR 29 for 5 yards (J.Verse)."
+  },
+  {
+    "wallclock": "2025-11-30T19:51:56Z",
+    "period": 3,
+    "clock": "6:18",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard right guard to CAR 31 for 2 yards (J.Verse; N.Landman)."
+  },
+  {
+    "wallclock": "2025-11-30T19:52:39Z",
+    "period": 3,
+    "clock": "5:37",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LA at 05:37."
+  },
+  {
+    "wallclock": "2025-11-30T19:55:37Z",
+    "period": 3,
+    "clock": "5:37",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard right end to CAR 37 for 6 yards (E.Forbes; J.Stewart)."
+  },
+  {
+    "wallclock": "2025-11-30T19:56:18Z",
+    "period": 3,
+    "clock": "4:56",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard up the middle to CAR 43 for 6 yards (T.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T19:56:55Z",
+    "period": 3,
+    "clock": "4:19",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young pass short left to M.Evans pushed ob at CAR 49 for 6 yards (C.Durant)."
+  },
+  {
+    "wallclock": "2025-11-30T19:57:37Z",
+    "period": 3,
+    "clock": "3:40",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to X.Legette to 50 for 1 yard (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-11-30T19:58:20Z",
+    "period": 3,
+    "clock": "2:57",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard left guard to LA 40 for 10 yards (C.Durant; J.McCollough)."
+  },
+  {
+    "wallclock": "2025-11-30T19:59:08Z",
+    "period": 3,
+    "clock": "2:08",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard right end to LA 31 for 9 yards (O.Speights)."
+  },
+  {
+    "wallclock": "2025-11-30T19:59:55Z",
+    "period": 3,
+    "clock": "1:23",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Fiske",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard left tackle to LA 29 for 2 yards (K.Turner; B.Fiske)."
+  },
+  {
+    "wallclock": "2025-11-30T20:00:40Z",
+    "period": 3,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left guard to LA 25 for 4 yards (O.Speights)."
+  },
+  {
+    "wallclock": "2025-11-30T20:00:40Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-11-30T20:04:35Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Hubbard left end to LA 21 for 4 yards (E.Forbes; O.Speights).PENALTY on CAR-J.Sanders, Offensive Holding, 10 yards, enforced at LA 25 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T20:05:36Z",
+    "period": 4,
+    "clock": "14:32",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Fiske",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young sacked at LA 39 for -4 yards (B.Fiske)."
+  },
+  {
+    "wallclock": "2025-11-30T20:06:18Z",
+    "period": 4,
+    "clock": "13:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete deep left to J.Coker."
+  },
+  {
+    "wallclock": "2025-11-30T20:08:19Z",
+    "period": 4,
+    "clock": "13:41",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Martin punts 28 yards to LA 11, Center-J.Jansen, fair catch by X.Smith."
+  },
+  {
+    "wallclock": "2025-11-30T20:08:55Z",
+    "period": 4,
+    "clock": "13:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:34."
+  },
+  {
+    "wallclock": "2025-11-30T20:11:16Z",
+    "period": 4,
+    "clock": "13:34",
+    "play_type": "Rush",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum up the middle ran ob at LA 45 for 34 yards (N.Scott; L.Ransom)."
+  },
+  {
+    "wallclock": "2025-11-30T20:12:01Z",
+    "period": 4,
+    "clock": "12:53",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum left guard to CAR 49 for 6 yards (A.Robinson)."
+  },
+  {
+    "wallclock": "2025-11-30T20:12:36Z",
+    "period": 4,
+    "clock": "12:18",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to CAR 37 for 12 yards (N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-30T20:13:19Z",
+    "period": 4,
+    "clock": "11:35",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Parkinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wallace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short left to C.Parkinson to CAR 38 for -1 yards (T.Wallace)."
+  },
+  {
+    "wallclock": "2025-11-30T20:14:01Z",
+    "period": 4,
+    "clock": "10:52",
+    "play_type": "Pass Reception",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass deep left to P.Nacua to CAR 7 for 31 yards (N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-30T20:14:51Z",
+    "period": 4,
+    "clock": "9:58",
+    "play_type": "Rushing Touchdown",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Mevis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McQuaide",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "K.Williams up the middle for 7 yards, TOUCHDOWN. H.Mevis extra point is GOOD, Center-J.McQuaide, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-11-30T20:15:57Z",
+    "period": 4,
+    "clock": "9:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:58."
+  },
+  {
+    "wallclock": "2025-11-30T20:18:44Z",
+    "period": 4,
+    "clock": "9:58",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Evans kicks 65 yards from LA 35 to end zone, Touchback to the CAR 35."
+  },
+  {
+    "wallclock": "2025-11-30T20:19:30Z",
+    "period": 4,
+    "clock": "9:58",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle left tackle to CAR 36 for 1 yard (J.Verse)."
+  },
+  {
+    "wallclock": "2025-11-30T20:20:08Z",
+    "period": 4,
+    "clock": "9:20",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to R.Dowdle ran ob at CAR 49 for 13 yards (T.Davis; O.Speights)."
+  },
+  {
+    "wallclock": "2025-11-30T20:20:56Z",
+    "period": 4,
+    "clock": "8:36",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle right guard to LA 49 for 2 yards (B.Young; T.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T20:21:34Z",
+    "period": 4,
+    "clock": "7:57",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to T.Etienne to LA 45 for 4 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-11-30T20:22:13Z",
+    "period": 4,
+    "clock": "7:19",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to LA 43 for 2 yards (N.Landman; O.Speights)."
+  },
+  {
+    "wallclock": "2025-11-30T20:22:48Z",
+    "period": 4,
+    "clock": "6:34",
+    "play_type": "Passing Touchdown",
+    "yards": 43,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Young pass deep right to T.McMillan for 43 yards, TOUCHDOWN. R.Fitzgerald extra point is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-11-30T20:23:49Z",
+    "period": 4,
+    "clock": "6:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:34."
+  },
+  {
+    "wallclock": "2025-11-30T20:26:40Z",
+    "period": 4,
+    "clock": "6:34",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 59 yards from CAR 35 to LA 6. R.Rivers to LA 28 for 22 yards (B.Tremayne)."
+  },
+  {
+    "wallclock": "2025-11-30T20:27:43Z",
+    "period": 4,
+    "clock": "6:29",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to P.Nacua to LA 34 for 6 yards (A.Evans; C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-11-30T20:28:26Z",
+    "period": 4,
+    "clock": "5:47",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Parkinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wallace",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to C.Parkinson to LA 46 for 12 yards (T.Wallace; N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-30T20:29:06Z",
+    "period": 4,
+    "clock": "5:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short middle to P.Nacua."
+  },
+  {
+    "wallclock": "2025-11-30T20:29:45Z",
+    "period": 4,
+    "clock": "5:02",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short left to D.Adams ran ob at CAR 39 for 15 yards."
+  },
+  {
+    "wallclock": "2025-11-30T20:30:30Z",
+    "period": 4,
+    "clock": "4:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Whittington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete deep right to J.Whittington."
+  },
+  {
+    "wallclock": "2025-11-30T20:31:15Z",
+    "period": 4,
+    "clock": "4:51",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Barnes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Williams left guard to CAR 35 for 4 yards (K.Barnes; D.Wonnum)."
+  },
+  {
+    "wallclock": "2025-11-30T20:31:58Z",
+    "period": 4,
+    "clock": "4:09",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short left to P.Nacua pushed ob at CAR 22 for 13 yards (M.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-30T20:32:42Z",
+    "period": 4,
+    "clock": "4:02",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ransom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Barnes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to CAR 18 for 4 yards (L.Ransom; K.Barnes)."
+  },
+  {
+    "wallclock": "2025-11-30T20:33:24Z",
+    "period": 4,
+    "clock": "3:20",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left end to CAR 17 for 1 yard (N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-30T20:34:08Z",
+    "period": 4,
+    "clock": "2:34",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) PENALTY on LA, Delay of Game, 5 yards, enforced at CAR 17 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T20:34:58Z",
+    "period": 4,
+    "clock": "2:34",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Mumpfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford sacked at CAR 31 for -9 yards (D.Brown). FUMBLES (D.Brown) [D.Brown], RECOVERED by CAR-D.Wonnum at CAR 30. D.Wonnum to CAR 49 for 19 yards (K.Mumpfield).PENALTY on CAR, Unsportsmanlike Conduct, 15 yards, enforced at CAR 49."
+  },
+  {
+    "wallclock": "2025-11-30T20:36:58Z",
+    "period": 4,
+    "clock": "2:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:25."
+  },
+  {
+    "wallclock": "2025-11-30T20:38:53Z",
+    "period": 4,
+    "clock": "2:25",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " R.Dowdle up the middle to CAR 38 for 4 yards (P.Ford)."
+  },
+  {
+    "wallclock": "2025-11-30T20:39:11Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by LA at 02:21."
+  },
+  {
+    "wallclock": "2025-11-30T20:39:52Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " R.Dowdle up the middle to CAR 39 for 1 yard (K.Curl)."
+  },
+  {
+    "wallclock": "2025-11-30T20:40:12Z",
+    "period": 4,
+    "clock": "2:17",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by LA at 02:17."
+  },
+  {
+    "wallclock": "2025-11-30T20:41:01Z",
+    "period": 4,
+    "clock": "2:17",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Young pass short middle to J.Coker to CAR 49 for 10 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-11-30T20:41:20Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-30T20:44:14Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Young kneels to CAR 48 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-30T20:44:54Z",
+    "period": 4,
+    "clock": "1:20",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Young kneels to CAR 47 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-30T20:45:35Z",
+    "period": 4,
+    "clock": "0:38",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Young kneels to CAR 45 for -2 yards."
+  },
+  {
+    "wallclock": "2025-11-30T20:45:35Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

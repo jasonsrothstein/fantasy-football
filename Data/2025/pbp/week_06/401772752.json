@@ -1,0 +1,4243 @@
+[
+  {
+    "wallclock": "2025-10-12T20:25:21Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 59 yards from CIN 35 to GB 6. S.Williams ran ob at GB 34 for 28 yards (D.Hill)."
+  },
+  {
+    "wallclock": "2025-10-12T20:26:10Z",
+    "period": 1,
+    "clock": "14:56",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass deep middle to R.Doubs to CIN 45 for 21 yards (L.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T20:26:47Z",
+    "period": 1,
+    "clock": "14:19",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Jacobs left end to CIN 42 for 3 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T20:27:25Z",
+    "period": 1,
+    "clock": "13:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass incomplete short left to R.Doubs (D.Turner)."
+  },
+  {
+    "wallclock": "2025-10-12T20:28:08Z",
+    "period": 1,
+    "clock": "13:37",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Jenkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love scrambles right end to CIN 35 for 7 yards (K.Jenkins)."
+  },
+  {
+    "wallclock": "2025-10-12T20:28:51Z",
+    "period": 1,
+    "clock": "12:54",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson up the middle to CIN 32 for 3 yards (B.Hill)."
+  },
+  {
+    "wallclock": "2025-10-12T20:29:32Z",
+    "period": 1,
+    "clock": "12:13",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Jacobs up the middle to CIN 27 for 5 yards (D.Knight)."
+  },
+  {
+    "wallclock": "2025-10-12T20:30:10Z",
+    "period": 1,
+    "clock": "11:35",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Jacobs up the middle to CIN 26 for 1 yard (M.Murphy)."
+  },
+  {
+    "wallclock": "2025-10-12T20:30:54Z",
+    "period": 1,
+    "clock": "10:51",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ossai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love up the middle to CIN 24 for 2 yards (J.Ossai; B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T20:31:35Z",
+    "period": 1,
+    "clock": "10:10",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love scrambles right end pushed ob at CIN 17 for 7 yards (D.Hill)."
+  },
+  {
+    "wallclock": "2025-10-12T20:32:18Z",
+    "period": 1,
+    "clock": "9:31",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ossai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Jacobs right end to CIN 19 for -2 yards (J.Ossai)."
+  },
+  {
+    "wallclock": "2025-10-12T20:32:58Z",
+    "period": 1,
+    "clock": "8:51",
+    "play_type": "Pass Interception Return",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short right intended for R.Doubs INTERCEPTED by G.Stone (D.Turner) [D.Knight] at CIN 11. G.Stone ran ob at CIN 36 for 25 yards (J.Love)."
+  },
+  {
+    "wallclock": "2025-10-12T20:33:58Z",
+    "period": 1,
+    "clock": "8:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:39."
+  },
+  {
+    "wallclock": "2025-10-12T20:36:10Z",
+    "period": 1,
+    "clock": "8:39",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Chase right end to CIN 33 for -3 yards (J.Bullard)."
+  },
+  {
+    "wallclock": "2025-10-12T20:36:47Z",
+    "period": 1,
+    "clock": "8:03",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Parsons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine right tackle to CIN 33 for no gain (M.Parsons; R.Gary)."
+  },
+  {
+    "wallclock": "2025-10-12T20:37:27Z",
+    "period": 1,
+    "clock": "7:22",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to J.Chase to CIN 37 for 4 yards (K.Nixon; E.Williams)."
+  },
+  {
+    "wallclock": "2025-10-12T20:38:03Z",
+    "period": 1,
+    "clock": "6:46",
+    "play_type": "Punt",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Golden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Rehkow punts 55 yards to GB 8, Center-W.Wagner, fair catch by M.Golden.PENALTY on GB-B.Melton, Offensive Holding, 4 yards, enforced at GB 8."
+  },
+  {
+    "wallclock": "2025-10-12T20:39:33Z",
+    "period": 1,
+    "clock": "6:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:39."
+  },
+  {
+    "wallclock": "2025-10-12T20:41:18Z",
+    "period": 1,
+    "clock": "6:39",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wicks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short left to D.Wicks to GB 13 for 9 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T20:41:57Z",
+    "period": 1,
+    "clock": "6:00",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Jacobs up the middle to GB 20 for 7 yards (J.Battle)."
+  },
+  {
+    "wallclock": "2025-10-12T20:42:35Z",
+    "period": 1,
+    "clock": "5:22",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass short left to J.Jacobs to GB 27 for 7 yards (L.Wilson; B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T20:43:14Z",
+    "period": 1,
+    "clock": "4:43",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Golden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Taylor-Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Golden right end pushed ob at GB 35 for 8 yards (C.Taylor-Britt)."
+  },
+  {
+    "wallclock": "2025-10-12T20:44:00Z",
+    "period": 1,
+    "clock": "3:59",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hendrickson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ossai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brooks right tackle to GB 36 for 1 yard (T.Hendrickson; J.Ossai)."
+  },
+  {
+    "wallclock": "2025-10-12T20:44:43Z",
+    "period": 1,
+    "clock": "3:15",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Golden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short right to M.Golden to CIN 44 for 20 yards (D.Hill)."
+  },
+  {
+    "wallclock": "2025-10-12T20:45:27Z",
+    "period": 1,
+    "clock": "2:32",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short right to J.Jacobs ran ob at CIN 37 for 7 yards (D.Turner)."
+  },
+  {
+    "wallclock": "2025-10-12T20:46:12Z",
+    "period": 1,
+    "clock": "1:49",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Golden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Golden left end ran ob at CIN 29 for 8 yards (D.Hill)."
+  },
+  {
+    "wallclock": "2025-10-12T20:46:57Z",
+    "period": 1,
+    "clock": "1:06",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Williams right end to CIN 26 for 3 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T20:47:42Z",
+    "period": 1,
+    "clock": "0:21",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass short left to R.Doubs to CIN 27 for -1 yards (D.Turner)."
+  },
+  {
+    "wallclock": "2025-10-12T20:47:42Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-10-12T20:50:55Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love scrambles right end to CIN 25 for 2 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T20:51:36Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Field Goal Good",
+    "yards": 43,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "L.Havrisik 43 yard field goal is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-10-12T20:52:15Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:15."
+  },
+  {
+    "wallclock": "2025-10-12T20:54:26Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.McKinney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Havrisik kicks 61 yards from GB 35 to CIN 4. C.Jones pushed ob at CIN 28 for 24 yards (X.McKinney)."
+  },
+  {
+    "wallclock": "2025-10-12T20:55:13Z",
+    "period": 2,
+    "clock": "14:09",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wooden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Brown left guard to CIN 31 for 3 yards (C.Wooden)."
+  },
+  {
+    "wallclock": "2025-10-12T20:55:56Z",
+    "period": 2,
+    "clock": "13:27",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to T.Higgins to CIN 45 for 14 yards (Q.Walker)."
+  },
+  {
+    "wallclock": "2025-10-12T20:56:35Z",
+    "period": 2,
+    "clock": "12:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-10-12T20:57:16Z",
+    "period": 2,
+    "clock": "12:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hudson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short right to T.Hudson."
+  },
+  {
+    "wallclock": "2025-10-12T20:57:57Z",
+    "period": 2,
+    "clock": "12:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to S.Perine [R.Gary]."
+  },
+  {
+    "wallclock": "2025-10-12T20:58:33Z",
+    "period": 2,
+    "clock": "12:36",
+    "play_type": "Punt",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Burks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Rehkow punts 44 yards to GB 11, Center-W.Wagner. R.Doubs to GB 16 for 5 yards (O.Burks)."
+  },
+  {
+    "wallclock": "2025-10-12T20:59:27Z",
+    "period": 2,
+    "clock": "12:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:26."
+  },
+  {
+    "wallclock": "2025-10-12T21:01:31Z",
+    "period": 2,
+    "clock": "12:26",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Jenkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Wilson right guard to GB 18 for 2 yards (K.Jenkins)."
+  },
+  {
+    "wallclock": "2025-10-12T21:02:11Z",
+    "period": 2,
+    "clock": "11:46",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Wilson left end to GB 24 for 6 yards (L.Wilson; D.Knight)."
+  },
+  {
+    "wallclock": "2025-10-12T21:03:00Z",
+    "period": 2,
+    "clock": "10:57",
+    "play_type": "Pass Reception",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Taylor-Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short right to E.Wilson pushed ob at GB 20 for -4 yards (C.Taylor-Britt)."
+  },
+  {
+    "wallclock": "2025-10-12T21:03:44Z",
+    "period": 2,
+    "clock": "10:28",
+    "play_type": "Punt",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Whelan punts 56 yards to CIN 24, Center-M.Orzech. C.Jones to CIN 37 for 13 yards (E.Williams; B.Melton)."
+  },
+  {
+    "wallclock": "2025-10-12T21:04:34Z",
+    "period": 2,
+    "clock": "10:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:18."
+  },
+  {
+    "wallclock": "2025-10-12T21:06:46Z",
+    "period": 2,
+    "clock": "10:18",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Brown up the middle to CIN 42 for 5 yards (Q.Walker)."
+  },
+  {
+    "wallclock": "2025-10-12T21:07:27Z",
+    "period": 2,
+    "clock": "9:36",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Enagbare",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Parsons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Brown left guard to CIN 45 for 3 yards (K.Enagbare; M.Parsons)."
+  },
+  {
+    "wallclock": "2025-10-12T21:08:05Z",
+    "period": 2,
+    "clock": "8:59",
+    "play_type": "Pass Reception",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hudson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to T.Hudson to CIN 42 for -3 yards (K.Nixon, J.Bullard)."
+  },
+  {
+    "wallclock": "2025-10-12T21:08:42Z",
+    "period": 2,
+    "clock": "8:22",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Rehkow punts 58 yards to end zone, Center-W.Wagner, Touchback."
+  },
+  {
+    "wallclock": "2025-10-12T21:09:20Z",
+    "period": 2,
+    "clock": "8:12",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:12."
+  },
+  {
+    "wallclock": "2025-10-12T21:11:39Z",
+    "period": 2,
+    "clock": "8:12",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Jacobs right end to GB 24 for 4 yards (D.Knight)."
+  },
+  {
+    "wallclock": "2025-10-12T21:12:17Z",
+    "period": 2,
+    "clock": "7:34",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hendrickson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Jacobs left end to GB 24 for no gain (B.Carter; T.Hendrickson)."
+  },
+  {
+    "wallclock": "2025-10-12T21:12:58Z",
+    "period": 2,
+    "clock": "6:53",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wicks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short left to D.Wicks to GB 30 for 6 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T21:13:19Z",
+    "period": 2,
+    "clock": "6:31",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ossai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Jacobs left guard to GB 30 for no gain (J.Ossai)."
+  },
+  {
+    "wallclock": "2025-10-12T21:13:59Z",
+    "period": 2,
+    "clock": "5:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Musgrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass incomplete deep right to L.Musgrave."
+  },
+  {
+    "wallclock": "2025-10-12T21:14:40Z",
+    "period": 2,
+    "clock": "5:46",
+    "play_type": "Pass Reception",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Golden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Taylor-Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass deep left to M.Golden pushed ob at CIN 35 for 35 yards (C.Taylor-Britt)."
+  },
+  {
+    "wallclock": "2025-10-12T21:15:26Z",
+    "period": 2,
+    "clock": "5:04",
+    "play_type": "Pass Reception",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short middle to J.Jacobs to CIN 6 for 29 yards (J.Battle; D.Hill)."
+  },
+  {
+    "wallclock": "2025-10-12T21:16:16Z",
+    "period": 2,
+    "clock": "4:14",
+    "play_type": "Pass Incompletion",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kraft",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Taylor-Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass incomplete short left to T.Kraft (D.Hill).PENALTY on CIN-C.Taylor-Britt, Defensive Holding, 3 yards, enforced at CIN 6 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T21:17:19Z",
+    "period": 2,
+    "clock": "4:05",
+    "play_type": "Rushing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Jacobs up the middle for 3 yards, TOUCHDOWN. L.Havrisik extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-10-12T21:18:20Z",
+    "period": 2,
+    "clock": "4:05",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:05."
+  },
+  {
+    "wallclock": "2025-10-12T21:20:49Z",
+    "period": 2,
+    "clock": "4:05",
+    "play_type": "Kickoff",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hopper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hopper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Havrisik kicks 64 yards from GB 35 to CIN 1. C.Jones to CIN 25 for 24 yards (T.Hopper).PENALTY on GB-T.Hopper, Unnecessary Roughness, 15 yards, enforced at CIN 25."
+  },
+  {
+    "wallclock": "2025-10-12T21:21:59Z",
+    "period": 2,
+    "clock": "3:58",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass incomplete deep left to J.Chase."
+  },
+  {
+    "wallclock": "2025-10-12T21:22:40Z",
+    "period": 2,
+    "clock": "3:52",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sample",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to D.Sample to CIN 38 for -2 yards (E.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-12T21:23:24Z",
+    "period": 2,
+    "clock": "3:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete deep right to T.Higgins."
+  },
+  {
+    "wallclock": "2025-10-12T21:23:58Z",
+    "period": 2,
+    "clock": "3:01",
+    "play_type": "Punt",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Rehkow punts 54 yards to GB 8, Center-W.Wagner. R.Doubs to GB 17 for 9 yards (T.Anderson; S.Perine)."
+  },
+  {
+    "wallclock": "2025-10-12T21:24:52Z",
+    "period": 2,
+    "clock": "2:50",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:50."
+  },
+  {
+    "wallclock": "2025-10-12T21:25:18Z",
+    "period": 2,
+    "clock": "2:50",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kraft",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass deep middle to T.Kraft to GB 41 for 24 yards (G.Stone)."
+  },
+  {
+    "wallclock": "2025-10-12T21:25:56Z",
+    "period": 2,
+    "clock": "2:13",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Jacobs right guard to CIN 47 for 12 yards (D.Hill; L.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T21:26:21Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-12T21:28:59Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass incomplete short left to R.Doubs (D.Turner)."
+  },
+  {
+    "wallclock": "2025-10-12T21:29:44Z",
+    "period": 2,
+    "clock": "1:55",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short left to J.Jacobs to CIN 42 for 5 yards (B.Carter).The Replay Official reviewed the runner was inbounds ruling, and the play was Upheld. The ruling on the field stands."
+  },
+  {
+    "wallclock": "2025-10-12T21:32:15Z",
+    "period": 2,
+    "clock": "1:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass incomplete short left to R.Doubs (D.Turner)."
+  },
+  {
+    "wallclock": "2025-10-12T21:33:02Z",
+    "period": 2,
+    "clock": "1:13",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Whelan punts 35 yards to CIN 7, Center-M.Orzech, fair catch by C.Jones."
+  },
+  {
+    "wallclock": "2025-10-12T21:33:28Z",
+    "period": 2,
+    "clock": "1:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:06."
+  },
+  {
+    "wallclock": "2025-10-12T21:34:02Z",
+    "period": 2,
+    "clock": "1:06",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown left end to CIN 20 for 13 yards (J.Bullard)."
+  },
+  {
+    "wallclock": "2025-10-12T21:34:27Z",
+    "period": 2,
+    "clock": "0:41",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Flacco pass short left to J.Chase ran ob at CIN 30 for 10 yards."
+  },
+  {
+    "wallclock": "2025-10-12T21:35:06Z",
+    "period": 2,
+    "clock": "0:37",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hudson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Hobbs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to T.Hudson to CIN 33 for 3 yards (N.Hobbs)."
+  },
+  {
+    "wallclock": "2025-10-12T21:35:24Z",
+    "period": 2,
+    "clock": "0:30",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CIN at 00:30."
+  },
+  {
+    "wallclock": "2025-10-12T21:36:06Z",
+    "period": 2,
+    "clock": "0:30",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Iosivas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to A.Iosivas to CIN 38 for 5 yards (E.Williams) [R.Gary]."
+  },
+  {
+    "wallclock": "2025-10-12T21:36:38Z",
+    "period": 2,
+    "clock": "0:26",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CIN at 00:26."
+  },
+  {
+    "wallclock": "2025-10-12T21:37:00Z",
+    "period": 2,
+    "clock": "0:26",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine up the middle to CIN 42 for 4 yards (E.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-12T21:37:16Z",
+    "period": 2,
+    "clock": "0:22",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by CIN at 00:22."
+  },
+  {
+    "wallclock": "2025-10-12T21:37:59Z",
+    "period": 2,
+    "clock": "0:22",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete deep right [L.Van Ness]."
+  },
+  {
+    "wallclock": "2025-10-12T21:38:39Z",
+    "period": 2,
+    "clock": "0:15",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Fant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to N.Fant to GB 49 for 9 yards (J.Bullard; E.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-12T21:38:52Z",
+    "period": 2,
+    "clock": "0:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Flacco spiked the ball to stop the clock."
+  },
+  {
+    "wallclock": "2025-10-12T21:39:55Z",
+    "period": 2,
+    "clock": "0:01",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by GB at 00:01."
+  },
+  {
+    "wallclock": "2025-10-12T21:40:40Z",
+    "period": 2,
+    "clock": "0:01",
+    "play_type": "Blocked Field Goal",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Rivers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson 67 yard field goal is No Good, Center-W.Wagner, Holder-R.Rehkow. K.Nixon at GB -5 to GB 32 for 37 yards (A.Mims; J.Rivers)."
+  },
+  {
+    "wallclock": "2025-10-12T21:40:40Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-10-12T21:54:48Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Valentine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sample",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Havrisik kicks 55 yards from GB 35 to CIN 10. C.Jones pushed ob at CIN 39 for 29 yards (C.Valentine).PENALTY on CIN-C.Sample, Offensive Holding, 10 yards, enforced at CIN 32."
+  },
+  {
+    "wallclock": "2025-10-12T21:55:56Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Brown right end to CIN 27 for 5 yards (J.Bullard)."
+  },
+  {
+    "wallclock": "2025-10-12T21:56:36Z",
+    "period": 3,
+    "clock": "14:14",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown right end to CIN 31 for 4 yards (Q.Walker; E.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-12T21:57:20Z",
+    "period": 3,
+    "clock": "13:30",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine up the middle to CIN 33 for 2 yards (L.Van Ness; E.Williams)."
+  },
+  {
+    "wallclock": "2025-10-12T21:57:58Z",
+    "period": 3,
+    "clock": "12:52",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase ran ob at CIN 45 for 12 yards."
+  },
+  {
+    "wallclock": "2025-10-12T21:58:32Z",
+    "period": 3,
+    "clock": "12:21",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass short right to J.Chase to GB 48 for 7 yards (E.Williams).PENALTY on GB-K.Nixon, Illegal Contact, 5 yards, enforced at CIN 45 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T21:59:36Z",
+    "period": 3,
+    "clock": "12:03",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Perine up the middle to GB 44 for 6 yards (K.Nixon; E.Williams)."
+  },
+  {
+    "wallclock": "2025-10-12T22:00:16Z",
+    "period": 3,
+    "clock": "11:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short right to T.Higgins (K.Nixon)."
+  },
+  {
+    "wallclock": "2025-10-12T22:00:53Z",
+    "period": 3,
+    "clock": "11:20",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to T.Higgins to GB 35 for 9 yards (J.Bullard)."
+  },
+  {
+    "wallclock": "2025-10-12T22:01:33Z",
+    "period": 3,
+    "clock": "10:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Iosivas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to A.Iosivas."
+  },
+  {
+    "wallclock": "2025-10-12T22:02:13Z",
+    "period": 3,
+    "clock": "10:34",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.McKinney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Stackhouse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown up the middle to GB 26 for 9 yards (X.McKinney; N.Stackhouse)."
+  },
+  {
+    "wallclock": "2025-10-12T22:02:52Z",
+    "period": 3,
+    "clock": "9:55",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wooden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine right end to GB 25 for 1 yard (E.Williams; C.Wooden)."
+  },
+  {
+    "wallclock": "2025-10-12T22:03:34Z",
+    "period": 3,
+    "clock": "9:13",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Hobbs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Flacco pass short left to J.Chase pushed ob at GB 19 for 6 yards (N.Hobbs)."
+  },
+  {
+    "wallclock": "2025-10-12T22:04:16Z",
+    "period": 3,
+    "clock": "8:31",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Parsons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on GB-M.Parsons, Neutral Zone Infraction, 5 yards, enforced at GB 19 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T22:05:15Z",
+    "period": 3,
+    "clock": "8:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Iosivas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to A.Iosivas."
+  },
+  {
+    "wallclock": "2025-10-12T22:05:50Z",
+    "period": 3,
+    "clock": "8:01",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.McKinney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to T.Higgins to GB 1 for 13 yards (X.McKinney). CIN-T.Higgins was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-12T22:06:14Z",
+    "period": 3,
+    "clock": "7:37",
+    "play_type": "Penalty",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Fant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on CIN-N.Fant, False Start, 4 yards, enforced at GB 1 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T22:07:49Z",
+    "period": 3,
+    "clock": "7:02",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Brown up the middle to GB 4 for 1 yard (Q.Walker)."
+  },
+  {
+    "wallclock": "2025-10-12T22:08:33Z",
+    "period": 3,
+    "clock": "6:19",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco sacked at GB 10 for -6 yards (L.Van Ness)."
+  },
+  {
+    "wallclock": "2025-10-12T22:09:19Z",
+    "period": 3,
+    "clock": "5:36",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CIN at 05:36."
+  },
+  {
+    "wallclock": "2025-10-12T22:10:24Z",
+    "period": 3,
+    "clock": "5:36",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hudson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to T.Hudson to GB 2 for 8 yards (E.Cooper; Q.Walker)."
+  },
+  {
+    "wallclock": "2025-10-12T22:11:10Z",
+    "period": 3,
+    "clock": "4:46",
+    "play_type": "Passing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hudson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Hobbs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Flacco pass short middle to T.Hudson for 2 yards, TOUCHDOWN.Penalty on GB-N.Hobbs, Defensive Holding, declined. E.McPherson extra point is GOOD, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-12T22:12:46Z",
+    "period": 3,
+    "clock": "4:46",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:46."
+  },
+  {
+    "wallclock": "2025-10-12T22:15:10Z",
+    "period": 3,
+    "clock": "4:46",
+    "play_type": "Kickoff",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 63 yards from CIN 35 to GB 2. S.Williams ran ob at GB 34 for 32 yards (D.Hill)."
+  },
+  {
+    "wallclock": "2025-10-12T22:15:53Z",
+    "period": 3,
+    "clock": "4:41",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Melton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Melton left end pushed ob at GB 37 for 3 yards (G.Stone)."
+  },
+  {
+    "wallclock": "2025-10-12T22:16:37Z",
+    "period": 3,
+    "clock": "3:59",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short middle to R.Doubs to GB 45 for 8 yards (D.Turner; D.Knight)."
+  },
+  {
+    "wallclock": "2025-10-12T22:17:14Z",
+    "period": 3,
+    "clock": "3:22",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Jacobs right guard to CIN 44 for 11 yards (D.Hill; J.Battle)."
+  },
+  {
+    "wallclock": "2025-10-12T22:17:55Z",
+    "period": 3,
+    "clock": "2:42",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Slaton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Jacobs up the middle to CIN 41 for 3 yards (T.Slaton)."
+  },
+  {
+    "wallclock": "2025-10-12T22:18:34Z",
+    "period": 3,
+    "clock": "2:02",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short right to R.Doubs to CIN 29 for 12 yards (J.Battle)."
+  },
+  {
+    "wallclock": "2025-10-12T22:19:18Z",
+    "period": 3,
+    "clock": "1:18",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Musgrave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass short middle to L.Musgrave to CIN 22 for 7 yards (D.Knight)."
+  },
+  {
+    "wallclock": "2025-10-12T22:19:53Z",
+    "period": 3,
+    "clock": "0:43",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pennel",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Jacobs left guard to CIN 17 for 5 yards (M.Pennel)."
+  },
+  {
+    "wallclock": "2025-10-12T22:20:31Z",
+    "period": 3,
+    "clock": "0:05",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pennel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Jacobs up the middle to CIN 14 for 3 yards (M.Pennel; D.Knight)."
+  },
+  {
+    "wallclock": "2025-10-12T22:20:31Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-10-12T22:23:32Z",
+    "period": 4,
+    "clock": "14:56",
+    "play_type": "Rushing Touchdown",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Jacobs up the middle for 14 yards, TOUCHDOWN. L.Havrisik extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-10-12T22:24:34Z",
+    "period": 4,
+    "clock": "14:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:56."
+  },
+  {
+    "wallclock": "2025-10-12T22:27:00Z",
+    "period": 4,
+    "clock": "14:56",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Havrisik kicks 62 yards from GB 35 to CIN 3. C.Jones to CIN 23 for 20 yards (Z.Anderson; C.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-12T22:27:42Z",
+    "period": 4,
+    "clock": "14:50",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass deep right to J.Chase to CIN 41 for 18 yards (K.Nixon)."
+  },
+  {
+    "wallclock": "2025-10-12T22:28:22Z",
+    "period": 4,
+    "clock": "14:10",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.McDuffie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Brown left end to CIN 40 for -1 yards (E.Williams, I.McDuffie)."
+  },
+  {
+    "wallclock": "2025-10-12T22:29:04Z",
+    "period": 4,
+    "clock": "13:36",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to J.Chase to CIN 45 for 5 yards (E.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-12T22:29:41Z",
+    "period": 4,
+    "clock": "13:00",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Valentine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Sorrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to T.Higgins to GB 48 for 7 yards (C.Valentine) [B.Sorrell]."
+  },
+  {
+    "wallclock": "2025-10-12T22:30:24Z",
+    "period": 4,
+    "clock": "12:16",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.McKinney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to T.Higgins to GB 29 for 19 yards (X.McKinney)."
+  },
+  {
+    "wallclock": "2025-10-12T22:31:07Z",
+    "period": 4,
+    "clock": "11:34",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sample",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short left to D.Sample."
+  },
+  {
+    "wallclock": "2025-10-12T22:31:51Z",
+    "period": 4,
+    "clock": "11:30",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Parsons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short left to C.Brown to GB 27 for 2 yards (M.Parsons; E.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-12T22:32:29Z",
+    "period": 4,
+    "clock": "10:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Iosivas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short middle to A.Iosivas."
+  },
+  {
+    "wallclock": "2025-10-12T22:33:12Z",
+    "period": 4,
+    "clock": "10:43",
+    "play_type": "Field Goal Good",
+    "yards": 45,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "E.McPherson 45 yard field goal is GOOD, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-12T22:33:30Z",
+    "period": 4,
+    "clock": "10:43",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:43."
+  },
+  {
+    "wallclock": "2025-10-12T22:36:07Z",
+    "period": 4,
+    "clock": "10:43",
+    "play_type": "Kickoff",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Melton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Heyward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 63 yards from CIN 35 to GB 2. B.Melton to GB 38 for 36 yards (S.Heyward)."
+  },
+  {
+    "wallclock": "2025-10-12T22:36:52Z",
+    "period": 4,
+    "clock": "10:37",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Doubs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass short left to R.Doubs pushed ob at CIN 47 for 15 yards (D.Turner)."
+  },
+  {
+    "wallclock": "2025-10-12T22:37:39Z",
+    "period": 4,
+    "clock": "9:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Golden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass incomplete short left to M.Golden (D.Turner)."
+  },
+  {
+    "wallclock": "2025-10-12T22:38:21Z",
+    "period": 4,
+    "clock": "9:47",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass short middle to J.Jacobs to CIN 38 for 9 yards (B.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T22:38:21Z",
+    "period": 4,
+    "clock": "9:07",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love scrambles up the middle to CIN 35 for 3 yards (M.Murphy)."
+  },
+  {
+    "wallclock": "2025-10-12T22:39:45Z",
+    "period": 4,
+    "clock": "8:24",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Jacobs right end pushed ob at CIN 19 for 16 yards (J.Battle)."
+  },
+  {
+    "wallclock": "2025-10-12T22:40:28Z",
+    "period": 4,
+    "clock": "7:33",
+    "play_type": "Passing Touchdown",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kraft",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Love pass short right to T.Kraft for 19 yards, TOUCHDOWN. L.Havrisik extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-10-12T22:41:55Z",
+    "period": 4,
+    "clock": "7:33",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:33."
+  },
+  {
+    "wallclock": "2025-10-12T22:44:09Z",
+    "period": 4,
+    "clock": "7:33",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Havrisik kicks 65 yards from GB 35 to end zone, Touchback to the CIN 35."
+  },
+  {
+    "wallclock": "2025-10-12T22:45:17Z",
+    "period": 4,
+    "clock": "7:33",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:33."
+  },
+  {
+    "wallclock": "2025-10-12T22:47:03Z",
+    "period": 4,
+    "clock": "7:33",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.McKinney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to J.Chase to CIN 44 for 9 yards (X.McKinney; E.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-12T22:47:37Z",
+    "period": 4,
+    "clock": "7:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Enagbare",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Perine right guard to CIN 47 for 3 yards (E.Cooper; K.Enagbare)."
+  },
+  {
+    "wallclock": "2025-10-12T22:48:15Z",
+    "period": 4,
+    "clock": "6:22",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Fant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short middle to N.Fant to GB 46 for 7 yards (Q.Walker; E.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-12T22:48:59Z",
+    "period": 4,
+    "clock": "5:38",
+    "play_type": "Pass Incompletion",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short right to J.Chase (K.Nixon).PENALTY on GB-K.Nixon, Defensive Pass Interference, 11 yards, enforced at GB 46 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T22:49:45Z",
+    "period": 4,
+    "clock": "5:34",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to J.Chase pushed ob at GB 30 for 5 yards (K.Nixon)."
+  },
+  {
+    "wallclock": "2025-10-12T22:50:23Z",
+    "period": 4,
+    "clock": "4:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete deep right to T.Higgins (K.Nixon)."
+  },
+  {
+    "wallclock": "2025-10-12T22:51:07Z",
+    "period": 4,
+    "clock": "4:53",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Nixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass short right to J.Chase to GB 24 for 6 yards (K.Nixon).Penalty on GB-K.Nixon, Illegal Use of Hands, declined."
+  },
+  {
+    "wallclock": "2025-10-12T22:51:53Z",
+    "period": 4,
+    "clock": "4:48",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Flacco pass short middle to C.Brown to GB 19 for 5 yards (Q.Walker)."
+  },
+  {
+    "wallclock": "2025-10-12T22:52:14Z",
+    "period": 4,
+    "clock": "4:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Flacco pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-10-12T22:53:00Z",
+    "period": 4,
+    "clock": "4:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Valentine",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Flacco pass incomplete short left to J.Chase (C.Valentine)."
+  },
+  {
+    "wallclock": "2025-10-12T22:53:52Z",
+    "period": 4,
+    "clock": "4:17",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by GB at 04:17."
+  },
+  {
+    "wallclock": "2025-10-12T22:54:57Z",
+    "period": 4,
+    "clock": "4:11",
+    "play_type": "Passing Touchdown",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chase",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Flacco pass deep right to J.Chase for 19 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. J.Flacco pass to C.Brown is complete. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": "2025-10-12T22:56:46Z",
+    "period": 4,
+    "clock": "4:11",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:11."
+  },
+  {
+    "wallclock": "2025-10-12T22:59:03Z",
+    "period": 4,
+    "clock": "4:11",
+    "play_type": "Kickoff",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Ivey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson kicks 63 yards from CIN 35 to GB 2. S.Williams to GB 38 for 36 yards (D.Ivey; T.Anderson)."
+  },
+  {
+    "wallclock": "2025-10-12T22:59:54Z",
+    "period": 4,
+    "clock": "4:02",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Taylor-Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Jacobs left end to GB 43 for 5 yards (C.Taylor-Britt)."
+  },
+  {
+    "wallclock": "2025-10-12T23:00:40Z",
+    "period": 4,
+    "clock": "3:17",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love sacked at GB 40 for -3 yards (G.Stone)."
+  },
+  {
+    "wallclock": "2025-10-12T23:01:25Z",
+    "period": 4,
+    "clock": "2:32",
+    "play_type": "Pass Reception",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Golden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ossai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Love pass deep left to M.Golden pushed ob at CIN 29 for 31 yards (J.Battle) [J.Ossai]."
+  },
+  {
+    "wallclock": "2025-10-12T23:02:11Z",
+    "period": 4,
+    "clock": "2:24",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jacobs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Battle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Jacobs up the middle to CIN 26 for 3 yards (J.Battle; D.Hill)."
+  },
+  {
+    "wallclock": "2025-10-12T23:02:38Z",
+    "period": 4,
+    "clock": "2:19",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CIN at 02:19."
+  },
+  {
+    "wallclock": "2025-10-12T23:05:13Z",
+    "period": 4,
+    "clock": "2:19",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love right end to CIN 21 for 5 yards (D.Knight)."
+  },
+  {
+    "wallclock": "2025-10-12T23:05:41Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-12T23:08:20Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by GB at 02:00."
+  },
+  {
+    "wallclock": "2025-10-12T23:09:13Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Golden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Love pass incomplete short left to M.Golden [G.Stone]."
+  },
+  {
+    "wallclock": "2025-10-12T23:09:56Z",
+    "period": 4,
+    "clock": "1:52",
+    "play_type": "Field Goal Good",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Orzech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Whelan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "L.Havrisik 39 yard field goal is GOOD, Center-M.Orzech, Holder-D.Whelan."
+  },
+  {
+    "wallclock": "2025-10-12T23:11:23Z",
+    "period": 4,
+    "clock": "1:52",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Havrisik",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Havrisik kicks 65 yards from GB 35 to end zone, Touchback to the CIN 35."
+  },
+  {
+    "wallclock": "2025-10-12T23:12:02Z",
+    "period": 4,
+    "clock": "1:52",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Fant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) J.Flacco pass short middle to N.Fant to CIN 42 for 7 yards (Q.Walker)."
+  },
+  {
+    "wallclock": "2025-10-12T23:12:24Z",
+    "period": 4,
+    "clock": "1:31",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.McKinney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Hobbs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Flacco pass short middle to S.Perine to GB 42 for 16 yards (X.McKinney; N.Hobbs)."
+  },
+  {
+    "wallclock": "2025-10-12T23:12:46Z",
+    "period": 4,
+    "clock": "1:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Flacco spiked the ball to stop the clock."
+  },
+  {
+    "wallclock": "2025-10-12T23:13:21Z",
+    "period": 4,
+    "clock": "1:09",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Fant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) J.Flacco pass short left to N.Fant to GB 38 for 4 yards (E.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-12T23:13:39Z",
+    "period": 4,
+    "clock": "0:51",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Flacco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Perine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Valentine",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) J.Flacco pass short left to S.Perine pushed ob at GB 38 for no gain (C.Valentine)."
+  },
+  {
+    "wallclock": "2025-10-12T23:14:21Z",
+    "period": 4,
+    "clock": "0:46",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by GB at 00:46."
+  },
+  {
+    "wallclock": "2025-10-12T23:15:34Z",
+    "period": 4,
+    "clock": "0:46",
+    "play_type": "Field Goal Missed",
+    "yards": 56,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.McPherson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Rehkow",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.McPherson 56 yard field goal is No Good, Wide Right, Center-W.Wagner, Holder-R.Rehkow."
+  },
+  {
+    "wallclock": "2025-10-12T23:16:01Z",
+    "period": 4,
+    "clock": "0:41",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Love",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Love kneels to GB 46 for no gain."
+  },
+  {
+    "wallclock": "2025-10-12T23:16:01Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

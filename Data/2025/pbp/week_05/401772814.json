@@ -1,0 +1,4223 @@
+[
+  {
+    "wallclock": "2025-10-07T00:15:52Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "H.Butker kicks 57 yards from KC 35 to JAX 8. L.Allen to JAX 30 for 22 yards (N.Williams)."
+  },
+  {
+    "wallclock": "2025-10-07T00:16:36Z",
+    "period": 1,
+    "clock": "14:55",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Danna",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 37 for 7 yards (B.Cook; M.Danna)."
+  },
+  {
+    "wallclock": "2025-10-07T00:17:10Z",
+    "period": 1,
+    "clock": "14:22",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 38 for 1 yard (N.Bolton)."
+  },
+  {
+    "wallclock": "2025-10-07T00:17:54Z",
+    "period": 1,
+    "clock": "13:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tranquill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short left to T.Etienne (D.Tranquill)."
+  },
+  {
+    "wallclock": "2025-10-07T00:18:32Z",
+    "period": 1,
+    "clock": "13:33",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Remigio",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Cooke punts 53 yards to KC 9, Center-R.Matiscik. N.Remigio to KC 9 for no gain (R.Lane)."
+  },
+  {
+    "wallclock": "2025-10-07T00:19:32Z",
+    "period": 1,
+    "clock": "13:24",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kelce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short left to T.Kelce to KC 18 for 9 yards (A.Wingard)."
+  },
+  {
+    "wallclock": "2025-10-07T00:20:12Z",
+    "period": 1,
+    "clock": "12:43",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short left to I.Pacheco to KC 22 for 4 yards (D.Lloyd)."
+  },
+  {
+    "wallclock": "2025-10-07T00:20:53Z",
+    "period": 1,
+    "clock": "12:04",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "P.Mahomes pass deep right to T.Thornton to KC 46 for 24 yards (E.Murray; F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T00:21:36Z",
+    "period": 1,
+    "clock": "11:21",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kelce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short left to T.Kelce to JAX 48 for 6 yards (D.Gardeck; T.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-07T00:22:09Z",
+    "period": 1,
+    "clock": "10:48",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hines-Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) I.Pacheco up the middle to JAX 42 for 6 yards (J.Hines-Allen).PENALTY on KC-J.Taylor, Illegal Formation, 5 yards, enforced at JAX 48 - No Play."
+  },
+  {
+    "wallclock": "2025-10-07T00:23:02Z",
+    "period": 1,
+    "clock": "10:26",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short left to M.Brown to JAX 46 for 7 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T00:23:47Z",
+    "period": 1,
+    "clock": "9:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kelce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete short right to T.Kelce (T.Hunter)."
+  },
+  {
+    "wallclock": "2025-10-07T00:24:28Z",
+    "period": 1,
+    "clock": "9:38",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Araiza",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Winchester",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Araiza punts 32 yards to JAX 14, Center-J.Winchester, fair catch by P.Washington."
+  },
+  {
+    "wallclock": "2025-10-07T00:24:49Z",
+    "period": 1,
+    "clock": "9:31",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:31."
+  },
+  {
+    "wallclock": "2025-10-07T00:27:28Z",
+    "period": 1,
+    "clock": "9:31",
+    "play_type": "Rush",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tranquill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence scrambles right end to JAX 15 for 1 yard. T.Lawrence pass incomplete short right to D.Brown [D.Tranquill].PENALTY on JAX-T.Lawrence, Illegal Forward Pass, 5 yards, enforced at JAX 15."
+  },
+  {
+    "wallclock": "2025-10-07T00:28:43Z",
+    "period": 1,
+    "clock": "9:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short middle to D.Brown (N.Bolton)."
+  },
+  {
+    "wallclock": "2025-10-07T00:29:20Z",
+    "period": 1,
+    "clock": "9:19",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hicks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short middle to B.Thomas to JAX 22 for 12 yards (T.McDuffie; J.Hicks)."
+  },
+  {
+    "wallclock": "2025-10-07T00:30:00Z",
+    "period": 1,
+    "clock": "8:38",
+    "play_type": "Punt",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Remigio",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Cooke punts 52 yards to KC 26, Center-R.Matiscik. N.Remigio to KC 28 for 2 yards (R.Lane)."
+  },
+  {
+    "wallclock": "2025-10-07T00:30:37Z",
+    "period": 1,
+    "clock": "8:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:29."
+  },
+  {
+    "wallclock": "2025-10-07T00:33:05Z",
+    "period": 1,
+    "clock": "8:29",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) X.Worthy right end ran ob at KC 37 for 9 yards (T.Hunter)."
+  },
+  {
+    "wallclock": "2025-10-07T00:33:55Z",
+    "period": 1,
+    "clock": "8:02",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Schuster",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short right to J.Smith-Schuster ran ob at KC 45 for 8 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T00:34:32Z",
+    "period": 1,
+    "clock": "7:28",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) I.Pacheco up the middle to JAX 39 for 16 yards (A.Wingard). ** Injury Update: KC-J.Simmons has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-07T00:35:13Z",
+    "period": 1,
+    "clock": "6:47",
+    "play_type": "Rush",
+    "yards": -29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Hunt right tackle to JAX 38 for 1 yard (Au.Johnson).PENALTY on KC-M.Brown, Unnecessary Roughness, 15 yards, enforced at JAX 38."
+  },
+  {
+    "wallclock": "2025-10-07T00:36:37Z",
+    "period": 1,
+    "clock": "6:14",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short right to B.Smith to JAX 38 for 15 yards (A.Wingard; F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T00:37:28Z",
+    "period": 1,
+    "clock": "5:26",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by KC at 05:26."
+  },
+  {
+    "wallclock": "2025-10-07T00:38:35Z",
+    "period": 1,
+    "clock": "5:26",
+    "play_type": "Pass Reception",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass deep left to T.Thornton to JAX 6 for 32 yards (An.Johnson) [A.Wingard].Jacksonville challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-10-07T00:42:04Z",
+    "period": 1,
+    "clock": "4:56",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Smith left end to JAX 2 for 4 yards (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-07T00:42:47Z",
+    "period": 1,
+    "clock": "4:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete short left to X.Worthy (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-07T00:43:26Z",
+    "period": 1,
+    "clock": "4:02",
+    "play_type": "Passing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kelce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Winchester",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Araiza",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) P.Mahomes pass short right to T.Kelce for 2 yards, TOUCHDOWN. H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza."
+  },
+  {
+    "wallclock": "2025-10-07T00:44:42Z",
+    "period": 1,
+    "clock": "4:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:02."
+  },
+  {
+    "wallclock": "2025-10-07T00:47:28Z",
+    "period": 1,
+    "clock": "4:02",
+    "play_type": "Kickoff",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cochrane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "H.Butker kicks 60 yards from KC 35 to JAX 5. L.Allen to JAX 39 for 34 yards (J.Cochrane; J.Brownlee)."
+  },
+  {
+    "wallclock": "2025-10-07T00:48:17Z",
+    "period": 1,
+    "clock": "3:55",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass short right to B.Strange to KC 39 for 22 yards (C.Conner)."
+  },
+  {
+    "wallclock": "2025-10-07T00:48:53Z",
+    "period": 1,
+    "clock": "3:19",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tranquill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) T.Etienne left guard to KC 34 for 5 yards (D.Tranquill; N.Bolton)."
+  },
+  {
+    "wallclock": "2025-10-07T00:49:37Z",
+    "period": 1,
+    "clock": "2:34",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Roland-Wallace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne left guard to KC 31 for 3 yards (C.Roland-Wallace)."
+  },
+  {
+    "wallclock": "2025-10-07T00:50:18Z",
+    "period": 1,
+    "clock": "1:53",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gillotte",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence right end to KC 29 for 2 yards (A.Gillotte)."
+  },
+  {
+    "wallclock": "2025-10-07T00:51:07Z",
+    "period": 1,
+    "clock": "1:05",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Watson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tranquill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) T.Lawrence pass short right to B.Thomas to KC 7 for 22 yards (J.Watson) [C.Jones].Penalty on KC-D.Tranquill, Illegal Contact, declined."
+  },
+  {
+    "wallclock": "2025-10-07T00:52:10Z",
+    "period": 1,
+    "clock": "0:38",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hicks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to KC 8 for -1 yards (N.Bolton, J.Hicks)."
+  },
+  {
+    "wallclock": "2025-10-07T00:52:10Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-10-07T00:55:48Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to T.Etienne pushed ob at KC 3 for 5 yards (C.Conner)."
+  },
+  {
+    "wallclock": "2025-10-07T00:56:30Z",
+    "period": 2,
+    "clock": "14:21",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hicks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence right end pushed ob at KC 1 for 2 yards (J.Hicks)."
+  },
+  {
+    "wallclock": "2025-10-07T00:57:14Z",
+    "period": 2,
+    "clock": "13:41",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Karlaftis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Karlaftis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence up the middle to KC 1 for no gain (N.Bolton). FUMBLES (N.Bolton), RECOVERED by KC-G.Karlaftis at KC 2. G.Karlaftis to KC 3 for 1 yard (B.Tuten).The Replay Official reviewed the short of the goal line ruling, and the play was Upheld. The ruling on the field stands."
+  },
+  {
+    "wallclock": "2025-10-07T01:00:08Z",
+    "period": 2,
+    "clock": "13:36",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:36."
+  },
+  {
+    "wallclock": "2025-10-07T01:00:56Z",
+    "period": 2,
+    "clock": "13:36",
+    "play_type": "Rush",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Hunt right tackle pushed ob at KC 36 for 33 yards (A.Wingard)."
+  },
+  {
+    "wallclock": "2025-10-07T01:01:38Z",
+    "period": 2,
+    "clock": "12:56",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short left to X.Worthy ran ob at KC 41 for 5 yards (F.Oluokun; T.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-07T01:02:18Z",
+    "period": 2,
+    "clock": "12:19",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Armstead",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short left to M.Brown ran ob at JAX 43 for 16 yards (A.Armstead)."
+  },
+  {
+    "wallclock": "2025-10-07T01:03:06Z",
+    "period": 2,
+    "clock": "11:35",
+    "play_type": "Pass Reception",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass deep right to T.Thornton pushed ob at JAX 9 for 34 yards (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-07T01:03:55Z",
+    "period": 2,
+    "clock": "10:44",
+    "play_type": "Rushing Touchdown",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Winchester",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Araiza",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) P.Mahomes right end for 9 yards, TOUCHDOWN. H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza."
+  },
+  {
+    "wallclock": "2025-10-07T01:04:57Z",
+    "period": 2,
+    "clock": "10:44",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:44."
+  },
+  {
+    "wallclock": "2025-10-07T01:07:44Z",
+    "period": 2,
+    "clock": "10:44",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Roland-Wallace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "H.Butker kicks 58 yards from KC 35 to JAX 7. L.Allen to JAX 30 for 23 yards (C.Conner; C.Roland-Wallace)."
+  },
+  {
+    "wallclock": "2025-10-07T01:08:30Z",
+    "period": 2,
+    "clock": "10:38",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cook",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne left tackle to JAX 32 for 2 yards (B.Cook)."
+  },
+  {
+    "wallclock": "2025-10-07T01:09:09Z",
+    "period": 2,
+    "clock": "9:58",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Omenihu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence sacked at JAX 30 for -2 yards (C.Omenihu)."
+  },
+  {
+    "wallclock": "2025-10-07T01:09:55Z",
+    "period": 2,
+    "clock": "9:09",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Strange",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on JAX-B.Strange, False Start, 5 yards, enforced at JAX 30 - No Play."
+  },
+  {
+    "wallclock": "2025-10-07T01:10:47Z",
+    "period": 2,
+    "clock": "9:00",
+    "play_type": "Pass Incompletion",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Karlaftis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Watson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short left to B.Thomas [G.Karlaftis].PENALTY on KC-J.Watson, Defensive Pass Interference, 13 yards, enforced at JAX 25 - No Play."
+  },
+  {
+    "wallclock": "2025-10-07T01:11:49Z",
+    "period": 2,
+    "clock": "8:54",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Edoga",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tillery",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Edoga reported in as eligible.  B.Tuten left tackle to JAX 39 for 1 yard (J.Tillery)."
+  },
+  {
+    "wallclock": "2025-10-07T01:12:30Z",
+    "period": 2,
+    "clock": "8:12",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tranquill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence scrambles up the middle to KC 45 for 16 yards (D.Tranquill; N.Bolton)."
+  },
+  {
+    "wallclock": "2025-10-07T01:13:11Z",
+    "period": 2,
+    "clock": "7:32",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Omenihu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) B.Tuten left guard to KC 46 for -1 yards (C.Omenihu)."
+  },
+  {
+    "wallclock": "2025-10-07T01:13:57Z",
+    "period": 2,
+    "clock": "6:45",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cook",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to T.Hunter pushed ob at KC 34 for 12 yards (T.McDuffie; B.Cook)."
+  },
+  {
+    "wallclock": "2025-10-07T01:14:41Z",
+    "period": 2,
+    "clock": "6:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Patrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass incomplete deep left to T.Patrick."
+  },
+  {
+    "wallclock": "2025-10-07T01:15:32Z",
+    "period": 2,
+    "clock": "5:55",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Watson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to B.Tuten to KC 29 for 5 yards (J.Watson)."
+  },
+  {
+    "wallclock": "2025-10-07T01:16:17Z",
+    "period": 2,
+    "clock": "5:09",
+    "play_type": "Rush",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cook",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence scrambles up the middle to KC 15 for 14 yards (B.Cook)."
+  },
+  {
+    "wallclock": "2025-10-07T01:17:13Z",
+    "period": 2,
+    "clock": "4:18",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by JAX at 04:18."
+  },
+  {
+    "wallclock": "2025-10-07T01:18:08Z",
+    "period": 2,
+    "clock": "4:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short left to B.Thomas."
+  },
+  {
+    "wallclock": "2025-10-07T01:18:50Z",
+    "period": 2,
+    "clock": "4:12",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to KC 7 for 8 yards (N.Bolton; C.Conner)."
+  },
+  {
+    "wallclock": "2025-10-07T01:19:33Z",
+    "period": 2,
+    "clock": "3:29",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tillery",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Danna",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) T.Etienne right end to KC 3 for 4 yards (J.Tillery; M.Danna)."
+  },
+  {
+    "wallclock": "2025-10-07T01:20:19Z",
+    "period": 2,
+    "clock": "2:38",
+    "play_type": "Passing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Lawrence pass short left to P.Washington for 3 yards, TOUCHDOWN. C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke."
+  },
+  {
+    "wallclock": "2025-10-07T01:21:16Z",
+    "period": 2,
+    "clock": "2:38",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:38."
+  },
+  {
+    "wallclock": "2025-10-07T01:23:58Z",
+    "period": 2,
+    "clock": "2:38",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 65 yards from JAX 35 to end zone, Touchback to the KC 35."
+  },
+  {
+    "wallclock": "2025-10-07T01:24:46Z",
+    "period": 2,
+    "clock": "2:38",
+    "play_type": "Pass Reception",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hines-Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short middle to X.Worthy to KC 29 for -6 yards (J.Hines-Allen)."
+  },
+  {
+    "wallclock": "2025-10-07T01:25:28Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-07T01:28:14Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete short right [D.Gardeck]."
+  },
+  {
+    "wallclock": "2025-10-07T01:28:59Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short right to K.Hunt to KC 37 for 8 yards (J.Lewis; F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T01:29:45Z",
+    "period": 2,
+    "clock": "1:06",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Araiza",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Winchester",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Araiza punts 55 yards to JAX 8, Center-J.Winchester, downed by KC-N.Williams."
+  },
+  {
+    "wallclock": "2025-10-07T01:31:03Z",
+    "period": 2,
+    "clock": "0:54",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Chenal",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to B.Thomas to JAX 21 for 13 yards (T.McDuffie) [L.Chenal]."
+  },
+  {
+    "wallclock": "2025-10-07T01:31:24Z",
+    "period": 2,
+    "clock": "0:35",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mekari",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Lawrence pass incomplete deep right to D.Brown.PENALTY on JAX-P.Mekari, Offensive Holding, 10 yards, enforced at JAX 21 - No Play."
+  },
+  {
+    "wallclock": "2025-10-07T01:32:26Z",
+    "period": 2,
+    "clock": "0:27",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Roland-Wallace",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to P.Washington to JAX 24 for 13 yards (C.Roland-Wallace; N.Bolton)."
+  },
+  {
+    "wallclock": "2025-10-07T01:32:46Z",
+    "period": 2,
+    "clock": "0:07",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Watson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Lawrence sacked at JAX 18 for -6 yards (J.Watson)."
+  },
+  {
+    "wallclock": "2025-10-07T01:32:46Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-10-07T01:46:48Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 62 yards from JAX 35 to KC 3. B.Smith to KC 33 for 30 yards (M.Brown)."
+  },
+  {
+    "wallclock": "2025-10-07T01:47:31Z",
+    "period": 3,
+    "clock": "14:52",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) I.Pacheco up the middle to KC 33 for no gain (F.Oluokun; D.Hamilton)."
+  },
+  {
+    "wallclock": "2025-10-07T01:48:08Z",
+    "period": 3,
+    "clock": "14:14",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kelce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ogbah",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short right to T.Kelce to KC 41 for 8 yards (E.Ogbah)."
+  },
+  {
+    "wallclock": "2025-10-07T01:48:52Z",
+    "period": 3,
+    "clock": "13:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete short left to M.Brown (J.Lewis)."
+  },
+  {
+    "wallclock": "2025-10-07T01:49:32Z",
+    "period": 3,
+    "clock": "13:24",
+    "play_type": "Punt",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Araiza",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Winchester",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Araiza punts 45 yards to JAX 14, Center-J.Winchester. P.Washington to JAX 13 for -1 yards (N.Williams)."
+  },
+  {
+    "wallclock": "2025-10-07T01:50:18Z",
+    "period": 3,
+    "clock": "13:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:15."
+  },
+  {
+    "wallclock": "2025-10-07T01:52:27Z",
+    "period": 3,
+    "clock": "13:15",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass short right to T.Etienne to JAX 20 for 7 yards (N.Bolton)."
+  },
+  {
+    "wallclock": "2025-10-07T01:53:08Z",
+    "period": 3,
+    "clock": "12:33",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Chenal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne left tackle to JAX 28 for 8 yards (L.Chenal). JAX-A.Harrison was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-07T01:54:17Z",
+    "period": 3,
+    "clock": "12:07",
+    "play_type": "Pass Reception",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cook",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Lawrence pass deep left to T.Hunter to KC 28 for 44 yards (B.Cook)."
+  },
+  {
+    "wallclock": "2025-10-07T01:54:50Z",
+    "period": 3,
+    "clock": "11:34",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hicks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Watson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) T.Lawrence pass short right to T.Hunter to KC 27 for 1 yard (J.Hicks).PENALTY on KC-J.Watson, Illegal Contact, 5 yards, enforced at KC 28 - No Play."
+  },
+  {
+    "wallclock": "2025-10-07T01:55:48Z",
+    "period": 3,
+    "clock": "10:50",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mundt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Chenal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to J.Mundt to KC 16 for 7 yards (L.Chenal). ** Injury Update: JAX-A.Harrison has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-07T01:56:26Z",
+    "period": 3,
+    "clock": "10:12",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Tuten up the middle to KC 12 for 4 yards (N.Bolton)."
+  },
+  {
+    "wallclock": "2025-10-07T01:57:11Z",
+    "period": 3,
+    "clock": "9:27",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Tuten",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tillery",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Tuten up the middle to KC 10 for 2 yards (C.Jones; J.Tillery)."
+  },
+  {
+    "wallclock": "2025-10-07T01:57:51Z",
+    "period": 3,
+    "clock": "8:40",
+    "play_type": "Rushing Touchdown",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Lawrence scrambles up the middle for 10 yards, TOUCHDOWN. C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke."
+  },
+  {
+    "wallclock": "2025-10-07T01:58:46Z",
+    "period": 3,
+    "clock": "8:40",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:40."
+  },
+  {
+    "wallclock": "2025-10-07T02:01:33Z",
+    "period": 3,
+    "clock": "8:40",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Kiser",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 59 yards from JAX 35 to KC 6. B.Smith pushed ob at KC 32 for 26 yards (J.Kiser; V.Miller)."
+  },
+  {
+    "wallclock": "2025-10-07T02:02:26Z",
+    "period": 3,
+    "clock": "8:34",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "P.Mahomes pass short middle to X.Worthy to KC 41 for 9 yards (T.Campbell). KC-X.Worthy was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-07T02:03:25Z",
+    "period": 3,
+    "clock": "8:09",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) I.Pacheco left guard to KC 44 for 3 yards (Au.Johnson; F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T02:04:05Z",
+    "period": 3,
+    "clock": "7:29",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "P.Mahomes pass short left to I.Pacheco to JAX 46 for 10 yards (D.Lloyd)."
+  },
+  {
+    "wallclock": "2025-10-07T02:04:48Z",
+    "period": 3,
+    "clock": "6:45",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short right to X.Worthy ran ob at JAX 39 for 7 yards (T.Hunter). ** Injury Update: KC-X.Worthy has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-07T02:05:31Z",
+    "period": 3,
+    "clock": "6:07",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "I.Pacheco up the middle to JAX 28 for 11 yards (E.Murray; T.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-07T02:06:10Z",
+    "period": 3,
+    "clock": "5:28",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short left to B.Smith pushed ob at JAX 16 for 12 yards (T.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-07T02:06:50Z",
+    "period": 3,
+    "clock": "4:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thornton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete deep right to T.Thornton."
+  },
+  {
+    "wallclock": "2025-10-07T02:07:32Z",
+    "period": 3,
+    "clock": "4:45",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes scrambles right end to JAX 8 for 8 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T02:08:18Z",
+    "period": 3,
+    "clock": "3:59",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short middle to M.Brown to JAX 3 for 5 yards (A.Wingard)."
+  },
+  {
+    "wallclock": "2025-10-07T02:09:01Z",
+    "period": 3,
+    "clock": "3:16",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Hunt up the middle to JAX 3 for no gain (D.Hamilton)."
+  },
+  {
+    "wallclock": "2025-10-07T02:09:42Z",
+    "period": 3,
+    "clock": "2:19",
+    "play_type": "Interception Return Touchdown",
+    "yards": 99,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Schuster",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) P.Mahomes pass short middle intended for J.Smith-Schuster INTERCEPTED by D.Lloyd at JAX 1. D.Lloyd for 99 yards, TOUCHDOWN. C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke."
+  },
+  {
+    "wallclock": "2025-10-07T02:10:56Z",
+    "period": 3,
+    "clock": "2:19",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:19."
+  },
+  {
+    "wallclock": "2025-10-07T02:13:37Z",
+    "period": 3,
+    "clock": "2:19",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cochrane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 66 yards from JAX 35 to KC -1. B.Smith to JAX 38 for 63 yards (M.Brown).PENALTY on KC-J.Cochrane, Offensive Holding, 10 yards, enforced at KC 30."
+  },
+  {
+    "wallclock": "2025-10-07T02:15:01Z",
+    "period": 3,
+    "clock": "2:10",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass deep right to X.Worthy ran ob at KC 39 for 19 yards."
+  },
+  {
+    "wallclock": "2025-10-07T02:15:42Z",
+    "period": 3,
+    "clock": "1:31",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete short left to M.Brown."
+  },
+  {
+    "wallclock": "2025-10-07T02:16:25Z",
+    "period": 3,
+    "clock": "1:26",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short left to X.Worthy to KC 47 for 8 yards (E.Murray)."
+  },
+  {
+    "wallclock": "2025-10-07T02:17:09Z",
+    "period": 3,
+    "clock": "0:42",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes scrambles left tackle to JAX 44 for 9 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T02:17:52Z",
+    "period": 3,
+    "clock": "0:01",
+    "play_type": "Rush",
+    "yards": -19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Suamataia",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) I.Pacheco left tackle to JAX 37 for 7 yards (F.Oluokun).PENALTY on KC-K.Suamataia, Offensive Holding, 10 yards, enforced at JAX 43."
+  },
+  {
+    "wallclock": "2025-10-07T02:17:52Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-10-07T02:21:24Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete deep middle to X.Worthy. JAX-T.Hunter was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-07T02:22:16Z",
+    "period": 4,
+    "clock": "14:53",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on KC, Delay of Game, 5 yards, enforced at KC 47 - No Play."
+  },
+  {
+    "wallclock": "2025-10-07T02:23:01Z",
+    "period": 4,
+    "clock": "14:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete deep middle to T.Thornton (M.Brown)."
+  },
+  {
+    "wallclock": "2025-10-07T02:23:46Z",
+    "period": 4,
+    "clock": "14:47",
+    "play_type": "Rush",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes scrambles left end to JAX 44 for 14 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T02:24:35Z",
+    "period": 4,
+    "clock": "13:58",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Araiza",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Winchester",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Araiza punts 32 yards to JAX 12, Center-J.Winchester, fair catch by P.Washington."
+  },
+  {
+    "wallclock": "2025-10-07T02:25:13Z",
+    "period": 4,
+    "clock": "13:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:51."
+  },
+  {
+    "wallclock": "2025-10-07T02:27:35Z",
+    "period": 4,
+    "clock": "13:51",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Long",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to H.Long to JAX 15 for 3 yards (N.Bolton)."
+  },
+  {
+    "wallclock": "2025-10-07T02:28:14Z",
+    "period": 4,
+    "clock": "13:12",
+    "play_type": "Pass Interception Return",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Karlaftis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McDuffie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right intended for P.Washington INTERCEPTED by T.McDuffie [G.Karlaftis] at JAX 21. T.McDuffie to JAX 19 for 2 yards (T.Etienne). ** Injury Update: JAX-T.Hunter has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-07T02:29:05Z",
+    "period": 4,
+    "clock": "13:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:03."
+  },
+  {
+    "wallclock": "2025-10-07T02:31:21Z",
+    "period": 4,
+    "clock": "13:03",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kelce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "P.Mahomes pass short left to T.Kelce to JAX 5 for 14 yards (E.Murray)."
+  },
+  {
+    "wallclock": "2025-10-07T02:31:59Z",
+    "period": 4,
+    "clock": "12:20",
+    "play_type": "Rushing Touchdown",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Winchester",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Araiza",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) K.Hunt right guard for 5 yards, TOUCHDOWN. H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza."
+  },
+  {
+    "wallclock": "2025-10-07T02:32:57Z",
+    "period": 4,
+    "clock": "12:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:20."
+  },
+  {
+    "wallclock": "2025-10-07T02:35:45Z",
+    "period": 4,
+    "clock": "12:20",
+    "play_type": "Kickoff",
+    "yards": 38,
+    "athletes": [
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "H.Butker kicks 62 yards from KC 35 to JAX 3. L.Allen to JAX 41 for 38 yards (J.Williams; H.Butker)."
+  },
+  {
+    "wallclock": "2025-10-07T02:36:34Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne up the middle to JAX 46 for 5 yards (C.Conner)."
+  },
+  {
+    "wallclock": "2025-10-07T02:37:13Z",
+    "period": 4,
+    "clock": "11:34",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gillotte",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne right end to JAX 49 for 3 yards (A.Gillotte; C.Conner)."
+  },
+  {
+    "wallclock": "2025-10-07T02:37:55Z",
+    "period": 4,
+    "clock": "10:52",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence scrambles left end ran ob at KC 48 for 3 yards (N.Bolton)."
+  },
+  {
+    "wallclock": "2025-10-07T02:38:41Z",
+    "period": 4,
+    "clock": "10:06",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bolton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Omenihu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Nnadi",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Etienne right end to KC 44 for 4 yards (N.Bolton; C.Omenihu).PENALTY on KC-D.Nnadi, Defensive Holding, 5 yards, enforced at KC 44."
+  },
+  {
+    "wallclock": "2025-10-07T02:39:37Z",
+    "period": 4,
+    "clock": "9:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Edoga",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McDuffie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Edoga reported in as eligible.  T.Lawrence pass incomplete deep middle to B.Thomas (T.McDuffie)."
+  },
+  {
+    "wallclock": "2025-10-07T02:40:20Z",
+    "period": 4,
+    "clock": "9:41",
+    "play_type": "Pass Reception",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tranquill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Omenihu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to T.Etienne to KC 42 for -3 yards (D.Tranquill) [C.Omenihu]."
+  },
+  {
+    "wallclock": "2025-10-07T02:41:04Z",
+    "period": 4,
+    "clock": "8:57",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hunter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Chenal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cook",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short middle to T.Hunter to KC 34 for 8 yards (L.Chenal; B.Cook)."
+  },
+  {
+    "wallclock": "2025-10-07T02:41:48Z",
+    "period": 4,
+    "clock": "8:08",
+    "play_type": "Field Goal Good",
+    "yards": 52,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Little 52 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke."
+  },
+  {
+    "wallclock": "2025-10-07T02:42:03Z",
+    "period": 4,
+    "clock": "8:08",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:08."
+  },
+  {
+    "wallclock": "2025-10-07T02:44:45Z",
+    "period": 4,
+    "clock": "8:08",
+    "play_type": "Kickoff",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Morris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Remigio",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 56 yards from JAX 35 to KC 9. B.Smith to KC 31 for 22 yards (Q.Morris; R.Lane).PENALTY on KC-N.Remigio, Illegal Double-Team Block, 13 yards, enforced at KC 27."
+  },
+  {
+    "wallclock": "2025-10-07T02:46:07Z",
+    "period": 4,
+    "clock": "8:02",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) I.Pacheco left guard to KC 18 for 4 yards (E.Murray)."
+  },
+  {
+    "wallclock": "2025-10-07T02:46:50Z",
+    "period": 4,
+    "clock": "7:18",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes scrambles left end ran ob at KC 33 for 15 yards (E.Murray)."
+  },
+  {
+    "wallclock": "2025-10-07T02:47:36Z",
+    "period": 4,
+    "clock": "6:36",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith-Schuster",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short right to J.Smith-Schuster to KC 42 for 9 yards (F.Oluokun)."
+  },
+  {
+    "wallclock": "2025-10-07T02:48:15Z",
+    "period": 4,
+    "clock": "5:58",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hines-Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) I.Pacheco up the middle to KC 43 for 1 yard (J.Hines-Allen; D.Hamilton)."
+  },
+  {
+    "wallclock": "2025-10-07T02:48:57Z",
+    "period": 4,
+    "clock": "5:15",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pacheco",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Oluokun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short left to I.Pacheco to KC 49 for 6 yards (F.Oluokun; E.Murray)."
+  },
+  {
+    "wallclock": "2025-10-07T02:49:43Z",
+    "period": 4,
+    "clock": "4:29",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Gardeck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes scrambles left end to JAX 46 for 5 yards (D.Gardeck)."
+  },
+  {
+    "wallclock": "2025-10-07T02:50:30Z",
+    "period": 4,
+    "clock": "3:42",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Hunt up the middle to JAX 40 for 6 yards (A.Wingard; D.Hamilton)."
+  },
+  {
+    "wallclock": "2025-10-07T02:51:14Z",
+    "period": 4,
+    "clock": "2:58",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kelce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short right to T.Kelce to JAX 29 for 11 yards (E.Murray)."
+  },
+  {
+    "wallclock": "2025-10-07T02:51:58Z",
+    "period": 4,
+    "clock": "2:14",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short right to B.Smith to JAX 24 for 5 yards (M.Brown)."
+  },
+  {
+    "wallclock": "2025-10-07T02:52:18Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-07T02:55:10Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ogbah",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass deep right to M.Brown ran ob at JAX 4 for 20 yards [E.Ogbah].The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands."
+  },
+  {
+    "wallclock": "2025-10-07T02:56:38Z",
+    "period": 4,
+    "clock": "1:53",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Wingard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Armstead",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Hunt up the middle to JAX 2 for 2 yards (A.Wingard; A.Armstead)."
+  },
+  {
+    "wallclock": "2025-10-07T02:56:58Z",
+    "period": 4,
+    "clock": "1:48",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by JAX at 01:48."
+  },
+  {
+    "wallclock": "2025-10-07T02:57:45Z",
+    "period": 4,
+    "clock": "1:45",
+    "play_type": "Rushing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Winchester",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Araiza",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) K.Hunt right tackle for 2 yards, TOUCHDOWN. H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza."
+  },
+  {
+    "wallclock": "2025-10-07T02:59:46Z",
+    "period": 4,
+    "clock": "1:45",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Butker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "H.Butker kicks 60 yards from KC 35 to JAX 5, out of bounds.PENALTY on KC-H.Butker, Kickoff Out of Bounds, placed at JAX 40."
+  },
+  {
+    "wallclock": "2025-10-07T03:00:46Z",
+    "period": 4,
+    "clock": "1:45",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Omenihu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence scrambles right end to JAX 46 for 6 yards (C.Omenihu)."
+  },
+  {
+    "wallclock": "2025-10-07T03:01:22Z",
+    "period": 4,
+    "clock": "1:09",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Karlaftis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Chenal",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Lawrence sacked at JAX 43 for -3 yards (sack split by G.Karlaftis and L.Chenal)."
+  },
+  {
+    "wallclock": "2025-10-07T03:01:51Z",
+    "period": 4,
+    "clock": "1:01",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by JAX at 01:01."
+  },
+  {
+    "wallclock": "2025-10-07T03:02:39Z",
+    "period": 4,
+    "clock": "1:01",
+    "play_type": "Pass Reception",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass deep right to B.Thomas pushed ob at KC 24 for 33 yards (C.Conner)."
+  },
+  {
+    "wallclock": "2025-10-07T03:03:26Z",
+    "period": 4,
+    "clock": "0:54",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Watson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short left to D.Brown ran ob at KC 11 for 13 yards (J.Watson)."
+  },
+  {
+    "wallclock": "2025-10-07T03:04:12Z",
+    "period": 4,
+    "clock": "0:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McDuffie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass incomplete short left to D.Brown (T.McDuffie)."
+  },
+  {
+    "wallclock": "2025-10-07T03:04:58Z",
+    "period": 4,
+    "clock": "0:44",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on JAX, Delay of Game, 5 yards, enforced at KC 11 - No Play."
+  },
+  {
+    "wallclock": "2025-10-07T03:05:43Z",
+    "period": 4,
+    "clock": "0:44",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Karlaftis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass short right to D.Brown to KC 14 for 2 yards (G.Karlaftis)."
+  },
+  {
+    "wallclock": "2025-10-07T03:06:03Z",
+    "period": 4,
+    "clock": "0:38",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by JAX at 00:38."
+  },
+  {
+    "wallclock": "2025-10-07T03:06:50Z",
+    "period": 4,
+    "clock": "0:38",
+    "play_type": "Penalty",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Lawrence pass deep left intended for B.Thomas INTERCEPTED by B.Cook (C.Conner) at KC -5. Touchback.PENALTY on KC-C.Conner, Defensive Pass Interference, 13 yards, enforced at KC 14 - No Play."
+  },
+  {
+    "wallclock": "2025-10-07T03:07:52Z",
+    "period": 4,
+    "clock": "0:23",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Matiscik",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Cooke",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "T.Lawrence scrambles left end for 1 yard, TOUCHDOWN.Penalty on KC-C.Conner, Defensive Holding, declined. C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke."
+  },
+  {
+    "wallclock": "2025-10-07T03:10:16Z",
+    "period": 4,
+    "clock": "0:23",
+    "play_type": "Kickoff",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Little",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cochrane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Little kicks 63 yards from JAX 35 to KC 2. B.Smith to KC 36 for 34 yards (An.Johnson).PENALTY on KC-J.Cochrane, Offensive Holding, 10 yards, enforced at KC 27."
+  },
+  {
+    "wallclock": "2025-10-07T03:11:27Z",
+    "period": 4,
+    "clock": "0:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Worthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lloyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete deep middle to X.Worthy (E.Murray) [D.Lloyd]."
+  },
+  {
+    "wallclock": "2025-10-07T03:12:15Z",
+    "period": 4,
+    "clock": "0:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete short middle to M.Brown."
+  },
+  {
+    "wallclock": "2025-10-07T03:12:57Z",
+    "period": 4,
+    "clock": "0:07",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kelce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass short middle to T.Kelce to KC 28 for 11 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-10-07T03:13:14Z",
+    "period": 4,
+    "clock": "0:03",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by KC at 00:03."
+  },
+  {
+    "wallclock": "2025-10-07T03:14:03Z",
+    "period": 4,
+    "clock": "0:03",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by KC at 00:03."
+  },
+  {
+    "wallclock": "2025-10-07T03:14:34Z",
+    "period": 4,
+    "clock": "0:03",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on KC, Delay of Game, 5 yards, enforced at KC 28 - No Play."
+  },
+  {
+    "wallclock": "2025-10-07T03:14:57Z",
+    "period": 4,
+    "clock": "0:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Mahomes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Mahomes pass incomplete deep right to M.Brown."
+  },
+  {
+    "wallclock": "2025-10-07T03:14:57Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

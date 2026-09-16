@@ -1,0 +1,4144 @@
+[
+  {
+    "wallclock": "2025-12-28T21:25:35Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 54 yards from BUF 35 to PHI 11. W.Shipley to PHI 33 for 22 yards (S.Thompson).PENALTY on PHI, Illegal Formation, 5 yards, enforced at PHI 33."
+  },
+  {
+    "wallclock": "2025-12-28T21:27:07Z",
+    "period": 1,
+    "clock": "14:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass incomplete deep right to J.Dotson."
+  },
+  {
+    "wallclock": "2025-12-28T21:27:53Z",
+    "period": 1,
+    "clock": "14:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short middle [G.Rousseau]."
+  },
+  {
+    "wallclock": "2025-12-28T21:28:37Z",
+    "period": 1,
+    "clock": "14:41",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to A.Brown pushed ob at PHI 36 for 8 yards (C.Benford)."
+  },
+  {
+    "wallclock": "2025-12-28T21:29:23Z",
+    "period": 1,
+    "clock": "13:58",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 54 yards to BUF 10, Center-C.Hughlett, downed by PHI-K.Ringo."
+  },
+  {
+    "wallclock": "2025-12-28T21:30:26Z",
+    "period": 1,
+    "clock": "13:45",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook up the middle to BUF 13 for 3 yards (J.Phillips)."
+  },
+  {
+    "wallclock": "2025-12-28T21:31:02Z",
+    "period": 1,
+    "clock": "13:09",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass short middle to D.Knox to BUF 28 for 15 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-12-28T21:31:40Z",
+    "period": 1,
+    "clock": "12:31",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Cook left end ran ob at BUF 38 for 10 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-12-28T21:32:20Z",
+    "period": 1,
+    "clock": "11:52",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) J.Allen pass short left to J.Cook to BUF 41 for 3 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-12-28T21:32:58Z",
+    "period": 1,
+    "clock": "11:15",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass short left to K.Shakir to BUF 43 for 2 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-12-28T21:33:44Z",
+    "period": 1,
+    "clock": "10:29",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen sacked at BUF 43 for 0 yards (Z.Baun).PENALTY on PHI-M.Epps, Defensive Holding, 5 yards, enforced at BUF 43 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T21:34:41Z",
+    "period": 1,
+    "clock": "10:11",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Cook left end to PHI 49 for 3 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-12-28T21:35:23Z",
+    "period": 1,
+    "clock": "9:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short left to J.Cook."
+  },
+  {
+    "wallclock": "2025-12-28T21:36:02Z",
+    "period": 1,
+    "clock": "9:25",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen sacked at BUF 41 for -10 yards (J.Hunt)."
+  },
+  {
+    "wallclock": "2025-12-28T21:36:42Z",
+    "period": 1,
+    "clock": "8:46",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Covey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Wishnowsky punts 46 yards to PHI 13, Center-R.Ferguson, fair catch by B.Covey."
+  },
+  {
+    "wallclock": "2025-12-28T21:37:08Z",
+    "period": 1,
+    "clock": "8:38",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:38."
+  },
+  {
+    "wallclock": "2025-12-28T21:40:10Z",
+    "period": 1,
+    "clock": "8:38",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right tackle to PHI 17 for 4 yards (T.Bernard)."
+  },
+  {
+    "wallclock": "2025-12-28T21:40:48Z",
+    "period": 1,
+    "clock": "8:00",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley right end pushed ob at PHI 24 for 7 yards (C.Lewis)."
+  },
+  {
+    "wallclock": "2025-12-28T21:41:20Z",
+    "period": 1,
+    "clock": "7:29",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mathis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) S.Barkley left guard to PHI 26 for 2 yards (A.Jones; P.Mathis)."
+  },
+  {
+    "wallclock": "2025-12-28T21:42:04Z",
+    "period": 1,
+    "clock": "6:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) J.Hurts pass incomplete short left to D.Goedert."
+  },
+  {
+    "wallclock": "2025-12-28T21:42:46Z",
+    "period": 1,
+    "clock": "6:42",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) W.Shipley up the middle to PHI 30 for 4 yards (M.Milano; D.Williams)."
+  },
+  {
+    "wallclock": "2025-12-28T21:43:23Z",
+    "period": 1,
+    "clock": "6:05",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 44 yards to BUF 26, Center-C.Hughlett, out of bounds."
+  },
+  {
+    "wallclock": "2025-12-28T21:43:44Z",
+    "period": 1,
+    "clock": "5:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:56."
+  },
+  {
+    "wallclock": "2025-12-28T21:46:30Z",
+    "period": 1,
+    "clock": "5:56",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen FUMBLES (Aborted) at BUF 23, and recovers at BUF 20."
+  },
+  {
+    "wallclock": "2025-12-28T21:47:12Z",
+    "period": 1,
+    "clock": "5:14",
+    "play_type": "Pass Reception",
+    "yards": 50,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass deep middle to B.Cooks to PHI 30 for 50 yards (C.DeJean) [J.Hunt]."
+  },
+  {
+    "wallclock": "2025-12-28T21:47:48Z",
+    "period": 1,
+    "clock": "4:39",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Cook up the middle to PHI 23 for 7 yards (J.Phillips; J.Campbell)."
+  },
+  {
+    "wallclock": "2025-12-28T21:47:48Z",
+    "period": 1,
+    "clock": "4:13",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Allen sacked at PHI 29 for -6 yards (J.Phillips). FUMBLES (J.Phillips), touched at PHI 28, RECOVERED by PHI-J.Campbell at BUF 45."
+  },
+  {
+    "wallclock": "2025-12-28T21:49:52Z",
+    "period": 1,
+    "clock": "4:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:03."
+  },
+  {
+    "wallclock": "2025-12-28T21:51:52Z",
+    "period": 1,
+    "clock": "4:03",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Cooper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hairston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Cooper to BUF 41 for 4 yards (M.Hairston)."
+  },
+  {
+    "wallclock": "2025-12-28T21:52:26Z",
+    "period": 1,
+    "clock": "3:28",
+    "play_type": "Pass Reception",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Hurts pass deep left to A.Brown to BUF 14 for 27 yards (C.Benford)."
+  },
+  {
+    "wallclock": "2025-12-28T21:52:59Z",
+    "period": 1,
+    "clock": "2:54",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Calcaterra",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bishop",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short left to G.Calcaterra to BUF 11 for 3 yards (C.Bishop)."
+  },
+  {
+    "wallclock": "2025-12-28T21:53:39Z",
+    "period": 1,
+    "clock": "2:15",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to A.Brown to BUF 5 for 6 yards (C.Benford)."
+  },
+  {
+    "wallclock": "2025-12-28T21:54:05Z",
+    "period": 1,
+    "clock": "1:49",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sanders",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley up the middle to BUF 2 for 3 yards (T.Sanders)."
+  },
+  {
+    "wallclock": "2025-12-28T21:54:35Z",
+    "period": 1,
+    "clock": "1:19",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley up the middle to BUF 1 for 1 yard (M.Milano; G.Rousseau)."
+  },
+  {
+    "wallclock": "2025-12-28T21:55:15Z",
+    "period": 1,
+    "clock": "0:35",
+    "play_type": "Passing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Pryor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "M.Pryor reported in as eligible.  J.Hurts pass short right to D.Goedert for 1 yard, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-12-28T21:56:13Z",
+    "period": 1,
+    "clock": "0:35",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:35."
+  },
+  {
+    "wallclock": "2025-12-28T21:58:59Z",
+    "period": 1,
+    "clock": "0:35",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 65 yards from PHI 35 to landing zone to end zone, Touchback to the BUF 20."
+  },
+  {
+    "wallclock": "2025-12-28T21:59:45Z",
+    "period": 1,
+    "clock": "0:35",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass short left to D.Knox to BUF 22 for 2 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-12-28T21:59:45Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-28T22:03:07Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Cook left guard to BUF 27 for 5 yards (J.Campbell; J.Hunt)."
+  },
+  {
+    "wallclock": "2025-12-28T22:03:43Z",
+    "period": 2,
+    "clock": "14:24",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen up the middle to BUF 44 for 17 yards (J.Hunt)."
+  },
+  {
+    "wallclock": "2025-12-28T22:04:25Z",
+    "period": 2,
+    "clock": "13:42",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Cook left tackle to 50 for 6 yards (J.Hunt)."
+  },
+  {
+    "wallclock": "2025-12-28T22:05:06Z",
+    "period": 2,
+    "clock": "13:01",
+    "play_type": "Rush",
+    "yards": -18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Dawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Cook up the middle to PHI 42 for 8 yards (A.Jackson; M.Epps).PENALTY on BUF-D.Dawkins, Offensive Holding, 10 yards, enforced at PHI 48."
+  },
+  {
+    "wallclock": "2025-12-28T22:06:06Z",
+    "period": 2,
+    "clock": "12:43",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Palmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short middle to J.Palmer to PHI 46 for 12 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-12-28T22:06:48Z",
+    "period": 2,
+    "clock": "12:01",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook left end to PHI 44 for 2 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-12-28T22:07:31Z",
+    "period": 2,
+    "clock": "11:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete deep left to B.Cooks."
+  },
+  {
+    "wallclock": "2025-12-28T22:08:16Z",
+    "period": 2,
+    "clock": "11:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Palmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short middle to J.Palmer (A.Jackson). PHI-J.Phillips was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-28T22:09:02Z",
+    "period": 2,
+    "clock": "11:07",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:07."
+  },
+  {
+    "wallclock": "2025-12-28T22:10:23Z",
+    "period": 2,
+    "clock": "11:07",
+    "play_type": "Punt",
+    "yards": -15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Covey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Wishnowsky punts 36 yards to PHI 8, Center-R.Ferguson, fair catch by B.Covey.PENALTY on BUF-S.Franklin, Fair Catch Interference, 15 yards, enforced at PHI 8."
+  },
+  {
+    "wallclock": "2025-12-28T22:12:27Z",
+    "period": 2,
+    "clock": "10:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:57."
+  },
+  {
+    "wallclock": "2025-12-28T22:14:36Z",
+    "period": 2,
+    "clock": "10:57",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Epenesa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " S.Barkley left guard to PHI 29 for 6 yards (A.Epenesa)."
+  },
+  {
+    "wallclock": "2025-12-28T22:15:15Z",
+    "period": 2,
+    "clock": "10:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass incomplete deep left to D.Smith."
+  },
+  {
+    "wallclock": "2025-12-28T22:16:05Z",
+    "period": 2,
+    "clock": "10:12",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PHI at 10:12."
+  },
+  {
+    "wallclock": "2025-12-28T22:17:11Z",
+    "period": 2,
+    "clock": "10:12",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bishop",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short middle to D.Smith to PHI 40 for 11 yards (C.Bishop)."
+  },
+  {
+    "wallclock": "2025-12-28T22:17:38Z",
+    "period": 2,
+    "clock": "9:44",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bosa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley right tackle to PHI 38 for -2 yards (J.Bosa). PHI-S.Barkley was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-28T22:18:26Z",
+    "period": 2,
+    "clock": "8:57",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby right guard to PHI 40 for 2 yards (T.Bernard)."
+  },
+  {
+    "wallclock": "2025-12-28T22:19:08Z",
+    "period": 2,
+    "clock": "8:14",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) J.Hurts pass deep right to A.Brown pushed ob at BUF 41 for 19 yards (C.Lewis)."
+  },
+  {
+    "wallclock": "2025-12-28T22:19:47Z",
+    "period": 2,
+    "clock": "7:43",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) W.Shipley right guard to BUF 43 for -2 yards (D.Walker)."
+  },
+  {
+    "wallclock": "2025-12-28T22:20:19Z",
+    "period": 2,
+    "clock": "7:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right. ** Injury Update: PHI-S.Barkley has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-28T22:21:04Z",
+    "period": 2,
+    "clock": "7:01",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lewis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts scrambles right end pushed ob at BUF 39 for 4 yards (C.Lewis).PENALTY on BUF-M.Milano, Defensive Holding, 5 yards, enforced at BUF 39."
+  },
+  {
+    "wallclock": "2025-12-28T22:22:32Z",
+    "period": 2,
+    "clock": "6:33",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ogunjobi",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley left tackle to BUF 33 for 1 yard (L.Ogunjobi)."
+  },
+  {
+    "wallclock": "2025-12-28T22:23:15Z",
+    "period": 2,
+    "clock": "5:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass incomplete deep left to A.Brown (T.White)."
+  },
+  {
+    "wallclock": "2025-12-28T22:24:01Z",
+    "period": 2,
+    "clock": "5:44",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Goedert to BUF 29 for 4 yards (T.Bernard)."
+  },
+  {
+    "wallclock": "2025-12-28T22:24:39Z",
+    "period": 2,
+    "clock": "5:03",
+    "play_type": "Field Goal Good",
+    "yards": 47,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Elliott 47 yard field goal is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-12-28T22:25:07Z",
+    "period": 2,
+    "clock": "5:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:03."
+  },
+  {
+    "wallclock": "2025-12-28T22:27:43Z",
+    "period": 2,
+    "clock": "5:03",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Mondon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Granson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 58 yards from PHI 35 to BUF 7. R.Davis to BUF 32 for 25 yards (S.Mondon; K.Granson)."
+  },
+  {
+    "wallclock": "2025-12-28T22:28:31Z",
+    "period": 2,
+    "clock": "4:57",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Cook up the middle to BUF 33 for 1 yard (M.Epps). ** Injury Update: PHI-J.Phillips has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-28T22:29:28Z",
+    "period": 2,
+    "clock": "4:21",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen sacked at BUF 24 for -9 yards (J.Carter)."
+  },
+  {
+    "wallclock": "2025-12-28T22:30:07Z",
+    "period": 2,
+    "clock": "3:41",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short left to K.Shakir to BUF 30 for 6 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-12-28T22:30:49Z",
+    "period": 2,
+    "clock": "3:00",
+    "play_type": "Punt",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Covey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gilliam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Wishnowsky punts 49 yards to PHI 21, Center-R.Ferguson. B.Covey to PHI 29 for 8 yards (R.Gilliam)."
+  },
+  {
+    "wallclock": "2025-12-28T22:31:22Z",
+    "period": 2,
+    "clock": "2:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:49."
+  },
+  {
+    "wallclock": "2025-12-28T22:34:12Z",
+    "period": 2,
+    "clock": "2:49",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right end to PHI 38 for 9 yards (M.Milano)."
+  },
+  {
+    "wallclock": "2025-12-28T22:34:56Z",
+    "period": 2,
+    "clock": "2:05",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right guard to BUF 46 for 16 yards (C.Lewis)."
+  },
+  {
+    "wallclock": "2025-12-28T22:35:22Z",
+    "period": 2,
+    "clock": "1:58",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-28T22:38:13Z",
+    "period": 2,
+    "clock": "1:58",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right tackle to BUF 42 for 4 yards (D.Walker)."
+  },
+  {
+    "wallclock": "2025-12-28T22:38:44Z",
+    "period": 2,
+    "clock": "1:27",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to A.Brown ran ob at BUF 34 for 8 yards."
+  },
+  {
+    "wallclock": "2025-12-28T22:39:28Z",
+    "period": 2,
+    "clock": "1:23",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Bigsby left end to BUF 29 for 5 yards (D.Walker; Ta.Johnson)."
+  },
+  {
+    "wallclock": "2025-12-28T22:39:57Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hairston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) J.Hurts pass short left to D.Smith to BUF 15 for 14 yards (M.Hairston)."
+  },
+  {
+    "wallclock": "2025-12-28T22:40:20Z",
+    "period": 2,
+    "clock": "0:30",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hairston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) J.Hurts pass short left to T.Bigsby to BUF 13 for 2 yards (M.Hairston)."
+  },
+  {
+    "wallclock": "2025-12-28T22:40:43Z",
+    "period": 2,
+    "clock": "0:23",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by PHI at 00:23."
+  },
+  {
+    "wallclock": "2025-12-28T22:41:44Z",
+    "period": 2,
+    "clock": "0:23",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by BUF at 00:23."
+  },
+  {
+    "wallclock": "2025-12-28T22:42:45Z",
+    "period": 2,
+    "clock": "0:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right to D.Goedert."
+  },
+  {
+    "wallclock": "2025-12-28T22:43:31Z",
+    "period": 2,
+    "clock": "0:18",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bosa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Goedert to BUF 10 for 3 yards (J.Bosa; Ta.Johnson)."
+  },
+  {
+    "wallclock": "2025-12-28T22:44:01Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by BUF at 00:11."
+  },
+  {
+    "wallclock": "2025-12-28T22:44:48Z",
+    "period": 2,
+    "clock": "0:08",
+    "play_type": "Field Goal Good",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Elliott 28 yard field goal is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-12-28T22:45:50Z",
+    "period": 2,
+    "clock": "0:08",
+    "play_type": "Kickoff",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Mondon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 72 yards from PHI 35 to BUF -7. R.Davis to BUF 25 for 32 yards (S.Mondon).\nPenalty on BUF-A.Anderson, Unnecessary Roughness, offsetting.\nPenalty on PHI-S.Brown, Unnecessary Roughness, offsetting."
+  },
+  {
+    "wallclock": "2025-12-28T22:47:31Z",
+    "period": 2,
+    "clock": "0:03",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen kneels to BUF 24 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-28T22:47:31Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-28T23:02:06Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Andreessen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 62 yards from PHI 35 to BUF 3. R.Davis to BUF 40 for 37 yards (W.Shipley).\nPENALTY on BUF-J.Andreessen, Offensive Holding, 10 yards, enforced at BUF 30."
+  },
+  {
+    "wallclock": "2025-12-28T23:03:21Z",
+    "period": 3,
+    "clock": "14:52",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) J.Allen pass short right to K.Shakir pushed ob at BUF 27 for 7 yards (A.Jackson)."
+  },
+  {
+    "wallclock": "2025-12-28T23:04:00Z",
+    "period": 3,
+    "clock": "14:12",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook up the middle to BUF 29 for 2 yards (J.Davis; J.Phillips)."
+  },
+  {
+    "wallclock": "2025-12-28T23:04:38Z",
+    "period": 3,
+    "clock": "13:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short left to K.Shakir."
+  },
+  {
+    "wallclock": "2025-12-28T23:05:20Z",
+    "period": 3,
+    "clock": "13:32",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PHI at 13:32."
+  },
+  {
+    "wallclock": "2025-12-28T23:06:12Z",
+    "period": 3,
+    "clock": "13:32",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Covey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Wishnowsky punts 49 yards to PHI 22, Center-R.Ferguson, fair catch by B.Covey."
+  },
+  {
+    "wallclock": "2025-12-28T23:07:23Z",
+    "period": 3,
+    "clock": "13:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:25."
+  },
+  {
+    "wallclock": "2025-12-28T23:09:26Z",
+    "period": 3,
+    "clock": "13:25",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley up the middle to PHI 27 for 5 yards (S.Thompson)."
+  },
+  {
+    "wallclock": "2025-12-28T23:10:06Z",
+    "period": 3,
+    "clock": "12:45",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " S.Barkley up the middle to PHI 37 for 10 yards (M.Milano)."
+  },
+  {
+    "wallclock": "2025-12-28T23:10:44Z",
+    "period": 3,
+    "clock": "12:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass incomplete short right to D.Goedert."
+  },
+  {
+    "wallclock": "2025-12-28T23:11:31Z",
+    "period": 3,
+    "clock": "12:00",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " S.Barkley right guard to PHI 35 for -2 yards (S.Thompson)."
+  },
+  {
+    "wallclock": "2025-12-28T23:12:13Z",
+    "period": 3,
+    "clock": "11:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-28T23:12:56Z",
+    "period": 3,
+    "clock": "11:10",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Mann punts 65 yards to end zone, Center-C.Hughlett, Touchback."
+  },
+  {
+    "wallclock": "2025-12-28T23:13:46Z",
+    "period": 3,
+    "clock": "10:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:58."
+  },
+  {
+    "wallclock": "2025-12-28T23:16:18Z",
+    "period": 3,
+    "clock": "10:58",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook right guard pushed ob at BUF 30 for 10 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-12-28T23:17:01Z",
+    "period": 3,
+    "clock": "10:15",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass short right to R.Davis to BUF 42 for 12 yards (C.DeJean; Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-12-28T23:17:47Z",
+    "period": 3,
+    "clock": "9:30",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook left guard to BUF 44 for 2 yards (J.Hunt; J.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T23:18:27Z",
+    "period": 3,
+    "clock": "8:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-28T23:19:11Z",
+    "period": 3,
+    "clock": "8:46",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to D.Knox to PHI 47 for 9 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-12-28T23:19:50Z",
+    "period": 3,
+    "clock": "8:07",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen sacked at BUF 45 for -8 yards (M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-12-28T23:20:34Z",
+    "period": 3,
+    "clock": "7:24",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass short right to Ty.Johnson to BUF 48 for 3 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-12-28T23:21:18Z",
+    "period": 3,
+    "clock": "6:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short middle to B.Cooks."
+  },
+  {
+    "wallclock": "2025-12-28T23:21:53Z",
+    "period": 3,
+    "clock": "6:36",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Covey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " M.Wishnowsky punts 36 yards to PHI 16, Center-R.Ferguson, fair catch by B.Covey."
+  },
+  {
+    "wallclock": "2025-12-28T23:22:45Z",
+    "period": 3,
+    "clock": "6:28",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:28."
+  },
+  {
+    "wallclock": "2025-12-28T23:25:02Z",
+    "period": 3,
+    "clock": "6:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right to A.Brown (C.Benford)."
+  },
+  {
+    "wallclock": "2025-12-28T23:25:46Z",
+    "period": 3,
+    "clock": "6:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Epenesa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Epenesa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass deep right to D.Smith to PHI 33 for 17 yards (Ta.Johnson) [A.Epenesa].Buffalo challenged the pass completion ruling, and the play was REVERSED.(Shotgun) J.Hurts pass incomplete deep right to D.Smith [A.Epenesa]. PHI-D.Smith was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-28T23:31:02Z",
+    "period": 3,
+    "clock": "6:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-28T23:31:41Z",
+    "period": 3,
+    "clock": "6:14",
+    "play_type": "Punt",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 62 yards to BUF 22, Center-C.Hughlett. K.Shakir ran ob at BUF 32 for 10 yards (S.Brown; W.Shipley)."
+  },
+  {
+    "wallclock": "2025-12-28T23:32:35Z",
+    "period": 3,
+    "clock": "6:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:03."
+  },
+  {
+    "wallclock": "2025-12-28T23:34:44Z",
+    "period": 3,
+    "clock": "6:03",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook up the middle to BUF 32 for no gain (J.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T23:35:24Z",
+    "period": 3,
+    "clock": "5:22",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short middle to J.Cook."
+  },
+  {
+    "wallclock": "2025-12-28T23:36:07Z",
+    "period": 3,
+    "clock": "5:18",
+    "play_type": "Penalty",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Palmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete deep right to J.Palmer.PENALTY on PHI-Q.Mitchell, Defensive Pass Interference, 26 yards, enforced at BUF 32 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T23:37:04Z",
+    "period": 3,
+    "clock": "5:12",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) J.Cook up the middle to PHI 39 for 3 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-12-28T23:37:48Z",
+    "period": 3,
+    "clock": "4:29",
+    "play_type": "Pass Reception",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Shavers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass deep right to T.Shavers to PHI 7 for 32 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-12-28T23:38:22Z",
+    "period": 3,
+    "clock": "3:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Allen pass incomplete short left to G.Davis (A.Jackson)."
+  },
+  {
+    "wallclock": "2025-12-28T23:39:06Z",
+    "period": 3,
+    "clock": "3:51",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to K.Shakir to PHI 2 for 5 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-12-28T23:39:48Z",
+    "period": 3,
+    "clock": "3:08",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook left guard to PHI 3 for -1 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-12-28T23:40:32Z",
+    "period": 3,
+    "clock": "2:25",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen scrambles right tackle to PHI 1 for 2 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-12-28T23:41:23Z",
+    "period": 3,
+    "clock": "2:16",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:16."
+  },
+  {
+    "wallclock": "2025-12-28T23:41:51Z",
+    "period": 3,
+    "clock": "2:16",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts up the middle to PHI 3 for 2 yards (S.Thompson; C.Lewis)."
+  },
+  {
+    "wallclock": "2025-12-28T23:42:31Z",
+    "period": 3,
+    "clock": "1:36",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " S.Barkley up the middle to PHI 5 for 2 yards (M.Milano)."
+  },
+  {
+    "wallclock": "2025-12-28T23:43:15Z",
+    "period": 3,
+    "clock": "0:52",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at PHI 3 for -2 yards (sack split by G.Rousseau and M.Milano). ** Injury Update: PHI-D.Smith has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-28T23:43:54Z",
+    "period": 3,
+    "clock": "0:13",
+    "play_type": "Punt",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 50 yards to BUF 47, Center-C.Hughlett. K.Shakir ran ob at PHI 41 for 12 yards (W.Shipley)."
+  },
+  {
+    "wallclock": "2025-12-28T23:45:01Z",
+    "period": 3,
+    "clock": "0:04",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short left to D.Knox to PHI 39 for 2 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-12-28T23:45:01Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-28T23:48:05Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short left to Ty.Johnson to PHI 29 for 10 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-12-28T23:48:43Z",
+    "period": 4,
+    "clock": "14:22",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook left tackle to PHI 27 for 2 yards (J.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T23:49:19Z",
+    "period": 4,
+    "clock": "13:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete deep left to J.Cook."
+  },
+  {
+    "wallclock": "2025-12-28T23:50:04Z",
+    "period": 4,
+    "clock": "13:41",
+    "play_type": "Sack",
+    "yards": -19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen sacked at PHI 46 for -19 yards (J.Hunt)."
+  },
+  {
+    "wallclock": "2025-12-28T23:50:50Z",
+    "period": 4,
+    "clock": "12:56",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Wishnowsky punts 46 yards to end zone, Center-R.Ferguson, Touchback."
+  },
+  {
+    "wallclock": "2025-12-28T23:51:17Z",
+    "period": 4,
+    "clock": "12:48",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:48."
+  },
+  {
+    "wallclock": "2025-12-28T23:53:54Z",
+    "period": 4,
+    "clock": "12:48",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ogunjobi",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right guard to PHI 23 for 3 yards (L.Ogunjobi)."
+  },
+  {
+    "wallclock": "2025-12-28T23:54:35Z",
+    "period": 4,
+    "clock": "12:08",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mathis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right tackle to PHI 24 for 1 yard (P.Mathis; Ta.Johnson)."
+  },
+  {
+    "wallclock": "2025-12-28T23:55:19Z",
+    "period": 4,
+    "clock": "11:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-28T23:56:03Z",
+    "period": 4,
+    "clock": "11:14",
+    "play_type": "Punt",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 58 yards to BUF 18, Center-C.Hughlett. K.Shakir ran ob at BUF 46 for 28 yards (C.Hughlett)."
+  },
+  {
+    "wallclock": "2025-12-28T23:57:18Z",
+    "period": 4,
+    "clock": "11:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:02."
+  },
+  {
+    "wallclock": "2025-12-28T23:59:06Z",
+    "period": 4,
+    "clock": "11:02",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to B.Cooks to PHI 45 for 9 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-12-28T23:59:41Z",
+    "period": 4,
+    "clock": "10:27",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Davis right guard to PHI 41 for 4 yards (J.Phillips)."
+  },
+  {
+    "wallclock": "2025-12-29T00:00:22Z",
+    "period": 4,
+    "clock": "9:46",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to K.Shakir pushed ob at PHI 39 for 2 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-12-29T00:01:02Z",
+    "period": 4,
+    "clock": "9:08",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) J.Cook right guard to PHI 32 for 7 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-12-29T00:01:33Z",
+    "period": 4,
+    "clock": "8:36",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Cook up the middle to PHI 29 for 3 yards (B.Young; C.DeJean)."
+  },
+  {
+    "wallclock": "2025-12-29T00:02:09Z",
+    "period": 4,
+    "clock": "8:01",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " Ty.Johnson left end pushed ob at PHI 25 for 4 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-12-29T00:02:43Z",
+    "period": 4,
+    "clock": "7:29",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Ty.Johnson right tackle to PHI 24 for 1 yard (M.Ojomo; J.Phillips)."
+  },
+  {
+    "wallclock": "2025-12-29T00:03:22Z",
+    "period": 4,
+    "clock": "6:51",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short left to K.Shakir pushed ob at PHI 11 for 13 yards (A.Jackson; C.DeJean)."
+  },
+  {
+    "wallclock": "2025-12-29T00:03:22Z",
+    "period": 4,
+    "clock": "6:24",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) Ty.Johnson up the middle to PHI 3 for 8 yards (R.Blankenship; A.Jackson). BUF-S.Brown was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-29T00:05:52Z",
+    "period": 4,
+    "clock": "5:54",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Ty.Johnson left guard to PHI 2 for 1 yard (C.DeJean; J.Hunt)."
+  },
+  {
+    "wallclock": "2025-12-29T00:07:04Z",
+    "period": 4,
+    "clock": "5:11",
+    "play_type": "Rushing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "A.Anderson reported in as eligible.  J.Allen left guard for 2 yards, TOUCHDOWN. M.Badgley extra point is Blocked (J.Carter), Center-R.Ferguson, Holder-M.Wishnowsky."
+  },
+  {
+    "wallclock": "2025-12-29T00:08:42Z",
+    "period": 4,
+    "clock": "5:11",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 62 yards from BUF 35 to PHI 3. W.Shipley to PHI 30 for 27 yards (D.Williams; K.Latu)."
+  },
+  {
+    "wallclock": "2025-12-29T00:09:37Z",
+    "period": 4,
+    "clock": "5:04",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley left tackle to PHI 27 for -3 yards (M.Milano)."
+  },
+  {
+    "wallclock": "2025-12-29T00:10:21Z",
+    "period": 4,
+    "clock": "4:19",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right guard to PHI 28 for 1 yard (G.Rousseau)."
+  },
+  {
+    "wallclock": "2025-12-29T00:11:06Z",
+    "period": 4,
+    "clock": "3:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep right to D.Smith (C.Benford)."
+  },
+  {
+    "wallclock": "2025-12-29T00:11:47Z",
+    "period": 4,
+    "clock": "3:29",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 55 yards to BUF 17, Center-C.Hughlett, fair catch by K.Shakir."
+  },
+  {
+    "wallclock": "2025-12-29T00:12:54Z",
+    "period": 4,
+    "clock": "3:21",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook right tackle to BUF 23 for 6 yards (C.DeJean). ** Injury Update: BUF-S.Brown has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-29T00:13:35Z",
+    "period": 4,
+    "clock": "2:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass incomplete short right [M.Ojomo]."
+  },
+  {
+    "wallclock": "2025-12-29T00:14:21Z",
+    "period": 4,
+    "clock": "2:34",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short left to B.Cooks ran ob at BUF 29 for 6 yards."
+  },
+  {
+    "wallclock": "2025-12-29T00:15:03Z",
+    "period": 4,
+    "clock": "2:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short left to Ty.Johnson."
+  },
+  {
+    "wallclock": "2025-12-29T00:16:08Z",
+    "period": 4,
+    "clock": "2:26",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Ty.Johnson up the middle to BUF 30 for 1 yard (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-12-29T00:16:35Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-29T00:19:22Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to Ty.Johnson to BUF 29 for -1 yards (Z.Baun, J.Campbell)."
+  },
+  {
+    "wallclock": "2025-12-29T00:19:52Z",
+    "period": 4,
+    "clock": "1:51",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by BUF at 01:51."
+  },
+  {
+    "wallclock": "2025-12-29T00:20:28Z",
+    "period": 4,
+    "clock": "1:51",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Shavers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to T.Shavers to BUF 33 for 4 yards. Lateral to Ty.Johnson pushed ob at PHI 46 for 21 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-12-29T00:21:06Z",
+    "period": 4,
+    "clock": "1:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Shavers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Allen pass incomplete short right to T.Shavers (J.Carter)."
+  },
+  {
+    "wallclock": "2025-12-29T00:21:46Z",
+    "period": 4,
+    "clock": "1:40",
+    "play_type": "Pass Reception",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass deep middle to B.Cooks to PHI 10 for 36 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-12-29T00:22:16Z",
+    "period": 4,
+    "clock": "1:10",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Cook left guard to PHI 9 for 1 yard (M.Ojomo; N.Smith)."
+  },
+  {
+    "wallclock": "2025-12-29T00:22:53Z",
+    "period": 4,
+    "clock": "0:33",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen scrambles left tackle to PHI 3 for 6 yards (J.Davis)."
+  },
+  {
+    "wallclock": "2025-12-29T00:23:22Z",
+    "period": 4,
+    "clock": "0:23",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by BUF at 00:23."
+  },
+  {
+    "wallclock": "2025-12-29T00:24:12Z",
+    "period": 4,
+    "clock": "0:23",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to D.Knox for 3 yards, TOUCHDOWN.The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.(Shotgun) J.Allen pass short right to D.Knox to PHI 1 for 2 yards (A.Jackson)."
+  },
+  {
+    "wallclock": "2025-12-29T00:27:29Z",
+    "period": 4,
+    "clock": "0:08",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by BUF at 00:08."
+  },
+  {
+    "wallclock": "2025-12-29T00:28:28Z",
+    "period": 4,
+    "clock": "0:05",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "A.Anderson reported in as eligible.  J.Allen up the middle for 1 yard, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. J.Allen pass to K.Shakir is incomplete. ATTEMPT FAILS."
+  },
+  {
+    "wallclock": null,
+    "period": 4,
+    "clock": "0:05",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by PHI at 00:05."
+  },
+  {
+    "wallclock": "2025-12-29T00:32:09Z",
+    "period": 4,
+    "clock": "0:05",
+    "play_type": "Kickoff",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks onside 13 yards from BUF 35 to BUF 48. D.Goedert (didn't try to advance) to BUF 48 for no gain."
+  },
+  {
+    "wallclock": "2025-12-29T00:32:10Z",
+    "period": 4,
+    "clock": "0:04",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts kneels to BUF 49 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-29T00:32:10Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

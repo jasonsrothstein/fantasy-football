@@ -1,0 +1,3490 @@
+[
+  {
+    "wallclock": "2025-12-14T18:03:10Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Richardson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Eichenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Carlson kicks 63 yards from LV 35 to PHI 2. W.Shipley to PHI 33 for 31 yards (D.Richardson; T.Eichenberg)."
+  },
+  {
+    "wallclock": "2025-12-14T18:03:55Z",
+    "period": 1,
+    "clock": "14:54",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right end to PHI 34 for 1 yard (C.Snowden; D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T18:04:33Z",
+    "period": 1,
+    "clock": "14:16",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hemingway",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right guard to PHI 40 for 6 yards (I.Pola-Mao; T.Hemingway)."
+  },
+  {
+    "wallclock": "2025-12-14T18:05:17Z",
+    "period": 1,
+    "clock": "13:32",
+    "play_type": "Penalty",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep right to A.Brown.PENALTY on LV-E.Stokes, Defensive Pass Interference, 20 yards, enforced at PHI 40 - No Play."
+  },
+  {
+    "wallclock": "2025-12-14T18:06:09Z",
+    "period": 1,
+    "clock": "13:27",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " S.Barkley left tackle to LV 34 for 6 yards (A.Butler)."
+  },
+  {
+    "wallclock": "2025-12-14T18:06:41Z",
+    "period": 1,
+    "clock": "12:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass incomplete short left to S.Barkley."
+  },
+  {
+    "wallclock": "2025-12-14T18:07:24Z",
+    "period": 1,
+    "clock": "12:51",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts left guard to LV 25 for 9 yards (I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-12-14T18:08:09Z",
+    "period": 1,
+    "clock": "12:06",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right end pushed ob at LV 22 for 3 yards (E.Stokes)."
+  },
+  {
+    "wallclock": "2025-12-14T18:08:55Z",
+    "period": 1,
+    "clock": "11:21",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to S.Barkley pushed ob at LV 16 for 6 yards (D.Porter)."
+  },
+  {
+    "wallclock": "2025-12-14T18:09:34Z",
+    "period": 1,
+    "clock": "10:47",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts up the middle to LV 14 for 2 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T18:10:14Z",
+    "period": 1,
+    "clock": "10:07",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right tackle to LV 8 for 6 yards (L.Johnson; M.Crosby)."
+  },
+  {
+    "wallclock": "2025-12-14T18:10:54Z",
+    "period": 1,
+    "clock": "9:27",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley left end to LV 10 for -2 yards (E.Roberts)."
+  },
+  {
+    "wallclock": "2025-12-14T18:11:38Z",
+    "period": 1,
+    "clock": "8:44",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Smith to LV 4 for 6 yards (I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-12-14T18:13:28Z",
+    "period": 1,
+    "clock": "8:35",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right guard to LV 4 for no gain (A.Butler)."
+  },
+  {
+    "wallclock": "2025-12-14T18:14:08Z",
+    "period": 1,
+    "clock": "7:51",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass short middle to D.Goedert for 4 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-12-14T18:14:58Z",
+    "period": 1,
+    "clock": "7:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:51."
+  },
+  {
+    "wallclock": "2025-12-14T18:17:52Z",
+    "period": 1,
+    "clock": "7:51",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Trotter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 58 yards from PHI 35 to LV 7. D.Laube to LV 26 for 19 yards (J.Trotter)."
+  },
+  {
+    "wallclock": "2025-12-14T18:18:39Z",
+    "period": 1,
+    "clock": "7:47",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short right to A.Jeanty pushed ob at LV 30 for 4 yards (N.Dean)."
+  },
+  {
+    "wallclock": "2025-12-14T18:19:16Z",
+    "period": 1,
+    "clock": "7:11",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right guard to LV 34 for 4 yards (J.Davis; R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-12-14T18:19:45Z",
+    "period": 1,
+    "clock": "6:42",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Pickett pass short right to T.Lockett ran ob at LV 37 for 3 yards."
+  },
+  {
+    "wallclock": "2025-12-14T18:20:21Z",
+    "period": 1,
+    "clock": "6:07",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short right to B.Bowers to LV 36 for -1 yards (N.Dean)."
+  },
+  {
+    "wallclock": "2025-12-14T18:20:59Z",
+    "period": 1,
+    "clock": "5:29",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short middle to J.Bech to LV 46 for 10 yards (A.Jackson)."
+  },
+  {
+    "wallclock": "2025-12-14T18:21:27Z",
+    "period": 1,
+    "clock": "5:01",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) K.Pickett scrambles right end to PHI 46 for 8 yards (A.Jackson)."
+  },
+  {
+    "wallclock": "2025-12-14T18:22:06Z",
+    "period": 1,
+    "clock": "4:22",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Grant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Grant reported in as eligible.  A.Jeanty left tackle to PHI 44 for 2 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-12-14T18:22:47Z",
+    "period": 1,
+    "clock": "3:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Pickett pass incomplete short left to B.Bowers."
+  },
+  {
+    "wallclock": "2025-12-14T18:23:29Z",
+    "period": 1,
+    "clock": "3:36",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Graham",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett sacked at LV 48 for -8 yards (B.Graham).PENALTY on PHI-C.DeJean, Unnecessary Roughness, 15 yards, enforced at LV 48.Penalty on PHI-C.DeJean, Defensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-12-14T18:26:46Z",
+    "period": 1,
+    "clock": "3:12",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett sacked at PHI 47 for -10 yards (M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-12-14T18:27:16Z",
+    "period": 1,
+    "clock": "2:42",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Pickett pass short right to J.Bech to PHI 40 for 7 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-12-14T18:27:57Z",
+    "period": 1,
+    "clock": "2:01",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short left to T.Lockett to PHI 33 for 7 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-12-14T18:28:38Z",
+    "period": 1,
+    "clock": "1:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass incomplete short right to T.Lockett (J.Phillips)."
+  },
+  {
+    "wallclock": "2025-12-14T18:29:21Z",
+    "period": 1,
+    "clock": "1:16",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:16."
+  },
+  {
+    "wallclock": "2025-12-14T18:32:14Z",
+    "period": 1,
+    "clock": "1:16",
+    "play_type": "Pass Reception",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass deep left to D.Smith to LV 23 for 44 yards (D.Porter)."
+  },
+  {
+    "wallclock": "2025-12-14T18:32:54Z",
+    "period": 1,
+    "clock": "0:36",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley up the middle to LV 16 for 7 yards (A.Butler)."
+  },
+  {
+    "wallclock": "2025-12-14T18:32:54Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-14T18:36:29Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley left end to LV 19 for -3 yards (E.Roberts)."
+  },
+  {
+    "wallclock": "2025-12-14T18:37:13Z",
+    "period": 2,
+    "clock": "14:14",
+    "play_type": "Penalty",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Cooper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep left to D.Cooper.PENALTY on LV-D.Porter, Defensive Pass Interference, 14 yards, enforced at LV 19 - No Play."
+  },
+  {
+    "wallclock": "2025-12-14T18:38:07Z",
+    "period": 2,
+    "clock": "14:10",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Pryor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Pryor reported in as eligible.  S.Barkley up the middle to LV 4 for 1 yard (A.Butler; D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T18:38:39Z",
+    "period": 2,
+    "clock": "13:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right to D.Goedert."
+  },
+  {
+    "wallclock": "2025-12-14T18:39:24Z",
+    "period": 2,
+    "clock": "13:32",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at LV 8 for -4 yards (M.Crosby)."
+  },
+  {
+    "wallclock": "2025-12-14T18:40:03Z",
+    "period": 2,
+    "clock": "12:49",
+    "play_type": "Field Goal Good",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Elliott 27 yard field goal is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-12-14T18:40:13Z",
+    "period": 2,
+    "clock": "12:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:49."
+  },
+  {
+    "wallclock": "2025-12-14T18:43:08Z",
+    "period": 2,
+    "clock": "12:49",
+    "play_type": "Kickoff",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 56 yards from PHI 35 to LV 9. R.Mostert MUFFS catch, and recovers at LV 13. R.Mostert to LV 31 for 18 yards (K.Ringo)."
+  },
+  {
+    "wallclock": "2025-12-14T18:43:55Z",
+    "period": 2,
+    "clock": "12:43",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Grant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Grant reported in as eligible.  A.Jeanty right tackle to LV 34 for 3 yards (N.Dean; B.Young)."
+  },
+  {
+    "wallclock": "2025-12-14T18:44:30Z",
+    "period": 2,
+    "clock": "12:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass incomplete short right to T.Tucker."
+  },
+  {
+    "wallclock": "2025-12-14T18:45:12Z",
+    "period": 2,
+    "clock": "12:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass incomplete short middle to A.Jeanty [J.Hunt]."
+  },
+  {
+    "wallclock": "2025-12-14T18:45:50Z",
+    "period": 2,
+    "clock": "11:59",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 41 yards to PHI 25, Center-J.Bobenmoyer, out of bounds."
+  },
+  {
+    "wallclock": "2025-12-14T18:46:15Z",
+    "period": 2,
+    "clock": "11:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:52."
+  },
+  {
+    "wallclock": "2025-12-14T18:49:10Z",
+    "period": 2,
+    "clock": "11:52",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass short middle to S.Barkley to PHI 33 for 8 yards (D.White; E.Roberts)."
+  },
+  {
+    "wallclock": "2025-12-14T18:49:49Z",
+    "period": 2,
+    "clock": "11:13",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley left tackle to PHI 29 for -4 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T18:50:33Z",
+    "period": 2,
+    "clock": "10:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short left to T.Bigsby."
+  },
+  {
+    "wallclock": "2025-12-14T18:51:13Z",
+    "period": 2,
+    "clock": "10:23",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 43 yards to LV 28, Center-C.Hughlett, downed by PHI-W.Shipley."
+  },
+  {
+    "wallclock": "2025-12-14T18:51:54Z",
+    "period": 2,
+    "clock": "10:12",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:12."
+  },
+  {
+    "wallclock": "2025-12-14T18:54:14Z",
+    "period": 2,
+    "clock": "10:12",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty up the middle to LV 29 for 1 yard (J.Davis; M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-12-14T18:54:50Z",
+    "period": 2,
+    "clock": "9:36",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left end to LV 33 for 4 yards (Z.Baun; A.Jackson)."
+  },
+  {
+    "wallclock": "2025-12-14T18:55:32Z",
+    "period": 2,
+    "clock": "8:54",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Graham",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett sacked at LV 26 for -7 yards (B.Graham)."
+  },
+  {
+    "wallclock": "2025-12-14T18:56:10Z",
+    "period": 2,
+    "clock": "8:16",
+    "play_type": "Punt",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Covey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lindenberg",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Koonce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 52 yards to PHI 22, Center-J.Bobenmoyer. B.Covey to PHI 30 for 8 yards (C.Lindenberg; M.Koonce)."
+  },
+  {
+    "wallclock": "2025-12-14T18:57:28Z",
+    "period": 2,
+    "clock": "8:04",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley up the middle to PHI 34 for 4 yards (C.Snowden; T.Booker)."
+  },
+  {
+    "wallclock": "2025-12-14T18:58:11Z",
+    "period": 2,
+    "clock": "7:21",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts scrambles right end ran ob at PHI 38 for 4 yards (J.Adams).PENALTY on LV-I.Pola-Mao, Defensive Holding, 5 yards, enforced at PHI 38."
+  },
+  {
+    "wallclock": "2025-12-14T18:59:09Z",
+    "period": 2,
+    "clock": "6:56",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Bigsby up the middle to 50 for 7 yards (E.Roberts)."
+  },
+  {
+    "wallclock": "2025-12-14T18:59:39Z",
+    "period": 2,
+    "clock": "6:25",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Bigsby left guard to LV 47 for 3 yards (E.Roberts)."
+  },
+  {
+    "wallclock": "2025-12-14T19:00:15Z",
+    "period": 2,
+    "clock": "5:49",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass short left to D.Goedert pushed ob at LV 35 for 12 yards (L.Johnson)."
+  },
+  {
+    "wallclock": "2025-12-14T19:00:48Z",
+    "period": 2,
+    "clock": "5:17",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Bigsby up the middle to LV 31 for 4 yards (E.Roberts)."
+  },
+  {
+    "wallclock": "2025-12-14T19:01:25Z",
+    "period": 2,
+    "clock": "4:40",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass short left to D.Goedert to LV 17 for 14 yards (I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-12-14T19:01:59Z",
+    "period": 2,
+    "clock": "4:07",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts right end pushed ob at LV 13 for 4 yards (E.Stokes)."
+  },
+  {
+    "wallclock": "2025-12-14T19:02:45Z",
+    "period": 2,
+    "clock": "3:21",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley left guard to LV 10 for 3 yards (J.Laulu)."
+  },
+  {
+    "wallclock": "2025-12-14T19:03:30Z",
+    "period": 2,
+    "clock": "2:38",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts scrambles right end ran ob at LV 2 for 8 yards (J.Laulu)."
+  },
+  {
+    "wallclock": "2025-12-14T19:04:10Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-14T19:07:16Z",
+    "period": 2,
+    "clock": "1:57",
+    "play_type": "Rushing Touchdown",
+    "yards": 2,
+    "athletes": [],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "Saquon Barkley 2 Yd Run (Jake Elliott Kick)"
+  },
+  {
+    "wallclock": "2025-12-14T19:08:42Z",
+    "period": 2,
+    "clock": "1:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:57."
+  },
+  {
+    "wallclock": "2025-12-14T19:11:24Z",
+    "period": 2,
+    "clock": "1:57",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 65 yards from PHI 35 to landing zone to end zone, Touchback to the LV 20."
+  },
+  {
+    "wallclock": "2025-12-14T19:12:18Z",
+    "period": 2,
+    "clock": "1:57",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Pickett pass short right to B.Bowers pushed ob at LV 30 for 10 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-12-14T19:12:46Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Pickett pass short middle to A.Jeanty to LV 36 for 6 yards (Z.Baun; N.Dean)."
+  },
+  {
+    "wallclock": "2025-12-14T19:13:08Z",
+    "period": 2,
+    "clock": "1:30",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Pickett pass incomplete short left to T.Tucker (J.Phillips) [J.Phillips]."
+  },
+  {
+    "wallclock": "2025-12-14T19:13:50Z",
+    "period": 2,
+    "clock": "1:24",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short left to B.Bowers to LV 44 for 8 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-12-14T19:14:12Z",
+    "period": 2,
+    "clock": "1:06",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Pickett pass short right to R.Mostert to LV 46 for 2 yards (N.Dean) [M.Ojomo]."
+  },
+  {
+    "wallclock": "2025-12-14T19:14:28Z",
+    "period": 2,
+    "clock": "0:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Pickett pass incomplete short left to T.Tucker."
+  },
+  {
+    "wallclock": "2025-12-14T19:15:14Z",
+    "period": 2,
+    "clock": "0:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass incomplete short left to T.Lockett (A.Jackson)."
+  },
+  {
+    "wallclock": "2025-12-14T19:15:51Z",
+    "period": 2,
+    "clock": "0:36",
+    "play_type": "Punt",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Covey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Anusiem",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Eichenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 44 yards to PHI 10, Center-J.Bobenmoyer. B.Covey to PHI 21 for 11 yards (C.Anusiem; T.Eichenberg)."
+  },
+  {
+    "wallclock": "2025-12-14T19:16:58Z",
+    "period": 2,
+    "clock": "0:24",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right tackle to PHI 25 for 4 yards (M.Crosby)."
+  },
+  {
+    "wallclock": "2025-12-14T19:16:58Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-14T19:31:03Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 60 yards from PHI 35 to LV 5. D.Laube to LV 36 for 31 yards (K.Ringo)."
+  },
+  {
+    "wallclock": "2025-12-14T19:31:49Z",
+    "period": 3,
+    "clock": "14:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass incomplete short middle to A.Jeanty."
+  },
+  {
+    "wallclock": "2025-12-14T19:32:26Z",
+    "period": 3,
+    "clock": "14:45",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty left tackle to LV 47 for 11 yards (N.Dean; Z.Baun)."
+  },
+  {
+    "wallclock": "2025-12-14T19:33:05Z",
+    "period": 3,
+    "clock": "14:06",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short left to A.Jeanty to 50 for 3 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-12-14T19:33:46Z",
+    "period": 3,
+    "clock": "13:26",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short left to B.Bowers to PHI 42 for 8 yards (R.Blankenship; Z.Baun)."
+  },
+  {
+    "wallclock": "2025-12-14T19:34:23Z",
+    "period": 3,
+    "clock": "12:48",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty left tackle to PHI 38 for 4 yards (J.Davis; B.Young)."
+  },
+  {
+    "wallclock": "2025-12-14T19:35:01Z",
+    "period": 3,
+    "clock": "12:10",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Pickett pass short right to B.Bowers to PHI 35 for 3 yards (C.DeJean) [J.Phillips]."
+  },
+  {
+    "wallclock": "2025-12-14T19:35:48Z",
+    "period": 3,
+    "clock": "11:24",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short left intended for B.Bowers INTERCEPTED by Z.Baun at PHI 27. Z.Baun to PHI 27 for no gain (B.Bowers)."
+  },
+  {
+    "wallclock": "2025-12-14T19:36:48Z",
+    "period": 3,
+    "clock": "11:19",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:19."
+  },
+  {
+    "wallclock": "2025-12-14T19:39:27Z",
+    "period": 3,
+    "clock": "11:19",
+    "play_type": "Pass Reception",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass deep left to D.Goedert to LV 41 for 32 yards (E.Roberts; D.Porter)."
+  },
+  {
+    "wallclock": "2025-12-14T19:40:13Z",
+    "period": 3,
+    "clock": "10:33",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley left guard to LV 43 for -2 yards (T.Booker)."
+  },
+  {
+    "wallclock": "2025-12-14T19:40:54Z",
+    "period": 3,
+    "clock": "9:53",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Goedert to LV 39 for 4 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T19:41:37Z",
+    "period": 3,
+    "clock": "9:09",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to A.Brown to LV 25 for 14 yards (I.Pola-Mao; D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T19:42:19Z",
+    "period": 3,
+    "clock": "8:27",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley right end to LV 19 for 6 yards (J.Laulu)."
+  },
+  {
+    "wallclock": "2025-12-14T19:42:59Z",
+    "period": 3,
+    "clock": "7:47",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley left tackle to LV 17 for 2 yards (C.Snowden; A.Butler)."
+  },
+  {
+    "wallclock": "2025-12-14T19:43:28Z",
+    "period": 3,
+    "clock": "7:18",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Steen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley right guard to LV 8 for 9 yards (J.Chinn).PENALTY on PHI-T.Steen, Offensive Holding, 10 yards, enforced at LV 17 - No Play."
+  },
+  {
+    "wallclock": "2025-12-14T19:44:31Z",
+    "period": 3,
+    "clock": "6:50",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts left tackle ran ob at LV 14 for 13 yards (I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-12-14T19:45:16Z",
+    "period": 3,
+    "clock": "6:19",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right end ran ob at LV 6 for 8 yards (E.Stokes)."
+  },
+  {
+    "wallclock": "2025-12-14T19:45:59Z",
+    "period": 3,
+    "clock": "5:41",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Pryor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Pryor reported in as eligible.  S.Barkley left guard to LV 4 for 2 yards (M.Crosby)."
+  },
+  {
+    "wallclock": "2025-12-14T19:46:43Z",
+    "period": 3,
+    "clock": "4:52",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass short middle to D.Goedert for 4 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-12-14T19:47:43Z",
+    "period": 3,
+    "clock": "4:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:52."
+  },
+  {
+    "wallclock": "2025-12-14T19:50:22Z",
+    "period": 3,
+    "clock": "4:52",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Granson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Mondon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 60 yards from PHI 35 to LV 5. D.Laube to LV 32 for 27 yards (K.Granson; S.Mondon)."
+  },
+  {
+    "wallclock": "2025-12-14T19:51:04Z",
+    "period": 3,
+    "clock": "4:46",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty right tackle to LV 33 for 1 yard (B.Young; J.Davis). ** Injury Update: LV-T.Lockett has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-14T19:51:38Z",
+    "period": 3,
+    "clock": "4:12",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett right end to LV 32 for -1 yards (J.Hunt)."
+  },
+  {
+    "wallclock": "2025-12-14T19:52:20Z",
+    "period": 3,
+    "clock": "3:30",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett sacked at LV 22 for -10 yards (N.Smith)."
+  },
+  {
+    "wallclock": "2025-12-14T19:53:00Z",
+    "period": 3,
+    "clock": "2:50",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 38 yards to PHI 40, Center-J.Bobenmoyer, out of bounds."
+  },
+  {
+    "wallclock": "2025-12-14T19:53:31Z",
+    "period": 3,
+    "clock": "2:43",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:43."
+  },
+  {
+    "wallclock": "2025-12-14T19:56:13Z",
+    "period": 3,
+    "clock": "2:43",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right end pushed ob at LV 43 for 17 yards (I.Pola-Mao; E.Stokes)."
+  },
+  {
+    "wallclock": "2025-12-14T19:56:56Z",
+    "period": 3,
+    "clock": "2:01",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley left end pushed ob at LV 32 for 11 yards (I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-12-14T19:57:41Z",
+    "period": 3,
+    "clock": "1:17",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby right tackle to LV 26 for 6 yards (E.Roberts; D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T19:58:25Z",
+    "period": 3,
+    "clock": "0:33",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts right end to LV 27 for -1 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T19:58:25Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-14T20:02:04Z",
+    "period": 4,
+    "clock": "14:54",
+    "play_type": "Passing Touchdown",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass deep middle to A.Brown for 27 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-12-14T20:03:02Z",
+    "period": 4,
+    "clock": "14:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:54."
+  },
+  {
+    "wallclock": "2025-12-14T20:05:49Z",
+    "period": 4,
+    "clock": "14:54",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Mondon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 55 yards from PHI 35 to LV 10. D.Laube to LV 32 for 22 yards (S.Mondon; J.Campbell)."
+  },
+  {
+    "wallclock": "2025-12-14T20:06:32Z",
+    "period": 4,
+    "clock": "14:48",
+    "play_type": "Pass Reception",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short right to A.Jeanty to LV 26 for -6 yards (N.Dean)."
+  },
+  {
+    "wallclock": "2025-12-14T20:07:12Z",
+    "period": 4,
+    "clock": "14:08",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass short left to B.Bowers to LV 26 for no gain (N.Dean)."
+  },
+  {
+    "wallclock": "2025-12-14T20:07:48Z",
+    "period": 4,
+    "clock": "13:33",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Pickett pass incomplete deep left to J.Bech (Q.Mitchell) [J.Hunt]."
+  },
+  {
+    "wallclock": "2025-12-14T20:08:31Z",
+    "period": 4,
+    "clock": "13:27",
+    "play_type": "Punt",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Covey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Rhattigan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 48 yards to PHI 26, Center-J.Bobenmoyer. B.Covey to PHI 31 for 5 yards (J.Rhattigan; M.Mayer).PENALTY on PHI-S.Brown, Illegal Block Above the Waist, 10 yards, enforced at PHI 29."
+  },
+  {
+    "wallclock": "2025-12-14T20:09:57Z",
+    "period": 4,
+    "clock": "13:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:17."
+  },
+  {
+    "wallclock": "2025-12-14T20:12:12Z",
+    "period": 4,
+    "clock": "13:17",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby left guard to PHI 21 for 2 yards (D.White; C.Snowden)."
+  },
+  {
+    "wallclock": "2025-12-14T20:12:54Z",
+    "period": 4,
+    "clock": "12:34",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.McKee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Cooper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.McKee pass short left to D.Cooper to PHI 37 for 16 yards (I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-12-14T20:13:41Z",
+    "period": 4,
+    "clock": "11:46",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Bigsby left guard to PHI 40 for 3 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T20:14:26Z",
+    "period": 4,
+    "clock": "11:03",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby right end pushed ob at PHI 43 for 3 yards (E.Stokes)."
+  },
+  {
+    "wallclock": "2025-12-14T20:15:17Z",
+    "period": 4,
+    "clock": "10:15",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PHI at 10:15."
+  },
+  {
+    "wallclock": "2025-12-14T20:18:14Z",
+    "period": 4,
+    "clock": "10:15",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.McKee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Calcaterra",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.McKee pass short middle to G.Calcaterra to PHI 47 for 4 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T20:18:53Z",
+    "period": 4,
+    "clock": "9:37",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Bigsby left guard to LV 49 for 4 yards (J.Laulu; J.Chinn)."
+  },
+  {
+    "wallclock": "2025-12-14T20:19:36Z",
+    "period": 4,
+    "clock": "8:54",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby right tackle to PHI 49 for -2 yards (E.Roberts)."
+  },
+  {
+    "wallclock": "2025-12-14T20:20:22Z",
+    "period": 4,
+    "clock": "8:06",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.McKee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.McKee scrambles up the middle to LV 42 for 9 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T20:21:10Z",
+    "period": 4,
+    "clock": "7:18",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.McKee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Cooper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Eichenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.McKee pass short middle to D.Cooper to LV 29 for 13 yards (T.Eichenberg)."
+  },
+  {
+    "wallclock": "2025-12-14T20:21:48Z",
+    "period": 4,
+    "clock": "6:42",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby right end to LV 16 for 13 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T20:22:33Z",
+    "period": 4,
+    "clock": "5:58",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Eichenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Bigsby left tackle to LV 10 for 6 yards (T.Eichenberg)."
+  },
+  {
+    "wallclock": "2025-12-14T20:23:12Z",
+    "period": 4,
+    "clock": "5:19",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Bigsby left guard to LV 9 for 1 yard (D.White)."
+  },
+  {
+    "wallclock": "2025-12-14T20:23:52Z",
+    "period": 4,
+    "clock": "4:39",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby right end to LV 5 for 4 yards (J.Laulu; I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-12-14T20:24:39Z",
+    "period": 4,
+    "clock": "3:52",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby up the middle to LV 2 for 3 yards (J.Chinn; D.Porter)."
+  },
+  {
+    "wallclock": "2025-12-14T20:25:22Z",
+    "period": 4,
+    "clock": "3:08",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Bigsby right guard to LV 2 for no gain (J.Chinn)."
+  },
+  {
+    "wallclock": "2025-12-14T20:26:02Z",
+    "period": 4,
+    "clock": "2:28",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby right guard to LV 1 for 1 yard (D.White; T.Booker)."
+  },
+  {
+    "wallclock": "2025-12-14T20:26:41Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-14T20:29:50Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Eichenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Bigsby left guard to LV 2 for -1 yards (T.Eichenberg)."
+  },
+  {
+    "wallclock": "2025-12-14T20:30:16Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:55."
+  },
+  {
+    "wallclock": "2025-12-14T20:32:56Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Grant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Trotter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Grant reported in as eligible.  A.Jeanty right guard to LV 7 for 5 yards (N.Smith; J.Trotter)."
+  },
+  {
+    "wallclock": "2025-12-14T20:33:36Z",
+    "period": 4,
+    "clock": "1:15",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Grant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Grant reported in as eligible.  D.Laube left end to LV 8 for 1 yard (K.Ringo)."
+  },
+  {
+    "wallclock": "2025-12-14T20:34:14Z",
+    "period": 4,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Grant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Grant reported in as eligible.  D.Laube right guard to LV 11 for 3 yards (T.Robinson)."
+  },
+  {
+    "wallclock": "2025-12-14T20:34:14Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

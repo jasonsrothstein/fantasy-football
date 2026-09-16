@@ -1,0 +1,28 @@
+{
+  "season": 2026,
+  "game_key": "470",
+  "league_id": "776984",
+  "rules": {
+    "pass_yards": 0.04,
+    "int_thrown": 0.1,
+    "rush_attempts": 0.5,
+    "rush_yards": 0.1,
+    "rush_td": 6.0,
+    "receptions": 6.0,
+    "rec_yards": 2.0,
+    "two_pt_conversion": 4.0,
+    "fumble_lost": 5.0,
+    "fg_0_19": -1.0,
+    "fg_20_29": -1.0,
+    "fg_30_39": -1.0,
+    "fg_50_plus": 1.0,
+    "fg_miss_0_19": -1.0,
+    "fg_miss_30_39": 2.0,
+    "fg_miss_40_49": 3.0,
+    "fg_miss_50_plus": 3.0,
+    "pat_made": 2.0,
+    "def_safety": 6.0,
+    "def_blocked_kick": 10.0,
+    "def_pts_allowed": 1.0
+  }
+}

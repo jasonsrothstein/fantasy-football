@@ -1,24 +1,19 @@
-# Created at Runtime
-*.pptx
-
-# MacOS
-.DS_Store
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
 # Python
+__pycache__/
 *.pyc
-__pycache__
-*.egg-info
-/dist
+*.pyo
 
-# Jupyter
-.ipynb_checkpoints
+# Local HTML previews (generated output — committed version lives in docs/)
+week_*_matchups.html
 
+# ESPN play-by-play cache (large, re-fetchable)
+Data/*/pbp/
+
+# nflverse parquet cache (re-downloadable)
+Data/*/nflverse/
+
+# Auth secrets — never commit cookies
+Scripts/auth/yahoo_cookies.txt
+
+# macOS
+.DS_Store

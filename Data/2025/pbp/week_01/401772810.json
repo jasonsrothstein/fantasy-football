@@ -1,0 +1,4415 @@
+[
+  {
+    "wallclock": "2025-09-09T00:16:02Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Hyppolite",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 65 yards from CHI 35 to MIN 0. T.Chandler to MIN 25 for 25 yards (R.Hyppolite; C.Jones)."
+  },
+  {
+    "wallclock": "2025-09-09T00:16:55Z",
+    "period": 1,
+    "clock": "14:53",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Stevenson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right end pushed ob at MIN 28 for 3 yards (T.Stevenson)."
+  },
+  {
+    "wallclock": "2025-09-09T00:17:41Z",
+    "period": 1,
+    "clock": "14:17",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Oliver",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.McCarthy pass short right to J.Oliver pushed ob at MIN 33 for 5 yards (J.Brisker)."
+  },
+  {
+    "wallclock": "2025-09-09T00:18:22Z",
+    "period": 1,
+    "clock": "13:40",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked at MIN 32 for -1 yards (G.Dexter)."
+  },
+  {
+    "wallclock": "2025-09-09T00:19:03Z",
+    "period": 1,
+    "clock": "12:58",
+    "play_type": "Punt",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 51 yards to CHI 17, Center-A.DePaola. D.Duvernay to CHI 39 for 22 yards (E.Wilson; A.DePaola)."
+  },
+  {
+    "wallclock": "2025-09-09T00:19:58Z",
+    "period": 1,
+    "clock": "12:45",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to D.Swift pushed ob at CHI 42 for 3 yards (I.Pace)."
+  },
+  {
+    "wallclock": "2025-09-09T00:20:33Z",
+    "period": 1,
+    "clock": "12:15",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short left to D.Swift to 50 for 8 yards (B.Murphy)."
+  },
+  {
+    "wallclock": "2025-09-09T00:21:18Z",
+    "period": 1,
+    "clock": "11:29",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benedet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Benedet reported in as eligible.  D.Swift right guard to MIN 46 for 4 yards (I.Pace; A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-09-09T00:22:00Z",
+    "period": 1,
+    "clock": "10:47",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short middle to K.Monangai to MIN 35 for 11 yards (T.Jackson)."
+  },
+  {
+    "wallclock": "2025-09-09T00:22:35Z",
+    "period": 1,
+    "clock": "10:13",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short middle to D.Moore to MIN 30 for 5 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-09-09T00:23:13Z",
+    "period": 1,
+    "clock": "9:34",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benedet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Greenard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Benedet reported in as eligible.  D.Swift up the middle to MIN 30 for no gain (J.Greenard)."
+  },
+  {
+    "wallclock": "2025-09-09T00:24:03Z",
+    "period": 1,
+    "clock": "8:50",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CHI at 08:50."
+  },
+  {
+    "wallclock": "2025-09-09T00:25:00Z",
+    "period": 1,
+    "clock": "8:50",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass deep right to R.Odunze ran ob at MIN 13 for 17 yards."
+  },
+  {
+    "wallclock": "2025-09-09T00:25:28Z",
+    "period": 1,
+    "clock": "8:29",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Zaccheaus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Okudah",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Williams pass short left to O.Zaccheaus to MIN 6 for 7 yards (J.Okudah)."
+  },
+  {
+    "wallclock": "2025-09-09T00:26:11Z",
+    "period": 1,
+    "clock": "7:52",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIN at 07:52."
+  },
+  {
+    "wallclock": "2025-09-09T00:27:06Z",
+    "period": 1,
+    "clock": "7:52",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rodriguez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift left tackle to MIN 9 for -3 yards (L.Rodriguez)."
+  },
+  {
+    "wallclock": "2025-09-09T00:27:46Z",
+    "period": 1,
+    "clock": "7:04",
+    "play_type": "Rushing Touchdown",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) C.Williams scrambles left end for 9 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-09-09T00:28:50Z",
+    "period": 1,
+    "clock": "7:04",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:04."
+  },
+  {
+    "wallclock": "2025-09-09T00:31:38Z",
+    "period": 1,
+    "clock": "7:04",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hardy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 65 yards from CHI 35 to MIN 0. M.Price to MIN 24 for 24 yards (D.Hardy)."
+  },
+  {
+    "wallclock": "2025-09-09T00:32:24Z",
+    "period": 1,
+    "clock": "6:59",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Byard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Jefferson right end pushed ob at MIN 28 for 4 yards (K.Byard)."
+  },
+  {
+    "wallclock": "2025-09-09T00:33:05Z",
+    "period": 1,
+    "clock": "6:21",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Jarrett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Odeyingbo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right tackle to MIN 30 for 2 yards (G.Jarrett; D.Odeyingbo)."
+  },
+  {
+    "wallclock": "2025-09-09T00:33:45Z",
+    "period": 1,
+    "clock": "5:41",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Odeyingbo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked at MIN 28 for -2 yards (D.Odeyingbo)."
+  },
+  {
+    "wallclock": "2025-09-09T00:34:23Z",
+    "period": 1,
+    "clock": "5:04",
+    "play_type": "Punt",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " R.Wright punts 54 yards to CHI 18, Center-A.DePaola. D.Duvernay to CHI 25 for 7 yards (D.Turner; T.Thomas)."
+  },
+  {
+    "wallclock": "2025-09-09T00:34:58Z",
+    "period": 1,
+    "clock": "4:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:51."
+  },
+  {
+    "wallclock": "2025-09-09T00:37:26Z",
+    "period": 1,
+    "clock": "4:51",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short right to D.Swift to CHI 26 for 1 yard (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-09-09T00:38:10Z",
+    "period": 1,
+    "clock": "4:07",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams scrambles right tackle to CHI 38 for 12 yards (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-09-09T00:38:55Z",
+    "period": 1,
+    "clock": "3:22",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Moore up the middle to CHI 43 for 5 yards (J.Allen; I.Pace)."
+  },
+  {
+    "wallclock": "2025-09-09T00:39:37Z",
+    "period": 1,
+    "clock": "2:40",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on CHI-D.Wright, False Start, 5 yards, enforced at CHI 43 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T00:40:13Z",
+    "period": 1,
+    "clock": "2:22",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short middle to C.Loveland to CHI 46 for 8 yards (I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-09-09T00:40:50Z",
+    "period": 1,
+    "clock": "1:45",
+    "play_type": "Pass Reception",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short left to R.Odunze to CHI 42 for -4 yards (I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-09-09T00:41:31Z",
+    "period": 1,
+    "clock": "1:04",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Taylor punts 39 yards to MIN 19, Center-S.Daly, out of bounds."
+  },
+  {
+    "wallclock": "2025-09-09T00:42:10Z",
+    "period": 1,
+    "clock": "0:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:58."
+  },
+  {
+    "wallclock": "2025-09-09T00:44:37Z",
+    "period": 1,
+    "clock": "0:58",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left end to MIN 25 for 6 yards (N.Sewell)."
+  },
+  {
+    "wallclock": "2025-09-09T00:45:17Z",
+    "period": 1,
+    "clock": "0:19",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left tackle to MIN 31 for 6 yards (Ch.Williams)."
+  },
+  {
+    "wallclock": "2025-09-09T00:45:17Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-09T00:48:34Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Penalty",
+    "yards": 42,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete deep left to A.Jones.PENALTY on CHI-N.Wright, Defensive Pass Interference, 42 yards, enforced at MIN 31 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T00:49:44Z",
+    "period": 2,
+    "clock": "14:53",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Stevenson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy scrambles left guard to CHI 16 for 11 yards (T.Stevenson)."
+  },
+  {
+    "wallclock": "2025-09-09T00:50:21Z",
+    "period": 2,
+    "clock": "14:16",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left guard to CHI 11 for 5 yards (N.Sewell)."
+  },
+  {
+    "wallclock": "2025-09-09T00:50:58Z",
+    "period": 2,
+    "clock": "13:39",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left end to CHI 14 for -3 yards (N.Wright, T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-09-09T00:51:41Z",
+    "period": 2,
+    "clock": "12:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short right to J.Jefferson."
+  },
+  {
+    "wallclock": "2025-09-09T00:52:20Z",
+    "period": 2,
+    "clock": "12:48",
+    "play_type": "Field Goal Good",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Reichard 31 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-09-09T00:52:38Z",
+    "period": 2,
+    "clock": "12:48",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:48."
+  },
+  {
+    "wallclock": "2025-09-09T00:55:30Z",
+    "period": 2,
+    "clock": "12:48",
+    "play_type": "Kickoff",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Felton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 65 yards from MIN 35 to CHI 0. D.Duvernay pushed ob at CHI 34 for 34 yards (T.Felton).PENALTY on MIN-J.Ward, Illegal Formation, 5 yards, enforced at CHI 34."
+  },
+  {
+    "wallclock": "2025-09-09T00:56:39Z",
+    "period": 2,
+    "clock": "12:41",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass deep right to D.Moore to MIN 31 for 30 yards (T.Jackson)."
+  },
+  {
+    "wallclock": "2025-09-09T00:57:29Z",
+    "period": 2,
+    "clock": "11:50",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Moore left tackle to MIN 30 for 1 yard (E.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-09T00:58:09Z",
+    "period": 2,
+    "clock": "11:10",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on CHI-D.Moore, False Start, 5 yards, enforced at MIN 30 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T00:58:50Z",
+    "period": 2,
+    "clock": "10:47",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams scrambles left end to MIN 26 for 9 yards (B.Murphy)."
+  },
+  {
+    "wallclock": "2025-09-09T00:59:38Z",
+    "period": 2,
+    "clock": "9:59",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on CHI-J.Jackson, False Start, 5 yards, enforced at MIN 26 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T01:00:20Z",
+    "period": 2,
+    "clock": "9:40",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Swift up the middle to MIN 24 for 7 yards (T.Jackson; J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-09-09T01:01:06Z",
+    "period": 2,
+    "clock": "8:59",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CHI at 08:59."
+  },
+  {
+    "wallclock": "2025-09-09T01:01:57Z",
+    "period": 2,
+    "clock": "8:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short middle to D.Moore."
+  },
+  {
+    "wallclock": "2025-09-09T01:02:17Z",
+    "period": 2,
+    "clock": "8:55",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:55."
+  },
+  {
+    "wallclock": "2025-09-09T01:05:02Z",
+    "period": 2,
+    "clock": "8:55",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left end pushed ob at MIN 26 for 1 yard (N.Sewell)."
+  },
+  {
+    "wallclock": "2025-09-09T01:05:39Z",
+    "period": 2,
+    "clock": "8:23",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short left to T.Hockenson to MIN 30 for 4 yards (J.Brisker; T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-09-09T01:06:19Z",
+    "period": 2,
+    "clock": "7:43",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short middle to J.Jefferson to MIN 34 for 4 yards (T.Edmunds, N.Sewell)."
+  },
+  {
+    "wallclock": "2025-09-09T01:07:04Z",
+    "period": 2,
+    "clock": "6:58",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 31 yards to CHI 35, Center-A.DePaola, out of bounds."
+  },
+  {
+    "wallclock": "2025-09-09T01:07:36Z",
+    "period": 2,
+    "clock": "6:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:52."
+  },
+  {
+    "wallclock": "2025-09-09T01:10:21Z",
+    "period": 2,
+    "clock": "6:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benedet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ingram-Dawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Benedet reported in as eligible.  C.Williams pass incomplete short right to R.Odunze (T.Ingram-Dawkins)."
+  },
+  {
+    "wallclock": "2025-09-09T01:11:04Z",
+    "period": 2,
+    "clock": "6:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Zaccheaus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass incomplete deep right to O.Zaccheaus.Penalty on CHI-K.Monangai, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-09T01:12:10Z",
+    "period": 2,
+    "clock": "6:41",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams scrambles left end pushed ob at CHI 37 for 2 yards (J.Metellus)."
+  },
+  {
+    "wallclock": "2025-09-09T01:12:53Z",
+    "period": 2,
+    "clock": "6:03",
+    "play_type": "Punt",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hardy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Taylor punts 48 yards to MIN 15, Center-S.Daly. M.Price to MIN 24 for 9 yards (D.Hardy; J.Jones)."
+  },
+  {
+    "wallclock": "2025-09-09T01:13:29Z",
+    "period": 2,
+    "clock": "5:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:52."
+  },
+  {
+    "wallclock": "2025-09-09T01:16:05Z",
+    "period": 2,
+    "clock": "5:52",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Byard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Skule",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left guard to MIN 35 for 11 yards (K.Byard).PENALTY on MIN-J.Skule, Offensive Holding, 10 yards, enforced at MIN 24 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T01:17:03Z",
+    "period": 2,
+    "clock": "5:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short left to T.Hockenson (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-09-09T01:17:36Z",
+    "period": 2,
+    "clock": "5:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Odeyingbo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McCarthy pass incomplete short right to J.Nailor (D.Odeyingbo)."
+  },
+  {
+    "wallclock": "2025-09-09T01:18:27Z",
+    "period": 2,
+    "clock": "5:15",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIN, Delay of Game, 5 yards, enforced at MIN 14 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T01:19:17Z",
+    "period": 2,
+    "clock": "5:15",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short left to J.Mason to MIN 16 for 7 yards (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-09-09T01:19:53Z",
+    "period": 2,
+    "clock": "4:39",
+    "play_type": "Punt",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Felton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 51 yards to CHI 33, Center-A.DePaola. D.Duvernay to CHI 41 for 8 yards (T.Felton)."
+  },
+  {
+    "wallclock": "2025-09-09T01:20:44Z",
+    "period": 2,
+    "clock": "4:29",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift right guard to CHI 45 for 4 yards (J.Allen)."
+  },
+  {
+    "wallclock": "2025-09-09T01:21:29Z",
+    "period": 2,
+    "clock": "3:43",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on CHI-J.Jackson, False Start, 5 yards, enforced at CHI 45 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T01:22:08Z",
+    "period": 2,
+    "clock": "3:26",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Zaccheaus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short middle to O.Zaccheaus to MIN 44 for 16 yards (B.Cashman; J.Metellus)."
+  },
+  {
+    "wallclock": "2025-09-09T01:22:47Z",
+    "period": 2,
+    "clock": "2:48",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift left end to MIN 41 for 3 yards (D.Turner; J.Allen)."
+  },
+  {
+    "wallclock": "2025-09-09T01:23:26Z",
+    "period": 2,
+    "clock": "2:09",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift up the middle to MIN 39 for 2 yards (I.Pace)."
+  },
+  {
+    "wallclock": "2025-09-09T01:23:47Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-09T01:26:28Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Zaccheaus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Okudah",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to O.Zaccheaus pushed ob at MIN 32 for 7 yards (J.Okudah)."
+  },
+  {
+    "wallclock": "2025-09-09T01:27:12Z",
+    "period": 2,
+    "clock": "1:55",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Greenard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift left tackle to MIN 29 for 3 yards (J.Greenard)."
+  },
+  {
+    "wallclock": "2025-09-09T01:27:48Z",
+    "period": 2,
+    "clock": "1:18",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift right guard to MIN 27 for 2 yards (D.Turner)."
+  },
+  {
+    "wallclock": "2025-09-09T01:28:32Z",
+    "period": 2,
+    "clock": "0:35",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to R.Odunze pushed ob at MIN 24 for 3 yards (B.Murphy)."
+  },
+  {
+    "wallclock": "2025-09-09T01:28:53Z",
+    "period": 2,
+    "clock": "0:28",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIN at 00:28."
+  },
+  {
+    "wallclock": "2025-09-09T01:29:48Z",
+    "period": 2,
+    "clock": "0:24",
+    "play_type": "Field Goal Good",
+    "yards": 42,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Santos 42 yard field goal is GOOD, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-09-09T01:31:16Z",
+    "period": 2,
+    "clock": "0:24",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hardy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 59 yards from CHI 35 to MIN 6. M.Price to MIN 31 for 25 yards (J.Jones; D.Hardy)."
+  },
+  {
+    "wallclock": "2025-09-09T01:32:07Z",
+    "period": 2,
+    "clock": "0:19",
+    "play_type": "Pass Reception",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Odeyingbo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass deep left to J.Nailor pushed ob at CHI 41 for 28 yards (N.Wright) [D.Odeyingbo]."
+  },
+  {
+    "wallclock": "2025-09-09T01:32:43Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by MIN at 00:11."
+  },
+  {
+    "wallclock": "2025-09-09T01:34:00Z",
+    "period": 2,
+    "clock": "0:06",
+    "play_type": "Field Goal Good",
+    "yards": 59,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " W.Reichard 59 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-09-09T01:35:30Z",
+    "period": 2,
+    "clock": "0:06",
+    "play_type": "Kickoff",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 59 yards from MIN 35 to CHI 6. L.Burden to 50 for 44 yards (J.Ward)."
+  },
+  {
+    "wallclock": "2025-09-09T01:35:30Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-09T01:49:51Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Chambliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 64 yards from MIN 35 to CHI 1. D.Duvernay to CHI 22 for 21 yards (C.Chambliss)."
+  },
+  {
+    "wallclock": "2025-09-09T01:50:39Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass incomplete short right to D.Swift."
+  },
+  {
+    "wallclock": "2025-09-09T01:51:24Z",
+    "period": 3,
+    "clock": "14:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kmet",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass incomplete short right to C.Kmet."
+  },
+  {
+    "wallclock": "2025-09-09T01:52:08Z",
+    "period": 3,
+    "clock": "14:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Zaccheaus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Greenard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short left to O.Zaccheaus [J.Greenard]."
+  },
+  {
+    "wallclock": "2025-09-09T01:52:48Z",
+    "period": 3,
+    "clock": "14:41",
+    "play_type": "Punt",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Owens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Taylor punts 47 yards to MIN 31, Center-S.Daly. M.Price to CHI 49 for 20 yards (J.Owens)."
+  },
+  {
+    "wallclock": "2025-09-09T01:53:40Z",
+    "period": 3,
+    "clock": "14:28",
+    "play_type": "Penalty",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Odeyingbo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass incomplete short right to J.Jefferson (M.Sweat).PENALTY on CHI-D.Odeyingbo, Roughing the Passer, 15 yards, enforced at CHI 49 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T01:54:47Z",
+    "period": 3,
+    "clock": "14:21",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Byard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right guard to CHI 34 for no gain (K.Byard)."
+  },
+  {
+    "wallclock": "2025-09-09T01:55:18Z",
+    "period": 3,
+    "clock": "13:50",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Jones right end to CHI 32 for 2 yards (J.Brisker)."
+  },
+  {
+    "wallclock": "2025-09-09T01:56:05Z",
+    "period": 3,
+    "clock": "12:51",
+    "play_type": "Interception Return Touchdown",
+    "yards": 74,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.McCarthy pass short left intended for J.Jefferson INTERCEPTED by N.Wright at CHI 26. N.Wright for 74 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-09-09T01:57:15Z",
+    "period": 3,
+    "clock": "12:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:51."
+  },
+  {
+    "wallclock": "2025-09-09T02:00:29Z",
+    "period": 3,
+    "clock": "12:51",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Owens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 63 yards from CHI 35 to MIN 2. T.Chandler to MIN 28 for 26 yards (J.Owens)."
+  },
+  {
+    "wallclock": "2025-09-09T02:01:19Z",
+    "period": 3,
+    "clock": "12:45",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left end to MIN 31 for 3 yards (N.Sewell)."
+  },
+  {
+    "wallclock": "2025-09-09T02:01:59Z",
+    "period": 3,
+    "clock": "12:04",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kpassagnon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy sacked at MIN 25 for -6 yards (T.Kpassagnon)."
+  },
+  {
+    "wallclock": "2025-09-09T02:02:48Z",
+    "period": 3,
+    "clock": "11:17",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIN, Delay of Game, 5 yards, enforced at MIN 25 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T02:03:33Z",
+    "period": 3,
+    "clock": "10:54",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Mason up the middle to MIN 18 for -2 yards (M.Sweat, G.Dexter)."
+  },
+  {
+    "wallclock": "2025-09-09T02:04:10Z",
+    "period": 3,
+    "clock": "10:18",
+    "play_type": "Punt",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Felton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 52 yards to CHI 30, Center-A.DePaola. D.Duvernay pushed ob at CHI 36 for 6 yards (T.Felton).PENALTY on CHI-C.Jones, Offensive Holding, 10 yards, enforced at CHI 30."
+  },
+  {
+    "wallclock": "2025-09-09T02:05:32Z",
+    "period": 3,
+    "clock": "10:08",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:08."
+  },
+  {
+    "wallclock": "2025-09-09T02:07:44Z",
+    "period": 3,
+    "clock": "10:08",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift right tackle to CHI 20 for no gain (J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-09-09T02:08:23Z",
+    "period": 3,
+    "clock": "9:29",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass deep left to D.Moore ran ob at CHI 42 for 22 yards."
+  },
+  {
+    "wallclock": "2025-09-09T02:09:06Z",
+    "period": 3,
+    "clock": "8:54",
+    "play_type": "Pass Reception",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short right to L.Burden to CHI 39 for -3 yards (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-09-09T02:09:45Z",
+    "period": 3,
+    "clock": "8:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Zaccheaus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short left to O.Zaccheaus (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-09-09T02:10:24Z",
+    "period": 3,
+    "clock": "8:11",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short left to C.Loveland to CHI 43 for 4 yards (J.Metellus)."
+  },
+  {
+    "wallclock": "2025-09-09T02:11:10Z",
+    "period": 3,
+    "clock": "7:27",
+    "play_type": "Punt",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Hicks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Taylor punts 51 yards to MIN 6, Center-S.Daly. M.Price to MIN 23 for 17 yards (E.Hicks)."
+  },
+  {
+    "wallclock": "2025-09-09T02:11:34Z",
+    "period": 3,
+    "clock": "7:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:14."
+  },
+  {
+    "wallclock": "2025-09-09T02:14:15Z",
+    "period": 3,
+    "clock": "7:14",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short right to T.Hockenson to MIN 25 for 2 yards (N.Sewell).Chicago challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-09-09T02:18:04Z",
+    "period": 3,
+    "clock": "6:39",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Byard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short left to A.Jones pushed ob at MIN 31 for 6 yards (K.Byard)."
+  },
+  {
+    "wallclock": "2025-09-09T02:18:50Z",
+    "period": 3,
+    "clock": "5:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Thielen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Stevenson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short right to A.Thielen (T.Stevenson)."
+  },
+  {
+    "wallclock": "2025-09-09T02:19:29Z",
+    "period": 3,
+    "clock": "5:53",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 45 yards to CHI 24, Center-A.DePaola, fair catch by D.Duvernay."
+  },
+  {
+    "wallclock": "2025-09-09T02:20:14Z",
+    "period": 3,
+    "clock": "5:46",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift right guard to CHI 33 for 9 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-09-09T02:20:57Z",
+    "period": 3,
+    "clock": "5:04",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Moore left end to CHI 35 for 2 yards (J.Redmond; A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-09-09T02:21:42Z",
+    "period": 3,
+    "clock": "4:18",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift up the middle to CHI 39 for 4 yards (L.Rodriguez; I.Pace)."
+  },
+  {
+    "wallclock": "2025-09-09T02:22:14Z",
+    "period": 3,
+    "clock": "3:47",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams scrambles right end ran ob at MIN 48 for 13 yards (B.Murphy). MIN-B.Cashman was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-09T02:24:01Z",
+    "period": 3,
+    "clock": "3:12",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift left tackle to MIN 47 for 1 yard (J.Hargrave; E.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-09T02:24:41Z",
+    "period": 3,
+    "clock": "2:32",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift right guard to MIN 34 for 13 yards (I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-09-09T02:25:25Z",
+    "period": 3,
+    "clock": "1:49",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benedet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Benedet reported in as eligible.  PENALTY on MIN-J.Hargrave, Neutral Zone Infraction, 5 yards, enforced at MIN 34 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T02:26:06Z",
+    "period": 3,
+    "clock": "1:34",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benedet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Benedet reported in as eligible.  D.Swift left end to MIN 24 for 5 yards (I.Rodgers; J.Metellus)."
+  },
+  {
+    "wallclock": "2025-09-09T02:26:52Z",
+    "period": 3,
+    "clock": "0:49",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short left to D.Swift ran ob at MIN 12 for 12 yards (D.Turner).PENALTY on CHI-D.Wright, Offensive Holding, 10 yards, enforced at MIN 24 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T02:27:53Z",
+    "period": 3,
+    "clock": "0:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kmet",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short middle to C.Kmet."
+  },
+  {
+    "wallclock": "2025-09-09T02:28:36Z",
+    "period": 3,
+    "clock": "0:15",
+    "play_type": "Pass Incompletion",
+    "yards": -20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short left.PENALTY on CHI-C.Williams, Intentional Grounding, 10 yards, enforced at MIN 34."
+  },
+  {
+    "wallclock": "2025-09-09T02:29:53Z",
+    "period": 3,
+    "clock": "0:05",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Zaccheaus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short left to O.Zaccheaus to MIN 32 for 12 yards (J.Ward; I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-09-09T02:29:53Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-09T02:32:59Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Field Goal Missed",
+    "yards": 50,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " C.Santos 50 yard field goal is No Good, Wide Right, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-09-09T02:33:57Z",
+    "period": 4,
+    "clock": "14:55",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kpassagnon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason up the middle to MIN 47 for 7 yards (T.Edmunds; T.Kpassagnon)."
+  },
+  {
+    "wallclock": "2025-09-09T02:34:33Z",
+    "period": 4,
+    "clock": "14:19",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Byard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason right guard to CHI 35 for 18 yards (K.Byard)."
+  },
+  {
+    "wallclock": "2025-09-09T02:35:13Z",
+    "period": 4,
+    "clock": "13:39",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Kpassagnon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass deep left to J.Jefferson ran ob at CHI 18 for 17 yards [T.Kpassagnon]."
+  },
+  {
+    "wallclock": "2025-09-09T02:35:59Z",
+    "period": 4,
+    "clock": "13:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left end to CHI 13 for 5 yards (N.Wright)."
+  },
+  {
+    "wallclock": "2025-09-09T02:36:36Z",
+    "period": 4,
+    "clock": "12:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass incomplete short left to J.Nailor (M.Sweat)."
+  },
+  {
+    "wallclock": "2025-09-09T02:37:16Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Passing Touchdown",
+    "yards": 13,
+    "athletes": [],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "Justin Jefferson 13 Yd pass from J.J. McCarthy (Two-Point Pass Conversion Failed)"
+  },
+  {
+    "wallclock": null,
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Penalty",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Thielen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Odeyingbo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "TWO-POINT CONVERSION ATTEMPT. J.McCarthy pass to A.Thielen is incomplete. ATTEMPT FAILS.PENALTY on CHI-D.Odeyingbo, Illegal Use of Hands, 1 yard, enforced at CHI 2 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T02:39:53Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:13."
+  },
+  {
+    "wallclock": "2025-09-09T02:43:05Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 66 yards from MIN 35 to CHI -1. D.Duvernay to CHI 25 for 26 yards (E.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-09T02:43:59Z",
+    "period": 4,
+    "clock": "12:09",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams sacked at CHI 17 for -8 yards (J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-09-09T02:44:36Z",
+    "period": 4,
+    "clock": "11:33",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Swift right guard to CHI 16 for -1 yards (E.Wilson)."
+  },
+  {
+    "wallclock": "2025-09-09T02:45:14Z",
+    "period": 4,
+    "clock": "10:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short right to R.Odunze (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-09-09T02:45:48Z",
+    "period": 4,
+    "clock": "10:51",
+    "play_type": "Punt",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Hicks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Taylor punts 56 yards to MIN 28, Center-S.Daly. M.Price to 50 for 22 yards (E.Hicks; S.Daly)."
+  },
+  {
+    "wallclock": "2025-09-09T02:46:15Z",
+    "period": 4,
+    "clock": "10:37",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:37."
+  },
+  {
+    "wallclock": "2025-09-09T02:48:54Z",
+    "period": 4,
+    "clock": "10:37",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Stevenson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right tackle to CHI 41 for 9 yards (T.Stevenson)."
+  },
+  {
+    "wallclock": "2025-09-09T02:49:28Z",
+    "period": 4,
+    "clock": "10:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass incomplete deep right to J.Jefferson. CHI-N.Wright was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-09T02:50:04Z",
+    "period": 4,
+    "clock": "9:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:57."
+  },
+  {
+    "wallclock": "2025-09-09T02:52:38Z",
+    "period": 4,
+    "clock": "9:57",
+    "play_type": "Penalty",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Stevenson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass incomplete deep left to J.Nailor [M.Sweat].PENALTY on CHI-T.Stevenson, Defensive Pass Interference, 14 yards, enforced at CHI 41 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T02:53:43Z",
+    "period": 4,
+    "clock": "9:46",
+    "play_type": "Passing Touchdown",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Thielen",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.McCarthy pass deep right to A.Jones for 27 yards, TOUCHDOWN. ** Injury Update: CHI-N.Wright has returned to the game. TWO-POINT CONVERSION ATTEMPT. J.McCarthy pass to A.Thielen is complete. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": "2025-09-09T02:56:19Z",
+    "period": 4,
+    "clock": "9:46",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the CHI 35."
+  },
+  {
+    "wallclock": "2025-09-09T02:57:11Z",
+    "period": 4,
+    "clock": "9:46",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift right end to CHI 35 for no gain (J.Redmond)."
+  },
+  {
+    "wallclock": "2025-09-09T02:57:52Z",
+    "period": 4,
+    "clock": "9:05",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short middle to R.Odunze to CHI 47 for 12 yards (J.Metellus)."
+  },
+  {
+    "wallclock": "2025-09-09T02:58:32Z",
+    "period": 4,
+    "clock": "8:24",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams sacked ob at CHI 43 for -4 yards (J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-09-09T02:59:22Z",
+    "period": 4,
+    "clock": "7:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete deep right to R.Odunze."
+  },
+  {
+    "wallclock": "2025-09-09T03:00:06Z",
+    "period": 4,
+    "clock": "7:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kmet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Greenard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short left to C.Kmet [J.Greenard]."
+  },
+  {
+    "wallclock": "2025-09-09T03:00:48Z",
+    "period": 4,
+    "clock": "7:38",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Taylor punts 25 yards to MIN 32, Center-S.Daly, downed by CHI-S.Daly."
+  },
+  {
+    "wallclock": "2025-09-09T03:01:56Z",
+    "period": 4,
+    "clock": "7:24",
+    "play_type": "Rush",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason right guard to CHI 49 for 19 yards (N.Wright; T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-09-09T03:02:40Z",
+    "period": 4,
+    "clock": "6:39",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left tackle to CHI 49 for no gain (N.Sewell)."
+  },
+  {
+    "wallclock": "2025-09-09T03:03:18Z",
+    "period": 4,
+    "clock": "6:02",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short right to T.Hockenson pushed ob at CHI 40 for 9 yards (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-09-09T03:04:04Z",
+    "period": 4,
+    "clock": "5:20",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left guard to CHI 38 for 2 yards (J.Brisker)."
+  },
+  {
+    "wallclock": "2025-09-09T03:04:47Z",
+    "period": 4,
+    "clock": "4:38",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Jarrett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Hyppolite",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left tackle to CHI 34 for 4 yards (G.Jarrett; R.Hyppolite)."
+  },
+  {
+    "wallclock": "2025-09-09T03:05:26Z",
+    "period": 4,
+    "clock": "3:58",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short right to A.Jones pushed ob at CHI 23 for 11 yards (N.Sewell)."
+  },
+  {
+    "wallclock": "2025-09-09T03:06:11Z",
+    "period": 4,
+    "clock": "3:52",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left guard to CHI 24 for -1 yards (M.Sweat, N.Sewell)."
+  },
+  {
+    "wallclock": "2025-09-09T03:06:55Z",
+    "period": 4,
+    "clock": "3:09",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Jarrett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short right to J.Jefferson to CHI 14 for 10 yards (G.Jarrett)."
+  },
+  {
+    "wallclock": "2025-09-09T03:07:17Z",
+    "period": 4,
+    "clock": "2:59",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CHI at 02:59."
+  },
+  {
+    "wallclock": "2025-09-09T03:08:12Z",
+    "period": 4,
+    "clock": "2:53",
+    "play_type": "Rushing Touchdown",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.McCarthy right end for 14 yards, TOUCHDOWN. W.Reichard extra point is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-09-09T03:10:16Z",
+    "period": 4,
+    "clock": "2:53",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the CHI 35."
+  },
+  {
+    "wallclock": "2025-09-09T03:11:06Z",
+    "period": 4,
+    "clock": "2:53",
+    "play_type": "Pass Reception",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kmet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass deep middle to C.Kmet to MIN 34 for 31 yards (J.Ward)."
+  },
+  {
+    "wallclock": "2025-09-09T03:11:27Z",
+    "period": 4,
+    "clock": "2:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Williams pass incomplete deep left to D.Moore."
+  },
+  {
+    "wallclock": "2025-09-09T03:12:12Z",
+    "period": 4,
+    "clock": "2:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short right to D.Swift."
+  },
+  {
+    "wallclock": "2025-09-09T03:12:52Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete deep middle to R.Odunze [J.Hargrave].PENALTY on MIN-B.Murphy, Illegal Contact, 5 yards, enforced at MIN 34 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T03:13:52Z",
+    "period": 4,
+    "clock": "2:16",
+    "play_type": "Penalty",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short middle to D.Moore (J.Ward). CHI-D.Moore was injured during the play. PENALTY on MIN-I.Pace, Roughing the Passer, 15 yards, enforced at MIN 29 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T03:15:16Z",
+    "period": 4,
+    "clock": "2:12",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:12."
+  },
+  {
+    "wallclock": "2025-09-09T03:17:28Z",
+    "period": 4,
+    "clock": "2:12",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams scrambles up the middle for 14 yards, TOUCHDOWN.Penalty on MIN-B.Murphy, Illegal Contact, declined.The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.(Shotgun) C.Williams scrambles up the middle pushed ob at MIN 1 for 13 yards (T.Jackson).PENALTY on MIN-B.Murphy, Illegal Contact, 0 yards, enforced at MIN 1."
+  },
+  {
+    "wallclock": "2025-09-09T03:19:57Z",
+    "period": 4,
+    "clock": "2:02",
+    "play_type": "Passing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "C.Williams pass short middle to R.Odunze for 1 yard, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-09-09T03:22:36Z",
+    "period": 4,
+    "clock": "2:02",
+    "play_type": "Kickoff",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Chandler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Hyppolite",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 72 yards from CHI 35 to MIN -7. T.Chandler to MIN 26 for 33 yards (R.Hyppolite)."
+  },
+  {
+    "wallclock": "2025-09-09T03:23:06Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-09T03:25:54Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Byard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason right tackle to MIN 29 for 3 yards (K.Byard)."
+  },
+  {
+    "wallclock": "2025-09-09T03:26:14Z",
+    "period": 4,
+    "clock": "1:47",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by CHI at 01:47."
+  },
+  {
+    "wallclock": "2025-09-09T03:26:59Z",
+    "period": 4,
+    "clock": "1:47",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason right tackle to MIN 30 for 1 yard (J.Brisker)."
+  },
+  {
+    "wallclock": "2025-09-09T03:27:48Z",
+    "period": 4,
+    "clock": "1:02",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIN at 01:02."
+  },
+  {
+    "wallclock": "2025-09-09T03:28:38Z",
+    "period": 4,
+    "clock": "1:02",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left tackle to MIN 31 for 1 yard (G.Dexter)."
+  },
+  {
+    "wallclock": "2025-09-09T03:29:27Z",
+    "period": 4,
+    "clock": "0:16",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIN at 00:16."
+  },
+  {
+    "wallclock": "2025-09-09T03:30:18Z",
+    "period": 4,
+    "clock": "0:16",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 49 yards to CHI 20, Center-A.DePaola, fair catch by D.Duvernay."
+  },
+  {
+    "wallclock": "2025-09-09T03:31:22Z",
+    "period": 4,
+    "clock": "0:09",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Dalman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams Aborted. D.Dalman FUMBLES at CHI 16, recovered by CHI-D.Moore at CHI 16. D.Moore pushed ob at CHI 21 for 5 yards (I.Rodgers). ** Injury Update: CHI-D.Moore has returned to the game. PENALTY on CHI, Illegal Shift, 5 yards, enforced at CHI 20 - No Play."
+  },
+  {
+    "wallclock": "2025-09-09T03:32:17Z",
+    "period": 4,
+    "clock": "0:05",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Odunze",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Okudah",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to R.Odunze to CHI 23 for 8 yards. Lateral to D.Moore to CHI 36 for 13 yards (J.Metellus, T.Thomas). FUMBLES (T.Thomas), touched at CHI 34, RECOVERED by MIN-J.Ward at CHI 35. MIN-J.Okudah was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-09T03:32:17Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

@@ -1,0 +1,4360 @@
+[
+  {
+    "wallclock": "2025-10-06T00:23:10Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Prater",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Prater kicks 60 yards from BUF 35 to NE 5. A.Gibson to NE 30 for 25 yards (S.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-06T00:23:44Z",
+    "period": 1,
+    "clock": "14:54",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Rapp",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass short left to S.Diggs to NE 45 for 15 yards (T.Rapp; M.Milano)."
+  },
+  {
+    "wallclock": "2025-10-06T00:24:22Z",
+    "period": 1,
+    "clock": "14:15",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson right tackle to NE 43 for -2 yards (G.Rousseau)."
+  },
+  {
+    "wallclock": "2025-10-06T00:24:58Z",
+    "period": 1,
+    "clock": "13:40",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to A.Gibson to NE 48 for 5 yards (T.Bernard)."
+  },
+  {
+    "wallclock": "2025-10-06T00:25:39Z",
+    "period": 1,
+    "clock": "12:59",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye sacked at NE 46 for -2 yards (G.Rousseau)."
+  },
+  {
+    "wallclock": "2025-10-06T00:26:12Z",
+    "period": 1,
+    "clock": "12:26",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Baringer punts 40 yards to BUF 14, Center-J.Ashby, fair catch by K.Shakir."
+  },
+  {
+    "wallclock": "2025-10-06T00:26:45Z",
+    "period": 1,
+    "clock": "12:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:18."
+  },
+  {
+    "wallclock": "2025-10-06T00:29:12Z",
+    "period": 1,
+    "clock": "12:18",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McGovern",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen sacked at BUF 14 for 0 yards (C.Elliss).PENALTY on BUF-C.McGovern, Offensive Holding, 7 yards, enforced at BUF 14 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T00:30:20Z",
+    "period": 1,
+    "clock": "11:55",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Kincaid",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short middle to D.Kincaid to BUF 22 for 15 yards (C.Woodson)."
+  },
+  {
+    "wallclock": "2025-10-06T00:31:04Z",
+    "period": 1,
+    "clock": "11:12",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook right end ran ob at BUF 27 for 5 yards (C.Davis)."
+  },
+  {
+    "wallclock": "2025-10-06T00:31:46Z",
+    "period": 1,
+    "clock": "10:33",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Tonga",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook left guard to BUF 29 for 2 yards (K.Tonga; M.Williams)."
+  },
+  {
+    "wallclock": "2025-10-06T00:32:25Z",
+    "period": 1,
+    "clock": "9:54",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short left to K.Shakir to BUF 33 for 4 yards (C.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-06T00:33:07Z",
+    "period": 1,
+    "clock": "9:12",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Kincaid",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass deep middle to D.Kincaid to NE 47 for 20 yards (J.Hawkins)."
+  },
+  {
+    "wallclock": "2025-10-06T00:33:55Z",
+    "period": 1,
+    "clock": "8:25",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Farmer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen FUMBLES (Aborted) at 50, RECOVERED by NE-J.Farmer at BUF 47."
+  },
+  {
+    "wallclock": "2025-10-06T00:34:34Z",
+    "period": 1,
+    "clock": "8:21",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:21."
+  },
+  {
+    "wallclock": "2025-10-06T00:37:03Z",
+    "period": 1,
+    "clock": "8:21",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass short middle to R.Stevenson to BUF 40 for 7 yards (S.Thompson; M.Milano). FUMBLES (S.Thompson), RECOVERED by BUF-T.Bernard at BUF 38."
+  },
+  {
+    "wallclock": "2025-10-06T00:38:11Z",
+    "period": 1,
+    "clock": "8:11",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass deep left to C.Samuel pushed ob at NE 42 for 20 yards (J.Gibbens)."
+  },
+  {
+    "wallclock": "2025-10-06T00:39:39Z",
+    "period": 1,
+    "clock": "7:33",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barmore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook up the middle to NE 37 for 5 yards (C.Barmore)."
+  },
+  {
+    "wallclock": "2025-10-06T00:40:16Z",
+    "period": 1,
+    "clock": "6:55",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Ty.Johnson left end to NE 29 for 8 yards (C.Woodson; J.Hawkins).PENALTY on BUF, Illegal Formation, 5 yards, enforced at NE 37 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T00:41:17Z",
+    "period": 1,
+    "clock": "6:33",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Coleman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short right to K.Coleman."
+  },
+  {
+    "wallclock": "2025-10-06T00:41:56Z",
+    "period": 1,
+    "clock": "6:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Coleman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete deep left to K.Coleman (M.Jones)."
+  },
+  {
+    "wallclock": "2025-10-06T00:42:33Z",
+    "period": 1,
+    "clock": "6:24",
+    "play_type": "Punt",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Wishnowsky punts 27 yards to NE 15, Center-R.Ferguson, out of bounds.PENALTY on BUF-S.Thompson, Illegal Formation, 5 yards, enforced at NE 15."
+  },
+  {
+    "wallclock": "2025-10-06T00:43:34Z",
+    "period": 1,
+    "clock": "6:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:17."
+  },
+  {
+    "wallclock": "2025-10-06T00:46:10Z",
+    "period": 1,
+    "clock": "6:17",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Logue",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson left tackle to NE 28 for 8 yards (Z.Logue)."
+  },
+  {
+    "wallclock": "2025-10-06T00:46:46Z",
+    "period": 1,
+    "clock": "5:41",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson right guard to NE 33 for 5 yards (T.Bernard)."
+  },
+  {
+    "wallclock": "2025-10-06T00:47:20Z",
+    "period": 1,
+    "clock": "5:07",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mathis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson right guard to NE 35 for 2 yards (P.Mathis)."
+  },
+  {
+    "wallclock": "2025-10-06T00:47:59Z",
+    "period": 1,
+    "clock": "4:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-10-06T00:48:41Z",
+    "period": 1,
+    "clock": "4:24",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Boutte",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to K.Boutte to NE 43 for 8 yards (C.Benford)."
+  },
+  {
+    "wallclock": "2025-10-06T00:49:16Z",
+    "period": 1,
+    "clock": "3:49",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson right tackle to 50 for 7 yards (M.Milano)."
+  },
+  {
+    "wallclock": "2025-10-06T00:49:56Z",
+    "period": 1,
+    "clock": "3:09",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson left tackle to 50 for no gain (D.Walker)."
+  },
+  {
+    "wallclock": "2025-10-06T00:50:36Z",
+    "period": 1,
+    "clock": "2:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short right to S.Diggs."
+  },
+  {
+    "wallclock": "2025-10-06T00:51:11Z",
+    "period": 1,
+    "clock": "2:24",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Baringer punts 36 yards to BUF 14, Center-J.Ashby, fair catch by K.Shakir."
+  },
+  {
+    "wallclock": "2025-10-06T00:51:11Z",
+    "period": 1,
+    "clock": "2:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:17."
+  },
+  {
+    "wallclock": "2025-10-06T00:54:11Z",
+    "period": 1,
+    "clock": "2:17",
+    "play_type": "Rush",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Kincaid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Samuel right tackle to BUF 20 for 6 yards (C.Elliss). NE-C.Davis was injured during the play. PENALTY on BUF-D.Kincaid, Offensive Holding, 7 yards, enforced at BUF 14 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T00:56:22Z",
+    "period": 1,
+    "clock": "1:54",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Coleman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short left to K.Coleman to BUF 10 for 3 yards (R.Spillane). FUMBLES (R.Spillane), touched at BUF 9, RECOVERED by NE-J.Hawkins at BUF 11."
+  },
+  {
+    "wallclock": "2025-10-06T00:57:40Z",
+    "period": 1,
+    "clock": "1:44",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson left tackle to BUF 12 for -1 yards (T.Bernard)."
+  },
+  {
+    "wallclock": "2025-10-06T00:58:17Z",
+    "period": 1,
+    "clock": "1:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short right [G.Rousseau]."
+  },
+  {
+    "wallclock": "2025-10-06T00:59:00Z",
+    "period": 1,
+    "clock": "1:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short middle to S.Diggs [S.Thompson].Penalty on NE, Illegal Formation, declined."
+  },
+  {
+    "wallclock": "2025-10-06T01:00:04Z",
+    "period": 1,
+    "clock": "0:56",
+    "play_type": "Field Goal Good",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "A.Borregales 30 yard field goal is GOOD, Center-J.Ashby, Holder-B.Baringer."
+  },
+  {
+    "wallclock": "2025-10-06T01:00:47Z",
+    "period": 1,
+    "clock": "0:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:56."
+  },
+  {
+    "wallclock": "2025-10-06T01:01:39Z",
+    "period": 1,
+    "clock": "0:56",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ponder",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 63 yards from NE 35 to BUF 2. C.Samuel to BUF 33 for 31 yards (E.Ponder; J.Gibbens)."
+  },
+  {
+    "wallclock": "2025-10-06T01:02:28Z",
+    "period": 1,
+    "clock": "0:50",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen scrambles left tackle to BUF 36 for 3 yards (R.Spillane). ** Injury Update: NE-C.Davis has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-06T01:03:10Z",
+    "period": 1,
+    "clock": "0:10",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Dawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on BUF-D.Dawkins, False Start, 5 yards, enforced at BUF 36 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T01:03:10Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-10-06T01:06:27Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Kincaid",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gonzalez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short middle to D.Kincaid to BUF 44 for 13 yards (C.Gonzalez)."
+  },
+  {
+    "wallclock": "2025-10-06T01:07:04Z",
+    "period": 2,
+    "clock": "14:23",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook up the middle to BUF 48 for 4 yards (M.Williams)."
+  },
+  {
+    "wallclock": "2025-10-06T01:07:44Z",
+    "period": 2,
+    "clock": "13:43",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Palmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gonzalez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass deep right to J.Palmer to NE 29 for 23 yards (C.Gonzalez)."
+  },
+  {
+    "wallclock": "2025-10-06T01:08:28Z",
+    "period": 2,
+    "clock": "13:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Tonga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Ty.Johnson left end to NE 26 for 3 yards (K.Tonga)."
+  },
+  {
+    "wallclock": "2025-10-06T01:09:08Z",
+    "period": 2,
+    "clock": "12:19",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to K.Shakir to NE 20 for 6 yards (H.Landry)."
+  },
+  {
+    "wallclock": "2025-10-06T01:09:36Z",
+    "period": 2,
+    "clock": "11:54",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barmore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Cook right guard to NE 17 for 3 yards (C.Barmore)."
+  },
+  {
+    "wallclock": "2025-10-06T01:10:11Z",
+    "period": 2,
+    "clock": "11:17",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook left end to NE 11 for 6 yards (J.Gibbens)."
+  },
+  {
+    "wallclock": "2025-10-06T01:10:49Z",
+    "period": 2,
+    "clock": "10:38",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Farmer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook up the middle to NE 10 for 1 yard (C.Woodson; J.Farmer)."
+  },
+  {
+    "wallclock": "2025-10-06T01:11:33Z",
+    "period": 2,
+    "clock": "9:55",
+    "play_type": "Pass Reception",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McGovern",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Coleman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to K.Shakir to NE 13 for -3 yards (M.Jones, C.Davis) [H.Landry].Penalty on BUF-C.McGovern, Ineligible Downfield Pass, declined.Penalty on BUF-K.Coleman, Offensive Pass Interference, declined."
+  },
+  {
+    "wallclock": "2025-10-06T01:12:55Z",
+    "period": 2,
+    "clock": "9:34",
+    "play_type": "Field Goal Good",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Prater",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "M.Prater 31 yard field goal is GOOD, Center-R.Ferguson, Holder-M.Wishnowsky."
+  },
+  {
+    "wallclock": "2025-10-06T01:13:20Z",
+    "period": 2,
+    "clock": "9:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:34."
+  },
+  {
+    "wallclock": "2025-10-06T01:16:01Z",
+    "period": 2,
+    "clock": "9:34",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Prater",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lewis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lewis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Prater kicks 63 yards from BUF 35 to NE 2. A.Gibson to NE 26 for 24 yards (C.Lewis). FUMBLES (C.Lewis), recovered by NE-T.Henderson at NE 28. NE-A.Gibson was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-06T01:16:01Z",
+    "period": 2,
+    "clock": "9:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:34."
+  },
+  {
+    "wallclock": "2025-10-06T01:17:43Z",
+    "period": 2,
+    "clock": "9:27",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:27."
+  },
+  {
+    "wallclock": "2025-10-06T01:20:05Z",
+    "period": 2,
+    "clock": "9:27",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to S.Diggs to NE 32 for 4 yards (S.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-06T01:20:37Z",
+    "period": 2,
+    "clock": "8:55",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass short left to S.Diggs to NE 46 for 14 yards (C.Benford)."
+  },
+  {
+    "wallclock": "2025-10-06T01:21:15Z",
+    "period": 2,
+    "clock": "8:17",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass short middle to T.Henderson to 50 for 4 yards (M.Milano)."
+  },
+  {
+    "wallclock": "2025-10-06T01:21:53Z",
+    "period": 2,
+    "clock": "7:39",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Epenesa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye sacked at NE 48 for -2 yards (sack split by A.Epenesa and D.Walker)."
+  },
+  {
+    "wallclock": "2025-10-06T01:22:36Z",
+    "period": 2,
+    "clock": "6:57",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Rapp",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye sacked at NE 45 for -3 yards (T.Bernard).Penalty on NE-W.Campbell, Offensive Holding, offsetting, enforced at NE 48 - No Play.Penalty on BUF-T.Rapp, Defensive Holding, offsetting."
+  },
+  {
+    "wallclock": "2025-10-06T01:23:37Z",
+    "period": 2,
+    "clock": "6:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Henry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete deep middle to H.Henry."
+  },
+  {
+    "wallclock": "2025-10-06T01:24:14Z",
+    "period": 2,
+    "clock": "6:34",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Baringer punts 42 yards to BUF 10, Center-J.Ashby, downed by NE-D.Pettus."
+  },
+  {
+    "wallclock": "2025-10-06T01:24:43Z",
+    "period": 2,
+    "clock": "6:24",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:24."
+  },
+  {
+    "wallclock": "2025-10-06T01:27:17Z",
+    "period": 2,
+    "clock": "6:24",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Farmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McGovern",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook left guard to BUF 13 for 3 yards (J.Farmer; C.Gonzalez). ** Injury Update: BUF-C.McGovern has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-06T01:28:00Z",
+    "period": 2,
+    "clock": "5:42",
+    "play_type": "Rush",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen scrambles left guard to BUF 32 for 19 yards (C.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-06T01:28:47Z",
+    "period": 2,
+    "clock": "5:00",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NE at 05:00."
+  },
+  {
+    "wallclock": "2025-10-06T01:29:43Z",
+    "period": 2,
+    "clock": "5:00",
+    "play_type": "Rush",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McGovern",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook left tackle pushed ob at BUF 36 for 4 yards (J.Gibbens).PENALTY on BUF-C.McGovern, Offensive Holding, 10 yards, enforced at BUF 32 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T01:30:42Z",
+    "period": 2,
+    "clock": "4:35",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gonzalez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen scrambles left guard ran ob at BUF 32 for 10 yards (C.Elliss; C.Gonzalez)."
+  },
+  {
+    "wallclock": "2025-10-06T01:31:29Z",
+    "period": 2,
+    "clock": "3:54",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook right tackle to BUF 35 for 3 yards (C.Elliss; K.White)."
+  },
+  {
+    "wallclock": "2025-10-06T01:32:07Z",
+    "period": 2,
+    "clock": "3:16",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen sacked at BUF 27 for -8 yards (sack split by M.Williams and J.Hawkins)."
+  },
+  {
+    "wallclock": "2025-10-06T01:33:33Z",
+    "period": 2,
+    "clock": "2:32",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Wishnowsky punts 43 yards to NE 30, Center-R.Ferguson. M.Jones pushed ob at NE 30 for no gain (S.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-06T01:33:41Z",
+    "period": 2,
+    "clock": "2:22",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Henderson left end pushed ob at NE 43 for 13 yards (T.White)."
+  },
+  {
+    "wallclock": "2025-10-06T01:34:12Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-06T01:37:02Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Henderson up the middle to NE 46 for 3 yards (G.Rousseau)."
+  },
+  {
+    "wallclock": "2025-10-06T01:37:38Z",
+    "period": 2,
+    "clock": "1:24",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye scrambles right guard to NE 49 for 3 yards (T.Bernard).PENALTY on BUF-T.Bernard, Unnecessary Roughness, 15 yards, enforced at NE 49."
+  },
+  {
+    "wallclock": "2025-10-06T01:38:43Z",
+    "period": 2,
+    "clock": "1:18",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Epenesa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Boutte",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass short left to R.Stevenson to BUF 36 for no gain (A.Epenesa).PENALTY on NE-K.Boutte, Face Mask, 15 yards, enforced at BUF 36 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T01:40:03Z",
+    "period": 2,
+    "clock": "1:11",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to D.Douglas ran ob at BUF 41 for 10 yards."
+  },
+  {
+    "wallclock": "2025-10-06T01:40:47Z",
+    "period": 2,
+    "clock": "1:05",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Henry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass deep left to H.Henry to BUF 19 for 22 yards (T.White)."
+  },
+  {
+    "wallclock": "2025-10-06T01:41:07Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by BUF at 00:53."
+  },
+  {
+    "wallclock": "2025-10-06T01:42:04Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Henderson right tackle to BUF 16 for 3 yards (G.Rousseau)."
+  },
+  {
+    "wallclock": "2025-10-06T01:42:18Z",
+    "period": 2,
+    "clock": "0:46",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by BUF at 00:46."
+  },
+  {
+    "wallclock": "2025-10-06T01:43:05Z",
+    "period": 2,
+    "clock": "0:46",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Epenesa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye scrambles up the middle to BUF 7 for 9 yards (M.Milano; A.Epenesa)."
+  },
+  {
+    "wallclock": "2025-10-06T01:43:26Z",
+    "period": 2,
+    "clock": "0:37",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by BUF at 00:37."
+  },
+  {
+    "wallclock": "2025-10-06T01:44:02Z",
+    "period": 2,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Milano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye right guard to BUF 7 for no gain (M.Milano)."
+  },
+  {
+    "wallclock": "2025-10-06T01:44:27Z",
+    "period": 2,
+    "clock": "0:18",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NE at 00:18."
+  },
+  {
+    "wallclock": "2025-10-06T01:45:16Z",
+    "period": 2,
+    "clock": "0:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Epenesa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short left to D.Douglas (A.Epenesa)."
+  },
+  {
+    "wallclock": "2025-10-06T01:46:04Z",
+    "period": 2,
+    "clock": "0:10",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Boutte",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NE-K.Boutte, False Start, 5 yards, enforced at BUF 7 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T01:46:47Z",
+    "period": 2,
+    "clock": "0:10",
+    "play_type": "Pass Incompletion",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short left to S.Diggs.PENALTY on BUF-T.White, Defensive Pass Interference, 11 yards, enforced at BUF 12 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T01:47:48Z",
+    "period": 2,
+    "clock": "0:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "V.Lowe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Henry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "V.Lowe reported in as eligible.  D.Maye pass incomplete short right to H.Henry."
+  },
+  {
+    "wallclock": "2025-10-06T01:48:34Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "Field Goal Good",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "A.Borregales 19 yard field goal is GOOD, Center-J.Ashby, Holder-B.Baringer."
+  },
+  {
+    "wallclock": "2025-10-06T01:48:34Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-10-06T02:03:09Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 55 yards from NE 35 to BUF 10. Ty.Johnson to BUF 29 for 19 yards (J.Gibbens; D.Pettus)."
+  },
+  {
+    "wallclock": "2025-10-06T02:03:50Z",
+    "period": 3,
+    "clock": "14:53",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Cook right tackle to BUF 35 for 6 yards (H.Landry)."
+  },
+  {
+    "wallclock": "2025-10-06T02:04:27Z",
+    "period": 3,
+    "clock": "14:17",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Kincaid",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass short right to D.Kincaid to NE 45 for 20 yards (J.Hawkins)."
+  },
+  {
+    "wallclock": "2025-10-06T02:05:05Z",
+    "period": 3,
+    "clock": "13:38",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Cook up the middle to NE 36 for 9 yards (H.Landry)."
+  },
+  {
+    "wallclock": "2025-10-06T02:05:50Z",
+    "period": 3,
+    "clock": "12:53",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen scrambles left end ran ob at NE 33 for 3 yards (J.Gibbens)."
+  },
+  {
+    "wallclock": "2025-10-06T02:06:31Z",
+    "period": 3,
+    "clock": "12:17",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tavai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook right guard to NE 32 for 1 yard (J.Tavai)."
+  },
+  {
+    "wallclock": "2025-10-06T02:07:13Z",
+    "period": 3,
+    "clock": "11:36",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NE-H.Landry, Neutral Zone Infraction, 5 yards, enforced at NE 32 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T02:07:51Z",
+    "period": 3,
+    "clock": "11:28",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Coleman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short middle to K.Coleman to NE 21 for 6 yards (C.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-06T02:08:28Z",
+    "period": 3,
+    "clock": "10:51",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to D.Knox to NE 14 for 7 yards (C.Davis)."
+  },
+  {
+    "wallclock": "2025-10-06T02:09:08Z",
+    "period": 3,
+    "clock": "10:11",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short left to K.Shakir pushed ob at NE 6 for 8 yards (C.Gonzalez; M.Jones)."
+  },
+  {
+    "wallclock": "2025-10-06T02:09:51Z",
+    "period": 3,
+    "clock": "9:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-10-06T02:10:35Z",
+    "period": 3,
+    "clock": "9:21",
+    "play_type": "Passing Touchdown",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Prater",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Allen pass short left to C.Samuel for 6 yards, TOUCHDOWN. M.Prater extra point is GOOD, Center-R.Ferguson, Holder-M.Wishnowsky."
+  },
+  {
+    "wallclock": "2025-10-06T02:11:36Z",
+    "period": 3,
+    "clock": "9:21",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:21."
+  },
+  {
+    "wallclock": "2025-10-06T02:14:31Z",
+    "period": 3,
+    "clock": "9:21",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Prater",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Shavers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Andreessen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Prater kicks 62 yards from BUF 35 to NE 3. R.Stevenson to NE 26 for 23 yards (T.Shavers; J.Andreessen)."
+  },
+  {
+    "wallclock": "2025-10-06T02:15:15Z",
+    "period": 3,
+    "clock": "9:14",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass deep left to S.Diggs to NE 42 for 16 yards (T.Bernard)."
+  },
+  {
+    "wallclock": "2025-10-06T02:15:57Z",
+    "period": 3,
+    "clock": "8:33",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Boutte",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass deep left to K.Boutte ran ob at BUF 42 for 16 yards (C.Benford)."
+  },
+  {
+    "wallclock": "2025-10-06T02:16:34Z",
+    "period": 3,
+    "clock": "7:58",
+    "play_type": "Pass Incompletion",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Epenesa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short right [A.Epenesa].PENALTY on BUF-C.Benford, Illegal Contact, 5 yards, enforced at BUF 42 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T02:17:42Z",
+    "period": 3,
+    "clock": "7:50",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bosa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Henderson up the middle to BUF 36 for 1 yard (J.Bosa)."
+  },
+  {
+    "wallclock": "2025-10-06T02:18:17Z",
+    "period": 3,
+    "clock": "7:15",
+    "play_type": "Pass Reception",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Rapp",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass deep right to S.Diggs to BUF 4 for 32 yards (T.Rapp)."
+  },
+  {
+    "wallclock": "2025-10-06T02:18:59Z",
+    "period": 3,
+    "clock": "6:34",
+    "play_type": "Rushing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bosa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "R.Stevenson left guard for 4 yards, TOUCHDOWN.Penalty on BUF-J.Bosa, Defensive Offside, declined. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer."
+  },
+  {
+    "wallclock": "2025-10-06T02:20:17Z",
+    "period": 3,
+    "clock": "6:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:34."
+  },
+  {
+    "wallclock": "2025-10-06T02:23:05Z",
+    "period": 3,
+    "clock": "6:34",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 60 yards from NE 35 to BUF 5. Ty.Johnson to BUF 29 for 24 yards (C.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-06T02:23:53Z",
+    "period": 3,
+    "clock": "6:28",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tavai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Davis right end to BUF 29 for no gain (R.Spillane; J.Tavai)."
+  },
+  {
+    "wallclock": "2025-10-06T02:24:38Z",
+    "period": 3,
+    "clock": "5:43",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Schooler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to K.Shakir pushed ob at BUF 47 for 18 yards (M.Jones).PENALTY on NE-B.Schooler, Unnecessary Roughness, 15 yards, enforced at BUF 47."
+  },
+  {
+    "wallclock": "2025-10-06T02:25:52Z",
+    "period": 3,
+    "clock": "5:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Shavers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete deep left to T.Shavers."
+  },
+  {
+    "wallclock": "2025-10-06T02:26:35Z",
+    "period": 3,
+    "clock": "5:13",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gonzalez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Shakir left end pushed ob at NE 33 for 5 yards (R.Spillane; C.Gonzalez)."
+  },
+  {
+    "wallclock": "2025-10-06T02:27:14Z",
+    "period": 3,
+    "clock": "4:36",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Kincaid",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short middle to D.Kincaid to NE 16 for 17 yards (C.Woodson)."
+  },
+  {
+    "wallclock": "2025-10-06T02:27:50Z",
+    "period": 3,
+    "clock": "4:02",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Ty.Johnson up the middle to NE 9 for 7 yards (M.Williams)."
+  },
+  {
+    "wallclock": "2025-10-06T02:28:28Z",
+    "period": 3,
+    "clock": "3:22",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Kincaid",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to D.Kincaid to NE 7 for 2 yards (H.Landry; R.Spillane).PENALTY on BUF-K.Shakir, Offensive Pass Interference, 10 yards, enforced at NE 9 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T02:29:34Z",
+    "period": 3,
+    "clock": "2:58",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short middle intended for K.Shakir INTERCEPTED by M.Jones at NE 10. M.Jones to NE 10 for no gain (K.Shakir)."
+  },
+  {
+    "wallclock": "2025-10-06T02:30:17Z",
+    "period": 3,
+    "clock": "2:53",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:53."
+  },
+  {
+    "wallclock": "2025-10-06T02:32:47Z",
+    "period": 3,
+    "clock": "2:53",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mathis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Henderson left tackle to NE 11 for 1 yard (P.Mathis)."
+  },
+  {
+    "wallclock": "2025-10-06T02:33:24Z",
+    "period": 3,
+    "clock": "2:15",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass short right to S.Diggs to NE 13 for 2 yards (Ta.Johnson)."
+  },
+  {
+    "wallclock": "2025-10-06T02:34:06Z",
+    "period": 3,
+    "clock": "1:33",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to S.Diggs ran ob at NE 23 for 10 yards."
+  },
+  {
+    "wallclock": "2025-10-06T02:34:53Z",
+    "period": 3,
+    "clock": "1:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short right to T.Henderson."
+  },
+  {
+    "wallclock": "2025-10-06T02:35:32Z",
+    "period": 3,
+    "clock": "0:57",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to D.Douglas to NE 30 for 7 yards (S.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-06T02:36:11Z",
+    "period": 3,
+    "clock": "0:18",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to S.Diggs pushed ob at NE 41 for 11 yards (T.White)."
+  },
+  {
+    "wallclock": "2025-10-06T02:36:11Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-10-06T02:39:23Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Henry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Rapp",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass deep middle to H.Henry to BUF 35 for 24 yards (T.Rapp)."
+  },
+  {
+    "wallclock": "2025-10-06T02:40:07Z",
+    "period": 4,
+    "clock": "14:17",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to T.Henderson ran ob at BUF 36 for -1 yards (T.White)."
+  },
+  {
+    "wallclock": "2025-10-06T02:40:47Z",
+    "period": 4,
+    "clock": "13:39",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to S.Diggs to BUF 6 for 30 yards (Ta.Johnson)."
+  },
+  {
+    "wallclock": "2025-10-06T02:41:34Z",
+    "period": 4,
+    "clock": "12:52",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson right guard to BUF 7 for -1 yards (D.Walker, D.Jones)."
+  },
+  {
+    "wallclock": "2025-10-06T02:42:13Z",
+    "period": 4,
+    "clock": "12:10",
+    "play_type": "Rushing Touchdown",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "R.Stevenson left end for 7 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer."
+  },
+  {
+    "wallclock": "2025-10-06T02:43:20Z",
+    "period": 4,
+    "clock": "12:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:10."
+  },
+  {
+    "wallclock": "2025-10-06T02:45:56Z",
+    "period": 4,
+    "clock": "12:10",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 66 yards from NE 35 to BUF -1. C.Samuel to BUF 26 for 27 yards (C.Elliss; J.Gibbens)."
+  },
+  {
+    "wallclock": "2025-10-06T02:46:39Z",
+    "period": 4,
+    "clock": "12:03",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Kincaid",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen pass short left to D.Kincaid to BUF 49 for 23 yards (R.Spillane)."
+  },
+  {
+    "wallclock": "2025-10-06T02:47:24Z",
+    "period": 4,
+    "clock": "11:18",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to J.Cook to BUF 49 for no gain (C.Davis).PENALTY on NE-C.Durden, Roughing the Passer, 15 yards, enforced at BUF 49 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T02:48:49Z",
+    "period": 4,
+    "clock": "11:07",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Farmer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Cook up the middle to NE 40 for -4 yards (H.Landry).PENALTY on NE-J.Farmer, Unnecessary Roughness, 15 yards, enforced at NE 40."
+  },
+  {
+    "wallclock": "2025-10-06T02:50:17Z",
+    "period": 4,
+    "clock": "10:50",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen scrambles up the middle to NE 22 for 3 yards (A.Jennings; H.Landry)."
+  },
+  {
+    "wallclock": "2025-10-06T02:50:58Z",
+    "period": 4,
+    "clock": "10:19",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Knox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short middle to D.Knox to NE 14 for 8 yards (C.Woodson)."
+  },
+  {
+    "wallclock": "2025-10-06T02:51:42Z",
+    "period": 4,
+    "clock": "9:25",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ponder",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen scrambles left end pushed ob at NE 6 for 8 yards (E.Ponder)."
+  },
+  {
+    "wallclock": "2025-10-06T02:52:29Z",
+    "period": 4,
+    "clock": "8:41",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Tonga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Davis up the middle to NE 5 for 1 yard (M.Jones; K.Tonga)."
+  },
+  {
+    "wallclock": "2025-10-06T02:52:48Z",
+    "period": 4,
+    "clock": "8:21",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Allen left guard to NE 2 for 3 yards (C.Elliss; R.Spillane)."
+  },
+  {
+    "wallclock": "2025-10-06T02:53:30Z",
+    "period": 4,
+    "clock": "7:37",
+    "play_type": "Passing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Coleman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Prater",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Allen pass short right to K.Coleman for 2 yards, TOUCHDOWN. M.Prater extra point is GOOD, Center-R.Ferguson, Holder-M.Wishnowsky."
+  },
+  {
+    "wallclock": "2025-10-06T02:54:32Z",
+    "period": 4,
+    "clock": "7:37",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:37."
+  },
+  {
+    "wallclock": "2025-10-06T02:57:19Z",
+    "period": 4,
+    "clock": "7:37",
+    "play_type": "Kickoff",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Prater",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gilliam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Prater kicks 58 yards from BUF 35 to NE 7. R.Stevenson to NE 24 for 17 yards (R.Gilliam)."
+  },
+  {
+    "wallclock": "2025-10-06T02:58:11Z",
+    "period": 4,
+    "clock": "7:31",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to R.Stevenson pushed ob at NE 30 for 6 yards (S.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-06T02:58:52Z",
+    "period": 4,
+    "clock": "6:55",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Henderson left tackle to NE 33 for 3 yards (G.Rousseau)."
+  },
+  {
+    "wallclock": "2025-10-06T02:59:23Z",
+    "period": 4,
+    "clock": "6:22",
+    "play_type": "Penalty",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "V.Lowe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Lowe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "V.Lowe reported in as eligible.  PENALTY on NE-V.Lowe, False Start, 4 yards, enforced at NE 33 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T03:00:13Z",
+    "period": 4,
+    "clock": "6:22",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye sacked ob at NE 27 for -2 yards (S.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-06T03:00:50Z",
+    "period": 4,
+    "clock": "6:01",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Baringer punts 73 yards to end zone, Center-J.Ashby, Touchback."
+  },
+  {
+    "wallclock": "2025-10-06T03:01:20Z",
+    "period": 4,
+    "clock": "5:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:52."
+  },
+  {
+    "wallclock": "2025-10-06T03:03:50Z",
+    "period": 4,
+    "clock": "5:52",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Cook up the middle to BUF 24 for 4 yards (R.Spillane)."
+  },
+  {
+    "wallclock": "2025-10-06T03:04:31Z",
+    "period": 4,
+    "clock": "5:11",
+    "play_type": "Pass Incompletion",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete deep left to J.Cook.PENALTY on NE-J.Gibbens, Defensive Pass Interference, 19 yards, enforced at BUF 24 - No Play."
+  },
+  {
+    "wallclock": "2025-10-06T03:05:50Z",
+    "period": 4,
+    "clock": "5:01",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Allen scrambles right end pushed ob at BUF 47 for 4 yards (M.Jones)."
+  },
+  {
+    "wallclock": "2025-10-06T03:06:36Z",
+    "period": 4,
+    "clock": "4:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short right to J.Cook [C.Davis]."
+  },
+  {
+    "wallclock": "2025-10-06T03:07:18Z",
+    "period": 4,
+    "clock": "4:47",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Coleman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to K.Coleman to NE 40 for 13 yards (C.Davis)."
+  },
+  {
+    "wallclock": "2025-10-06T03:07:56Z",
+    "period": 4,
+    "clock": "4:09",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Cook",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Cook left tackle to NE 39 for 1 yard (R.Spillane)."
+  },
+  {
+    "wallclock": "2025-10-06T03:08:36Z",
+    "period": 4,
+    "clock": "3:29",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short middle to K.Shakir to NE 27 for 12 yards (M.Jones)."
+  },
+  {
+    "wallclock": "2025-10-06T03:09:19Z",
+    "period": 4,
+    "clock": "2:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short right to K.Shakir."
+  },
+  {
+    "wallclock": "2025-10-06T03:10:00Z",
+    "period": 4,
+    "clock": "2:43",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Coleman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barmore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete deep left to K.Coleman [C.Barmore]."
+  },
+  {
+    "wallclock": "2025-10-06T03:10:52Z",
+    "period": 4,
+    "clock": "2:31",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Shakir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gonzalez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass incomplete short middle to K.Shakir (C.Gonzalez)."
+  },
+  {
+    "wallclock": "2025-10-06T03:11:50Z",
+    "period": 4,
+    "clock": "2:17",
+    "play_type": "Field Goal Good",
+    "yards": 45,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Prater",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wishnowsky",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "M.Prater 45 yard field goal is GOOD, Center-R.Ferguson, Holder-M.Wishnowsky."
+  },
+  {
+    "wallclock": "2025-10-06T03:13:16Z",
+    "period": 4,
+    "clock": "2:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:17."
+  },
+  {
+    "wallclock": "2025-10-06T03:14:52Z",
+    "period": 4,
+    "clock": "2:17",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Prater",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Gilliam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Prater kicks 59 yards from BUF 35 to NE 6. T.Henderson to NE 29 for 23 yards (R.Gilliam)."
+  },
+  {
+    "wallclock": "2025-10-06T03:15:39Z",
+    "period": 4,
+    "clock": "2:12",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Benford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to S.Diggs to NE 41 for 12 yards (C.Benford) [D.Jones]."
+  },
+  {
+    "wallclock": "2025-10-06T03:16:03Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-06T03:18:57Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson left tackle to NE 42 for 1 yard (G.Rousseau; D.Jones)."
+  },
+  {
+    "wallclock": "2025-10-06T03:19:32Z",
+    "period": 4,
+    "clock": "1:25",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Boutte",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bishop",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Rousseau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass deep right to K.Boutte to BUF 39 for 19 yards (C.Bishop) [G.Rousseau]."
+  },
+  {
+    "wallclock": "2025-10-06T03:19:56Z",
+    "period": 4,
+    "clock": "1:18",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by BUF at 01:18."
+  },
+  {
+    "wallclock": "2025-10-06T03:20:44Z",
+    "period": 4,
+    "clock": "1:18",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bernard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson up the middle to BUF 34 for 5 yards (T.Bernard)."
+  },
+  {
+    "wallclock": "2025-10-06T03:21:03Z",
+    "period": 4,
+    "clock": "1:13",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by BUF at 01:13."
+  },
+  {
+    "wallclock": "2025-10-06T03:21:36Z",
+    "period": 4,
+    "clock": "1:13",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Andreessen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson left guard to BUF 34 for no gain (J.Andreessen)."
+  },
+  {
+    "wallclock": "2025-10-06T03:21:55Z",
+    "period": 4,
+    "clock": "1:07",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by BUF at 01:07."
+  },
+  {
+    "wallclock": "2025-10-06T03:22:36Z",
+    "period": 4,
+    "clock": "1:07",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bishop",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye sacked at BUF 34 for 0 yards (C.Bishop)."
+  },
+  {
+    "wallclock": "2025-10-06T03:23:29Z",
+    "period": 4,
+    "clock": "0:20",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NE at 00:20."
+  },
+  {
+    "wallclock": "2025-10-06T03:24:19Z",
+    "period": 4,
+    "clock": "0:15",
+    "play_type": "Field Goal Good",
+    "yards": 52,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "A.Borregales 52 yard field goal is GOOD, Center-J.Ashby, Holder-B.Baringer."
+  },
+  {
+    "wallclock": "2025-10-06T03:25:32Z",
+    "period": 4,
+    "clock": "0:15",
+    "play_type": "Kickoff",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Andreessen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 63 yards from NE 35 to BUF 2. C.Samuel to BUF 28 for 26 yards (K.Dugger).PENALTY on BUF-J.Andreessen, Offensive Holding, 10 yards, enforced at BUF 28."
+  },
+  {
+    "wallclock": "2025-10-06T03:26:44Z",
+    "period": 4,
+    "clock": "0:08",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NE at 00:08."
+  },
+  {
+    "wallclock": "2025-10-06T03:27:25Z",
+    "period": 4,
+    "clock": "0:08",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Palmer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Allen pass short right to J.Palmer to BUF 31 for 13 yards (M.Jones)."
+  },
+  {
+    "wallclock": "2025-10-06T03:27:25Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

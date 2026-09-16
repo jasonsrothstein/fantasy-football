@@ -1,0 +1,4292 @@
+[
+  {
+    "wallclock": "2025-12-28T18:02:30Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 65 yards from TB 35 to end zone, Touchback to the MIA 35."
+  },
+  {
+    "wallclock": "2025-12-28T18:03:16Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dulcich",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass short right to G.Dulcich to MIA 39 for 4 yards (H.Reddick)."
+  },
+  {
+    "wallclock": "2025-12-28T18:03:53Z",
+    "period": 1,
+    "clock": "14:23",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass short left to M.Washington to TB 33 for 28 yards (A.Winfield; V.Vea).PENALTY on MIA-C.Wilson, Offensive Holding, 10 yards, enforced at MIA 39 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T18:04:56Z",
+    "period": 1,
+    "clock": "13:56",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) Q.Ewers pass short right to D.Achane to MIA 29 for no gain (H.Reddick)."
+  },
+  {
+    "wallclock": "2025-12-28T18:05:38Z",
+    "period": 1,
+    "clock": "13:14",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass incomplete deep middle to M.Washington."
+  },
+  {
+    "wallclock": "2025-12-28T18:06:09Z",
+    "period": 1,
+    "clock": "13:09",
+    "play_type": "Punt",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 54 yards to TB 17, Center-J.Cardona. K.Johnson pushed ob at TB 32 for 15 yards (J.Bailey)."
+  },
+  {
+    "wallclock": "2025-12-28T18:07:14Z",
+    "period": 1,
+    "clock": "12:54",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short left to C.Otton to TB 40 for 8 yards (A.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T18:07:57Z",
+    "period": 1,
+    "clock": "12:11",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left guard to TB 47 for 7 yards (T.Dodson; C.Robinson)."
+  },
+  {
+    "wallclock": "2025-12-28T18:08:41Z",
+    "period": 1,
+    "clock": "11:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short left to M.Evans."
+  },
+  {
+    "wallclock": "2025-12-28T18:09:15Z",
+    "period": 1,
+    "clock": "11:23",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to J.McMillan to MIA 45 for 8 yards (A.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T18:09:40Z",
+    "period": 1,
+    "clock": "11:00",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Irving right guard to MIA 44 for 1 yard (J.Brooks; R.Douglas)."
+  },
+  {
+    "wallclock": "2025-12-28T18:10:18Z",
+    "period": 1,
+    "clock": "10:22",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Tucker up the middle to MIA 42 for 2 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-12-28T18:10:59Z",
+    "period": 1,
+    "clock": "9:40",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goode",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short left to B.Irving pushed ob at MIA 37 for 5 yards (C.Goode)."
+  },
+  {
+    "wallclock": "2025-12-28T18:11:45Z",
+    "period": 1,
+    "clock": "8:59",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving up the middle to MIA 39 for -2 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-12-28T18:12:25Z",
+    "period": 1,
+    "clock": "8:19",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield pass deep left to J.McMillan to MIA 21 for 18 yards (A.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T18:12:55Z",
+    "period": 1,
+    "clock": "7:49",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield sacked at MIA 24 for -3 yards (B.Chubb)."
+  },
+  {
+    "wallclock": "2025-12-28T18:13:40Z",
+    "period": 1,
+    "clock": "7:04",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short middle to J.McMillan to MIA 11 for 13 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T18:14:24Z",
+    "period": 1,
+    "clock": "6:19",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Tucker right end to MIA 5 for 6 yards (J.Brooks; I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-12-28T18:15:07Z",
+    "period": 1,
+    "clock": "5:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right to S.Tucker (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-12-28T18:15:53Z",
+    "period": 1,
+    "clock": "5:27",
+    "play_type": "Passing Touchdown",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Mayfield pass short middle to C.Godwin for 5 yards, TOUCHDOWN. C.McLaughlin extra point is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-12-28T18:16:49Z",
+    "period": 1,
+    "clock": "5:27",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:27."
+  },
+  {
+    "wallclock": "2025-12-28T18:19:42Z",
+    "period": 1,
+    "clock": "5:27",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 65 yards from TB 35 to end zone, Touchback to the MIA 35."
+  },
+  {
+    "wallclock": "2025-12-28T18:20:29Z",
+    "period": 1,
+    "clock": "5:27",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Morrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Waddle right end to MIA 42 for 7 yards (B.Morrison)."
+  },
+  {
+    "wallclock": "2025-12-28T18:21:12Z",
+    "period": 1,
+    "clock": "4:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Q.Ewers pass incomplete deep right to M.Washington."
+  },
+  {
+    "wallclock": "2025-12-28T18:21:54Z",
+    "period": 1,
+    "clock": "4:37",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Savaiinaea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) PENALTY on MIA-J.Savaiinaea, False Start, 5 yards, enforced at MIA 42 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T18:22:32Z",
+    "period": 1,
+    "clock": "4:29",
+    "play_type": "Passing Touchdown",
+    "yards": 63,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wease",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) Q.Ewers pass deep left to T.Wease for 63 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-12-28T18:23:52Z",
+    "period": 1,
+    "clock": "4:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:29."
+  },
+  {
+    "wallclock": "2025-12-28T18:26:19Z",
+    "period": 1,
+    "clock": "4:29",
+    "play_type": "Kickoff",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goode",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Braswell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 63 yards from MIA 35 to TB 2. K.Johnson to TB 31 for 29 yards (J.Marshall; C.Goode).PENALTY on TB-C.Braswell, Offensive Holding, 10 yards, enforced at TB 27."
+  },
+  {
+    "wallclock": "2025-12-28T18:27:24Z",
+    "period": 1,
+    "clock": "4:23",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Bell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left guard to TB 21 for 4 yards (Z.Sieler; Q.Bell)."
+  },
+  {
+    "wallclock": "2025-12-28T18:28:08Z",
+    "period": 1,
+    "clock": "3:39",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short right to B.Irving to TB 21 for no gain (J.Brooks; J.Phillips)."
+  },
+  {
+    "wallclock": "2025-12-28T18:28:52Z",
+    "period": 1,
+    "clock": "2:54",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield pass deep left to M.Evans pushed ob at TB 37 for 16 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T18:29:38Z",
+    "period": 1,
+    "clock": "2:08",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short right to R.White to TB 43 for 6 yards (J.Marshall; T.Dodson).PENALTY on MIA-J.Jones, Illegal Contact, 5 yards, enforced at TB 37 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T18:30:36Z",
+    "period": 1,
+    "clock": "1:30",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.White left tackle to TB 45 for 3 yards (J.Phillips)."
+  },
+  {
+    "wallclock": "2025-12-28T18:31:21Z",
+    "period": 1,
+    "clock": "0:45",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to C.Otton to MIA 49 for 6 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-12-28T18:31:21Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-28T18:35:01Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to B.Irving to MIA 49 for no gain (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-12-28T18:35:54Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle) PENALTY on TB, Delay of Game, 5 yards, enforced at MIA 49 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T18:36:36Z",
+    "period": 2,
+    "clock": "14:06",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dixon punts 41 yards to MIA 13, Center-E.Deckers, fair catch by M.Washington."
+  },
+  {
+    "wallclock": "2025-12-28T18:37:11Z",
+    "period": 2,
+    "clock": "13:59",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:59."
+  },
+  {
+    "wallclock": "2025-12-28T18:39:38Z",
+    "period": 2,
+    "clock": "13:59",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  D.Achane right end to MIA 20 for 7 yards (E.Simmons)."
+  },
+  {
+    "wallclock": "2025-12-28T18:40:21Z",
+    "period": 2,
+    "clock": "13:15",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane right end to MIA 31 for 11 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-12-28T18:41:04Z",
+    "period": 2,
+    "clock": "12:33",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Simmons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Wright left end to MIA 40 for 9 yards (E.Simmons; J.Dean)."
+  },
+  {
+    "wallclock": "2025-12-28T18:41:44Z",
+    "period": 2,
+    "clock": "11:52",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dulcich",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Morrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  Q.Ewers pass deep middle to G.Dulcich to TB 37 for 23 yards (A.Winfield; B.Morrison)."
+  },
+  {
+    "wallclock": "2025-12-28T18:42:25Z",
+    "period": 2,
+    "clock": "11:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Waller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass incomplete short left to D.Waller (J.Dean)."
+  },
+  {
+    "wallclock": "2025-12-28T18:43:08Z",
+    "period": 2,
+    "clock": "11:08",
+    "play_type": "Rush",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright left guard pushed ob at TB 5 for 32 yards (A.Winfield)."
+  },
+  {
+    "wallclock": "2025-12-28T18:43:57Z",
+    "period": 2,
+    "clock": "10:22",
+    "play_type": "Pass Reception",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) Q.Ewers pass short middle to Q.Ewers to TB 11 for -6 yards (Y.Diaby)."
+  },
+  {
+    "wallclock": "2025-12-28T18:44:38Z",
+    "period": 2,
+    "clock": "9:46",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dulcich",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass short middle to G.Dulcich to TB 4 for 7 yards (H.Reddick; A.Winfield)."
+  },
+  {
+    "wallclock": "2025-12-28T18:45:21Z",
+    "period": 2,
+    "clock": "9:02",
+    "play_type": "Rush",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Dulcich",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Dulcich right tackle to TB 11 for -7 yards (H.Reddick)."
+  },
+  {
+    "wallclock": "2025-12-28T18:46:01Z",
+    "period": 2,
+    "clock": "8:18",
+    "play_type": "Field Goal Good",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Patterson 29 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-12-28T18:46:19Z",
+    "period": 2,
+    "clock": "8:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:18."
+  },
+  {
+    "wallclock": "2025-12-28T18:48:59Z",
+    "period": 2,
+    "clock": "8:18",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 60 yards from MIA 35 to TB 5. K.Johnson pushed ob at TB 28 for 23 yards (J.Marshall)."
+  },
+  {
+    "wallclock": "2025-12-28T18:49:55Z",
+    "period": 2,
+    "clock": "8:14",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield pass short left to T.Johnson to TB 30 for 2 yards (D.Trader)."
+  },
+  {
+    "wallclock": "2025-12-28T18:50:34Z",
+    "period": 2,
+    "clock": "7:37",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goode",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short middle to C.Godwin to TB 39 for 9 yards (C.Goode; J.Marshall)."
+  },
+  {
+    "wallclock": "2025-12-28T18:51:15Z",
+    "period": 2,
+    "clock": "6:57",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Biggers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Direct snap to B.Irving.  B.Irving up the middle to TB 38 for -1 yards (J.Marshall, Z.Biggers)."
+  },
+  {
+    "wallclock": "2025-12-28T18:51:59Z",
+    "period": 2,
+    "clock": "6:13",
+    "play_type": "Pass Interception Return",
+    "yards": -14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass deep right intended for J.McMillan INTERCEPTED by J.Marshall at MIA 15. J.Marshall to MIA 40 for 25 yards (C.Otton).PENALTY on MIA-J.Jones, Illegal Blindside Block, 15 yards, enforced at MIA 39."
+  },
+  {
+    "wallclock": "2025-12-28T18:53:51Z",
+    "period": 2,
+    "clock": "5:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:57."
+  },
+  {
+    "wallclock": "2025-12-28T18:55:35Z",
+    "period": 2,
+    "clock": "5:57",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane right end to MIA 28 for 4 yards (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-12-28T18:56:09Z",
+    "period": 2,
+    "clock": "5:23",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left end ran ob at MIA 43 for 15 yards (S.Dennis; A.Winfield)."
+  },
+  {
+    "wallclock": "2025-12-28T18:56:50Z",
+    "period": 2,
+    "clock": "4:46",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dulcich",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Q.Ewers pass short left to G.Dulcich pushed ob at TB 44 for 13 yards (J.Dean)."
+  },
+  {
+    "wallclock": "2025-12-28T18:57:31Z",
+    "period": 2,
+    "clock": "4:07",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Gaines",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Wright right tackle to TB 37 for 7 yards (G.Gaines)."
+  },
+  {
+    "wallclock": "2025-12-28T18:58:09Z",
+    "period": 2,
+    "clock": "3:30",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane right guard to TB 30 for 7 yards (L.David)."
+  },
+  {
+    "wallclock": "2025-12-28T18:58:47Z",
+    "period": 2,
+    "clock": "2:52",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass short left to D.Achane to TB 10 for 20 yards (L.Hall)."
+  },
+  {
+    "wallclock": "2025-12-28T18:59:35Z",
+    "period": 2,
+    "clock": "2:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass incomplete short right to C.Wilson."
+  },
+  {
+    "wallclock": "2025-12-28T18:59:58Z",
+    "period": 2,
+    "clock": "1:57",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-28T19:02:44Z",
+    "period": 2,
+    "clock": "1:57",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Meyer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  D.Achane left guard to TB 3 for 7 yards (S.Dennis; A.Winfield).PENALTY on MIA-A.Meyer, Offensive Holding, 10 yards, enforced at TB 10 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T19:03:37Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass short right to D.Achane to TB 11 for 9 yards (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-12-28T19:04:06Z",
+    "period": 2,
+    "clock": "1:46",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TB at 01:46."
+  },
+  {
+    "wallclock": "2025-12-28T19:04:35Z",
+    "period": 2,
+    "clock": "1:43",
+    "play_type": "Passing Touchdown",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dulcich",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) Q.Ewers pass short middle to G.Dulcich for 11 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-12-28T19:05:33Z",
+    "period": 2,
+    "clock": "1:43",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:43."
+  },
+  {
+    "wallclock": "2025-12-28T19:08:12Z",
+    "period": 2,
+    "clock": "1:43",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 62 yards from MIA 35 to TB 3. K.Johnson pushed ob at TB 30 for 27 yards (J.Marshall; O.Gordon)."
+  },
+  {
+    "wallclock": "2025-12-28T19:09:02Z",
+    "period": 2,
+    "clock": "1:36",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Barton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield pass short right to B.Irving to TB 37 for 7 yards (D.Trader).\nPENALTY on TB-G.Barton, Illegal Block Above the Waist, 10 yards, enforced at TB 30 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T19:09:58Z",
+    "period": 2,
+    "clock": "1:28",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield pass short right to C.Otton to TB 26 for 6 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-12-28T19:10:35Z",
+    "period": 2,
+    "clock": "1:24",
+    "play_type": "Pass Reception",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield pass deep left to J.McMillan to MIA 41 for 33 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T19:11:03Z",
+    "period": 2,
+    "clock": "0:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) B.Mayfield pass incomplete short right to J.McMillan."
+  },
+  {
+    "wallclock": "2025-12-28T19:11:48Z",
+    "period": 2,
+    "clock": "0:49",
+    "play_type": "Pass Reception",
+    "yards": -13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield pass short right to B.Irving pushed ob at MIA 29 for 12 yards (A.Davis).\nPENALTY on TB-C.Otton, Offensive Holding, 10 yards, enforced at MIA 34."
+  },
+  {
+    "wallclock": "2025-12-28T19:12:51Z",
+    "period": 2,
+    "clock": "0:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep right to M.Evans."
+  },
+  {
+    "wallclock": "2025-12-28T19:13:40Z",
+    "period": 2,
+    "clock": "0:35",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TB at 00:35."
+  },
+  {
+    "wallclock": "2025-12-28T19:14:42Z",
+    "period": 2,
+    "clock": "0:35",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to J.McMillan pushed ob at MIA 37 for 7 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T19:15:28Z",
+    "period": 2,
+    "clock": "0:27",
+    "play_type": "Blocked Field Goal",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Biggers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin 55 yard field goal is BLOCKED (Z.Biggers), Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-12-28T19:17:17Z",
+    "period": 2,
+    "clock": "0:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:20."
+  },
+  {
+    "wallclock": "2025-12-28T19:18:31Z",
+    "period": 2,
+    "clock": "0:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) Q.Ewers pass incomplete short right to J.Hill."
+  },
+  {
+    "wallclock": "2025-12-28T19:19:13Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Rush",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers FUMBLES (Aborted) at MIA 38, ball out of bounds at MIA 37.PENALTY on MIA-Q.Ewers, Delay of Game, 5 yards, enforced at MIA 45."
+  },
+  {
+    "wallclock": "2025-12-28T19:19:13Z",
+    "period": 2,
+    "clock": "0:13",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIA at 00:13."
+  },
+  {
+    "wallclock": "2025-12-28T19:20:30Z",
+    "period": 2,
+    "clock": "0:13",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by TB at 00:13."
+  },
+  {
+    "wallclock": "2025-12-28T19:21:07Z",
+    "period": 2,
+    "clock": "0:13",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers sacked at MIA 30 for -10 yards (L.Hall)."
+  },
+  {
+    "wallclock": "2025-12-28T19:21:07Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-28T19:35:06Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 65 yards from MIA 35 to end zone, Touchback to the TB 35."
+  },
+  {
+    "wallclock": "2025-12-28T19:35:55Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short right to E.Egbuka to TB 42 for 7 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T19:36:36Z",
+    "period": 3,
+    "clock": "14:19",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Grant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Irving left guard to TB 42 for no gain (K.Grant)."
+  },
+  {
+    "wallclock": "2025-12-28T19:37:15Z",
+    "period": 3,
+    "clock": "13:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right to C.Godwin [K.Britt]."
+  },
+  {
+    "wallclock": "2025-12-28T19:38:00Z",
+    "period": 3,
+    "clock": "13:34",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Culp",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dixon punts 27 yards to MIA 31, Center-E.Deckers, downed by TB-D.Culp."
+  },
+  {
+    "wallclock": "2025-12-28T19:38:43Z",
+    "period": 3,
+    "clock": "13:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:25."
+  },
+  {
+    "wallclock": "2025-12-28T19:41:08Z",
+    "period": 3,
+    "clock": "13:25",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " PENALTY on MIA-A.Jackson, False Start, 5 yards, enforced at MIA 31 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T19:41:48Z",
+    "period": 3,
+    "clock": "13:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Waller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass incomplete deep right to D.Waller [L.Hall]."
+  },
+  {
+    "wallclock": "2025-12-28T19:42:28Z",
+    "period": 3,
+    "clock": "13:21",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) Q.Ewers sacked at MIA 17 for -9 yards (Y.Diaby)."
+  },
+  {
+    "wallclock": "2025-12-28T19:43:09Z",
+    "period": 3,
+    "clock": "12:41",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) D.Achane right tackle to MIA 19 for 2 yards (L.David)."
+  },
+  {
+    "wallclock": "2025-12-28T19:43:43Z",
+    "period": 3,
+    "clock": "12:07",
+    "play_type": "Punt",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Bell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 58 yards to TB 23, Center-J.Cardona. K.Johnson pushed ob at TB 35 for 12 yards (Q.Bell; J.Cardona)."
+  },
+  {
+    "wallclock": "2025-12-28T19:44:23Z",
+    "period": 3,
+    "clock": "11:55",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:55."
+  },
+  {
+    "wallclock": "2025-12-28T19:46:54Z",
+    "period": 3,
+    "clock": "11:55",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield pass short left to R.White pushed ob at TB 41 for 6 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-12-28T19:47:37Z",
+    "period": 3,
+    "clock": "11:15",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield scrambles left tackle to TB 44 for 3 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-12-28T19:48:22Z",
+    "period": 3,
+    "clock": "10:29",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Grant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Mayfield scrambles right end ran ob at TB 46 for 2 yards (K.Grant)."
+  },
+  {
+    "wallclock": "2025-12-28T19:49:11Z",
+    "period": 3,
+    "clock": "9:44",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " R.White right guard to MIA 47 for 7 yards (M.Butler)."
+  },
+  {
+    "wallclock": "2025-12-28T19:49:56Z",
+    "period": 3,
+    "clock": "8:59",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass deep right to T.Johnson to MIA 30 for 17 yards (A.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T19:50:38Z",
+    "period": 3,
+    "clock": "8:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep right to M.Evans."
+  },
+  {
+    "wallclock": "2025-12-28T19:51:25Z",
+    "period": 3,
+    "clock": "8:10",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Irving left guard to MIA 30 for no gain (Z.Sieler)."
+  },
+  {
+    "wallclock": "2025-12-28T19:52:07Z",
+    "period": 3,
+    "clock": "7:27",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield scrambles up the middle to MIA 19 for 11 yards (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-12-28T19:52:55Z",
+    "period": 3,
+    "clock": "6:39",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Irving up the middle to MIA 7 for 12 yards (A.Davis; J.Marshall)."
+  },
+  {
+    "wallclock": "2025-12-28T19:53:40Z",
+    "period": 3,
+    "clock": "5:54",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Irving left tackle to MIA 9 for -2 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T19:54:21Z",
+    "period": 3,
+    "clock": "5:13",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short right to R.White pushed ob at MIA 8 for 1 yard (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-12-28T19:55:06Z",
+    "period": 3,
+    "clock": "4:32",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield to MIA 15 for -7 yards. FUMBLES, and recovers at MIA 16. B.Mayfield sacked ob at MIA 15 for -7 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-12-28T19:55:55Z",
+    "period": 3,
+    "clock": "3:49",
+    "play_type": "Field Goal Good",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.McLaughlin 33 yard field goal is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-12-28T19:56:45Z",
+    "period": 3,
+    "clock": "3:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:49."
+  },
+  {
+    "wallclock": "2025-12-28T19:59:10Z",
+    "period": 3,
+    "clock": "3:49",
+    "play_type": "Kickoff",
+    "yards": 47,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Braswell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 57 yards from TB 35 to MIA 8. M.Washington to TB 45 for 47 yards (C.Braswell)."
+  },
+  {
+    "wallclock": "2025-12-28T20:00:09Z",
+    "period": 3,
+    "clock": "3:40",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  D.Achane left end to 50 for -5 yards (S.Dennis, Y.Diaby)."
+  },
+  {
+    "wallclock": "2025-12-28T20:00:50Z",
+    "period": 3,
+    "clock": "2:58",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " D.Achane left end ran ob at TB 32 for 18 yards (J.Parrish; L.David)."
+  },
+  {
+    "wallclock": "2025-12-28T20:01:34Z",
+    "period": 3,
+    "clock": "2:17",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Morrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right tackle to TB 25 for 7 yards (B.Morrison)."
+  },
+  {
+    "wallclock": "2025-12-28T20:02:16Z",
+    "period": 3,
+    "clock": "1:36",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " D.Achane left tackle to TB 20 for 5 yards (J.Parrish)."
+  },
+  {
+    "wallclock": "2025-12-28T20:03:02Z",
+    "period": 3,
+    "clock": "0:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dulcich",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pierre-Paul",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Q.Ewers pass incomplete short right to G.Dulcich (J.Pierre-Paul). ** Injury Update: MIA-J.Waddle has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-28T20:03:43Z",
+    "period": 3,
+    "clock": "0:46",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on MIA-J.Hill, False Start, 5 yards, enforced at TB 20 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T20:04:26Z",
+    "period": 3,
+    "clock": "0:46",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright left tackle to TB 17 for 8 yards (J.Parrish; D.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T20:04:26Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-28T20:08:09Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass short right to M.Washington to TB 13 for 4 yards (J.Parrish)."
+  },
+  {
+    "wallclock": "2025-12-28T20:08:51Z",
+    "period": 4,
+    "clock": "14:15",
+    "play_type": "Field Goal Good",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Patterson 31 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-12-28T20:09:18Z",
+    "period": 4,
+    "clock": "14:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:15."
+  },
+  {
+    "wallclock": "2025-12-28T20:11:51Z",
+    "period": 4,
+    "clock": "14:15",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 65 yards from MIA 35 to end zone, Touchback to the TB 35."
+  },
+  {
+    "wallclock": "2025-12-28T20:12:36Z",
+    "period": 4,
+    "clock": "14:15",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep left to M.Evans.PENALTY on TB-M.Evans, Offensive Pass Interference, 10 yards, enforced at TB 35 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T20:13:31Z",
+    "period": 4,
+    "clock": "14:10",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Grant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to E.Egbuka to TB 31 for 6 yards (K.Grant; K.Britt)."
+  },
+  {
+    "wallclock": "2025-12-28T20:14:14Z",
+    "period": 4,
+    "clock": "13:29",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to C.Godwin to TB 38 for 7 yards (J.Marshall). MIA-K.Britt was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-28T20:15:46Z",
+    "period": 4,
+    "clock": "12:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep middle to M.Evans (J.Marshall)."
+  },
+  {
+    "wallclock": "2025-12-28T20:16:28Z",
+    "period": 4,
+    "clock": "12:47",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hayes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dixon punts 58 yards to MIA 4, Center-E.Deckers, downed by TB-J.Hayes."
+  },
+  {
+    "wallclock": "2025-12-28T20:17:06Z",
+    "period": 4,
+    "clock": "12:37",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:37."
+  },
+  {
+    "wallclock": "2025-12-28T20:19:36Z",
+    "period": 4,
+    "clock": "12:37",
+    "play_type": "Penalty",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Paul",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) D.Brunskill reported in as eligible.  PENALTY on MIA-P.Paul, False Start, 2 yards, enforced at MIA 4 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T20:20:15Z",
+    "period": 4,
+    "clock": "12:37",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Savaiinaea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) D.Brunskill reported in as eligible.  D.Achane left guard to MIA 2 for no gain (S.Dennis).\nPenalty on MIA-J.Savaiinaea, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-12-28T20:21:13Z",
+    "period": 4,
+    "clock": "12:12",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Waller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass short right to D.Waller to MIA 2 for no gain (C.Izien)."
+  },
+  {
+    "wallclock": "2025-12-28T20:21:52Z",
+    "period": 4,
+    "clock": "11:33",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Q.Ewers pass short left to J.Hill to MIA 18 for 16 yards (A.Winfield)."
+  },
+  {
+    "wallclock": "2025-12-28T20:22:36Z",
+    "period": 4,
+    "clock": "10:49",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " D.Achane left end to MIA 19 for 1 yard (S.Dennis; Y.Diaby)."
+  },
+  {
+    "wallclock": "2025-12-28T20:23:18Z",
+    "period": 4,
+    "clock": "10:06",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright left end to MIA 19 for no gain (Y.Diaby; J.Parrish)."
+  },
+  {
+    "wallclock": "2025-12-28T20:24:02Z",
+    "period": 4,
+    "clock": "9:23",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Izien",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass short left to C.Wilson to MIA 27 for 8 yards (Y.Diaby; C.Izien)."
+  },
+  {
+    "wallclock": "2025-12-28T20:24:42Z",
+    "period": 4,
+    "clock": "8:45",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 51 yards to TB 22, Center-J.Cardona, fair catch by K.Johnson."
+  },
+  {
+    "wallclock": "2025-12-28T20:25:14Z",
+    "period": 4,
+    "clock": "8:37",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:37."
+  },
+  {
+    "wallclock": "2025-12-28T20:27:48Z",
+    "period": 4,
+    "clock": "8:37",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Mayfield pass short left to E.Egbuka to TB 29 for 7 yards (J.Jones; B.Chubb)."
+  },
+  {
+    "wallclock": "2025-12-28T20:28:09Z",
+    "period": 4,
+    "clock": "8:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Biggers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass incomplete short left to B.Irving (A.Davis) [Z.Biggers]."
+  },
+  {
+    "wallclock": "2025-12-28T20:28:53Z",
+    "period": 4,
+    "clock": "8:09",
+    "play_type": "Pass Reception",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to J.McMillan ran ob at MIA 43 for 28 yards (J.Jones; A.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T20:29:25Z",
+    "period": 4,
+    "clock": "7:40",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) B.Mayfield pass short left to M.Evans to MIA 32 for 11 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T20:30:01Z",
+    "period": 4,
+    "clock": "7:05",
+    "play_type": "Pass Interception Return",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass deep left intended for E.Egbuka INTERCEPTED by A.Davis at MIA 5. A.Davis to MIA 26 for 21 yards (C.Otton)."
+  },
+  {
+    "wallclock": "2025-12-28T20:30:51Z",
+    "period": 4,
+    "clock": "6:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:56."
+  },
+  {
+    "wallclock": "2025-12-28T20:33:20Z",
+    "period": 4,
+    "clock": "6:56",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Braswell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane right tackle to MIA 25 for -1 yards (C.Braswell)."
+  },
+  {
+    "wallclock": "2025-12-28T20:34:02Z",
+    "period": 4,
+    "clock": "6:14",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Braswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Gaines",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right guard to MIA 25 for no gain (C.Braswell; G.Gaines)."
+  },
+  {
+    "wallclock": "2025-12-28T20:34:44Z",
+    "period": 4,
+    "clock": "5:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Morrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers pass incomplete short right to J.Waddle (B.Morrison)."
+  },
+  {
+    "wallclock": "2025-12-28T20:35:21Z",
+    "period": 4,
+    "clock": "5:28",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Bailey punts 43 yards to TB 32, Center-J.Cardona, out of bounds."
+  },
+  {
+    "wallclock": "2025-12-28T20:36:33Z",
+    "period": 4,
+    "clock": "5:20",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to C.Godwin to TB 42 for 10 yards (W.Gay; R.Douglas)."
+  },
+  {
+    "wallclock": "2025-12-28T20:36:52Z",
+    "period": 4,
+    "clock": "5:02",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass short middle to C.Godwin to TB 49 for 7 yards (I.Melifonwu; W.Gay)."
+  },
+  {
+    "wallclock": "2025-12-28T20:37:10Z",
+    "period": 4,
+    "clock": "4:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass incomplete deep right to E.Egbuka (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T20:37:51Z",
+    "period": 4,
+    "clock": "4:39",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to B.Irving pushed ob at MIA 49 for 2 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-28T20:38:20Z",
+    "period": 4,
+    "clock": "4:31",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass short left to C.Godwin pushed ob at MIA 38 for 11 yards (W.Gay)."
+  },
+  {
+    "wallclock": "2025-12-28T20:39:03Z",
+    "period": 4,
+    "clock": "4:26",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to J.McMillan to MIA 31 for 7 yards (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-12-28T20:39:25Z",
+    "period": 4,
+    "clock": "4:04",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Bell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield sacked at MIA 40 for -9 yards (B.Chubb). FUMBLES (B.Chubb) [B.Chubb], touched at MIA 40, RECOVERED by MIA-Q.Bell at MIA 41."
+  },
+  {
+    "wallclock": "2025-12-28T20:40:59Z",
+    "period": 4,
+    "clock": "3:55",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right end to MIA 47 for 6 yards (L.Hall)."
+  },
+  {
+    "wallclock": "2025-12-28T20:41:45Z",
+    "period": 4,
+    "clock": "3:08",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left guard to MIA 48 for 1 yard (V.Vea)."
+  },
+  {
+    "wallclock": "2025-12-28T20:42:11Z",
+    "period": 4,
+    "clock": "3:04",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TB at 03:04."
+  },
+  {
+    "wallclock": "2025-12-28T20:42:52Z",
+    "period": 4,
+    "clock": "3:04",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIA at 03:04."
+  },
+  {
+    "wallclock": "2025-12-28T20:43:32Z",
+    "period": 4,
+    "clock": "3:04",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Braswell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Q.Ewers scrambles up the middle to TB 45 for 7 yards (C.Braswell)."
+  },
+  {
+    "wallclock": "2025-12-28T20:44:11Z",
+    "period": 4,
+    "clock": "2:58",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TB at 02:58."
+  },
+  {
+    "wallclock": "2025-12-28T20:44:32Z",
+    "period": 4,
+    "clock": "2:58",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " D.Brunskill reported in as eligible.  D.Achane left tackle to TB 42 for 3 yards (V.Vea; A.Winfield)."
+  },
+  {
+    "wallclock": "2025-12-28T20:44:53Z",
+    "period": 4,
+    "clock": "2:54",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by TB at 02:54."
+  },
+  {
+    "wallclock": "2025-12-28T20:45:30Z",
+    "period": 4,
+    "clock": "2:54",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Morrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane right end to TB 40 for 2 yards (B.Morrison; V.Vea)."
+  },
+  {
+    "wallclock": "2025-12-28T20:46:15Z",
+    "period": 4,
+    "clock": "2:07",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " M.Washington right end to TB 39 for 1 yard (S.Dennis; A.Winfield)."
+  },
+  {
+    "wallclock": "2025-12-28T20:46:45Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-28T20:49:23Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 30 yards to TB 9, Center-J.Cardona, downed by MIA-A.Davis. ** Injury Update: MIA-K.Britt has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-28T20:50:19Z",
+    "period": 4,
+    "clock": "1:50",
+    "play_type": "Pass Reception",
+    "yards": 59,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Godwin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to C.Godwin to MIA 32 for 59 yards (W.Gay)."
+  },
+  {
+    "wallclock": "2025-12-28T20:50:50Z",
+    "period": 4,
+    "clock": "1:19",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass short right to C.Otton to MIA 19 for 13 yards (J.Marshall)."
+  },
+  {
+    "wallclock": "2025-12-28T20:51:10Z",
+    "period": 4,
+    "clock": "0:59",
+    "play_type": "Penalty",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass incomplete deep right to M.Evans.PENALTY on MIA-R.Douglas, Defensive Pass Interference, 15 yards, enforced at MIA 19 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T20:52:04Z",
+    "period": 4,
+    "clock": "0:50",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Mayfield pass short left to M.Evans for 4 yards, TOUCHDOWN. C.McLaughlin extra point is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-12-28T20:54:15Z",
+    "period": 4,
+    "clock": "0:50",
+    "play_type": "Kickoff",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks onside 12 yards from TB 35 to TB 47. D.Achane (didn't try to advance) to TB 47 for no gain."
+  },
+  {
+    "wallclock": "2025-12-28T20:54:59Z",
+    "period": 4,
+    "clock": "0:49",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Q.Ewers kneels to TB 48 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-28T20:55:20Z",
+    "period": 4,
+    "clock": "0:29",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Q.Ewers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Q.Ewers kneels to TB 49 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-28T20:55:20Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

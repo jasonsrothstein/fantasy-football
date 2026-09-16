@@ -1,0 +1,4661 @@
+[
+  {
+    "wallclock": "2025-09-28T17:02:44Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McAtamney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McAtamney kicks 65 yards from NYG 35 to end zone, Touchback to the LAC 35."
+  },
+  {
+    "wallclock": "2025-09-28T17:03:28Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pipkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on LAC-T.Pipkins, False Start, 5 yards, enforced at LAC 35 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T17:04:10Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short middle to K.Allen to LAC 39 for 9 yards (D.Muasau; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-28T17:04:43Z",
+    "period": 1,
+    "clock": "14:28",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Hampton left tackle to LAC 38 for -1 yards (D.Lawrence)."
+  },
+  {
+    "wallclock": "2025-09-28T17:05:22Z",
+    "period": 1,
+    "clock": "13:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short right to L.McConkey."
+  },
+  {
+    "wallclock": "2025-09-28T17:06:04Z",
+    "period": 1,
+    "clock": "13:44",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lovato",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 51 yards to NYG 11, Center-R.Lovato, fair catch by G.Olszewski."
+  },
+  {
+    "wallclock": "2025-09-28T17:06:52Z",
+    "period": 1,
+    "clock": "13:37",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dupree",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo left tackle to NYG 16 for 5 yards (B.Dupree)."
+  },
+  {
+    "wallclock": "2025-09-28T17:07:17Z",
+    "period": 1,
+    "clock": "13:12",
+    "play_type": "Penalty",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Still",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass incomplete deep left to M.Nabers.PENALTY on LAC-T.Still, Defensive Pass Interference, 14 yards, enforced at NYG 16 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T17:07:58Z",
+    "period": 1,
+    "clock": "13:07",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo left tackle to NYG 32 for 2 yards (D.Hand)."
+  },
+  {
+    "wallclock": "2025-09-28T17:08:23Z",
+    "period": 1,
+    "clock": "12:42",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass short left to M.Nabers to NYG 39 for 7 yards (C.Hart)."
+  },
+  {
+    "wallclock": "2025-09-28T17:08:50Z",
+    "period": 1,
+    "clock": "12:14",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Caldwell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Skattebo up the middle to NYG 43 for 4 yards (J.Caldwell)."
+  },
+  {
+    "wallclock": "2025-09-28T17:09:14Z",
+    "period": 1,
+    "clock": "11:51",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gilman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Skattebo up the middle to LAC 41 for 16 yards (A.Gilman; E.Molden)."
+  },
+  {
+    "wallclock": "2025-09-28T17:09:55Z",
+    "period": 1,
+    "clock": "11:10",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart right tackle to LAC 32 for 9 yards (E.Molden)."
+  },
+  {
+    "wallclock": "2025-09-28T17:10:24Z",
+    "period": 1,
+    "clock": "10:41",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart left guard to LAC 28 for 4 yards (C.Murphy)."
+  },
+  {
+    "wallclock": "2025-09-28T17:11:00Z",
+    "period": 1,
+    "clock": "10:05",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass short middle to M.Nabers to LAC 15 for 13 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-09-28T17:11:40Z",
+    "period": 1,
+    "clock": "9:20",
+    "play_type": "Rushing Touchdown",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McAtamney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Dart up the middle for 15 yards, TOUCHDOWN. J.McAtamney extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan."
+  },
+  {
+    "wallclock": "2025-09-28T17:12:55Z",
+    "period": 1,
+    "clock": "9:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:20."
+  },
+  {
+    "wallclock": "2025-09-28T17:15:34Z",
+    "period": 1,
+    "clock": "9:20",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McAtamney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Green",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McAtamney kicks 64 yards from NYG 35 to LAC 1. K.Vidal to LAC 26 for 25 yards (D.Belton; A.Green)."
+  },
+  {
+    "wallclock": "2025-09-28T17:16:17Z",
+    "period": 1,
+    "clock": "9:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short right to O.Gadsden [B.Burns]."
+  },
+  {
+    "wallclock": "2025-09-28T17:16:58Z",
+    "period": 1,
+    "clock": "9:10",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to Q.Johnston to LAC 30 for 4 yards (T.Nubin)."
+  },
+  {
+    "wallclock": "2025-09-28T17:17:41Z",
+    "period": 1,
+    "clock": "8:29",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete deep left to Q.Johnston (D.Lawrence).PENALTY on NYG-J.Holland, Illegal Contact, 5 yards, enforced at LAC 30 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T17:19:01Z",
+    "period": 1,
+    "clock": "8:23",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "O.Hampton right guard to LAC 40 for 5 yards (D.Muasau).PENALTY on LAC-Z.Johnson, Offensive Holding, 10 yards, enforced at LAC 35 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T17:19:59Z",
+    "period": 1,
+    "clock": "8:02",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to O.Hampton to LAC 27 for 2 yards (T.Nubin)."
+  },
+  {
+    "wallclock": "2025-09-28T17:20:42Z",
+    "period": 1,
+    "clock": "7:23",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert sacked at LAC 26 for -1 yards (K.Thibodeaux)."
+  },
+  {
+    "wallclock": "2025-09-28T17:21:24Z",
+    "period": 1,
+    "clock": "6:41",
+    "play_type": "Rush",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Alt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert scrambles left tackle pushed ob at 50 for 24 yards (J.Holland). LAC-J.Alt was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-28T17:22:33Z",
+    "period": 1,
+    "clock": "6:13",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass incomplete short right to K.Allen [A.Carter]."
+  },
+  {
+    "wallclock": "2025-09-28T17:23:15Z",
+    "period": 1,
+    "clock": "6:08",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Conklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to T.Conklin to NYG 43 for 7 yards (T.Nubin).PENALTY on NYG-B.Okereke, Defensive Offside, 5 yards, enforced at 50 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T17:24:05Z",
+    "period": 1,
+    "clock": "5:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short right to Q.Johnston."
+  },
+  {
+    "wallclock": "2025-09-28T17:24:45Z",
+    "period": 1,
+    "clock": "5:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete deep right to L.McConkey (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-28T17:25:30Z",
+    "period": 1,
+    "clock": "5:47",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lovato",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.St-Juste",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 44 yards to NYG 1, Center-R.Lovato, downed by LAC-B.St-Juste."
+  },
+  {
+    "wallclock": "2025-09-28T17:26:02Z",
+    "period": 1,
+    "clock": "5:32",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:32."
+  },
+  {
+    "wallclock": "2025-09-28T17:28:50Z",
+    "period": 1,
+    "clock": "5:32",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Singletary up the middle to NYG 2 for 1 yard (T.Dye; D.Jackson)."
+  },
+  {
+    "wallclock": "2025-09-28T17:29:26Z",
+    "period": 1,
+    "clock": "4:56",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Singletary left tackle to NYG 5 for 3 yards (D.James)."
+  },
+  {
+    "wallclock": "2025-09-28T17:30:11Z",
+    "period": 1,
+    "clock": "4:10",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.St-Juste",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass deep right to D.Slayton to NYG 23 for 18 yards (B.St-Juste)."
+  },
+  {
+    "wallclock": "2025-09-28T17:30:52Z",
+    "period": 1,
+    "clock": "3:31",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Still",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short left to W.Robinson to NYG 23 for no gain (T.Still)."
+  },
+  {
+    "wallclock": "2025-09-28T17:31:30Z",
+    "period": 1,
+    "clock": "2:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.St-Juste",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete deep right to D.Slayton (B.St-Juste)."
+  },
+  {
+    "wallclock": "2025-09-28T17:32:15Z",
+    "period": 1,
+    "clock": "2:46",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart sacked at NYG 20 for -3 yards (T.Tuipulotu)."
+  },
+  {
+    "wallclock": "2025-09-28T17:32:53Z",
+    "period": 1,
+    "clock": "2:07",
+    "play_type": "Punt",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Still",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 58 yards to LAC 22, Center-C.Kreiter. T.Still to LAC 33 for 11 yards (D.Belton)."
+  },
+  {
+    "wallclock": "2025-09-28T17:33:43Z",
+    "period": 1,
+    "clock": "1:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:56."
+  },
+  {
+    "wallclock": "2025-09-28T17:35:58Z",
+    "period": 1,
+    "clock": "1:56",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass short right to Q.Johnston pushed ob at LAC 41 for 8 yards (P.Adebo)."
+  },
+  {
+    "wallclock": "2025-09-28T17:36:35Z",
+    "period": 1,
+    "clock": "1:24",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Hampton up the middle to LAC 45 for 4 yards (K.Thibodeaux)."
+  },
+  {
+    "wallclock": "2025-09-28T17:37:09Z",
+    "period": 1,
+    "clock": "0:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-09-28T17:37:51Z",
+    "period": 1,
+    "clock": "0:43",
+    "play_type": "Pass Interception Return",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right intended for T.Harris INTERCEPTED by D.Lawrence at LAC 40. D.Lawrence to LAC 3 for 37 yards (J.Herbert)."
+  },
+  {
+    "wallclock": "2025-09-28T17:39:10Z",
+    "period": 1,
+    "clock": "0:33",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NYG-G.Van Roten, False Start, 5 yards, enforced at LAC 3 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T17:39:55Z",
+    "period": 1,
+    "clock": "0:33",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart right tackle to LAC 7 for 1 yard (D.Henley)."
+  },
+  {
+    "wallclock": "2025-09-28T17:39:55Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-28T17:43:29Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo left tackle to LAC 3 for 4 yards (C.Hart)."
+  },
+  {
+    "wallclock": "2025-09-28T17:43:57Z",
+    "period": 2,
+    "clock": "14:33",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Skattebo right tackle to LAC 4 for -1 yards (D.Hand, D.James)."
+  },
+  {
+    "wallclock": "2025-09-28T17:44:38Z",
+    "period": 2,
+    "clock": "13:47",
+    "play_type": "Field Goal Good",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McAtamney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.McAtamney 22 yard field goal is GOOD, Center-C.Kreiter, Holder-J.Gillan."
+  },
+  {
+    "wallclock": "2025-09-28T17:45:25Z",
+    "period": 2,
+    "clock": "13:47",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:47."
+  },
+  {
+    "wallclock": "2025-09-28T17:47:32Z",
+    "period": 2,
+    "clock": "13:47",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McAtamney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McAtamney kicks 65 yards from NYG 35 to end zone, Touchback to the LAC 35."
+  },
+  {
+    "wallclock": "2025-09-28T17:48:18Z",
+    "period": 2,
+    "clock": "13:47",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Hampton right tackle to LAC 41 for 6 yards (T.Nubin; J.Holland)."
+  },
+  {
+    "wallclock": "2025-09-28T17:48:56Z",
+    "period": 2,
+    "clock": "13:09",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Hampton left tackle pushed ob at LAC 46 for 5 yards (D.Banks)."
+  },
+  {
+    "wallclock": "2025-09-28T17:49:33Z",
+    "period": 2,
+    "clock": "12:37",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to O.Hampton to NYG 42 for 12 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-28T17:50:11Z",
+    "period": 2,
+    "clock": "11:58",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to L.McConkey to NYG 31 for 11 yards (P.Adebo; D.Muasau)."
+  },
+  {
+    "wallclock": "2025-09-28T17:50:59Z",
+    "period": 2,
+    "clock": "11:12",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short middle to O.Gadsden to NYG 26 for 5 yards (T.Nubin)."
+  },
+  {
+    "wallclock": "2025-09-28T17:51:36Z",
+    "period": 2,
+    "clock": "10:34",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to K.Allen pushed ob at NYG 20 for 6 yards (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-28T17:52:12Z",
+    "period": 2,
+    "clock": "10:00",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "O.Hampton left end pushed ob at NYG 14 for 6 yards (J.Holland).PENALTY on LAC-L.McConkey, Illegal Block Above the Waist, 10 yards, enforced at NYG 20 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T17:53:24Z",
+    "period": 2,
+    "clock": "9:33",
+    "play_type": "Pass Reception",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to O.Hampton to NYG 34 for -4 yards (D.Muasau, B.Burns)."
+  },
+  {
+    "wallclock": "2025-09-28T17:54:07Z",
+    "period": 2,
+    "clock": "8:50",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to O.Hampton pushed ob at NYG 15 for 19 yards (D.Belton)."
+  },
+  {
+    "wallclock": "2025-09-28T17:54:50Z",
+    "period": 2,
+    "clock": "8:14",
+    "play_type": "Pass Incompletion",
+    "yards": -20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short middle [A.Carter].PENALTY on LAC-J.Herbert, Intentional Grounding, 10 yards, enforced at NYG 15."
+  },
+  {
+    "wallclock": "2025-09-28T17:56:15Z",
+    "period": 2,
+    "clock": "8:06",
+    "play_type": "Field Goal Good",
+    "yards": 43,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lovato",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Deculus",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Dicker 43 yard field goal is GOOD, Center-R.Lovato, Holder-J.Scott.PENALTY on LAC-A.Deculus, Unnecessary Roughness, 15 yards, enforced between downs."
+  },
+  {
+    "wallclock": "2025-09-28T17:57:21Z",
+    "period": 2,
+    "clock": "8:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:06."
+  },
+  {
+    "wallclock": "2025-09-28T18:00:03Z",
+    "period": 2,
+    "clock": "8:06",
+    "play_type": "Kickoff",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wax",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 73 yards from LAC 20 to NYG 7. D.Banks to NYG 40 for 33 yards (M.Wax)."
+  },
+  {
+    "wallclock": "2025-09-28T18:00:48Z",
+    "period": 2,
+    "clock": "7:59",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo left tackle to NYG 45 for 5 yards (E.Molden; T.Dye)."
+  },
+  {
+    "wallclock": "2025-09-28T18:01:19Z",
+    "period": 2,
+    "clock": "7:29",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart sacked at NYG 37 for -8 yards (T.Tuipulotu)."
+  },
+  {
+    "wallclock": "2025-09-28T18:02:00Z",
+    "period": 2,
+    "clock": "6:48",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bellinger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bellinger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short middle to D.Bellinger to NYG 49 for 12 yards (T.Dye; E.Molden).New York Giants challenged the short of the line to gain ruling, and the play was REVERSED.(Shotgun) J.Dart pass short middle to D.Bellinger to 50 for 13 yards (T.Dye; E.Molden)."
+  },
+  {
+    "wallclock": "2025-09-28T18:06:19Z",
+    "period": 2,
+    "clock": "6:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete deep right to T.Johnson [T.Tuipulotu]."
+  },
+  {
+    "wallclock": "2025-09-28T18:06:55Z",
+    "period": 2,
+    "clock": "6:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short right to M.Nabers to LAC 43 for 7 yards (T.Jefferson).Los Angeles Chargers challenged the pass completion ruling, and the play was REVERSED.(Shotgun) J.Dart pass incomplete short right to M.Nabers."
+  },
+  {
+    "wallclock": "2025-09-28T18:08:45Z",
+    "period": 2,
+    "clock": "6:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:18."
+  },
+  {
+    "wallclock": "2025-09-28T18:10:36Z",
+    "period": 2,
+    "clock": "6:18",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete deep right to M.Nabers. NYG-M.Nabers was injured during the play. PENALTY on LAC-T.Dye, Defensive Offside, 5 yards, enforced at 50 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T18:11:37Z",
+    "period": 2,
+    "clock": "6:12",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:12."
+  },
+  {
+    "wallclock": "2025-09-28T18:14:36Z",
+    "period": 2,
+    "clock": "6:12",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NYG, Delay of Game, 5 yards, enforced at LAC 45 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T18:15:18Z",
+    "period": 2,
+    "clock": "6:12",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart scrambles up the middle to LAC 39 for 11 yards (D.James)."
+  },
+  {
+    "wallclock": "2025-09-28T18:15:52Z",
+    "period": 2,
+    "clock": "5:38",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short right to C.Skattebo to LAC 35 for 4 yards (T.Dye)."
+  },
+  {
+    "wallclock": "2025-09-28T18:16:21Z",
+    "period": 2,
+    "clock": "5:10",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass short left to T.Johnson to LAC 31 for 4 yards (D.James)."
+  },
+  {
+    "wallclock": "2025-09-28T18:16:49Z",
+    "period": 2,
+    "clock": "4:42",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Eboigbe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart left guard to LAC 27 for 4 yards (J.Eboigbe)."
+  },
+  {
+    "wallclock": "2025-09-28T18:17:17Z",
+    "period": 2,
+    "clock": "4:14",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Caldwell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Skattebo up the middle to LAC 25 for 2 yards (T.Dye; J.Caldwell)."
+  },
+  {
+    "wallclock": "2025-09-28T18:17:46Z",
+    "period": 2,
+    "clock": "3:45",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Singletary left tackle to LAC 24 for 1 yard (E.Molden; C.Hart)."
+  },
+  {
+    "wallclock": "2025-09-28T18:18:27Z",
+    "period": 2,
+    "clock": "3:03",
+    "play_type": "Penalty",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass incomplete deep middle to D.Slayton.PENALTY on LAC-D.Jackson, Defensive Pass Interference, 12 yards, enforced at LAC 24 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T18:19:38Z",
+    "period": 2,
+    "clock": "2:58",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo right guard to LAC 10 for 2 yards (T.Tuipulotu)."
+  },
+  {
+    "wallclock": "2025-09-28T18:20:10Z",
+    "period": 2,
+    "clock": "2:26",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart sacked at LAC 13 for -3 yards (T.Tuipulotu)."
+  },
+  {
+    "wallclock": "2025-09-28T18:20:39Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-28T18:23:38Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-09-28T18:24:18Z",
+    "period": 2,
+    "clock": "1:52",
+    "play_type": "Field Goal Good",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McAtamney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.McAtamney 31 yard field goal is GOOD, Center-C.Kreiter, Holder-J.Gillan."
+  },
+  {
+    "wallclock": "2025-09-28T18:25:42Z",
+    "period": 2,
+    "clock": "1:52",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McAtamney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Lambert-Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Fox",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McAtamney kicks 63 yards from NYG 35 to LAC 2. K.Lambert-Smith to LAC 25 for 23 yards (T.Fox)."
+  },
+  {
+    "wallclock": "2025-09-28T18:26:26Z",
+    "period": 2,
+    "clock": "1:46",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short middle to Q.Johnston to LAC 36 for 11 yards (C.Flott)."
+  },
+  {
+    "wallclock": "2025-09-28T18:26:45Z",
+    "period": 2,
+    "clock": "1:28",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Herbert pass short left to Q.Johnston to LAC 41 for 5 yards (C.Flott)."
+  },
+  {
+    "wallclock": "2025-09-28T18:27:10Z",
+    "period": 2,
+    "clock": "1:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Herbert pass incomplete short right to L.McConkey [K.Thibodeaux]."
+  },
+  {
+    "wallclock": "2025-09-28T18:28:13Z",
+    "period": 2,
+    "clock": "0:59",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to K.Allen pushed ob at NYG 49 for 10 yards (C.Flott) [A.Carter]."
+  },
+  {
+    "wallclock": "2025-09-28T18:28:56Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to K.Allen to NYG 45 for 4 yards (B.Burns)."
+  },
+  {
+    "wallclock": "2025-09-28T18:29:16Z",
+    "period": 2,
+    "clock": "0:48",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LAC at 00:48."
+  },
+  {
+    "wallclock": "2025-09-28T18:30:00Z",
+    "period": 2,
+    "clock": "0:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short middle to L.McConkey (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-28T18:30:37Z",
+    "period": 2,
+    "clock": "0:45",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to Q.Johnston to NYG 41 for 4 yards (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-28T18:31:07Z",
+    "period": 2,
+    "clock": "0:38",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NYG at 00:38."
+  },
+  {
+    "wallclock": "2025-09-28T18:31:56Z",
+    "period": 2,
+    "clock": "0:38",
+    "play_type": "Penalty",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Bozeman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Bozeman to NYG 45 for -4 yards. FUMBLES, recovered by LAC-J.Herbert at NYG 45. J.Herbert pass intended for K.Allen INTERCEPTED by D.Banks at NYG 18. D.Banks to NYG 18 for no gain (K.Allen).PENALTY on NYG-A.Carter, Defensive Offside, 5 yards, enforced at NYG 41 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T18:32:52Z",
+    "period": 2,
+    "clock": "0:34",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NYG at 00:34."
+  },
+  {
+    "wallclock": "2025-09-28T18:33:47Z",
+    "period": 2,
+    "clock": "0:27",
+    "play_type": "Passing Touchdown",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lovato",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Herbert pass deep left to Q.Johnston for 36 yards, TOUCHDOWN. C.Dicker extra point is GOOD, Center-R.Lovato, Holder-J.Scott."
+  },
+  {
+    "wallclock": "2025-09-28T18:35:41Z",
+    "period": 2,
+    "clock": "0:27",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Haskins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 58 yards from LAC 35 to NYG 7. D.Singletary to NYG 29 for 22 yards (H.Haskins; T.Dye)."
+  },
+  {
+    "wallclock": "2025-09-28T18:36:25Z",
+    "period": 2,
+    "clock": "0:20",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo up the middle to NYG 36 for 7 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-09-28T18:36:25Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-28T18:51:07Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wax",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 61 yards from LAC 35 to NYG 4. D.Banks to NYG 25 for 21 yards (D.Phillips; M.Wax)."
+  },
+  {
+    "wallclock": "2025-09-28T18:51:07Z",
+    "period": 3,
+    "clock": "14:56",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo up the middle to NYG 29 for 4 yards (T.Dye; D.Hand). ** Injury Update: NYG-J.Dart has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-28T18:52:14Z",
+    "period": 3,
+    "clock": "14:25",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gilman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo up the middle to NYG 36 for 7 yards (A.Gilman)."
+  },
+  {
+    "wallclock": "2025-09-28T18:52:36Z",
+    "period": 3,
+    "clock": "14:03",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Skattebo left guard to NYG 42 for 6 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-09-28T18:53:04Z",
+    "period": 3,
+    "clock": "13:35",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Skattebo left guard to NYG 42 for no gain (T.Dye)."
+  },
+  {
+    "wallclock": "2025-09-28T18:53:38Z",
+    "period": 3,
+    "clock": "13:01",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gilman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart scrambles left tackle to LAC 48 for 10 yards (A.Gilman)."
+  },
+  {
+    "wallclock": "2025-09-28T18:54:14Z",
+    "period": 3,
+    "clock": "12:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass incomplete short middle to T.Johnson [T.Dye]."
+  },
+  {
+    "wallclock": "2025-09-28T18:54:51Z",
+    "period": 3,
+    "clock": "12:22",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Schmitz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart scrambles right tackle to LAC 9 for 39 yards (C.Hart). NYG-J.Dart was injured during the play. PENALTY on NYG-J.Schmitz, Offensive Holding, 10 yards, enforced at LAC 48 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T18:57:03Z",
+    "period": 3,
+    "clock": "11:52",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson sacked at NYG 36 for -6 yards (T.Tuipulotu). FUMBLES (T.Tuipulotu) [T.Tuipulotu], and recovers at NYG 37.Penalty on NYG, Illegal Formation, declined."
+  },
+  {
+    "wallclock": "2025-09-28T18:57:56Z",
+    "period": 3,
+    "clock": "11:33",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jefferson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wilson pass short right to W.Robinson to NYG 45 for 8 yards (T.Jefferson)."
+  },
+  {
+    "wallclock": "2025-09-28T18:58:27Z",
+    "period": 3,
+    "clock": "11:00",
+    "play_type": "Punt",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Still",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Manhertz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Hewitt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 46 yards to LAC 9, Center-C.Kreiter. T.Still to LAC 15 for 6 yards (C.Manhertz; N.Hewitt).PENALTY on LAC-C.Hart, Offensive Holding, 4 yards, enforced at LAC 9."
+  },
+  {
+    "wallclock": "2025-09-28T19:00:19Z",
+    "period": 3,
+    "clock": "10:50",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:50."
+  },
+  {
+    "wallclock": "2025-09-28T19:01:54Z",
+    "period": 3,
+    "clock": "10:50",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass short right to Q.Johnston pushed ob at LAC 13 for 8 yards (P.Adebo). ** Injury Update: NYG-J.Holland has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-28T19:02:30Z",
+    "period": 3,
+    "clock": "10:16",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Hampton left guard to LAC 14 for 1 yard (D.Muasau)."
+  },
+  {
+    "wallclock": "2025-09-28T19:02:53Z",
+    "period": 3,
+    "clock": "9:53",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) O.Hampton right tackle to LAC 32 for 18 yards (D.Muasau; J.Holland)."
+  },
+  {
+    "wallclock": "2025-09-28T19:03:40Z",
+    "period": 3,
+    "clock": "9:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short right to Q.Johnston."
+  },
+  {
+    "wallclock": "2025-09-28T19:04:15Z",
+    "period": 3,
+    "clock": "9:03",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Conklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to T.Conklin to LAC 35 for 3 yards (A.Carter)."
+  },
+  {
+    "wallclock": "2025-09-28T19:04:58Z",
+    "period": 3,
+    "clock": "8:18",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on LAC-Z.Johnson, False Start, 5 yards, enforced at LAC 35 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T19:05:42Z",
+    "period": 3,
+    "clock": "7:58",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on LAC-O.Gadsden, False Start, 5 yards, enforced at LAC 30 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T19:06:17Z",
+    "period": 3,
+    "clock": "7:46",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to O.Hampton to LAC 33 for 8 yards (D.Banks)."
+  },
+  {
+    "wallclock": "2025-09-28T19:06:59Z",
+    "period": 3,
+    "clock": "7:05",
+    "play_type": "Punt",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lovato",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Bozeman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 60 yards to NYG 7, Center-R.Lovato. G.Olszewski to NYG 22 for 15 yards (T.Tuipulotu).PENALTY on NYG-N.Jones, Offensive Holding, 3 yards, enforced at NYG 7.Penalty on NYG-S.Bozeman, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-28T19:08:48Z",
+    "period": 3,
+    "clock": "6:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:51."
+  },
+  {
+    "wallclock": "2025-09-28T19:10:56Z",
+    "period": 3,
+    "clock": "6:51",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Skattebo right guard to NYG 5 for 1 yard (D.Hand). ** Injury Update: NYG-J.Dart has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-28T19:11:35Z",
+    "period": 3,
+    "clock": "6:12",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dart FUMBLES (Aborted) at NYG 5, recovered by NYG-A.Thomas at NYG 1."
+  },
+  {
+    "wallclock": "2025-09-28T19:12:19Z",
+    "period": 3,
+    "clock": "5:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete short right to W.Robinson."
+  },
+  {
+    "wallclock": "2025-09-28T19:12:55Z",
+    "period": 3,
+    "clock": "5:24",
+    "play_type": "Punt",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Still",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 69 yards to LAC 30, Center-C.Kreiter. T.Still to LAC 41 for 11 yards (D.Belton; N.Jones)."
+  },
+  {
+    "wallclock": "2025-09-28T19:13:54Z",
+    "period": 3,
+    "clock": "5:09",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:09."
+  },
+  {
+    "wallclock": "2025-09-28T19:16:04Z",
+    "period": 3,
+    "clock": "5:09",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "O.Hampton left guard to LAC 44 for 3 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-28T19:16:47Z",
+    "period": 3,
+    "clock": "4:26",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Hampton left tackle to LAC 45 for 1 yard (B.Burns)."
+  },
+  {
+    "wallclock": "2025-09-28T19:17:26Z",
+    "period": 3,
+    "clock": "3:47",
+    "play_type": "Pass Interception Return",
+    "yards": 56,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Conklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right intended for L.McConkey INTERCEPTED by A.Phillips [B.Burns] at NYG 41. A.Phillips to LAC 3 for 56 yards (K.Allen).Penalty on LAC-T.Conklin, Offensive Pass Interference, declined."
+  },
+  {
+    "wallclock": "2025-09-28T19:19:11Z",
+    "period": 3,
+    "clock": "3:33",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dupree",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Caldwell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo up the middle to LAC 3 for no gain (B.Dupree; J.Caldwell)."
+  },
+  {
+    "wallclock": "2025-09-28T19:19:51Z",
+    "period": 3,
+    "clock": "2:49",
+    "play_type": "Passing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Dart pass short middle to T.Johnson for 3 yards, TOUCHDOWN.PENALTY on LAC-N.Jones, Unnecessary Roughness, 1 yard, enforced between downs. TWO-POINT CONVERSION ATTEMPT. C.Skattebo rushes up the middle. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": "2025-09-28T19:22:02Z",
+    "period": 3,
+    "clock": "2:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:49."
+  },
+  {
+    "wallclock": "2025-09-28T19:24:26Z",
+    "period": 3,
+    "clock": "2:49",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McAtamney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Lambert-Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Flannigan-Fowles",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McAtamney kicks 56 yards from NYG 35 to LAC 9. K.Lambert-Smith to LAC 34 for 25 yards (D.Flannigan-Fowles)."
+  },
+  {
+    "wallclock": "2025-09-28T19:25:16Z",
+    "period": 3,
+    "clock": "2:44",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Matlock",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to S.Matlock to LAC 35 for 1 yard (B.Burns)."
+  },
+  {
+    "wallclock": "2025-09-28T19:25:54Z",
+    "period": 3,
+    "clock": "2:05",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to O.Gadsden pushed ob at LAC 46 for 11 yards (P.Adebo)."
+  },
+  {
+    "wallclock": "2025-09-28T19:26:28Z",
+    "period": 3,
+    "clock": "1:27",
+    "play_type": "Rushing Touchdown",
+    "yards": 54,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) O.Hampton right tackle for 54 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. J.Herbert rushes left tackle. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": null,
+    "period": 3,
+    "clock": "1:27",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NYG at 01:27."
+  },
+  {
+    "wallclock": "2025-09-28T19:29:58Z",
+    "period": 3,
+    "clock": "1:27",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 57 yards from LAC 35 to NYG 8. D.Singletary pushed ob at NYG 39 for 31 yards (D.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-28T19:30:48Z",
+    "period": 3,
+    "clock": "1:20",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short right to C.Skattebo to NYG 46 for 7 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-09-28T19:31:17Z",
+    "period": 3,
+    "clock": "0:51",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Skattebo up the middle to LAC 49 for 5 yards (D.Hand; T.Dye)."
+  },
+  {
+    "wallclock": "2025-09-28T19:31:50Z",
+    "period": 3,
+    "clock": "0:19",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart sacked at NYG 45 for -6 yards (sack split by D.James and C.Murphy)."
+  },
+  {
+    "wallclock": "2025-09-28T19:31:50Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-28T19:35:10Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jefferson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short right to D.Slayton to LAC 38 for 17 yards (T.Jefferson)."
+  },
+  {
+    "wallclock": "2025-09-28T19:35:40Z",
+    "period": 4,
+    "clock": "14:30",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Skattebo right end to LAC 37 for 1 yard (T.Jefferson; D.Henley)."
+  },
+  {
+    "wallclock": "2025-09-28T19:36:15Z",
+    "period": 4,
+    "clock": "13:54",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Eboigbe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart sacked at LAC 42 for -5 yards (J.Eboigbe)."
+  },
+  {
+    "wallclock": "2025-09-28T19:37:01Z",
+    "period": 4,
+    "clock": "13:09",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dupree",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart scrambles right tackle to LAC 40 for 2 yards (B.Dupree)."
+  },
+  {
+    "wallclock": "2025-09-28T19:37:47Z",
+    "period": 4,
+    "clock": "12:24",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 31 yards to LAC 9, Center-C.Kreiter, fair catch by L.McConkey."
+  },
+  {
+    "wallclock": "2025-09-28T19:38:24Z",
+    "period": 4,
+    "clock": "12:16",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:16."
+  },
+  {
+    "wallclock": "2025-09-28T19:40:49Z",
+    "period": 4,
+    "clock": "12:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short right to Q.Johnston [A.Carter]."
+  },
+  {
+    "wallclock": "2025-09-28T19:41:29Z",
+    "period": 4,
+    "clock": "12:12",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to K.Allen pushed ob at LAC 17 for 8 yards (C.Flott)."
+  },
+  {
+    "wallclock": "2025-09-28T19:42:09Z",
+    "period": 4,
+    "clock": "11:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short middle to K.Allen (A.Phillips) [A.Carter]."
+  },
+  {
+    "wallclock": "2025-09-28T19:42:50Z",
+    "period": 4,
+    "clock": "11:31",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lovato",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 31 yards to LAC 48, Center-R.Lovato, out of bounds."
+  },
+  {
+    "wallclock": "2025-09-28T19:43:54Z",
+    "period": 4,
+    "clock": "11:23",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Singletary right guard to LAC 42 for 6 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-09-28T19:44:26Z",
+    "period": 4,
+    "clock": "10:53",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Singletary right tackle to LAC 36 for 6 yards (D.Henley, T.Dye)."
+  },
+  {
+    "wallclock": "2025-09-28T19:45:03Z",
+    "period": 4,
+    "clock": "10:15",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Still",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jefferson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass short right to D.Slayton to LAC 27 for 9 yards (T.Still; T.Jefferson)."
+  },
+  {
+    "wallclock": "2025-09-28T19:45:34Z",
+    "period": 4,
+    "clock": "9:45",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gilman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Singletary left tackle to LAC 19 for 8 yards (A.Gilman; D.James)."
+  },
+  {
+    "wallclock": "2025-09-28T19:46:05Z",
+    "period": 4,
+    "clock": "9:14",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Still",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass short right to W.Robinson pushed ob at LAC 13 for 6 yards (T.Dye; T.Still)."
+  },
+  {
+    "wallclock": "2025-09-28T19:46:39Z",
+    "period": 4,
+    "clock": "8:43",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Singletary right guard to LAC 10 for 3 yards (T.Jefferson; T.Tuipulotu).New York Giants challenged the short of the line to gain ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-09-28T19:50:33Z",
+    "period": 4,
+    "clock": "8:18",
+    "play_type": "Penalty",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart right tackle to LAC 8 for 2 yards (T.Dye).PENALTY on LAC-D.James, Defensive Offside, 6 yards, enforced at LAC 10 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T19:51:41Z",
+    "period": 4,
+    "clock": "7:51",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo left guard to LAC 1 for 3 yards (D.James)."
+  },
+  {
+    "wallclock": "2025-09-28T19:52:26Z",
+    "period": 4,
+    "clock": "7:06",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo up the middle to LAC 1 for no gain (T.Dye; D.James)."
+  },
+  {
+    "wallclock": "2025-09-28T19:53:20Z",
+    "period": 4,
+    "clock": "6:24",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart up the middle to LAC 3 for -2 yards (T.Tuipulotu)."
+  },
+  {
+    "wallclock": "2025-09-28T19:54:01Z",
+    "period": 4,
+    "clock": "5:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gilman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete short right to W.Robinson (A.Gilman)."
+  },
+  {
+    "wallclock": "2025-09-28T19:55:09Z",
+    "period": 4,
+    "clock": "5:36",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "O.Hampton left end to LAC 11 for 7 yards (D.Banks)."
+  },
+  {
+    "wallclock": "2025-09-28T19:55:51Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Fisk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass incomplete short middle to T.Fisk [B.Burns]."
+  },
+  {
+    "wallclock": "2025-09-28T19:56:31Z",
+    "period": 4,
+    "clock": "4:51",
+    "play_type": "Rush",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Hampton left end pushed ob at LAC 40 for 29 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-28T19:57:15Z",
+    "period": 4,
+    "clock": "4:43",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete deep left [K.Thibodeaux]."
+  },
+  {
+    "wallclock": "2025-09-28T19:58:00Z",
+    "period": 4,
+    "clock": "4:35",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Lambert-Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete deep middle to K.Lambert-Smith.PENALTY on NYG-D.Banks, Defensive Holding, 5 yards, enforced at LAC 40 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T19:58:53Z",
+    "period": 4,
+    "clock": "4:29",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Hampton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Hampton left guard to LAC 46 for 1 yard (D.Muasau; D.Belton)."
+  },
+  {
+    "wallclock": "2025-09-28T19:59:33Z",
+    "period": 4,
+    "clock": "3:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short left to Q.Johnston (D.Banks)."
+  },
+  {
+    "wallclock": "2025-09-28T20:00:10Z",
+    "period": 4,
+    "clock": "3:46",
+    "play_type": "Sack",
+    "yards": -16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert sacked at LAC 30 for -16 yards (B.Burns)."
+  },
+  {
+    "wallclock": "2025-09-28T20:00:53Z",
+    "period": 4,
+    "clock": "3:03",
+    "play_type": "Punt",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Lovato",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Haskins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 58 yards to NYG 12, Center-R.Lovato. G.Olszewski to NYG 26 for 14 yards (H.Haskins)."
+  },
+  {
+    "wallclock": "2025-09-28T20:01:54Z",
+    "period": 4,
+    "clock": "2:52",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Eboigbe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Skattebo left tackle to NYG 30 for 4 yards (J.Eboigbe).PENALTY on LAC-D.Hand, Defensive Offside, 5 yards, enforced at NYG 26 - No Play."
+  },
+  {
+    "wallclock": "2025-09-28T20:02:42Z",
+    "period": 4,
+    "clock": "2:48",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo up the middle to NYG 34 for 3 yards (T.Tart)."
+  },
+  {
+    "wallclock": "2025-09-28T20:03:05Z",
+    "period": 4,
+    "clock": "2:42",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LAC at 02:42."
+  },
+  {
+    "wallclock": "2025-09-28T20:03:47Z",
+    "period": 4,
+    "clock": "2:42",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo right tackle to NYG 31 for -3 yards (N.Jones, T.Tuipulotu)."
+  },
+  {
+    "wallclock": "2025-09-28T20:04:09Z",
+    "period": 4,
+    "clock": "2:38",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by LAC at 02:38."
+  },
+  {
+    "wallclock": "2025-09-28T20:04:47Z",
+    "period": 4,
+    "clock": "2:38",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short middle to T.Johnson to NYG 41 for 10 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-09-28T20:05:24Z",
+    "period": 4,
+    "clock": "2:34",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by LAC at 02:34."
+  },
+  {
+    "wallclock": "2025-09-28T20:06:09Z",
+    "period": 4,
+    "clock": "2:34",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Skattebo left guard to NYG 46 for 5 yards (T.Dye)."
+  },
+  {
+    "wallclock": "2025-09-28T20:06:45Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-28T20:09:32Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Skattebo left guard to NYG 46 for no gain (T.Tuipulotu; N.Jones)."
+  },
+  {
+    "wallclock": "2025-09-28T20:10:17Z",
+    "period": 4,
+    "clock": "1:14",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Skattebo right tackle to NYG 47 for 1 yard (N.Jones)."
+  },
+  {
+    "wallclock": "2025-09-28T20:11:06Z",
+    "period": 4,
+    "clock": "0:31",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NYG at 00:31."
+  },
+  {
+    "wallclock": "2025-09-28T20:12:05Z",
+    "period": 4,
+    "clock": "0:31",
+    "play_type": "Punt",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Still",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Manhertz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 40 yards to LAC 13, Center-C.Kreiter. T.Still to LAC 16 for 3 yards (C.Manhertz)."
+  },
+  {
+    "wallclock": "2025-09-28T20:13:02Z",
+    "period": 4,
+    "clock": "0:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete deep middle to Q.Johnston. NYG-T.Nubin was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-28T20:13:46Z",
+    "period": 4,
+    "clock": "0:13",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by NYG at 00:13."
+  },
+  {
+    "wallclock": "2025-09-28T20:14:43Z",
+    "period": 4,
+    "clock": "0:13",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass deep left to Q.Johnston to LAC 38 for 22 yards (C.Flott)."
+  },
+  {
+    "wallclock": "2025-09-28T20:14:43Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

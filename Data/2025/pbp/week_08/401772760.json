@@ -1,0 +1,4077 @@
+[
+  {
+    "wallclock": "2025-10-26T17:02:36Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Eskridge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion kicks 63 yards from ATL 35 to MIA 2. D.Eskridge to MIA 34 for 32 yards (M.Ford)."
+  },
+  {
+    "wallclock": "2025-10-26T17:03:25Z",
+    "period": 1,
+    "clock": "14:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  T.Tagovailoa pass incomplete deep right to D.Achane (J.Bertrand)."
+  },
+  {
+    "wallclock": "2025-10-26T17:04:09Z",
+    "period": 1,
+    "clock": "14:48",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane up the middle to MIA 35 for 1 yard (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-26T17:04:51Z",
+    "period": 1,
+    "clock": "14:05",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa sacked at MIA 27 for -8 yards (D.Alford)."
+  },
+  {
+    "wallclock": "2025-10-26T17:05:23Z",
+    "period": 1,
+    "clock": "13:36",
+    "play_type": "Punt",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goode",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Rucci",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 52 yards to ATL 21, Center-J.Cardona. J.Agnew to ATL 32 for 11 yards (C.Goode; H.Rucci)."
+  },
+  {
+    "wallclock": "2025-10-26T17:06:13Z",
+    "period": 1,
+    "clock": "13:23",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left tackle to ATL 33 for 1 yard (B.Chubb; B.Jones)."
+  },
+  {
+    "wallclock": "2025-10-26T17:06:49Z",
+    "period": 1,
+    "clock": "12:47",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to ATL 32 for -1 yards (J.Brooks, Ja.Phillips)."
+  },
+  {
+    "wallclock": "2025-10-26T17:07:34Z",
+    "period": 1,
+    "clock": "12:02",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right to K.Pitts to ATL 37 for 5 yards (J.Jones) [Ja.Phillips]."
+  },
+  {
+    "wallclock": "2025-10-26T17:08:21Z",
+    "period": 1,
+    "clock": "11:15",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 42 yards to MIA 21, Center-L.McCullough, out of bounds."
+  },
+  {
+    "wallclock": "2025-10-26T17:08:54Z",
+    "period": 1,
+    "clock": "11:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:06."
+  },
+  {
+    "wallclock": "2025-10-26T17:11:25Z",
+    "period": 1,
+    "clock": "11:06",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  T.Tagovailoa pass short left to M.Washington pushed ob at MIA 38 for 17 yards (J.Bertrand)."
+  },
+  {
+    "wallclock": "2025-10-26T17:12:09Z",
+    "period": 1,
+    "clock": "10:26",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "O.Gordon up the middle to MIA 39 for 1 yard (S.Roberts; D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-10-26T17:12:50Z",
+    "period": 1,
+    "clock": "9:45",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright right tackle to MIA 46 for 7 yards (A.Ebiketie; J.Bertrand)."
+  },
+  {
+    "wallclock": "2025-10-26T17:13:30Z",
+    "period": 1,
+    "clock": "9:06",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Gordon up the middle to MIA 49 for 3 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-10-26T17:14:10Z",
+    "period": 1,
+    "clock": "8:25",
+    "play_type": "Pass Incompletion",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  T.Tagovailoa pass incomplete deep left to J.Waddle.PENALTY on ATL-M.Hughes, Defensive Pass Interference, 21 yards, enforced at MIA 49 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T17:15:11Z",
+    "period": 1,
+    "clock": "8:18",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Borom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to N.Westbrook-Ikhine to ATL 23 for 7 yards (J.Bertrand).PENALTY on MIA-L.Borom, Illegal Formation, 5 yards, enforced at ATL 30 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T17:16:05Z",
+    "period": 1,
+    "clock": "7:49",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane up the middle to ATL 24 for 11 yards (D.Alford)."
+  },
+  {
+    "wallclock": "2025-10-26T17:16:48Z",
+    "period": 1,
+    "clock": "7:06",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane right guard to ATL 21 for 3 yards (S.Roberts; D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-10-26T17:17:32Z",
+    "period": 1,
+    "clock": "6:22",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  O.Gordon left tackle to ATL 17 for 4 yards (M.Hughes; J.Bertrand)."
+  },
+  {
+    "wallclock": "2025-10-26T17:18:14Z",
+    "period": 1,
+    "clock": "5:39",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left end to ATL 10 for 7 yards (S.Roberts; J.Bertrand)."
+  },
+  {
+    "wallclock": "2025-10-26T17:18:58Z",
+    "period": 1,
+    "clock": "4:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short left to N.Westbrook-Ikhine."
+  },
+  {
+    "wallclock": "2025-10-26T17:19:40Z",
+    "period": 1,
+    "clock": "4:52",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Orhorhoro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Gordon left guard to ATL 8 for 2 yards (R.Orhorhoro)."
+  },
+  {
+    "wallclock": "2025-10-26T17:20:25Z",
+    "period": 1,
+    "clock": "4:07",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "O.Gordon right guard to ATL 7 for 1 yard (M.Hughes; X.Watts).Atlanta challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-10-26T17:25:41Z",
+    "period": 1,
+    "clock": "3:22",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane left end to ATL 3 for 4 yards (D.Alford)."
+  },
+  {
+    "wallclock": "2025-10-26T17:26:25Z",
+    "period": 1,
+    "clock": "2:33",
+    "play_type": "Passing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to D.Achane for 3 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-10-26T17:27:23Z",
+    "period": 1,
+    "clock": "2:33",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:33."
+  },
+  {
+    "wallclock": "2025-10-26T17:30:11Z",
+    "period": 1,
+    "clock": "2:33",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Bonner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 54 yards from MIA 35 to ATL 11. J.Agnew to ATL 31 for 20 yards (E.Bonner; N.Westbrook-Ikhine)."
+  },
+  {
+    "wallclock": "2025-10-26T17:30:54Z",
+    "period": 1,
+    "clock": "2:27",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass deep right to K.Pitts to MIA 45 for 24 yards (M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-10-26T17:31:38Z",
+    "period": 1,
+    "clock": "1:43",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to K.Pitts pushed ob at MIA 39 for 6 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-10-26T17:32:12Z",
+    "period": 1,
+    "clock": "1:13",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right guard to MIA 38 for 1 yard (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-10-26T17:32:52Z",
+    "period": 1,
+    "clock": "0:34",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-10-26T17:33:40Z",
+    "period": 1,
+    "clock": "0:27",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to T.Allgeier to MIA 34 for 4 yards (M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-10-26T17:33:40Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-10-26T17:37:01Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to B.Robinson pushed ob at MIA 32 for 2 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-26T17:37:42Z",
+    "period": 2,
+    "clock": "14:23",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson up the middle to MIA 25 for 7 yards (I.Melifonwu; D.Trader)."
+  },
+  {
+    "wallclock": "2025-10-26T17:38:22Z",
+    "period": 2,
+    "clock": "13:42",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier up the middle to MIA 26 for -1 yards (Z.Sieler)."
+  },
+  {
+    "wallclock": "2025-10-26T17:39:03Z",
+    "period": 2,
+    "clock": "12:59",
+    "play_type": "Field Goal Good",
+    "yards": 45,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Romo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Romo 45 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-10-26T17:39:42Z",
+    "period": 2,
+    "clock": "12:59",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:59."
+  },
+  {
+    "wallclock": "2025-10-26T17:42:17Z",
+    "period": 2,
+    "clock": "12:59",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion kicks 63 yards from ATL 35 to MIA 2. O.Gordon to MIA 27 for 25 yards (N.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-26T17:43:05Z",
+    "period": 2,
+    "clock": "12:53",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass short left to D.Achane to MIA 37 for 10 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-26T17:43:45Z",
+    "period": 2,
+    "clock": "12:12",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ingold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to A.Ingold to MIA 37 for no gain (D.Onyemata; K.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-26T17:44:26Z",
+    "period": 2,
+    "clock": "11:31",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane right end to MIA 43 for 6 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-10-26T17:45:13Z",
+    "period": 2,
+    "clock": "10:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short right to M.Washington."
+  },
+  {
+    "wallclock": "2025-10-26T17:45:45Z",
+    "period": 2,
+    "clock": "10:40",
+    "play_type": "Punt",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Franks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 49 yards to ATL 8, Center-J.Cardona, fair catch by J.Agnew.PENALTY on ATL-F.Franks, Unnecessary Roughness, 4 yards, enforced at ATL 8."
+  },
+  {
+    "wallclock": "2025-10-26T17:47:00Z",
+    "period": 2,
+    "clock": "10:32",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:32."
+  },
+  {
+    "wallclock": "2025-10-26T17:49:22Z",
+    "period": 2,
+    "clock": "10:32",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Allgeier right end to ATL 1 for -3 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-26T17:49:57Z",
+    "period": 2,
+    "clock": "9:59",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins up the middle to ATL 4 for 3 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-26T17:50:35Z",
+    "period": 2,
+    "clock": "9:21",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson up the middle to ATL 8 for 4 yards (J.Brooks; Z.Sieler)."
+  },
+  {
+    "wallclock": "2025-10-26T17:51:14Z",
+    "period": 2,
+    "clock": "8:42",
+    "play_type": "Punt",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 41 yards to ATL 49, Center-L.McCullough. M.Washington to ATL 40 for 9 yards (N.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-26T17:51:43Z",
+    "period": 2,
+    "clock": "8:30",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:30."
+  },
+  {
+    "wallclock": "2025-10-26T17:54:22Z",
+    "period": 2,
+    "clock": "8:30",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short middle to J.Waddle to ATL 18 for 22 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-10-26T17:55:01Z",
+    "period": 2,
+    "clock": "7:51",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right end to ATL 17 for 1 yard (K.Elliss; D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-10-26T17:55:41Z",
+    "period": 2,
+    "clock": "7:11",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to C.Wilson to ATL 15 for 2 yards (K.Elliss; A.Terrell)."
+  },
+  {
+    "wallclock": "2025-10-26T17:56:27Z",
+    "period": 2,
+    "clock": "6:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short middle to D.Achane (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-26T17:57:11Z",
+    "period": 2,
+    "clock": "6:14",
+    "play_type": "Field Goal Good",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Patterson 34 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-10-26T17:57:29Z",
+    "period": 2,
+    "clock": "6:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:14."
+  },
+  {
+    "wallclock": "2025-10-26T18:00:13Z",
+    "period": 2,
+    "clock": "6:14",
+    "play_type": "Kickoff",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Bonner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Conner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 51 yards from MIA 35 to ATL 14. N.Brooks MUFFS catch, and recovers at ATL 18. N.Brooks to ATL 28 for 10 yards (E.Bonner; T.Conner)."
+  },
+  {
+    "wallclock": "2025-10-26T18:00:53Z",
+    "period": 2,
+    "clock": "6:09",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Matthews",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on ATL-J.Matthews, False Start, 5 yards, enforced at ATL 28 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T18:01:32Z",
+    "period": 2,
+    "clock": "6:09",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to D.Sills to ATL 35 for 12 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-10-26T18:02:09Z",
+    "period": 2,
+    "clock": "5:32",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins sacked at ATL 30 for -5 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-26T18:02:47Z",
+    "period": 2,
+    "clock": "4:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete deep left to D.Mooney."
+  },
+  {
+    "wallclock": "2025-10-26T18:03:24Z",
+    "period": 2,
+    "clock": "4:50",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 52 yards to MIA 18, Center-L.McCullough. M.Washington to MIA 18 for no gain (M.Ford)."
+  },
+  {
+    "wallclock": "2025-10-26T18:03:55Z",
+    "period": 2,
+    "clock": "4:40",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:40."
+  },
+  {
+    "wallclock": "2025-10-26T18:06:25Z",
+    "period": 2,
+    "clock": "4:40",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  T.Tagovailoa pass short right to N.Westbrook-Ikhine to MIA 36 for 18 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-10-26T18:07:06Z",
+    "period": 2,
+    "clock": "3:59",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Malone",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Wright left guard to MIA 37 for 1 yard (R.Harrison; D.Malone)."
+  },
+  {
+    "wallclock": "2025-10-26T18:07:44Z",
+    "period": 2,
+    "clock": "3:21",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to J.Waddle pushed ob at MIA 43 for 6 yards (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-10-26T18:08:29Z",
+    "period": 2,
+    "clock": "2:39",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Gordon right tackle to ATL 46 for 11 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-10-26T18:09:12Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-26T18:12:04Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Floyd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Floyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane right end to 50 for -4 yards (J.Pearce, L.Floyd).PENALTY on ATL-L.Floyd, Face Mask, 15 yards, enforced at ATL 46 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T18:13:51Z",
+    "period": 2,
+    "clock": "1:56",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to D.Achane to ATL 22 for 9 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-10-26T18:14:31Z",
+    "period": 2,
+    "clock": "1:17",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Gordon up the middle to ATL 19 for 3 yards (J.Pearce)."
+  },
+  {
+    "wallclock": "2025-10-26T18:15:09Z",
+    "period": 2,
+    "clock": "0:39",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to T.Conner to ATL 18 for 1 yard (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-26T18:15:26Z",
+    "period": 2,
+    "clock": "0:30",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIA at 00:30."
+  },
+  {
+    "wallclock": "2025-10-26T18:16:30Z",
+    "period": 2,
+    "clock": "0:30",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Paul",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIA-P.Paul, False Start, 5 yards, enforced at ATL 18 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T18:17:17Z",
+    "period": 2,
+    "clock": "0:30",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to M.Washington to ATL 19 for 4 yards (D.Alford)."
+  },
+  {
+    "wallclock": "2025-10-26T18:17:39Z",
+    "period": 2,
+    "clock": "0:24",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIA at 00:24."
+  },
+  {
+    "wallclock": "2025-10-26T18:18:14Z",
+    "period": 2,
+    "clock": "0:24",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short middle to J.Waddle to ATL 9 for 10 yards (J.Bertrand) [J.Pearce]."
+  },
+  {
+    "wallclock": "2025-10-26T18:18:45Z",
+    "period": 2,
+    "clock": "0:18",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by MIA at 00:18."
+  },
+  {
+    "wallclock": "2025-10-26T18:19:14Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Passing Touchdown",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to M.Washington for 9 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-10-26T18:21:31Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Kickoff",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 64 yards from MIA 35 to ATL 1. J.Agnew to ATL 36 for 35 yards (N.Westbrook-Ikhine)."
+  },
+  {
+    "wallclock": "2025-10-26T18:22:23Z",
+    "period": 2,
+    "clock": "0:04",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins kneels to ATL 35 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-26T18:22:23Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-10-26T18:36:22Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 57 yards from MIA 35 to ATL 8. N.Brooks to ATL 29 for 21 yards (W.Gay)."
+  },
+  {
+    "wallclock": "2025-10-26T18:37:08Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson up the middle to ATL 35 for 6 yards (Jo.Phillips; J.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-26T18:37:41Z",
+    "period": 3,
+    "clock": "14:21",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to ATL 36 for 1 yard (Jo.Phillips; B.Chubb)."
+  },
+  {
+    "wallclock": "2025-10-26T18:38:24Z",
+    "period": 3,
+    "clock": "13:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete deep right to D.Sills."
+  },
+  {
+    "wallclock": "2025-10-26T18:39:07Z",
+    "period": 3,
+    "clock": "13:33",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 50 yards to MIA 14, Center-L.McCullough, fair catch by M.Washington."
+  },
+  {
+    "wallclock": "2025-10-26T18:39:29Z",
+    "period": 3,
+    "clock": "13:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:26."
+  },
+  {
+    "wallclock": "2025-10-26T18:42:04Z",
+    "period": 3,
+    "clock": "13:26",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Floyd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Wright right end to MIA 13 for -1 yards (K.Elliss, L.Floyd)."
+  },
+  {
+    "wallclock": "2025-10-26T18:42:47Z",
+    "period": 3,
+    "clock": "12:42",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane up the middle to MIA 14 for 1 yard (D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-10-26T18:43:27Z",
+    "period": 3,
+    "clock": "12:02",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to D.Achane to MIA 18 for 4 yards (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-10-26T18:44:00Z",
+    "period": 3,
+    "clock": "11:31",
+    "play_type": "Punt",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Bonner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Franks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 47 yards to ATL 35, Center-J.Cardona. J.Agnew to ATL 43 for 8 yards (E.Bonner; T.Dodson).PENALTY on ATL-F.Franks, Offensive Holding, 10 yards, enforced at ATL 35."
+  },
+  {
+    "wallclock": "2025-10-26T18:45:06Z",
+    "period": 3,
+    "clock": "11:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:20."
+  },
+  {
+    "wallclock": "2025-10-26T18:47:20Z",
+    "period": 3,
+    "clock": "11:20",
+    "play_type": "Pass Incompletion",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass incomplete deep middle to D.Mooney.PENALTY on MIA-R.Douglas, Defensive Pass Interference, 39 yards, enforced at ATL 25 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T18:48:25Z",
+    "period": 3,
+    "clock": "11:13",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to B.Robinson to MIA 19 for 17 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-10-26T18:49:06Z",
+    "period": 3,
+    "clock": "10:31",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Matthews",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bergeron",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Neuzil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end to MIA 16 for 3 yards. FUMBLES, RECOVERED by MIA-T.Dodson at MIA 10. T.Dodson to MIA 16 for 6 yards (J.Matthews; M.Bergeron).Penalty on ATL-R.Neuzil, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-10-26T18:50:07Z",
+    "period": 3,
+    "clock": "10:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:23."
+  },
+  {
+    "wallclock": "2025-10-26T18:52:30Z",
+    "period": 3,
+    "clock": "10:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass incomplete deep left to J.Waddle."
+  },
+  {
+    "wallclock": "2025-10-26T18:53:09Z",
+    "period": 3,
+    "clock": "10:17",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane up the middle to MIA 26 for 10 yards (X.Watts; J.Bates)."
+  },
+  {
+    "wallclock": "2025-10-26T18:53:51Z",
+    "period": 3,
+    "clock": "9:35",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dorlus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane right end to MIA 24 for -2 yards (B.Dorlus, J.Pearce)."
+  },
+  {
+    "wallclock": "2025-10-26T18:54:36Z",
+    "period": 3,
+    "clock": "8:49",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Gordon up the middle to MIA 29 for 5 yards (J.Bates; A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-10-26T18:55:22Z",
+    "period": 3,
+    "clock": "8:04",
+    "play_type": "Pass Incompletion",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short right to C.Wilson.PENALTY on ATL-A.Terrell, Defensive Pass Interference, 6 yards, enforced at MIA 29 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T18:56:17Z",
+    "period": 3,
+    "clock": "8:00",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  T.Tagovailoa pass short left to M.Washington to MIA 41 for 6 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-26T18:57:03Z",
+    "period": 3,
+    "clock": "7:13",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane right tackle to MIA 45 for 4 yards (J.Bertrand; J.Pearce)."
+  },
+  {
+    "wallclock": "2025-10-26T18:57:47Z",
+    "period": 3,
+    "clock": "6:39",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIA at 06:39."
+  },
+  {
+    "wallclock": "2025-10-26T18:58:40Z",
+    "period": 3,
+    "clock": "6:39",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Conner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass short left to T.Conner pushed ob at 50 for 5 yards (J.Bertrand)."
+  },
+  {
+    "wallclock": "2025-10-26T18:59:27Z",
+    "period": 3,
+    "clock": "5:55",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane left guard to ATL 45 for 5 yards (J.Bertrand; S.Roberts)."
+  },
+  {
+    "wallclock": "2025-10-26T19:00:12Z",
+    "period": 3,
+    "clock": "5:10",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane up the middle to ATL 43 for 2 yards (K.Elliss; R.Harrison)."
+  },
+  {
+    "wallclock": "2025-10-26T19:00:56Z",
+    "period": 3,
+    "clock": "4:18",
+    "play_type": "Passing Touchdown",
+    "yards": 43,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Tagovailoa pass short middle to J.Waddle for 43 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-10-26T19:02:01Z",
+    "period": 3,
+    "clock": "4:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:18."
+  },
+  {
+    "wallclock": "2025-10-26T19:04:46Z",
+    "period": 3,
+    "clock": "4:18",
+    "play_type": "Kickoff",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Judon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 65 yards from MIA 35 to ATL 0. J.Agnew to ATL 26 for 26 yards (M.Judon).PENALTY on ATL-M.Ford, Offensive Holding, 10 yards, enforced at ATL 24."
+  },
+  {
+    "wallclock": "2025-10-26T19:06:06Z",
+    "period": 3,
+    "clock": "4:09",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to K.Pitts to ATL 19 for 5 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-26T19:06:26Z",
+    "period": 3,
+    "clock": "3:51",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short middle to K.Hodge to ATL 35 for 16 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-10-26T19:06:46Z",
+    "period": 3,
+    "clock": "3:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete short left to D.Mooney (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-10-26T19:07:25Z",
+    "period": 3,
+    "clock": "3:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete deep left to K.Hodge (D.Trader)."
+  },
+  {
+    "wallclock": "2025-10-26T19:08:05Z",
+    "period": 3,
+    "clock": "3:19",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right to K.Pitts to ATL 41 for 6 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-10-26T19:08:46Z",
+    "period": 3,
+    "clock": "2:38",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete deep left to K.Hodge."
+  },
+  {
+    "wallclock": "2025-10-26T19:09:50Z",
+    "period": 3,
+    "clock": "2:34",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Paul",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIA-P.Paul, False Start, 5 yards, enforced at ATL 41 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T19:10:32Z",
+    "period": 3,
+    "clock": "2:34",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "O.Gordon up the middle to ATL 43 for 3 yards (A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-10-26T19:11:13Z",
+    "period": 3,
+    "clock": "1:55",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) O.Gordon right tackle to ATL 30 for 13 yards (J.Bates; A.Terrell)."
+  },
+  {
+    "wallclock": "2025-10-26T19:11:55Z",
+    "period": 3,
+    "clock": "1:12",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to D.Achane to ATL 32 for -2 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-26T19:12:41Z",
+    "period": 3,
+    "clock": "0:26",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane left guard to ATL 29 for 3 yards (S.Roberts; K.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-26T19:12:41Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-10-26T19:16:07Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left end to ATL 17 for 12 yards (A.Terrell; J.Bates)."
+  },
+  {
+    "wallclock": "2025-10-26T19:16:50Z",
+    "period": 4,
+    "clock": "14:19",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dorlus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane left guard to ATL 20 for -3 yards (B.Dorlus)."
+  },
+  {
+    "wallclock": "2025-10-26T19:17:33Z",
+    "period": 4,
+    "clock": "13:28",
+    "play_type": "Passing Touchdown",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to O.Gordon for 20 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-10-26T19:18:42Z",
+    "period": 4,
+    "clock": "13:28",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:28."
+  },
+  {
+    "wallclock": "2025-10-26T19:21:22Z",
+    "period": 4,
+    "clock": "13:28",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 66 yards from MIA 35 to ATL -1. J.Agnew to ATL 20 for 21 yards (W.Gay)."
+  },
+  {
+    "wallclock": "2025-10-26T19:22:10Z",
+    "period": 4,
+    "clock": "13:22",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right to K.Pitts to ATL 25 for 5 yards (R.Douglas). ** Injury Update: MIA-I.Melifonwu has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-26T19:22:34Z",
+    "period": 4,
+    "clock": "12:57",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short middle to B.Robinson to ATL 29 for 4 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-10-26T19:22:56Z",
+    "period": 4,
+    "clock": "12:38",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) B.Robinson up the middle to ATL 32 for 3 yards (J.Brooks; T.Dodson)."
+  },
+  {
+    "wallclock": "2025-10-26T19:23:23Z",
+    "period": 4,
+    "clock": "12:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete deep left to D.Mooney."
+  },
+  {
+    "wallclock": "2025-10-26T19:24:07Z",
+    "period": 4,
+    "clock": "12:03",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to K.Hodge to ATL 39 for 7 yards (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-10-26T19:24:39Z",
+    "period": 4,
+    "clock": "11:33",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Neuzil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on ATL-R.Neuzil, False Start, 5 yards, enforced at ATL 39 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T19:25:18Z",
+    "period": 4,
+    "clock": "11:33",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Duck",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right to K.Pitts to ATL 35 for 1 yard (M.Fitzpatrick). MIA-S.Duck was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-26T19:26:40Z",
+    "period": 4,
+    "clock": "11:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:23."
+  },
+  {
+    "wallclock": "2025-10-26T19:28:35Z",
+    "period": 4,
+    "clock": "11:04",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to K.Pitts to ATL 37 for 2 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-10-26T19:29:36Z",
+    "period": 4,
+    "clock": "10:56",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  T.Tagovailoa pass short left to J.Waddle to ATL 19 for 18 yards (A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-10-26T19:30:21Z",
+    "period": 4,
+    "clock": "10:10",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane left end to ATL 19 for no gain (J.Pearce)."
+  },
+  {
+    "wallclock": "2025-10-26T19:31:05Z",
+    "period": 4,
+    "clock": "9:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass incomplete short right to N.Westbrook-Ikhine (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-10-26T19:31:50Z",
+    "period": 4,
+    "clock": "9:23",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dorlus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane up the middle to ATL 17 for 2 yards (J.Bertrand; B.Dorlus)."
+  },
+  {
+    "wallclock": "2025-10-26T19:32:34Z",
+    "period": 4,
+    "clock": "8:36",
+    "play_type": "Field Goal Good",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Patterson 36 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-10-26T19:33:50Z",
+    "period": 4,
+    "clock": "8:36",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 65 yards from MIA 35 to end zone, Touchback to the ATL 35."
+  },
+  {
+    "wallclock": "2025-10-26T19:34:37Z",
+    "period": 4,
+    "clock": "8:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short middle to K.Hodge."
+  },
+  {
+    "wallclock": "2025-10-26T19:35:02Z",
+    "period": 4,
+    "clock": "8:33",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Britt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short middle to T.Allgeier to ATL 41 for 6 yards (K.Britt; W.Gay) [Ja.Phillips]."
+  },
+  {
+    "wallclock": "2025-10-26T19:35:27Z",
+    "period": 4,
+    "clock": "8:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete short right to K.Hodge."
+  },
+  {
+    "wallclock": "2025-10-26T19:36:08Z",
+    "period": 4,
+    "clock": "8:03",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right to K.Hodge to ATL 49 for 8 yards (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-10-26T19:36:32Z",
+    "period": 4,
+    "clock": "7:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete deep right to K.Hodge."
+  },
+  {
+    "wallclock": "2025-10-26T19:37:10Z",
+    "period": 4,
+    "clock": "7:34",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Grant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass deep left to C.Washington to MIA 26 for 25 yards (J.Jones) [K.Grant]. MIA-M.Fitzpatrick was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-26T19:39:01Z",
+    "period": 4,
+    "clock": "6:56",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Sheffield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to D.Sills to MIA 24 for 2 yards (K.Sheffield)."
+  },
+  {
+    "wallclock": "2025-10-26T19:39:27Z",
+    "period": 4,
+    "clock": "6:31",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short right to K.Pitts to MIA 19 for 5 yards (W.Gay)."
+  },
+  {
+    "wallclock": "2025-10-26T19:39:52Z",
+    "period": 4,
+    "clock": "6:04",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short middle to D.Mooney to MIA 8 for 11 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-10-26T19:40:16Z",
+    "period": 4,
+    "clock": "5:40",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Allgeier left end to MIA 6 for 2 yards (Ja.Phillips)."
+  },
+  {
+    "wallclock": "2025-10-26T19:40:48Z",
+    "period": 4,
+    "clock": "5:01",
+    "play_type": "Rushing Touchdown",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Romo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Allgeier left end for 6 yards, TOUCHDOWN. J.Romo extra point is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-10-26T19:43:14Z",
+    "period": 4,
+    "clock": "5:01",
+    "play_type": "Kickoff",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion kicks onside 13 yards from ATL 35 to ATL 48. J.Waddle (didn't try to advance) to ATL 48 for no gain."
+  },
+  {
+    "wallclock": "2025-10-26T19:44:06Z",
+    "period": 4,
+    "clock": "5:00",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Wright up the middle to ATL 41 for 7 yards (S.Roberts)."
+  },
+  {
+    "wallclock": "2025-10-26T19:44:51Z",
+    "period": 4,
+    "clock": "4:14",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Fuller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright up the middle to ATL 39 for 2 yards (J.Fuller)."
+  },
+  {
+    "wallclock": "2025-10-26T19:45:36Z",
+    "period": 4,
+    "clock": "3:31",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright up the middle to ATL 36 for 3 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-26T19:46:20Z",
+    "period": 4,
+    "clock": "2:46",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright up the middle to ATL 35 for 1 yard (D.Alford)."
+  },
+  {
+    "wallclock": "2025-10-26T19:47:06Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-26T19:50:07Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Orhorhoro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright up the middle to ATL 32 for 3 yards (R.Orhorhoro)."
+  },
+  {
+    "wallclock": "2025-10-26T19:50:51Z",
+    "period": 4,
+    "clock": "1:15",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright left end pushed ob at ATL 27 for 5 yards (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-10-26T19:51:38Z",
+    "period": 4,
+    "clock": "1:09",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Z.Wilson pass short right to J.Wright to ATL 27 for no gain (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-10-26T19:52:36Z",
+    "period": 4,
+    "clock": "1:02",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Sheffield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Carter up the middle to ATL 39 for 12 yards (D.Trader; J.Jones). MIA-K.Sheffield was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-26T19:53:25Z",
+    "period": 4,
+    "clock": "0:44",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIA at 00:44."
+  },
+  {
+    "wallclock": "2025-10-26T19:53:43Z",
+    "period": 4,
+    "clock": "0:44",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "N.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Judon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "N.Carter up the middle to ATL 41 for 2 yards (W.Gay; M.Judon)."
+  },
+  {
+    "wallclock": "2025-10-26T19:53:43Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

@@ -1,0 +1,4442 @@
+[
+  {
+    "wallclock": "2025-10-12T17:02:52Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 65 yards from ARZ 35 to end zone, Touchback to the IND 35."
+  },
+  {
+    "wallclock": "2025-10-12T17:03:40Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to J.Downs pushed ob at IND 44 for 9 yards (W.Johnson)."
+  },
+  {
+    "wallclock": "2025-10-12T17:04:15Z",
+    "period": 1,
+    "clock": "14:29",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor up the middle to IND 47 for 3 yards (D.Taylor-Demerson; D.Stills)."
+  },
+  {
+    "wallclock": "2025-10-12T17:04:47Z",
+    "period": 1,
+    "clock": "13:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass incomplete short right to A.Pierce."
+  },
+  {
+    "wallclock": "2025-10-12T17:05:26Z",
+    "period": 1,
+    "clock": "13:51",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short middle to J.Downs to ARZ 42 for 11 yards (M.Melton; J.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-12T17:06:03Z",
+    "period": 1,
+    "clock": "13:15",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to T.Warren pushed ob at ARZ 19 for 23 yards (A.Davis-Gaither; J.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-12T17:06:45Z",
+    "period": 1,
+    "clock": "12:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass incomplete deep right to T.Warren (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-10-12T17:07:26Z",
+    "period": 1,
+    "clock": "12:30",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to J.Downs to ARZ 14 for 5 yards (W.Johnson) [C.Campbell]."
+  },
+  {
+    "wallclock": "2025-10-12T17:08:07Z",
+    "period": 1,
+    "clock": "11:50",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short middle to T.Warren to ARZ 8 for 6 yards (Ma.Wilson; W.Johnson)."
+  },
+  {
+    "wallclock": "2025-10-12T17:08:51Z",
+    "period": 1,
+    "clock": "11:01",
+    "play_type": "Passing Touchdown",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) D.Jones pass short middle to T.Warren for 8 yards, TOUCHDOWN. M.Badgley extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-10-12T17:09:46Z",
+    "period": 1,
+    "clock": "11:01",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:01."
+  },
+  {
+    "wallclock": "2025-10-12T17:12:35Z",
+    "period": 1,
+    "clock": "11:01",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Vokolek",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 65 yards from IND 35 to end zone, Touchback to the ARZ 35. ARZ-T.Vokolek was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-12T17:13:36Z",
+    "period": 1,
+    "clock": "11:01",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:01."
+  },
+  {
+    "wallclock": "2025-10-12T17:19:18Z",
+    "period": 1,
+    "clock": "11:01",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on ARZ-G.Dortch, False Start, 5 yards, enforced at ARZ 35 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T17:19:57Z",
+    "period": 1,
+    "clock": "11:01",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short left to M.Harrison pushed ob at ARZ 41 for 11 yards (N.Cross)."
+  },
+  {
+    "wallclock": "2025-10-12T17:20:37Z",
+    "period": 1,
+    "clock": "10:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass deep right to T.McBride to IND 41 for 18 yards (Z.Franklin) [D.Buckner].Indianapolis challenged the pass completion ruling, and the play was REVERSED.K.Beachum reported in as eligible.  J.Brissett pass incomplete deep right to T.McBride [D.Buckner]."
+  },
+  {
+    "wallclock": "2025-10-12T17:22:32Z",
+    "period": 1,
+    "clock": "10:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:18."
+  },
+  {
+    "wallclock": "2025-10-12T17:24:13Z",
+    "period": 1,
+    "clock": "10:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ajiake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short left to Z.Jones [A.Ajiake]."
+  },
+  {
+    "wallclock": "2025-10-12T17:24:55Z",
+    "period": 1,
+    "clock": "10:13",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "P.O'Donnell punts 43 yards to IND 16, Center-A.Brewer, out of bounds."
+  },
+  {
+    "wallclock": "2025-10-12T17:25:43Z",
+    "period": 1,
+    "clock": "10:07",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor right end to IND 14 for -2 yards (Z.Collins)."
+  },
+  {
+    "wallclock": "2025-10-12T17:26:21Z",
+    "period": 1,
+    "clock": "9:28",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones sacked at IND 7 for -7 yards (B.Browning)."
+  },
+  {
+    "wallclock": "2025-10-12T17:27:06Z",
+    "period": 1,
+    "clock": "8:44",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tomlinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to IND 15 for 8 yards (D.Tomlinson; D.Taylor-Demerson)."
+  },
+  {
+    "wallclock": "2025-10-12T17:27:45Z",
+    "period": 1,
+    "clock": "8:04",
+    "play_type": "Punt",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Muma",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Sanchez punts 53 yards to ARZ 32, Center-L.Rhodes. G.Dortch ran ob at ARZ 44 for 12 yards (C.Muma)."
+  },
+  {
+    "wallclock": "2025-10-12T17:28:33Z",
+    "period": 1,
+    "clock": "7:54",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Carter right end to IND 49 for 7 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-12T17:29:15Z",
+    "period": 1,
+    "clock": "7:13",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass short right to E.Higgins to IND 39 for 10 yards (K.Paye; M.Blackmon)."
+  },
+  {
+    "wallclock": "2025-10-12T17:29:59Z",
+    "period": 1,
+    "clock": "6:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gaines",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Gallimore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gaines reported in as eligible.  J.Brissett pass incomplete short left [N.Gallimore]."
+  },
+  {
+    "wallclock": "2025-10-12T17:30:42Z",
+    "period": 1,
+    "clock": "6:20",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Carter right tackle to IND 30 for 9 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-10-12T17:31:23Z",
+    "period": 1,
+    "clock": "5:40",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett up the middle to IND 26 for 4 yards (D.Buckner; K.Paye)."
+  },
+  {
+    "wallclock": "2025-10-12T17:32:03Z",
+    "period": 1,
+    "clock": "5:00",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Carter right end to IND 27 for -1 yards (G.Stewart, K.Paye)."
+  },
+  {
+    "wallclock": "2025-10-12T17:32:39Z",
+    "period": 1,
+    "clock": "4:23",
+    "play_type": "Pass Reception",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lammons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass short left to G.Dortch to IND 33 for -6 yards (C.Lammons)."
+  },
+  {
+    "wallclock": "2025-10-12T17:33:25Z",
+    "period": 1,
+    "clock": "3:37",
+    "play_type": "Pass Reception",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass deep left to T.McBride to IND 7 for 26 yards (J.Edwards)."
+  },
+  {
+    "wallclock": "2025-10-12T17:33:55Z",
+    "period": 1,
+    "clock": "3:08",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) E.Demercado left tackle to IND 6 for 1 yard (N.Cross; L.Latu)."
+  },
+  {
+    "wallclock": "2025-10-12T17:34:37Z",
+    "period": 1,
+    "clock": "2:26",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short left to Mi.Wilson to IND 1 for 5 yards (N.Cross)."
+  },
+  {
+    "wallclock": "2025-10-12T17:35:17Z",
+    "period": 1,
+    "clock": "1:42",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gaines",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Gaines and K.Beachum reported in as eligible.  Z.Knight left tackle for 1 yard, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": "2025-10-12T17:36:21Z",
+    "period": 1,
+    "clock": "1:42",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:42."
+  },
+  {
+    "wallclock": "2025-10-12T17:39:02Z",
+    "period": 1,
+    "clock": "1:42",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gould",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Fehoko",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 60 yards from ARZ 35 to IND 5. A.Gould to IND 29 for 24 yards (S.Fehoko)."
+  },
+  {
+    "wallclock": "2025-10-12T17:39:42Z",
+    "period": 1,
+    "clock": "1:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass incomplete deep left to A.Pierce (M.Melton)."
+  },
+  {
+    "wallclock": "2025-10-12T17:40:24Z",
+    "period": 1,
+    "clock": "1:31",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short left to J.Downs to IND 32 for 3 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-12T17:41:05Z",
+    "period": 1,
+    "clock": "0:50",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short left to J.Taylor pushed ob at IND 36 for 4 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-10-12T17:41:45Z",
+    "period": 1,
+    "clock": "0:15",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Sanchez punts 55 yards to ARZ 9, Center-L.Rhodes, out of bounds."
+  },
+  {
+    "wallclock": "2025-10-12T17:42:44Z",
+    "period": 1,
+    "clock": "0:05",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  M.Carter left tackle to ARZ 7 for -2 yards (N.Cross)."
+  },
+  {
+    "wallclock": "2025-10-12T17:42:44Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-10-12T17:45:56Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Penalty",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Hernandez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on ARZ-W.Hernandez, False Start, 3 yards, enforced at ARZ 7 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T17:46:38Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Carter left end to ARZ 4 for no gain (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-12T17:47:22Z",
+    "period": 2,
+    "clock": "14:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short left to E.Demercado."
+  },
+  {
+    "wallclock": "2025-10-12T17:47:55Z",
+    "period": 2,
+    "clock": "14:12",
+    "play_type": "Punt",
+    "yards": -15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gould",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Crawford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lammons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "P.O'Donnell punts 49 yards to IND 47, Center-A.Brewer. A.Gould to IND 47 for no gain (K.Crawford).PENALTY on IND-C.Lammons, Unsportsmanlike Conduct, 15 yards, enforced at IND 47."
+  },
+  {
+    "wallclock": "2025-10-12T17:50:11Z",
+    "period": 2,
+    "clock": "14:03",
+    "play_type": "Pass Interception Return",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Alie-Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Alie-Cox",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short left intended for M.Alie-Cox INTERCEPTED by Ma.Wilson at IND 36. Ma.Wilson to IND 27 for 9 yards (M.Alie-Cox)."
+  },
+  {
+    "wallclock": "2025-10-12T17:51:08Z",
+    "period": 2,
+    "clock": "13:55",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass short right to T.McBride to IND 16 for 11 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-10-12T17:51:46Z",
+    "period": 2,
+    "clock": "13:17",
+    "play_type": "Pass Interception Return",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right intended for Z.Jones INTERCEPTED by M.Blackmon at IND 4. M.Blackmon ran ob at IND 13 for 9 yards (Z.Knight)."
+  },
+  {
+    "wallclock": "2025-10-12T17:52:13Z",
+    "period": 2,
+    "clock": "13:09",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:09."
+  },
+  {
+    "wallclock": "2025-10-12T17:54:47Z",
+    "period": 2,
+    "clock": "13:09",
+    "play_type": "Rush",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor left tackle to IND 27 for 14 yards (B.Baker; J.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-12T17:55:30Z",
+    "period": 2,
+    "clock": "12:26",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right guard to IND 32 for 5 yards (Z.Collins)."
+  },
+  {
+    "wallclock": "2025-10-12T17:56:10Z",
+    "period": 2,
+    "clock": "11:46",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Abdullah",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Abdullah left guard to IND 39 for 7 yards (D.Stills)."
+  },
+  {
+    "wallclock": "2025-10-12T17:56:48Z",
+    "period": 2,
+    "clock": "11:08",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Alie-Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short middle to M.Alie-Cox to ARZ 45 for 16 yards (K.Clark; A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-10-12T17:57:30Z",
+    "period": 2,
+    "clock": "10:26",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Abdullah",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short right to A.Abdullah to ARZ 36 for 9 yards (K.Clark)."
+  },
+  {
+    "wallclock": "2025-10-12T17:58:09Z",
+    "period": 2,
+    "clock": "9:47",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor up the middle to ARZ 33 for 3 yards (Ma.Wilson, M.Melton)."
+  },
+  {
+    "wallclock": "2025-10-12T17:58:45Z",
+    "period": 2,
+    "clock": "9:11",
+    "play_type": "Rush",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor left end pushed ob at ARZ 3 for 30 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-12T17:59:31Z",
+    "period": 2,
+    "clock": "8:30",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor right guard to ARZ 3 for no gain (J.Sweat)."
+  },
+  {
+    "wallclock": "2025-10-12T18:00:05Z",
+    "period": 2,
+    "clock": "7:51",
+    "play_type": "Rushing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "D.Jones scrambles right end for 3 yards, TOUCHDOWN. M.Badgley extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-10-12T18:01:03Z",
+    "period": 2,
+    "clock": "7:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:51."
+  },
+  {
+    "wallclock": "2025-10-12T18:03:55Z",
+    "period": 2,
+    "clock": "7:51",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 59 yards from IND 35 to ARZ 6. G.Dortch to ARZ 30 for 24 yards (B.Johnson)."
+  },
+  {
+    "wallclock": "2025-10-12T18:04:46Z",
+    "period": 2,
+    "clock": "7:46",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Knight up the middle to ARZ 36 for 6 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-10-12T18:05:24Z",
+    "period": 2,
+    "clock": "7:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass incomplete short right [D.Buckner]. ** Injury Update: ARZ-Mi.Wilson has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-12T18:06:09Z",
+    "period": 2,
+    "clock": "6:59",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass deep right to M.Harrison to IND 43 for 21 yards (J.Edwards)."
+  },
+  {
+    "wallclock": "2025-10-12T18:06:57Z",
+    "period": 2,
+    "clock": "6:11",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Beachum reported in as eligible.  Z.Knight left end to IND 40 for 3 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-12T18:07:40Z",
+    "period": 2,
+    "clock": "5:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short right to Z.Knight [G.Stewart]."
+  },
+  {
+    "wallclock": "2025-10-12T18:08:22Z",
+    "period": 2,
+    "clock": "5:23",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Ebukam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on IND-S.Ebukam, Encroachment, 5 yards, enforced at IND 40 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T18:09:16Z",
+    "period": 2,
+    "clock": "5:23",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Z.Knight up the middle to IND 28 for 7 yards (M.Blackmon)."
+  },
+  {
+    "wallclock": "2025-10-12T18:09:56Z",
+    "period": 2,
+    "clock": "4:43",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Adebawore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  Z.Knight left guard to IND 24 for 4 yards (A.Adebawore)."
+  },
+  {
+    "wallclock": "2025-10-12T18:10:36Z",
+    "period": 2,
+    "clock": "4:03",
+    "play_type": "Pass Incompletion",
+    "yards": -15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short right to Z.Jones (M.Blackmon).PENALTY on ARZ-Z.Jones, Face Mask, 15 yards, enforced at IND 24 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T18:12:17Z",
+    "period": 2,
+    "clock": "3:59",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short middle to Z.Jones to IND 33 for 6 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-10-12T18:13:00Z",
+    "period": 2,
+    "clock": "3:16",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to Z.Jones to IND 16 for 17 yards (N.Cross)."
+  },
+  {
+    "wallclock": "2025-10-12T18:13:23Z",
+    "period": 2,
+    "clock": "2:53",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) M.Carter left tackle to IND 14 for 2 yards (G.Stewart)."
+  },
+  {
+    "wallclock": "2025-10-12T18:14:05Z",
+    "period": 2,
+    "clock": "2:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short left to T.McBride (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-10-12T18:14:53Z",
+    "period": 2,
+    "clock": "2:03",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett sacked at IND 22 for -8 yards (K.Paye)."
+  },
+  {
+    "wallclock": "2025-10-12T18:15:13Z",
+    "period": 2,
+    "clock": "1:59",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-12T18:18:02Z",
+    "period": 2,
+    "clock": "1:56",
+    "play_type": "Field Goal Good",
+    "yards": 40,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " C.Ryland 40 yard field goal is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": "2025-10-12T18:18:20Z",
+    "period": 2,
+    "clock": "1:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:56."
+  },
+  {
+    "wallclock": "2025-10-12T18:19:19Z",
+    "period": 2,
+    "clock": "1:56",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gould",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 62 yards from ARZ 35 to IND 3. A.Gould to IND 29 for 26 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-10-12T18:20:02Z",
+    "period": 2,
+    "clock": "1:52",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tomlinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor left guard to IND 31 for 2 yards (D.Tomlinson)."
+  },
+  {
+    "wallclock": "2025-10-12T18:20:34Z",
+    "period": 2,
+    "clock": "1:20",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to T.Warren to IND 36 for 5 yards (Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T18:20:50Z",
+    "period": 2,
+    "clock": "1:15",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by IND at 01:15."
+  },
+  {
+    "wallclock": "2025-10-12T18:21:30Z",
+    "period": 2,
+    "clock": "1:15",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short middle to M.Pittman to IND 42 for 6 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-10-12T18:21:51Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Pass Reception",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Jones pass short left to J.Taylor pushed ob at IND 39 for -3 yards (Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T18:22:32Z",
+    "period": 2,
+    "clock": "0:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass incomplete deep right to M.Pittman."
+  },
+  {
+    "wallclock": "2025-10-12T18:23:17Z",
+    "period": 2,
+    "clock": "0:42",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to T.Warren to IND 48 for 9 yards (B.Baker)."
+  },
+  {
+    "wallclock": "2025-10-12T18:23:34Z",
+    "period": 2,
+    "clock": "0:36",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ARZ at 00:36."
+  },
+  {
+    "wallclock": "2025-10-12T18:23:34Z",
+    "period": 2,
+    "clock": "0:36",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on IND, Delay of Game, 5 yards, enforced at IND 48 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T18:25:25Z",
+    "period": 2,
+    "clock": "0:36",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Sanchez punts 57 yards to end zone, Center-L.Rhodes, Touchback."
+  },
+  {
+    "wallclock": "2025-10-12T18:26:16Z",
+    "period": 2,
+    "clock": "0:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short right to M.Carter."
+  },
+  {
+    "wallclock": "2025-10-12T18:26:53Z",
+    "period": 2,
+    "clock": "0:22",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete deep left to Z.Jones."
+  },
+  {
+    "wallclock": "2025-10-12T18:27:31Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Ebukam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Carter right tackle to ARZ 31 for 11 yards (S.Ebukam)."
+  },
+  {
+    "wallclock": "2025-10-12T18:27:52Z",
+    "period": 2,
+    "clock": "0:09",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by ARZ at 00:09."
+  },
+  {
+    "wallclock": "2025-10-12T18:28:30Z",
+    "period": 2,
+    "clock": "0:09",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to M.Carter ran ob at ARZ 47 for 16 yards (M.Blackmon)."
+  },
+  {
+    "wallclock": "2025-10-12T18:29:16Z",
+    "period": 2,
+    "clock": "0:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete deep right (M.Blackmon) [L.Latu]."
+  },
+  {
+    "wallclock": "2025-10-12T18:29:16Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-10-12T18:43:55Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 62 yards from IND 35 to ARZ 3. G.Dortch to ARZ 39 for 36 yards (B.Johnson)."
+  },
+  {
+    "wallclock": "2025-10-12T18:45:02Z",
+    "period": 3,
+    "clock": "14:52",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass short left to Z.Knight to IND 41 for 20 yards (G.Pratt, Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-12T18:45:44Z",
+    "period": 3,
+    "clock": "14:10",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Ebukam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Knight left tackle to IND 38 for 3 yards (S.Ebukam)."
+  },
+  {
+    "wallclock": "2025-10-12T18:46:26Z",
+    "period": 3,
+    "clock": "13:29",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass short middle to T.McBride to IND 28 for 10 yards (G.Pratt; Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-12T18:47:10Z",
+    "period": 3,
+    "clock": "12:44",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lammons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short middle to Mi.Wilson to IND 17 for 11 yards (C.Lammons)."
+  },
+  {
+    "wallclock": "2025-10-12T18:47:50Z",
+    "period": 3,
+    "clock": "12:05",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short left to T.McBride to IND 10 for 7 yards (Z.Franklin; G.Pratt)."
+  },
+  {
+    "wallclock": "2025-10-12T18:48:30Z",
+    "period": 3,
+    "clock": "11:24",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  Z.Knight right tackle to IND 8 for 2 yards (G.Stewart; K.Paye)."
+  },
+  {
+    "wallclock": "2025-10-12T18:49:08Z",
+    "period": 3,
+    "clock": "10:46",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett up the middle to IND 5 for 3 yards (D.Buckner)."
+  },
+  {
+    "wallclock": "2025-10-12T18:49:50Z",
+    "period": 3,
+    "clock": "10:05",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Gallimore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  Z.Knight left guard to IND 5 for no gain (N.Gallimore)."
+  },
+  {
+    "wallclock": "2025-10-12T18:50:27Z",
+    "period": 3,
+    "clock": "9:28",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short left to T.McBride to IND 1 for 4 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-10-12T18:51:11Z",
+    "period": 3,
+    "clock": "8:39",
+    "play_type": "Passing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gaines",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "K.Beachum and J.Gaines reported in as eligible.  J.Brissett pass short right to T.McBride for 1 yard, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": "2025-10-12T18:52:07Z",
+    "period": 3,
+    "clock": "8:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:39."
+  },
+  {
+    "wallclock": "2025-10-12T18:55:01Z",
+    "period": 3,
+    "clock": "8:39",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Dulin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 61 yards from ARZ 35 to IND 4. A.Dulin to IND 31 for 27 yards (D.Hall)."
+  },
+  {
+    "wallclock": "2025-10-12T18:55:54Z",
+    "period": 3,
+    "clock": "8:32",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short left to M.Pittman to IND 45 for 14 yards (B.Baker)."
+  },
+  {
+    "wallclock": "2025-10-12T18:56:29Z",
+    "period": 3,
+    "clock": "7:57",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to J.Taylor to ARZ 42 for 13 yards (Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T18:57:08Z",
+    "period": 3,
+    "clock": "7:18",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor left guard to ARZ 37 for 5 yards (D.Stills; D.Taylor-Demerson)."
+  },
+  {
+    "wallclock": "2025-10-12T18:57:47Z",
+    "period": 3,
+    "clock": "6:39",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mustipher",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor up the middle to ARZ 33 for 4 yards (P.Mustipher)."
+  },
+  {
+    "wallclock": "2025-10-12T18:58:28Z",
+    "period": 3,
+    "clock": "5:57",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones up the middle to ARZ 31 for 2 yards (Z.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T18:59:03Z",
+    "period": 3,
+    "clock": "5:23",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right tackle to ARZ 27 for 4 yards (D.Stills)."
+  },
+  {
+    "wallclock": "2025-10-12T18:59:41Z",
+    "period": 3,
+    "clock": "4:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass incomplete short middle to T.Warren (B.Baker)."
+  },
+  {
+    "wallclock": "2025-10-12T19:00:24Z",
+    "period": 3,
+    "clock": "4:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass incomplete short left to T.Warren."
+  },
+  {
+    "wallclock": "2025-10-12T19:01:12Z",
+    "period": 3,
+    "clock": "4:31",
+    "play_type": "Field Goal Good",
+    "yards": 45,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "M.Badgley 45 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-10-12T19:01:33Z",
+    "period": 3,
+    "clock": "4:31",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:31."
+  },
+  {
+    "wallclock": "2025-10-12T19:04:13Z",
+    "period": 3,
+    "clock": "4:31",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 61 yards from IND 35 to ARZ 4. G.Dortch to ARZ 34 for 30 yards (R.Thomas)."
+  },
+  {
+    "wallclock": "2025-10-12T19:05:00Z",
+    "period": 3,
+    "clock": "4:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-10-12T19:05:40Z",
+    "period": 3,
+    "clock": "4:22",
+    "play_type": "Pass Incompletion",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass incomplete short right to E.Higgins [N.Cross].PENALTY on IND-Z.Franklin, Unnecessary Roughness, 15 yards, enforced at ARZ 34 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T19:06:41Z",
+    "period": 3,
+    "clock": "4:18",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Knight right tackle to IND 48 for 3 yards (L.Latu)."
+  },
+  {
+    "wallclock": "2025-10-12T19:07:19Z",
+    "period": 3,
+    "clock": "3:41",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass deep right to Z.Jones to IND 27 for 21 yards (J.Edwards)."
+  },
+  {
+    "wallclock": "2025-10-12T19:08:04Z",
+    "period": 3,
+    "clock": "2:55",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to T.McBride to IND 23 for 4 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-10-12T19:08:46Z",
+    "period": 3,
+    "clock": "2:14",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to Z.Jones to IND 12 for 11 yards (M.Blackmon) [L.Latu]."
+  },
+  {
+    "wallclock": "2025-10-12T19:09:32Z",
+    "period": 3,
+    "clock": "1:22",
+    "play_type": "Passing Touchdown",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Brissett pass short right to G.Dortch for 12 yards, TOUCHDOWN. ARZ-Z.Knight was injured during the play. Penalty on IND-M.Blackmon, Defensive Holding, declined. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": null,
+    "period": 3,
+    "clock": "1:22",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:22."
+  },
+  {
+    "wallclock": "2025-10-12T19:13:28Z",
+    "period": 3,
+    "clock": "1:22",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:22."
+  },
+  {
+    "wallclock": "2025-10-12T19:14:33Z",
+    "period": 3,
+    "clock": "1:22",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gould",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Simon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 58 yards from ARZ 35 to IND 7. A.Gould to IND 33 for 26 yards (C.Simon)."
+  },
+  {
+    "wallclock": "2025-10-12T19:15:19Z",
+    "period": 3,
+    "clock": "1:18",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones scrambles right end pushed ob at 50 for 17 yards (Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T19:16:05Z",
+    "period": 3,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor up the middle to ARZ 45 for 5 yards (M.Melton)."
+  },
+  {
+    "wallclock": "2025-10-12T19:16:05Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-10-12T19:19:43Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short right to T.Warren pushed ob at ARZ 33 for 12 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-10-12T19:20:24Z",
+    "period": 4,
+    "clock": "14:23",
+    "play_type": "Pass Reception",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short left to A.Pierce to ARZ 7 for 26 yards (A.Davis-Gaither; B.Baker)."
+  },
+  {
+    "wallclock": "2025-10-12T19:20:48Z",
+    "period": 4,
+    "clock": "13:59",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Mustipher",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Taylor up the middle to ARZ 5 for 2 yards (Z.Carter; P.Mustipher)."
+  },
+  {
+    "wallclock": "2025-10-12T19:21:30Z",
+    "period": 4,
+    "clock": "13:12",
+    "play_type": "Passing Touchdown",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) D.Jones pass short left to J.Downs for 5 yards, TOUCHDOWN [Z.Collins]. M.Badgley extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-10-12T19:22:28Z",
+    "period": 4,
+    "clock": "13:12",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:12."
+  },
+  {
+    "wallclock": "2025-10-12T19:25:09Z",
+    "period": 4,
+    "clock": "13:12",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 43 yards from IND 35 to ARZ 22, short of landing zone. ** Injury Update: ARZ-Z.Knight has returned to the game. PENALTY on IND-M.Badgley, Kickoff Short of Landing Zone, placed at ARZ 40."
+  },
+  {
+    "wallclock": "2025-10-12T19:26:07Z",
+    "period": 4,
+    "clock": "13:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass incomplete short right [D.Buckner]."
+  },
+  {
+    "wallclock": "2025-10-12T19:26:50Z",
+    "period": 4,
+    "clock": "13:05",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lammons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Beachum reported in as eligible.  J.Brissett pass short right to G.Dortch to ARZ 46 for 6 yards (C.Lammons).PENALTY on ARZ-Ev.Brown, Ineligible Downfield Pass, 5 yards, enforced at ARZ 40 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T19:27:45Z",
+    "period": 4,
+    "clock": "12:48",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass deep middle to Z.Jones to IND 41 for 24 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-10-12T19:28:58Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Rush",
+    "yards": -16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Knight right end to IND 32 for 9 yards (G.Pratt).PENALTY on ARZ-T.McBride, Offensive Holding, 10 yards, enforced at IND 37."
+  },
+  {
+    "wallclock": "2025-10-12T19:30:06Z",
+    "period": 4,
+    "clock": "11:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete deep left to M.Carter.Penalty on ARZ, Illegal Formation, declined."
+  },
+  {
+    "wallclock": "2025-10-12T19:31:17Z",
+    "period": 4,
+    "clock": "11:36",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass short right to E.Higgins to IND 23 for 24 yards (G.Pratt; L.Latu) [K.Paye]."
+  },
+  {
+    "wallclock": "2025-10-12T19:31:54Z",
+    "period": 4,
+    "clock": "10:59",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) M.Carter left tackle to IND 24 for -1 yards (G.Stewart)."
+  },
+  {
+    "wallclock": "2025-10-12T19:32:33Z",
+    "period": 4,
+    "clock": "10:19",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to Mi.Wilson to IND 26 for -2 yards (K.Paye)."
+  },
+  {
+    "wallclock": "2025-10-12T19:33:13Z",
+    "period": 4,
+    "clock": "9:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short right to Mi.Wilson."
+  },
+  {
+    "wallclock": "2025-10-12T19:33:56Z",
+    "period": 4,
+    "clock": "9:31",
+    "play_type": "Field Goal Good",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Ryland 44 yard field goal is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": "2025-10-12T19:34:11Z",
+    "period": 4,
+    "clock": "9:31",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:31."
+  },
+  {
+    "wallclock": "2025-10-12T19:36:54Z",
+    "period": 4,
+    "clock": "9:31",
+    "play_type": "Kickoff",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Dulin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 63 yards from ARZ 35 to IND 2. A.Dulin to IND 34 for 32 yards (D.Hall; A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-10-12T19:37:37Z",
+    "period": 4,
+    "clock": "9:26",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Goodlow",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to J.Taylor to IND 34 for no gain (Ma.Wilson) [A.Goodlow]."
+  },
+  {
+    "wallclock": "2025-10-12T19:38:18Z",
+    "period": 4,
+    "clock": "8:45",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass deep middle to A.Pierce to ARZ 44 for 22 yards (M.Melton) [C.Campbell]."
+  },
+  {
+    "wallclock": "2025-10-12T19:38:55Z",
+    "period": 4,
+    "clock": "8:08",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor left end pushed ob at ARZ 48 for -4 yards (J.Thompson).PENALTY on ARZ-Z.Collins, Face Mask, 15 yards, enforced at ARZ 44 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T19:40:18Z",
+    "period": 4,
+    "clock": "7:48",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to ARZ 24 for 5 yards (Z.Carter)."
+  },
+  {
+    "wallclock": "2025-10-12T19:40:55Z",
+    "period": 4,
+    "clock": "7:12",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor left tackle to ARZ 14 for 10 yards (B.Baker; Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T19:41:36Z",
+    "period": 4,
+    "clock": "6:31",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to ARZ 12 for 2 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-10-12T19:42:16Z",
+    "period": 4,
+    "clock": "5:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass incomplete short right to J.Downs."
+  },
+  {
+    "wallclock": "2025-10-12T19:42:53Z",
+    "period": 4,
+    "clock": "5:48",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short middle to J.Downs to ARZ 3 for 9 yards (Ma.Wilson; D.Taylor-Demerson) [C.Campbell]. ARZ-D.Taylor-Demerson was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-12T19:43:30Z",
+    "period": 4,
+    "clock": "5:37",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:37."
+  },
+  {
+    "wallclock": "2025-10-12T19:46:14Z",
+    "period": 4,
+    "clock": "5:18",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Burch",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to ARZ 1 for 2 yards (D.Stills; J.Burch)."
+  },
+  {
+    "wallclock": "2025-10-12T19:46:57Z",
+    "period": 4,
+    "clock": "4:32",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Taylor left end for 1 yard, TOUCHDOWN. M.Badgley extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez. ** Injury Update: ARZ-D.Taylor-Demerson has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-12T19:47:55Z",
+    "period": 4,
+    "clock": "4:32",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:32."
+  },
+  {
+    "wallclock": "2025-10-12T19:50:32Z",
+    "period": 4,
+    "clock": "4:32",
+    "play_type": "Kickoff",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Pappoe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 64 yards from IND 35 to ARZ 1. G.Dortch to ARZ 25 for 24 yards (B.Johnson).PENALTY on ARZ-O.Pappoe, Face Mask, 12 yards, enforced at ARZ 25."
+  },
+  {
+    "wallclock": "2025-10-12T19:51:54Z",
+    "period": 4,
+    "clock": "4:26",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass short right to T.McBride to ARZ 22 for 9 yards (M.Blackmon)."
+  },
+  {
+    "wallclock": "2025-10-12T19:52:31Z",
+    "period": 4,
+    "clock": "4:19",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Knight up the middle to ARZ 23 for 1 yard (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-12T19:53:14Z",
+    "period": 4,
+    "clock": "3:37",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass short left to M.Carter to ARZ 37 for 14 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-10-12T19:53:55Z",
+    "period": 4,
+    "clock": "2:56",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett scrambles up the middle to ARZ 49 for 12 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-12T19:54:38Z",
+    "period": 4,
+    "clock": "2:13",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Carter right tackle to IND 42 for 9 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-10-12T19:54:58Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-12T19:57:49Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass deep left to Mi.Wilson to IND 12 for 30 yards (J.Edwards)."
+  },
+  {
+    "wallclock": "2025-10-12T19:58:32Z",
+    "period": 4,
+    "clock": "1:16",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short middle to G.Dortch to IND 9 for 3 yards (D.Buckner)."
+  },
+  {
+    "wallclock": "2025-10-12T19:58:47Z",
+    "period": 4,
+    "clock": "1:10",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by IND at 01:10."
+  },
+  {
+    "wallclock": "2025-10-12T19:59:28Z",
+    "period": 4,
+    "clock": "1:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short middle to M.Carter."
+  },
+  {
+    "wallclock": "2025-10-12T20:00:09Z",
+    "period": 4,
+    "clock": "1:06",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett sacked at IND 9 for 0 yards (K.Paye)."
+  },
+  {
+    "wallclock": "2025-10-12T20:00:30Z",
+    "period": 4,
+    "clock": "0:58",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by IND at 00:58."
+  },
+  {
+    "wallclock": "2025-10-12T20:01:23Z",
+    "period": 4,
+    "clock": "0:58",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) J.Brissett pass incomplete short left to T.McBride [L.Latu]."
+  },
+  {
+    "wallclock": "2025-10-12T20:02:30Z",
+    "period": 4,
+    "clock": "0:53",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tomlinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right tackle to IND 13 for 4 yards (D.Tomlinson)."
+  },
+  {
+    "wallclock": "2025-10-12T20:02:45Z",
+    "period": 4,
+    "clock": "0:47",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ARZ at 00:47."
+  },
+  {
+    "wallclock": "2025-10-12T20:03:27Z",
+    "period": 4,
+    "clock": "0:47",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor left tackle to IND 29 for 16 yards (B.Baker)."
+  },
+  {
+    "wallclock": "2025-10-12T20:03:46Z",
+    "period": 4,
+    "clock": "0:41",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by ARZ at 00:41."
+  },
+  {
+    "wallclock": "2025-10-12T20:04:11Z",
+    "period": 4,
+    "clock": "0:41",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " D.Jones kneels to IND 28 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-12T20:04:23Z",
+    "period": 4,
+    "clock": "0:40",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by ARZ at 00:40."
+  },
+  {
+    "wallclock": "2025-10-12T20:04:48Z",
+    "period": 4,
+    "clock": "0:40",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones kneels to IND 27 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-12T20:04:48Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

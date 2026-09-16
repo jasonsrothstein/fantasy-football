@@ -1,0 +1,4452 @@
+[
+  {
+    "wallclock": "2025-12-28T18:02:37Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 65 yards from NO 35 to end zone, Touchback to the TEN 35."
+  },
+  {
+    "wallclock": "2025-12-28T18:03:23Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right end to TEN 43 for 8 yards (C.Young)."
+  },
+  {
+    "wallclock": "2025-12-28T18:04:03Z",
+    "period": 1,
+    "clock": "14:19",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Pollard left end to TEN 46 for 3 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-12-28T18:04:40Z",
+    "period": 1,
+    "clock": "13:42",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right tackle to TEN 49 for 3 yards (D.Godchaux; C.Jordan)."
+  },
+  {
+    "wallclock": "2025-12-28T18:05:18Z",
+    "period": 1,
+    "clock": "13:04",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ridgeway",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right tackle to NO 49 for 2 yards (J.Ridgeway)."
+  },
+  {
+    "wallclock": "2025-12-28T18:06:00Z",
+    "period": 1,
+    "clock": "12:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short left to E.Ayomanor."
+  },
+  {
+    "wallclock": "2025-12-28T18:06:39Z",
+    "period": 1,
+    "clock": "12:19",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 49 yards to end zone, Center-M.Cox, Touchback."
+  },
+  {
+    "wallclock": "2025-12-28T18:07:06Z",
+    "period": 1,
+    "clock": "12:08",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:08."
+  },
+  {
+    "wallclock": "2025-12-28T18:09:51Z",
+    "period": 1,
+    "clock": "12:08",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Stoll",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Hill up the middle to NO 21 for 1 yard (C.Gray; C.Barton). NO-J.Stoll was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-28T18:10:38Z",
+    "period": 1,
+    "clock": "11:43",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Matavao",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short middle to M.Matavao to NO 25 for 4 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-12-28T18:11:00Z",
+    "period": 1,
+    "clock": "11:20",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Fortner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Fortner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Key",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Armour-Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough sacked at NO 18 for -7 yards (J.Simmons). FUMBLES (J.Simmons) [J.Simmons], recovered by NO-L.Fortner at NO 18. L.Fortner to NO 18 for no gain (A.Key). TEN-J.Armour-Davis was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-28T18:12:32Z",
+    "period": 1,
+    "clock": "11:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:10."
+  },
+  {
+    "wallclock": "2025-12-28T18:15:05Z",
+    "period": 1,
+    "clock": "10:50",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 17 yards to NO 35, Center-Z.Wood, out of bounds."
+  },
+  {
+    "wallclock": "2025-12-28T18:16:11Z",
+    "period": 1,
+    "clock": "10:44",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass short left to T.Pollard to NO 35 for no gain (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T18:16:55Z",
+    "period": 1,
+    "clock": "10:00",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to C.Okonkwo pushed ob at NO 32 for 3 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-12-28T18:17:40Z",
+    "period": 1,
+    "clock": "9:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short middle to C.Dike."
+  },
+  {
+    "wallclock": "2025-12-28T18:18:22Z",
+    "period": 1,
+    "clock": "9:10",
+    "play_type": "Field Goal Good",
+    "yards": 50,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " J.Slye 50 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-12-28T18:18:34Z",
+    "period": 1,
+    "clock": "9:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:10."
+  },
+  {
+    "wallclock": "2025-12-28T18:21:56Z",
+    "period": 1,
+    "clock": "9:10",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 65 yards from TEN 35 to end zone, Touchback to the NO 35."
+  },
+  {
+    "wallclock": "2025-12-28T18:22:43Z",
+    "period": 1,
+    "clock": "9:10",
+    "play_type": "Pass Reception",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to K.Austin to TEN 29 for 36 yards (A.Hooker)."
+  },
+  {
+    "wallclock": "2025-12-28T18:23:10Z",
+    "period": 1,
+    "clock": "8:43",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Estime right end to TEN 27 for 2 yards (J.Simmons)."
+  },
+  {
+    "wallclock": "2025-12-28T18:23:36Z",
+    "period": 1,
+    "clock": "8:17",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough scrambles up the middle to TEN 25 for 2 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-12-28T18:24:07Z",
+    "period": 1,
+    "clock": "7:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Austin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass incomplete deep left to K.Austin."
+  },
+  {
+    "wallclock": "2025-12-28T18:24:48Z",
+    "period": 1,
+    "clock": "7:41",
+    "play_type": "Field Goal Missed",
+    "yards": 43,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth 43 yard field goal is No Good, Wide Left, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-28T18:25:09Z",
+    "period": 1,
+    "clock": "7:36",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:36."
+  },
+  {
+    "wallclock": "2025-12-28T18:27:53Z",
+    "period": 1,
+    "clock": "7:36",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right guard to TEN 36 for 3 yards (J.Bullard; A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T18:28:29Z",
+    "period": 1,
+    "clock": "7:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward scrambles up the middle to TEN 41 for 5 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T18:29:13Z",
+    "period": 1,
+    "clock": "6:16",
+    "play_type": "Pass Reception",
+    "yards": 38,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass deep right to C.Dike to NO 21 for 38 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-12-28T18:29:55Z",
+    "period": 1,
+    "clock": "5:33",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right end to NO 20 for 1 yard (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-28T18:30:37Z",
+    "period": 1,
+    "clock": "4:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ridgeway",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right [J.Ridgeway]."
+  },
+  {
+    "wallclock": "2025-12-28T18:31:32Z",
+    "period": 1,
+    "clock": "4:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-28T18:32:17Z",
+    "period": 1,
+    "clock": "4:31",
+    "play_type": "Field Goal Good",
+    "yards": 38,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Slye 38 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-12-28T18:32:29Z",
+    "period": 1,
+    "clock": "4:31",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:31."
+  },
+  {
+    "wallclock": "2025-12-28T18:35:08Z",
+    "period": 1,
+    "clock": "4:31",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 65 yards from TEN 35 to landing zone to end zone, Touchback to the NO 20."
+  },
+  {
+    "wallclock": "2025-12-28T18:36:00Z",
+    "period": 1,
+    "clock": "4:31",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to C.Olave to NO 23 for 3 yards (K.Brooks)."
+  },
+  {
+    "wallclock": "2025-12-28T18:36:43Z",
+    "period": 1,
+    "clock": "3:47",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Hill left guard to NO 22 for -1 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-12-28T18:37:26Z",
+    "period": 1,
+    "clock": "3:04",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) T.Shough pass short right to K.Austin to NO 26 for 4 yards (C.Barton) [J.Ward]."
+  },
+  {
+    "wallclock": "2025-12-28T18:38:15Z",
+    "period": 1,
+    "clock": "2:15",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 38 yards to TEN 36, Center-Z.Wood, downed by NO-T.Hill."
+  },
+  {
+    "wallclock": "2025-12-28T18:39:19Z",
+    "period": 1,
+    "clock": "2:06",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to V.Jefferson to TEN 44 for 8 yards (K.McKinstry; D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-28T18:40:01Z",
+    "period": 1,
+    "clock": "1:24",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ridgeway",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Spears right end to TEN 45 for 1 yard (J.Ridgeway; J.Reid)."
+  },
+  {
+    "wallclock": "2025-12-28T18:40:45Z",
+    "period": 1,
+    "clock": "0:41",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Mullings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Mullings up the middle to TEN 49 for 4 yards (N.Shepherd)."
+  },
+  {
+    "wallclock": "2025-12-28T18:40:45Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-28T18:44:20Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward scrambles up the middle to NO 46 for 5 yards (D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-28T18:45:04Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Spears right end to NO 47 for -1 yards (J.Bullard, D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-28T18:45:47Z",
+    "period": 2,
+    "clock": "13:32",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) C.Ward pass short left to C.Dike to NO 43 for 4 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T18:46:11Z",
+    "period": 2,
+    "clock": "12:57",
+    "play_type": "Passing Touchdown",
+    "yards": 43,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle) C.Ward pass short left to C.Okonkwo for 43 yards, TOUCHDOWN. J.Slye extra point is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-12-28T18:47:24Z",
+    "period": 2,
+    "clock": "12:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:57."
+  },
+  {
+    "wallclock": "2025-12-28T18:50:17Z",
+    "period": 2,
+    "clock": "12:57",
+    "play_type": "Kickoff",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 64 yards from TEN 35 to NO 1. D.Pettis to NO 18 for 17 yards (M.Robinson)."
+  },
+  {
+    "wallclock": "2025-12-28T18:51:21Z",
+    "period": 2,
+    "clock": "12:49",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Hull up the middle to NO 18 for no gain (J.Simmons)."
+  },
+  {
+    "wallclock": "2025-12-28T18:52:07Z",
+    "period": 2,
+    "clock": "12:05",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough scrambles up the middle to NO 25 for 7 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-12-28T18:52:52Z",
+    "period": 2,
+    "clock": "11:20",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to C.Olave ran ob at NO 29 for 4 yards (K.Hall)."
+  },
+  {
+    "wallclock": "2025-12-28T18:53:31Z",
+    "period": 2,
+    "clock": "10:46",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to J.Johnson pushed ob at NO 32 for 3 yards (D.Baker)."
+  },
+  {
+    "wallclock": "2025-12-28T18:54:09Z",
+    "period": 2,
+    "clock": "10:12",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to A.Estime pushed ob at NO 36 for 4 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-12-28T18:54:38Z",
+    "period": 2,
+    "clock": "9:46",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Key",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Estime up the middle to NO 40 for 4 yards (C.Gray; A.Key)."
+  },
+  {
+    "wallclock": "2025-12-28T18:55:19Z",
+    "period": 2,
+    "clock": "9:04",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass short right to K.Austin to NO 42 for 2 yards (K.Brooks)."
+  },
+  {
+    "wallclock": "2025-12-28T18:56:31Z",
+    "period": 2,
+    "clock": "8:27",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short left to C.Olave pushed ob at TEN 42 for 16 yards (K.Elam)."
+  },
+  {
+    "wallclock": "2025-12-28T18:57:02Z",
+    "period": 2,
+    "clock": "8:00",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) T.Shough pass short left to C.Olave to TEN 36 for 6 yards (D.Baker)."
+  },
+  {
+    "wallclock": "2025-12-28T18:57:42Z",
+    "period": 2,
+    "clock": "7:21",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Hull up the middle to TEN 33 for 3 yards (T.Jones; T.Sweat)."
+  },
+  {
+    "wallclock": "2025-12-28T18:58:23Z",
+    "period": 2,
+    "clock": "6:39",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sweat",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Direct snap to T.Hill.  T.Hill up the middle to TEN 33 for no gain (T.Sweat; D.Baker)."
+  },
+  {
+    "wallclock": "2025-12-28T18:59:11Z",
+    "period": 2,
+    "clock": "5:58",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NO at 05:58."
+  },
+  {
+    "wallclock": "2025-12-28T19:00:19Z",
+    "period": 2,
+    "clock": "5:58",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Austin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NO-K.Austin, False Start, 5 yards, enforced at TEN 33 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T19:01:07Z",
+    "period": 2,
+    "clock": "5:53",
+    "play_type": "Field Goal Good",
+    "yards": 56,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Smyth 56 yard field goal is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-28T19:01:21Z",
+    "period": 2,
+    "clock": "5:53",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:53."
+  },
+  {
+    "wallclock": "2025-12-28T19:04:14Z",
+    "period": 2,
+    "clock": "5:53",
+    "play_type": "Kickoff",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Bell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mausi",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bachie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 64 yards from NO 35 to TEN 1. C.Dike pushed ob at TEN 38 for 37 yards (M.Davis; R.Bell).PENALTY on TEN-D.Mausi, Offensive Holding, 10 yards, enforced at TEN 34.Penalty on TEN-J.Bachie, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-12-28T19:06:45Z",
+    "period": 2,
+    "clock": "5:45",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard up the middle to TEN 27 for 3 yards (J.Williams; P.Werner)."
+  },
+  {
+    "wallclock": "2025-12-28T19:07:22Z",
+    "period": 2,
+    "clock": "5:07",
+    "play_type": "Pass Reception",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " C.Ward pass deep right to V.Jefferson pushed ob at NO 46 for 27 yards (Q.Riley)."
+  },
+  {
+    "wallclock": "2025-12-28T19:08:06Z",
+    "period": 2,
+    "clock": "4:29",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Latham",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right tackle to NO 41 for 5 yards (C.Granderson).PENALTY on TEN-J.Latham, Offensive Holding, 10 yards, enforced at NO 46 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T19:09:02Z",
+    "period": 2,
+    "clock": "3:51",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) C.Ward sacked at TEN 33 for -11 yards (C.Young). FUMBLES (C.Young) [C.Young], RECOVERED by NO-C.Young at TEN 33. C.Young for 33 yards, TOUCHDOWN. C.Smyth extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-28T19:10:53Z",
+    "period": 2,
+    "clock": "3:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:51."
+  },
+  {
+    "wallclock": "2025-12-28T19:13:44Z",
+    "period": 2,
+    "clock": "3:51",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 65 yards from NO 35 to landing zone to end zone, Touchback to the TEN 20."
+  },
+  {
+    "wallclock": "2025-12-28T19:14:30Z",
+    "period": 2,
+    "clock": "3:51",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard left tackle to TEN 24 for 4 yards (J.Williams)."
+  },
+  {
+    "wallclock": "2025-12-28T19:15:03Z",
+    "period": 2,
+    "clock": "3:17",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to V.Jefferson to TEN 35 for 11 yards (K.McKinstry).Penalty on NO-Q.Riley, Illegal Use of Hands, declined."
+  },
+  {
+    "wallclock": "2025-12-28T19:16:00Z",
+    "period": 2,
+    "clock": "2:55",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard left guard to TEN 40 for 5 yards (D.Davis; Q.Riley)."
+  },
+  {
+    "wallclock": "2025-12-28T19:16:39Z",
+    "period": 2,
+    "clock": "2:16",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard up the middle to TEN 43 for 3 yards (C.Jordan; D.Godchaux)."
+  },
+  {
+    "wallclock": "2025-12-28T19:17:04Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-28T19:19:54Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to E.Ayomanor pushed ob at TEN 47 for 4 yards (Q.Riley)."
+  },
+  {
+    "wallclock": "2025-12-28T19:20:37Z",
+    "period": 2,
+    "clock": "1:55",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Spears left guard to TEN 47 for no gain (D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-28T19:21:21Z",
+    "period": 2,
+    "clock": "1:12",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on TEN-T.Spears, False Start, 5 yards, enforced at TEN 47 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T19:22:21Z",
+    "period": 2,
+    "clock": "1:12",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Helm",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to G.Helm to TEN 43 for 1 yard (D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-28T19:22:43Z",
+    "period": 2,
+    "clock": "1:05",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NO at 01:05."
+  },
+  {
+    "wallclock": "2025-12-28T19:23:27Z",
+    "period": 2,
+    "clock": "1:05",
+    "play_type": "Penalty",
+    "yards": 50,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete deep left to C.Dike.PENALTY on NO-J.Reid, Defensive Pass Interference, 50 yards, enforced at TEN 43 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T19:24:25Z",
+    "period": 2,
+    "clock": "0:58",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Spears right end to NO 7 for no gain (D.Davis; C.Granderson)."
+  },
+  {
+    "wallclock": "2025-12-28T19:25:06Z",
+    "period": 2,
+    "clock": "0:13",
+    "play_type": "Passing Touchdown",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) C.Ward pass short left to E.Ayomanor for 7 yards, TOUCHDOWN. J.Slye extra point is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-12-28T19:26:05Z",
+    "period": 2,
+    "clock": "0:13",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:13."
+  },
+  {
+    "wallclock": "2025-12-28T19:27:14Z",
+    "period": 2,
+    "clock": "0:13",
+    "play_type": "Kickoff",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 58 yards from TEN 35 to NO 7. D.Pettis to NO 32 for 25 yards (J.Slye).PENALTY on NO-C.Rumph, Offensive Holding, 10 yards, enforced at NO 30."
+  },
+  {
+    "wallclock": "2025-12-28T19:28:21Z",
+    "period": 2,
+    "clock": "0:07",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough kneels to NO 19 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-28T19:28:21Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-28T19:42:24Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Martin-Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 64 yards from TEN 35 to NO 1. D.Pettis to NO 26 for 25 yards (D.Martin-Robinson)."
+  },
+  {
+    "wallclock": "2025-12-28T19:43:11Z",
+    "period": 3,
+    "clock": "14:53",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Estime up the middle to NO 32 for 6 yards (K.Hall)."
+  },
+  {
+    "wallclock": "2025-12-28T19:43:55Z",
+    "period": 3,
+    "clock": "14:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short right to C.Olave."
+  },
+  {
+    "wallclock": "2025-12-28T19:44:34Z",
+    "period": 3,
+    "clock": "14:07",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to C.Olave to NO 39 for 7 yards (K.Hall)."
+  },
+  {
+    "wallclock": "2025-12-28T19:45:16Z",
+    "period": 3,
+    "clock": "13:25",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Estime right tackle to NO 48 for 9 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-12-28T19:46:02Z",
+    "period": 3,
+    "clock": "12:39",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Estime left tackle to 50 for 2 yards (K.Brooks)."
+  },
+  {
+    "wallclock": "2025-12-28T19:46:37Z",
+    "period": 3,
+    "clock": "12:03",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass short middle to J.Johnson to TEN 20 for 30 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-12-28T19:47:20Z",
+    "period": 3,
+    "clock": "11:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short left to C.Olave."
+  },
+  {
+    "wallclock": "2025-12-28T19:48:02Z",
+    "period": 3,
+    "clock": "11:17",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Joseph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Estime left tackle to TEN 19 for 1 yard (J.Simmons; S.Joseph)."
+  },
+  {
+    "wallclock": "2025-12-28T19:48:40Z",
+    "period": 3,
+    "clock": "10:34",
+    "play_type": "Passing Touchdown",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Shough pass deep right to C.Olave for 19 yards, TOUCHDOWN. C.Smyth extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-28T19:49:37Z",
+    "period": 3,
+    "clock": "10:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:34."
+  },
+  {
+    "wallclock": "2025-12-28T19:52:37Z",
+    "period": 3,
+    "clock": "10:34",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 65 yards from NO 35 to end zone, Touchback to the TEN 35."
+  },
+  {
+    "wallclock": "2025-12-28T19:53:22Z",
+    "period": 3,
+    "clock": "10:34",
+    "play_type": "Rush",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard left tackle to NO 40 for 25 yards (D.Davis; K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-28T19:54:09Z",
+    "period": 3,
+    "clock": "9:47",
+    "play_type": "Pass Reception",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Kinsey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass deep right to M.Kinsey to NO 6 for 34 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T19:55:00Z",
+    "period": 3,
+    "clock": "8:56",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Pollard right tackle to NO 7 for -1 yards (J.Bullard)."
+  },
+  {
+    "wallclock": "2025-12-28T19:55:41Z",
+    "period": 3,
+    "clock": "8:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass incomplete short left to E.Ayomanor (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T19:56:30Z",
+    "period": 3,
+    "clock": "8:06",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at NO 10 for -3 yards (J.Williams)."
+  },
+  {
+    "wallclock": "2025-12-28T19:57:13Z",
+    "period": 3,
+    "clock": "7:20",
+    "play_type": "Field Goal Good",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " J.Slye 28 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-12-28T19:57:26Z",
+    "period": 3,
+    "clock": "7:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:20."
+  },
+  {
+    "wallclock": "2025-12-28T20:00:13Z",
+    "period": 3,
+    "clock": "7:20",
+    "play_type": "Kickoff",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 63 yards from TEN 35 to NO 2. D.Pettis to NO 34 for 32 yards (J.Williams)."
+  },
+  {
+    "wallclock": "2025-12-28T20:00:59Z",
+    "period": 3,
+    "clock": "7:15",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Matavao",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass short right to M.Matavao to NO 40 for 6 yards (J.Harrell)."
+  },
+  {
+    "wallclock": "2025-12-28T20:01:44Z",
+    "period": 3,
+    "clock": "6:30",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Estime right guard to NO 47 for 7 yards (T.Sweat)."
+  },
+  {
+    "wallclock": "2025-12-28T20:02:07Z",
+    "period": 3,
+    "clock": "6:07",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Estime left end to TEN 44 for 9 yards (J.Simmons)."
+  },
+  {
+    "wallclock": "2025-12-28T20:02:49Z",
+    "period": 3,
+    "clock": "5:25",
+    "play_type": "Penalty",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Radunz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough scrambles up the middle to TEN 38 for 6 yards (C.Barton).PENALTY on NO-D.Radunz, Offensive Holding, 9 yards, enforced at TEN 44 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T20:03:53Z",
+    "period": 3,
+    "clock": "4:59",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short middle to K.Austin to TEN 39 for 14 yards (C.Gray; A.Hooker).PENALTY on NO, Illegal Shift, 5 yards, enforced at NO 47 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T20:04:46Z",
+    "period": 3,
+    "clock": "4:34",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass deep left to D.Pettis pushed ob at TEN 40 for 18 yards (D.Baker)."
+  },
+  {
+    "wallclock": "2025-12-28T20:05:22Z",
+    "period": 3,
+    "clock": "4:03",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short right to D.Pettis to TEN 37 for 3 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-12-28T20:06:06Z",
+    "period": 3,
+    "clock": "3:19",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to C.Olave to TEN 33 for 4 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-12-28T20:06:43Z",
+    "period": 3,
+    "clock": "2:41",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lynch",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough sacked at TEN 39 for -6 yards (sack split by J.Harrell and J.Lynch)."
+  },
+  {
+    "wallclock": "2025-12-28T20:07:29Z",
+    "period": 3,
+    "clock": "1:51",
+    "play_type": "Field Goal Good",
+    "yards": 57,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Smyth 57 yard field goal is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-28T20:07:43Z",
+    "period": 3,
+    "clock": "1:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:51."
+  },
+  {
+    "wallclock": "2025-12-28T20:10:38Z",
+    "period": 3,
+    "clock": "1:51",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 65 yards from NO 35 to end zone, Touchback to the TEN 35."
+  },
+  {
+    "wallclock": "2025-12-28T20:11:24Z",
+    "period": 3,
+    "clock": "1:51",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right guard to TEN 40 for 5 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T20:12:03Z",
+    "period": 3,
+    "clock": "1:12",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Martin-Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass short right to D.Martin-Robinson to TEN 49 for 9 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-12-28T20:12:53Z",
+    "period": 3,
+    "clock": "0:22",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-28T20:13:44Z",
+    "period": 3,
+    "clock": "0:11",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) T.Pollard right tackle to 50 for 1 yard (C.Rumph; D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-12-28T20:13:44Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-28T20:16:46Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short middle to E.Ayomanor to NO 38 for 12 yards (Q.Riley)."
+  },
+  {
+    "wallclock": "2025-12-28T20:17:37Z",
+    "period": 4,
+    "clock": "14:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short left to C.Okonkwo."
+  },
+  {
+    "wallclock": "2025-12-28T20:18:23Z",
+    "period": 4,
+    "clock": "14:06",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Dike right end to NO 31 for 7 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-28T20:19:03Z",
+    "period": 4,
+    "clock": "13:26",
+    "play_type": "Rush",
+    "yards": -19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Spears left end to NO 27 for 4 yards (N.Shepherd).PENALTY on TEN-C.Dike, Offensive Holding, 10 yards, enforced at NO 30."
+  },
+  {
+    "wallclock": "2025-12-28T20:20:10Z",
+    "period": 4,
+    "clock": "12:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short left to E.Ayomanor (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-28T20:20:51Z",
+    "period": 4,
+    "clock": "12:50",
+    "play_type": "Field Goal Good",
+    "yards": 58,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Slye 58 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-12-28T20:21:03Z",
+    "period": 4,
+    "clock": "12:50",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:50."
+  },
+  {
+    "wallclock": "2025-12-28T20:24:02Z",
+    "period": 4,
+    "clock": "12:50",
+    "play_type": "Kickoff",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Martin-Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chestnut",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Kinsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 67 yards from TEN 35 to NO -2. E.Hull to NO 27 for 29 yards (D.Martin-Robinson; J.Chestnut). TEN-M.Kinsey was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-28T20:25:09Z",
+    "period": 4,
+    "clock": "12:46",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Key",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Estime up the middle to NO 31 for 4 yards (J.Harrell). ** Injury Update: TEN-A.Key has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-28T20:25:45Z",
+    "period": 4,
+    "clock": "12:09",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Matavao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NO-M.Matavao, False Start, 5 yards, enforced at NO 31 - No Play."
+  },
+  {
+    "wallclock": "2025-12-28T20:26:28Z",
+    "period": 4,
+    "clock": "12:09",
+    "play_type": "Pass Reception",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass deep right to J.Johnson to TEN 35 for 39 yards (K.Brooks)."
+  },
+  {
+    "wallclock": "2025-12-28T20:27:15Z",
+    "period": 4,
+    "clock": "11:22",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) T.Shough pass short left to D.Pettis to TEN 3 for 32 yards (K.Hall). FUMBLES (K.Hall), RECOVERED by TEN-K.Elam at TEN -9. Touchback."
+  },
+  {
+    "wallclock": "2025-12-28T20:29:20Z",
+    "period": 4,
+    "clock": "11:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:06."
+  },
+  {
+    "wallclock": "2025-12-28T20:31:13Z",
+    "period": 4,
+    "clock": "11:06",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right end to TEN 22 for 2 yards (D.Davis; P.Werner)."
+  },
+  {
+    "wallclock": "2025-12-28T20:31:54Z",
+    "period": 4,
+    "clock": "10:24",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Pollard right tackle to TEN 32 for 10 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-12-28T20:32:33Z",
+    "period": 4,
+    "clock": "9:45",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ridgeway",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard left guard to TEN 36 for 4 yards (J.Ridgeway)."
+  },
+  {
+    "wallclock": "2025-12-28T20:33:12Z",
+    "period": 4,
+    "clock": "9:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass incomplete short right to C.Okonkwo."
+  },
+  {
+    "wallclock": "2025-12-28T20:33:57Z",
+    "period": 4,
+    "clock": "9:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete deep right to C.Okonkwo.Penalty on TEN-D.Moore, Illegal Use of Hands, declined."
+  },
+  {
+    "wallclock": "2025-12-28T20:34:51Z",
+    "period": 4,
+    "clock": "8:57",
+    "play_type": "Punt",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Mullings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Kinsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 61 yards to NO 3, Center-M.Cox. D.Pettis to NO 20 for 17 yards (K.Mullings). ** Injury Update: TEN-M.Kinsey has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-28T20:35:27Z",
+    "period": 4,
+    "clock": "8:45",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:45."
+  },
+  {
+    "wallclock": "2025-12-28T20:38:02Z",
+    "period": 4,
+    "clock": "8:45",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " A.Estime left end to NO 32 for 12 yards (C.Barton; J.Simmons)."
+  },
+  {
+    "wallclock": "2025-12-28T20:38:48Z",
+    "period": 4,
+    "clock": "7:59",
+    "play_type": "Pass Reception",
+    "yards": 60,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass deep left to C.Olave to TEN 8 for 60 yards (D.Baker) [J.Harrell]."
+  },
+  {
+    "wallclock": "2025-12-28T20:39:39Z",
+    "period": 4,
+    "clock": "7:08",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough right end to TEN 10 for -2 yards (K.Elam)."
+  },
+  {
+    "wallclock": "2025-12-28T20:40:21Z",
+    "period": 4,
+    "clock": "6:22",
+    "play_type": "Passing Touchdown",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Shough pass short left to K.Austin for 10 yards, TOUCHDOWN. C.Smyth extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-28T20:41:22Z",
+    "period": 4,
+    "clock": "6:22",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:22."
+  },
+  {
+    "wallclock": "2025-12-28T20:43:21Z",
+    "period": 4,
+    "clock": "6:22",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 65 yards from NO 35 to end zone, Touchback to the TEN 35."
+  },
+  {
+    "wallclock": "2025-12-28T20:44:07Z",
+    "period": 4,
+    "clock": "6:22",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Spears right tackle to TEN 36 for 1 yard (C.Jordan; N.Shepherd)."
+  },
+  {
+    "wallclock": "2025-12-28T20:44:43Z",
+    "period": 4,
+    "clock": "5:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Proche",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short left to J.Proche (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T20:45:27Z",
+    "period": 4,
+    "clock": "5:42",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at TEN 28 for -8 yards (sack split by C.Young and D.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T20:46:05Z",
+    "period": 4,
+    "clock": "5:03",
+    "play_type": "Punt",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Hekker punts 41 yards to NO 31, Center-M.Cox. D.Pettis pushed ob at NO 36 for 5 yards (J.Williams)."
+  },
+  {
+    "wallclock": "2025-12-28T20:47:06Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Estime up the middle to NO 45 for 9 yards (K.Brooks; C.Gray).Penalty on TEN-J.Simmons, Defensive Offside, declined."
+  },
+  {
+    "wallclock": "2025-12-28T20:48:31Z",
+    "period": 4,
+    "clock": "4:47",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sweat",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Estime up the middle to NO 45 for no gain (T.Sweat; J.Simmons)."
+  },
+  {
+    "wallclock": "2025-12-28T20:49:16Z",
+    "period": 4,
+    "clock": "4:02",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short middle to J.Johnson to TEN 32 for 23 yards (A.Hooker)."
+  },
+  {
+    "wallclock": "2025-12-28T20:49:37Z",
+    "period": 4,
+    "clock": "3:54",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TEN at 03:54."
+  },
+  {
+    "wallclock": "2025-12-28T20:50:39Z",
+    "period": 4,
+    "clock": "3:44",
+    "play_type": "Rushing Touchdown",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "A.Estime left tackle for 32 yards, TOUCHDOWN. C.Smyth extra point is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-12-28T20:52:54Z",
+    "period": 4,
+    "clock": "3:44",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 65 yards from NO 35 to end zone, Touchback to the TEN 35."
+  },
+  {
+    "wallclock": "2025-12-28T20:53:37Z",
+    "period": 4,
+    "clock": "3:44",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Proche",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to J.Proche ran ob at TEN 40 for 5 yards."
+  },
+  {
+    "wallclock": "2025-12-28T20:54:14Z",
+    "period": 4,
+    "clock": "3:38",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short middle to T.Pollard to 50 for 10 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-12-28T20:54:40Z",
+    "period": 4,
+    "clock": "3:11",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short left to C.Okonkwo to NO 41 for 9 yards (A.Taylor; D.Davis)."
+  },
+  {
+    "wallclock": "2025-12-28T20:55:03Z",
+    "period": 4,
+    "clock": "2:49",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) T.Pollard left tackle to NO 37 for 4 yards (C.Young)."
+  },
+  {
+    "wallclock": "2025-12-28T20:55:23Z",
+    "period": 4,
+    "clock": "2:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass incomplete deep left to C.Okonkwo (J.Reid)."
+  },
+  {
+    "wallclock": "2025-12-28T20:56:09Z",
+    "period": 4,
+    "clock": "2:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Proche",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short left to J.Proche (A.Taylor) [A.Taylor]."
+  },
+  {
+    "wallclock": "2025-12-28T20:56:53Z",
+    "period": 4,
+    "clock": "2:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-28T20:57:40Z",
+    "period": 4,
+    "clock": "2:09",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at NO 38 for -1 yards (C.Jordan)."
+  },
+  {
+    "wallclock": "2025-12-28T20:58:06Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-28T21:01:18Z",
+    "period": 4,
+    "clock": "2:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Joseph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass incomplete deep left to C.Olave [S.Joseph]."
+  },
+  {
+    "wallclock": "2025-12-28T21:01:36Z",
+    "period": 4,
+    "clock": "1:58",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-28T21:02:37Z",
+    "period": 4,
+    "clock": "1:58",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Estime",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Estime up the middle to NO 35 for -3 yards (J.Harrell, J.Ward)."
+  },
+  {
+    "wallclock": "2025-12-28T21:02:58Z",
+    "period": 4,
+    "clock": "1:53",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TEN at 01:53."
+  },
+  {
+    "wallclock": "2025-12-28T21:03:36Z",
+    "period": 4,
+    "clock": "1:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete deep left to D.Pettis (K.Elam)."
+  },
+  {
+    "wallclock": "2025-12-28T21:04:29Z",
+    "period": 4,
+    "clock": "1:47",
+    "play_type": "Punt",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 41 yards to TEN 24, Center-Z.Wood. C.Dike to TEN 31 for 7 yards (I.Yiadom)."
+  },
+  {
+    "wallclock": "2025-12-28T21:05:35Z",
+    "period": 4,
+    "clock": "1:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right [C.Jordan]."
+  },
+  {
+    "wallclock": "2025-12-28T21:06:16Z",
+    "period": 4,
+    "clock": "1:30",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) C.Ward pass short left to C.Dike to TEN 39 for 8 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T21:06:51Z",
+    "period": 4,
+    "clock": "1:07",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NO at 01:07."
+  },
+  {
+    "wallclock": "2025-12-28T21:07:39Z",
+    "period": 4,
+    "clock": "1:07",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to C.Dike to TEN 44 for 5 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T21:08:02Z",
+    "period": 4,
+    "clock": "0:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Helm",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass incomplete short left to G.Helm (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-12-28T21:08:43Z",
+    "period": 4,
+    "clock": "0:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Proche",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete deep left to J.Proche."
+  },
+  {
+    "wallclock": "2025-12-28T21:09:28Z",
+    "period": 4,
+    "clock": "0:33",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to T.Spears pushed ob at TEN 43 for -1 yards (J.Reid)."
+  },
+  {
+    "wallclock": "2025-12-28T21:10:13Z",
+    "period": 4,
+    "clock": "0:26",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to E.Ayomanor to NO 43 for 14 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-28T21:10:44Z",
+    "period": 4,
+    "clock": "0:18",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by TEN at 00:18."
+  },
+  {
+    "wallclock": "2025-12-28T21:11:13Z",
+    "period": 4,
+    "clock": "0:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Proche",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete deep left to J.Proche (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-12-28T21:12:02Z",
+    "period": 4,
+    "clock": "0:08",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward to TEN 41 for -16 yards (C.Jordan). FUMBLES (C.Jordan), and recovers at TEN 37. C.Ward pass incomplete short left to T.Spears."
+  },
+  {
+    "wallclock": "2025-12-28T21:12:02Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

@@ -1,0 +1,4209 @@
+[
+  {
+    "wallclock": "2025-10-12T20:05:27Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Carlson kicks 65 yards from LV 35 to end zone, Touchback to the TEN 35."
+  },
+  {
+    "wallclock": "2025-10-12T20:06:17Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right guard to TEN 38 for 3 yards (D.White; J.Chinn)."
+  },
+  {
+    "wallclock": "2025-10-12T20:06:56Z",
+    "period": 1,
+    "clock": "14:21",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Levin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Levin reported in as eligible.  T.Pollard left guard to TEN 44 for 6 yards (D.White; I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-10-12T20:07:39Z",
+    "period": 1,
+    "clock": "13:38",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Levin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Levin reported in as eligible.  T.Pollard right tackle to TEN 44 for no gain (D.White; A.Butler)."
+  },
+  {
+    "wallclock": "2025-10-12T20:08:18Z",
+    "period": 1,
+    "clock": "12:59",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Bachman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 36 yards to LV 20, Center-M.Cox, fair catch by A.Bachman."
+  },
+  {
+    "wallclock": "2025-10-12T20:09:07Z",
+    "period": 1,
+    "clock": "12:51",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to M.Mayer to LV 25 for 5 yards (C.Gray; C.Barton)."
+  },
+  {
+    "wallclock": "2025-10-12T20:09:47Z",
+    "period": 1,
+    "clock": "12:11",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left guard to LV 30 for 5 yards (D.Jones; X.Woods)."
+  },
+  {
+    "wallclock": "2025-10-12T20:10:40Z",
+    "period": 1,
+    "clock": "11:18",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Meyers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Armour-Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to J.Meyers to LV 38 for 8 yards (R.McCreary; J.Armour-Davis)."
+  },
+  {
+    "wallclock": "2025-10-12T20:11:16Z",
+    "period": 1,
+    "clock": "10:42",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty right guard to LV 39 for 1 yard (J.Simmons)."
+  },
+  {
+    "wallclock": "2025-10-12T20:12:00Z",
+    "period": 1,
+    "clock": "9:58",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right end pushed ob at TEN 48 for 13 yards (L.Sneed; C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T20:12:42Z",
+    "period": 1,
+    "clock": "9:18",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty left guard to 50 for -2 yards (J.Simmons)."
+  },
+  {
+    "wallclock": "2025-10-12T20:13:24Z",
+    "period": 1,
+    "clock": "8:36",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right guard to TEN 43 for 7 yards (L.Sneed)."
+  },
+  {
+    "wallclock": "2025-10-12T20:14:06Z",
+    "period": 1,
+    "clock": "7:55",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short middle to T.Tucker to TEN 36 for 7 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T20:14:46Z",
+    "period": 1,
+    "clock": "7:14",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass short left to T.Tucker to TEN 23 for 13 yards (L.Sneed)."
+  },
+  {
+    "wallclock": "2025-10-12T20:15:28Z",
+    "period": 1,
+    "clock": "6:32",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right end to TEN 16 for 7 yards (A.Hooker)."
+  },
+  {
+    "wallclock": "2025-10-12T20:16:10Z",
+    "period": 1,
+    "clock": "5:51",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Oladejo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Mostert right guard to TEN 19 for -3 yards (O.Oladejo)."
+  },
+  {
+    "wallclock": "2025-10-12T20:16:50Z",
+    "period": 1,
+    "clock": "5:11",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at TEN 27 for -8 yards (J.Simmons)."
+  },
+  {
+    "wallclock": "2025-10-12T20:17:34Z",
+    "period": 1,
+    "clock": "4:26",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Field Goal formation) PENALTY on LV, Delay of Game, 5 yards, enforced at TEN 27 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T20:18:17Z",
+    "period": 1,
+    "clock": "4:07",
+    "play_type": "Field Goal Good",
+    "yards": 50,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "D.Carlson 50 yard field goal is GOOD, Center-J.Bobenmoyer, Holder-A.Cole."
+  },
+  {
+    "wallclock": "2025-10-12T20:19:05Z",
+    "period": 1,
+    "clock": "4:07",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:07."
+  },
+  {
+    "wallclock": "2025-10-12T20:21:14Z",
+    "period": 1,
+    "clock": "4:07",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Shorter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lindenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Carlson kicks 57 yards from LV 35 to TEN 8. C.Dike to TEN 32 for 24 yards (J.Shorter; C.Lindenberg)."
+  },
+  {
+    "wallclock": "2025-10-12T20:22:02Z",
+    "period": 1,
+    "clock": "4:00",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to T.Spears to TEN 33 for 1 yard (J.Laulu; E.Roberts)."
+  },
+  {
+    "wallclock": "2025-10-12T20:22:27Z",
+    "period": 1,
+    "clock": "3:34",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short left to C.Okonkwo to TEN 32 for -1 yards (J.Chinn)."
+  },
+  {
+    "wallclock": "2025-10-12T20:23:10Z",
+    "period": 1,
+    "clock": "2:51",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ridley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Holmes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to C.Ridley to 50 for 18 yards (K.Kelly).Penalty on LV-D.Holmes, Defensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-10-12T20:24:10Z",
+    "period": 1,
+    "clock": "2:25",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard left tackle to TEN 49 for -1 yards (T.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T20:24:49Z",
+    "period": 1,
+    "clock": "1:45",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on TEN-D.Moore, False Start, 5 yards, enforced at TEN 49 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T20:25:37Z",
+    "period": 1,
+    "clock": "1:25",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at TEN 35 for -9 yards (J.Laulu)."
+  },
+  {
+    "wallclock": "2025-10-12T20:26:23Z",
+    "period": 1,
+    "clock": "0:40",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to C.Dike to TEN 43 for 8 yards (K.Kelly)."
+  },
+  {
+    "wallclock": "2025-10-12T20:26:23Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-10-12T20:29:47Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Punt",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Bachman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chestnut",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 47 yards to LV 10, Center-M.Cox. A.Bachman to LV 35 for 25 yards (J.Chestnut)."
+  },
+  {
+    "wallclock": "2025-10-12T20:30:56Z",
+    "period": 2,
+    "clock": "14:46",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty up the middle to LV 36 for 1 yard (X.Woods; D.Jones)."
+  },
+  {
+    "wallclock": "2025-10-12T20:31:35Z",
+    "period": 2,
+    "clock": "14:07",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short middle to M.Mayer to LV 43 for 7 yards (A.Hooker).PENALTY on TEN-J.Ward, Defensive Offside, 5 yards, enforced at LV 36 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T20:32:44Z",
+    "period": 2,
+    "clock": "13:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to M.Mayer to LV 45 for 4 yards (C.Gray).Tennessee challenged the pass completion ruling, and the play was REVERSED.(Shotgun) G.Smith pass incomplete short left to M.Mayer (C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T20:36:34Z",
+    "period": 2,
+    "clock": "13:38",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bech",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at LV 34 for -7 yards (J.Ward). FUMBLES (J.Ward) [J.Ward], RECOVERED by TEN-C.Barton at LV 43. C.Barton for 43 yards, TOUCHDOWN.The Replay Official reviewed the fumble ruling, and the play was REVERSED.(Shotgun) G.Smith pass incomplete short middle to J.Bech (J.Ward) [J.Ward]."
+  },
+  {
+    "wallclock": "2025-10-12T20:40:37Z",
+    "period": 2,
+    "clock": "13:34",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 47 yards to TEN 12, Center-J.Bobenmoyer, fair catch by C.Dike."
+  },
+  {
+    "wallclock": "2025-10-12T20:41:40Z",
+    "period": 2,
+    "clock": "13:26",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Levin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Levin reported in as eligible.  T.Pollard up the middle to TEN 15 for 3 yards (J.Adams; E.Stokes)."
+  },
+  {
+    "wallclock": "2025-10-12T20:42:17Z",
+    "period": 2,
+    "clock": "12:48",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to T.Pollard to TEN 24 for 9 yards (E.Roberts; J.Adams)."
+  },
+  {
+    "wallclock": "2025-10-12T20:42:57Z",
+    "period": 2,
+    "clock": "12:08",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to C.Dike to TEN 24 for no gain (J.Laulu)."
+  },
+  {
+    "wallclock": "2025-10-12T20:43:36Z",
+    "period": 2,
+    "clock": "11:30",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short middle to T.Lockett."
+  },
+  {
+    "wallclock": "2025-10-12T20:44:20Z",
+    "period": 2,
+    "clock": "11:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short middle to T.Lockett.Penalty on TEN-D.Moore, Illegal Formation, declined."
+  },
+  {
+    "wallclock": "2025-10-12T20:45:09Z",
+    "period": 2,
+    "clock": "11:19",
+    "play_type": "Punt",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Bachman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mausi",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 49 yards to LV 27, Center-M.Cox. A.Bachman pushed ob at LV 45 for 18 yards (D.Mausi)."
+  },
+  {
+    "wallclock": "2025-10-12T20:45:43Z",
+    "period": 2,
+    "clock": "11:04",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:04."
+  },
+  {
+    "wallclock": "2025-10-12T20:48:08Z",
+    "period": 2,
+    "clock": "11:04",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Diggs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left end to LV 46 for 1 yard (Q.Diggs)."
+  },
+  {
+    "wallclock": "2025-10-12T20:48:46Z",
+    "period": 2,
+    "clock": "10:26",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Oladejo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right end to LV 41 for -5 yards (O.Oladejo)."
+  },
+  {
+    "wallclock": "2025-10-12T20:49:28Z",
+    "period": 2,
+    "clock": "9:45",
+    "play_type": "Sack",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Armour-Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at LV 28 for -13 yards (D.Jones).PENALTY on TEN-J.Armour-Davis, Illegal Contact, 5 yards, enforced at LV 41 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T20:50:32Z",
+    "period": 2,
+    "clock": "9:14",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right guard to TEN 48 for 6 yards (Q.Diggs; D.Jones)."
+  },
+  {
+    "wallclock": "2025-10-12T20:51:11Z",
+    "period": 2,
+    "clock": "8:35",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at LV 44 for -8 yards (D.Jones)."
+  },
+  {
+    "wallclock": "2025-10-12T20:51:56Z",
+    "period": 2,
+    "clock": "7:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Oladejo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short middle to A.Jeanty [O.Oladejo]."
+  },
+  {
+    "wallclock": "2025-10-12T20:52:36Z",
+    "period": 2,
+    "clock": "7:46",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 47 yards to TEN 9, Center-J.Bobenmoyer, fair catch by C.Dike."
+  },
+  {
+    "wallclock": "2025-10-12T20:52:54Z",
+    "period": 2,
+    "clock": "7:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:39."
+  },
+  {
+    "wallclock": "2025-10-12T20:55:34Z",
+    "period": 2,
+    "clock": "7:39",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass short right to C.Okonkwo to TEN 11 for 2 yards (J.Adams)."
+  },
+  {
+    "wallclock": "2025-10-12T20:56:16Z",
+    "period": 2,
+    "clock": "6:57",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard left end to TEN 12 for 1 yard (T.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T20:57:00Z",
+    "period": 2,
+    "clock": "6:12",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at TEN 3 for -9 yards (D.White). FUMBLES (D.White) [D.White], RECOVERED by LV-T.Wilson at TEN 2."
+  },
+  {
+    "wallclock": "2025-10-12T20:58:02Z",
+    "period": 2,
+    "clock": "6:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cappa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Putnam",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Cappa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cappa and W.Putnam reported in as eligible.  G.Smith pass incomplete short right to A.Cappa (C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T20:58:35Z",
+    "period": 2,
+    "clock": "6:04",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cappa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Putnam",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Tuttle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cappa and W.Putnam reported in as eligible.  A.Jeanty up the middle to TEN 4 for -2 yards (S.Tuttle)."
+  },
+  {
+    "wallclock": "2025-10-12T20:59:20Z",
+    "period": 2,
+    "clock": "5:13",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) G.Smith pass short middle to M.Mayer for 4 yards, TOUCHDOWN. D.Carlson extra point is GOOD, Center-J.Bobenmoyer, Holder-A.Cole."
+  },
+  {
+    "wallclock": "2025-10-12T21:00:26Z",
+    "period": 2,
+    "clock": "5:13",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:13."
+  },
+  {
+    "wallclock": "2025-10-12T21:03:05Z",
+    "period": 2,
+    "clock": "5:13",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Carlson kicks 66 yards from LV 35 to TEN -1. C.Dike to TEN 27 for 28 yards (T.McCollum)."
+  },
+  {
+    "wallclock": "2025-10-12T21:03:49Z",
+    "period": 2,
+    "clock": "5:08",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to T.Spears to TEN 32 for 5 yards (J.Adams)."
+  },
+  {
+    "wallclock": "2025-10-12T21:04:33Z",
+    "period": 2,
+    "clock": "4:25",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Spears right guard to TEN 34 for 2 yards (A.Butler; T.Booker)."
+  },
+  {
+    "wallclock": "2025-10-12T21:05:16Z",
+    "period": 2,
+    "clock": "3:41",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at TEN 24 for -10 yards (M.Crosby)."
+  },
+  {
+    "wallclock": "2025-10-12T21:05:55Z",
+    "period": 2,
+    "clock": "3:02",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 35 yards to LV 41, Center-M.Cox, out of bounds."
+  },
+  {
+    "wallclock": "2025-10-12T21:06:22Z",
+    "period": 2,
+    "clock": "2:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:54."
+  },
+  {
+    "wallclock": "2025-10-12T21:08:52Z",
+    "period": 2,
+    "clock": "2:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short left to A.Jeanty."
+  },
+  {
+    "wallclock": "2025-10-12T21:09:32Z",
+    "period": 2,
+    "clock": "2:49",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Joseph",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Mostert left guard to LV 39 for -2 yards (S.Joseph, J.Simmons)."
+  },
+  {
+    "wallclock": "2025-10-12T21:10:13Z",
+    "period": 2,
+    "clock": "2:08",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to M.Mayer to LV 47 for 8 yards (R.McCreary)."
+  },
+  {
+    "wallclock": "2025-10-12T21:10:32Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-12T21:13:39Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on LV, Delay of Game, 5 yards, enforced at LV 47 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T21:14:03Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 42 yards to TEN 16, Center-J.Bobenmoyer, fair catch by C.Dike."
+  },
+  {
+    "wallclock": "2025-10-12T21:14:49Z",
+    "period": 2,
+    "clock": "1:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right [T.Booker]."
+  },
+  {
+    "wallclock": "2025-10-12T21:15:32Z",
+    "period": 2,
+    "clock": "1:44",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Spears up the middle to TEN 25 for 9 yards (D.White; T.Wilson)."
+  },
+  {
+    "wallclock": "2025-10-12T21:16:16Z",
+    "period": 2,
+    "clock": "1:00",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Levin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Udoh",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Levin and O.Udoh reported in as eligible.  T.Spears up the middle to TEN 37 for 12 yards (I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-10-12T21:16:35Z",
+    "period": 2,
+    "clock": "0:50",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TEN at 00:50."
+  },
+  {
+    "wallclock": "2025-10-12T21:17:24Z",
+    "period": 2,
+    "clock": "0:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short middle."
+  },
+  {
+    "wallclock": "2025-10-12T21:18:10Z",
+    "period": 2,
+    "clock": "0:48",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass deep right to V.Jefferson ran ob at LV 43 for 20 yards."
+  },
+  {
+    "wallclock": "2025-10-12T21:18:53Z",
+    "period": 2,
+    "clock": "0:42",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Helm",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to G.Helm to LV 34 for 9 yards (M.Crosby)."
+  },
+  {
+    "wallclock": "2025-10-12T21:19:13Z",
+    "period": 2,
+    "clock": "0:33",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TEN at 00:33."
+  },
+  {
+    "wallclock": "2025-10-12T21:20:01Z",
+    "period": 2,
+    "clock": "0:33",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at LV 42 for -8 yards. FUMBLES, touched at LV 41, RECOVERED by LV-A.Butler at LV 45.The Replay Official reviewed the fumble ruling, and the play was REVERSED.(Shotgun) C.Ward pass incomplete short middle [M.Crosby]."
+  },
+  {
+    "wallclock": "2025-10-12T21:21:46Z",
+    "period": 2,
+    "clock": "0:30",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Spears left guard to LV 30 for 4 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-10-12T21:22:00Z",
+    "period": 2,
+    "clock": "0:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Ward spiked the ball to stop the clock."
+  },
+  {
+    "wallclock": "2025-10-12T21:22:41Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left intended for C.Dike INTERCEPTED by D.White (J.Laulu) at LV 23. D.White to LV 23 for no gain (T.Spears)."
+  },
+  {
+    "wallclock": "2025-10-12T21:23:31Z",
+    "period": 2,
+    "clock": "0:05",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith kneels to LV 22 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-12T21:23:31Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-10-12T21:37:19Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Wright kicks 64 yards from TEN 35 to LV 1. D.Laube to LV 30 for 29 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T21:38:06Z",
+    "period": 3,
+    "clock": "14:53",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass short right to A.Jeanty pushed ob at LV 39 for 9 yards (X.Woods)."
+  },
+  {
+    "wallclock": "2025-10-12T21:38:51Z",
+    "period": 3,
+    "clock": "14:12",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty up the middle to LV 45 for 6 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T21:39:27Z",
+    "period": 3,
+    "clock": "13:36",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty right end to TEN 48 for 7 yards (X.Woods; D.Jones)."
+  },
+  {
+    "wallclock": "2025-10-12T21:40:09Z",
+    "period": 3,
+    "clock": "12:55",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to A.Jeanty to TEN 46 for 2 yards (C.Gray; L.Sneed)."
+  },
+  {
+    "wallclock": "2025-10-12T21:40:50Z",
+    "period": 3,
+    "clock": "12:14",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Joseph",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith left guard to TEN 46 for no gain (S.Joseph; C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T21:41:15Z",
+    "period": 3,
+    "clock": "11:48",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) G.Smith pass short right to M.Mayer to TEN 35 for 11 yards (L.Sneed)."
+  },
+  {
+    "wallclock": "2025-10-12T21:41:50Z",
+    "period": 3,
+    "clock": "11:13",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lynch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lynch",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty left guard to TEN 27 for 8 yards (J.Lynch).PENALTY on TEN-J.Lynch, Defensive Holding, 5 yards, enforced at TEN 27."
+  },
+  {
+    "wallclock": "2025-10-12T21:42:42Z",
+    "period": 3,
+    "clock": "10:49",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right guard to TEN 17 for 5 yards (L.Sneed; C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T21:43:24Z",
+    "period": 3,
+    "clock": "10:08",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Oladejo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Tuttle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Oladejo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left guard to TEN 15 for 2 yards (O.Oladejo; S.Tuttle). TEN-O.Oladejo was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-12T21:44:11Z",
+    "period": 3,
+    "clock": "9:47",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:47."
+  },
+  {
+    "wallclock": "2025-10-12T21:46:38Z",
+    "period": 3,
+    "clock": "9:29",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Meyers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to J.Meyers pushed ob at TEN 7 for 8 yards (A.Hooker) [D.Jones]."
+  },
+  {
+    "wallclock": "2025-10-12T21:47:15Z",
+    "period": 3,
+    "clock": "8:53",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty left guard to TEN 7 for no gain (J.Ward; J.Simmons)."
+  },
+  {
+    "wallclock": "2025-10-12T21:47:55Z",
+    "period": 3,
+    "clock": "8:13",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass short right to T.Tucker to TEN 7 for no gain (L.Sneed)."
+  },
+  {
+    "wallclock": "2025-10-12T21:48:39Z",
+    "period": 3,
+    "clock": "7:28",
+    "play_type": "Sack",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at TEN 15 for -8 yards (J.Ward).PENALTY on TEN-D.Jones, Face Mask, 4 yards, enforced at TEN 7 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T21:49:41Z",
+    "period": 3,
+    "clock": "7:04",
+    "play_type": "Rushing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "A.Jeanty up the middle for 3 yards, TOUCHDOWN. D.Carlson extra point is GOOD, Center-J.Bobenmoyer, Holder-A.Cole."
+  },
+  {
+    "wallclock": "2025-10-12T21:51:05Z",
+    "period": 3,
+    "clock": "7:04",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:04."
+  },
+  {
+    "wallclock": "2025-10-12T21:53:27Z",
+    "period": 3,
+    "clock": "7:04",
+    "play_type": "Kickoff",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Carlson kicks 58 yards from LV 35 to TEN 7. C.Dike to TEN 21 for 14 yards (D.Laube)."
+  },
+  {
+    "wallclock": "2025-10-12T21:54:09Z",
+    "period": 3,
+    "clock": "6:57",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right guard to TEN 38 for 17 yards (J.Chinn)."
+  },
+  {
+    "wallclock": "2025-10-12T21:54:47Z",
+    "period": 3,
+    "clock": "6:20",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass deep left to V.Jefferson pushed ob at LV 39 for 23 yards (I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-10-12T21:55:32Z",
+    "period": 3,
+    "clock": "5:38",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard right guard to LV 37 for 2 yards (A.Butler)."
+  },
+  {
+    "wallclock": "2025-10-12T21:56:17Z",
+    "period": 3,
+    "clock": "4:52",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to C.Okonkwo pushed ob at LV 24 for 13 yards (K.Kelly)."
+  },
+  {
+    "wallclock": "2025-10-12T21:57:05Z",
+    "period": 3,
+    "clock": "4:07",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to C.Dike to LV 21 for 3 yards (E.Roberts).PENALTY on LV-M.Crosby, Defensive Offside, 4 yards, enforced at LV 24 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T21:57:53Z",
+    "period": 3,
+    "clock": "3:41",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard up the middle to LV 18 for 2 yards (E.Roberts)."
+  },
+  {
+    "wallclock": "2025-10-12T21:58:35Z",
+    "period": 3,
+    "clock": "3:00",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Fotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at LV 27 for -9 yards (L.Fotu)."
+  },
+  {
+    "wallclock": "2025-10-12T21:59:18Z",
+    "period": 3,
+    "clock": "2:15",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on TEN, Delay of Game, 5 yards, enforced at LV 27 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T22:00:10Z",
+    "period": 3,
+    "clock": "1:51",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Holmes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Spears left guard to LV 28 for 4 yards (D.Holmes)."
+  },
+  {
+    "wallclock": "2025-10-12T22:00:51Z",
+    "period": 3,
+    "clock": "1:06",
+    "play_type": "Field Goal Good",
+    "yards": 46,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "M.Wright 46 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-10-12T22:01:07Z",
+    "period": 3,
+    "clock": "1:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:06."
+  },
+  {
+    "wallclock": "2025-10-12T22:03:45Z",
+    "period": 3,
+    "clock": "1:06",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Wright kicks 64 yards from TEN 35 to LV 1. D.Laube pushed ob at LV 29 for 28 yards (D.Baker)."
+  },
+  {
+    "wallclock": "2025-10-12T22:04:36Z",
+    "period": 3,
+    "clock": "0:57",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass short middle to M.Mayer to TEN 49 for 22 yards (L.Sneed)."
+  },
+  {
+    "wallclock": "2025-10-12T22:05:16Z",
+    "period": 3,
+    "clock": "0:17",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Meyers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to J.Meyers ran ob at TEN 42 for 7 yards (X.Woods)."
+  },
+  {
+    "wallclock": "2025-10-12T22:05:16Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-10-12T22:08:26Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left end to TEN 40 for 2 yards (Q.Diggs; C.Barton)."
+  },
+  {
+    "wallclock": "2025-10-12T22:09:07Z",
+    "period": 4,
+    "clock": "14:18",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Meyers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass deep left to J.Meyers to TEN 24 for 16 yards (X.Woods).Penalty on TEN-L.Sneed, Illegal Contact, declined."
+  },
+  {
+    "wallclock": "2025-10-12T22:10:09Z",
+    "period": 4,
+    "clock": "13:57",
+    "play_type": "Pass Interception Return",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass short left intended for M.Mayer INTERCEPTED by C.Barton [J.Simmons] at TEN 19. C.Barton to TEN 20 for 1 yard (M.Mayer)."
+  },
+  {
+    "wallclock": "2025-10-12T22:10:55Z",
+    "period": 4,
+    "clock": "13:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:51."
+  },
+  {
+    "wallclock": "2025-10-12T22:13:14Z",
+    "period": 4,
+    "clock": "13:51",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard left guard to TEN 21 for 1 yard (T.Wilson; E.Roberts)."
+  },
+  {
+    "wallclock": "2025-10-12T22:13:52Z",
+    "period": 4,
+    "clock": "13:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass incomplete deep left to E.Ayomanor."
+  },
+  {
+    "wallclock": "2025-10-12T22:14:38Z",
+    "period": 4,
+    "clock": "13:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Koonce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete deep right to E.Ayomanor [M.Koonce]."
+  },
+  {
+    "wallclock": "2025-10-12T22:15:16Z",
+    "period": 4,
+    "clock": "13:01",
+    "play_type": "Punt",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Bachman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 53 yards to LV 26, Center-M.Cox. A.Bachman to LV 30 for 4 yards (J.Williams)."
+  },
+  {
+    "wallclock": "2025-10-12T22:15:45Z",
+    "period": 4,
+    "clock": "12:46",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:46."
+  },
+  {
+    "wallclock": "2025-10-12T22:18:16Z",
+    "period": 4,
+    "clock": "12:46",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to T.Tucker to LV 43 for 13 yards (L.Sneed, C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T22:18:54Z",
+    "period": 4,
+    "clock": "12:09",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left tackle to LV 43 for no gain (C.Gray; J.Ward)."
+  },
+  {
+    "wallclock": "2025-10-12T22:19:36Z",
+    "period": 4,
+    "clock": "11:26",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Diggs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left guard to TEN 49 for 8 yards (Q.Diggs)."
+  },
+  {
+    "wallclock": "2025-10-12T22:20:19Z",
+    "period": 4,
+    "clock": "10:42",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on LV-A.Jeanty, False Start, 5 yards, enforced at TEN 49 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T22:21:02Z",
+    "period": 4,
+    "clock": "10:42",
+    "play_type": "Pass Reception",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to T.Tucker to TEN 17 for 37 yards (R.McCreary)."
+  },
+  {
+    "wallclock": "2025-10-12T22:21:53Z",
+    "period": 4,
+    "clock": "9:52",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right tackle to TEN 15 for 2 yards (J.Simmons)."
+  },
+  {
+    "wallclock": "2025-10-12T22:22:36Z",
+    "period": 4,
+    "clock": "9:09",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right tackle to TEN 15 for no gain (L.Sneed; C.Gray)."
+  },
+  {
+    "wallclock": "2025-10-12T22:23:29Z",
+    "period": 4,
+    "clock": "8:24",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LV at 08:24."
+  },
+  {
+    "wallclock": "2025-10-12T22:24:30Z",
+    "period": 4,
+    "clock": "8:24",
+    "play_type": "Sack",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at TEN 15 for 0 yards (R.McCreary).PENALTY on TEN-J.Ward, Defensive Offside, 5 yards, enforced at TEN 15 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T22:25:21Z",
+    "period": 4,
+    "clock": "8:00",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Mostert left guard to TEN 10 for no gain (C.Gray; C.Barton)."
+  },
+  {
+    "wallclock": "2025-10-12T22:26:03Z",
+    "period": 4,
+    "clock": "7:14",
+    "play_type": "Field Goal Good",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "D.Carlson 29 yard field goal is GOOD, Center-J.Bobenmoyer, Holder-A.Cole."
+  },
+  {
+    "wallclock": "2025-10-12T22:26:25Z",
+    "period": 4,
+    "clock": "7:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:14."
+  },
+  {
+    "wallclock": "2025-10-12T22:29:00Z",
+    "period": 4,
+    "clock": "7:14",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Carlson kicks 65 yards from LV 35 to end zone, Touchback to the TEN 35."
+  },
+  {
+    "wallclock": "2025-10-12T22:29:48Z",
+    "period": 4,
+    "clock": "7:14",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to E.Ayomanor pushed ob at TEN 44 for 9 yards (E.Stokes)."
+  },
+  {
+    "wallclock": "2025-10-12T22:30:25Z",
+    "period": 4,
+    "clock": "6:41",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short middle to E.Ayomanor to LV 49 for 7 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-10-12T22:30:50Z",
+    "period": 4,
+    "clock": "6:17",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Eichenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short right to C.Okonkwo to LV 40 for 9 yards (T.Eichenberg)."
+  },
+  {
+    "wallclock": "2025-10-12T22:31:18Z",
+    "period": 4,
+    "clock": "5:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass incomplete deep middle to V.Jefferson."
+  },
+  {
+    "wallclock": "2025-10-12T22:32:04Z",
+    "period": 4,
+    "clock": "5:43",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to T.Lockett to LV 40 for no gain (K.Kelly)."
+  },
+  {
+    "wallclock": "2025-10-12T22:32:37Z",
+    "period": 4,
+    "clock": "5:12",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by LV at 05:12."
+  },
+  {
+    "wallclock": "2025-10-12T22:33:40Z",
+    "period": 4,
+    "clock": "5:12",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Eichenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to E.Ayomanor to LV 29 for 11 yards (E.Stokes; T.Eichenberg)."
+  },
+  {
+    "wallclock": "2025-10-12T22:34:07Z",
+    "period": 4,
+    "clock": "4:44",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Holmes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short middle to T.Spears to LV 20 for 9 yards (J.Chinn; D.Holmes)."
+  },
+  {
+    "wallclock": "2025-10-12T22:35:06Z",
+    "period": 4,
+    "clock": "4:15",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short left to V.Jefferson pushed ob at LV 11 for 9 yards (K.Kelly)."
+  },
+  {
+    "wallclock": "2025-10-12T22:35:34Z",
+    "period": 4,
+    "clock": "4:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Helm",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass incomplete short right to G.Helm."
+  },
+  {
+    "wallclock": "2025-10-12T22:36:17Z",
+    "period": 4,
+    "clock": "3:56",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Spears",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to T.Spears to LV 7 for 4 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-10-12T22:36:57Z",
+    "period": 4,
+    "clock": "3:16",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short right to C.Okonkwo pushed ob at LV 4 for 3 yards (E.Stokes)."
+  },
+  {
+    "wallclock": "2025-10-12T22:37:43Z",
+    "period": 4,
+    "clock": "3:11",
+    "play_type": "Pass Incompletion",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right to E.Ayomanor [J.Laulu].PENALTY on LV-E.Stokes, Defensive Pass Interference, 3 yards, enforced at LV 4 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T22:38:34Z",
+    "period": 4,
+    "clock": "3:03",
+    "play_type": "Passing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Levin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Udoh",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Martin-Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "C.Levin and O.Udoh reported in as eligible.  C.Ward pass short middle to D.Martin-Robinson for 1 yard, TOUCHDOWN. M.Wright extra point is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-10-12T22:39:33Z",
+    "period": 4,
+    "clock": "3:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:03."
+  },
+  {
+    "wallclock": "2025-10-12T22:42:09Z",
+    "period": 4,
+    "clock": "3:03",
+    "play_type": "Kickoff",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Bachman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker kicks onside 9 yards from TEN 35 to TEN 44. A.Bachman (didn't try to advance) pushed ob at TEN 41 for 3 yards."
+  },
+  {
+    "wallclock": "2025-10-12T22:42:57Z",
+    "period": 4,
+    "clock": "3:01",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Mostert up the middle to TEN 38 for 3 yards (J.Ward)."
+  },
+  {
+    "wallclock": "2025-10-12T22:43:14Z",
+    "period": 4,
+    "clock": "2:54",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TEN at 02:54."
+  },
+  {
+    "wallclock": "2025-10-12T22:43:54Z",
+    "period": 4,
+    "clock": "2:54",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Mostert up the middle to TEN 40 for -2 yards (A.Hooker)."
+  },
+  {
+    "wallclock": "2025-10-12T22:44:10Z",
+    "period": 4,
+    "clock": "2:50",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TEN at 02:50."
+  },
+  {
+    "wallclock": "2025-10-12T22:44:55Z",
+    "period": 4,
+    "clock": "2:50",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Thomas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to I.Thomas to TEN 36 for 4 yards (R.McCreary) [J.Ward]."
+  },
+  {
+    "wallclock": "2025-10-12T22:45:18Z",
+    "period": 4,
+    "clock": "2:45",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by TEN at 02:45."
+  },
+  {
+    "wallclock": "2025-10-12T22:46:16Z",
+    "period": 4,
+    "clock": "2:45",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Run formation) PENALTY on LV, Delay of Game, 5 yards, enforced at TEN 36 - No Play."
+  },
+  {
+    "wallclock": "2025-10-12T22:47:03Z",
+    "period": 4,
+    "clock": "2:45",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 31 yards to TEN 10, Center-J.Bobenmoyer, fair catch by C.Dike."
+  },
+  {
+    "wallclock": "2025-10-12T22:47:56Z",
+    "period": 4,
+    "clock": "2:37",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to T.Pollard pushed ob at TEN 14 for 4 yards (D.White, E.Stokes)."
+  },
+  {
+    "wallclock": "2025-10-12T22:48:35Z",
+    "period": 4,
+    "clock": "2:32",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at TEN 5 for -9 yards (M.Crosby)."
+  },
+  {
+    "wallclock": "2025-10-12T22:49:09Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-12T22:51:54Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short left to V.Jefferson."
+  },
+  {
+    "wallclock": "2025-10-12T22:52:38Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to C.Okonkwo to TEN 25 for 20 yards (J.Chinn)."
+  },
+  {
+    "wallclock": "2025-10-12T22:53:06Z",
+    "period": 4,
+    "clock": "1:28",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass deep left to V.Jefferson ran ob at TEN 48 for 23 yards (J.Chinn)."
+  },
+  {
+    "wallclock": "2025-10-12T22:53:46Z",
+    "period": 4,
+    "clock": "1:23",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Helm",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Holmes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to G.Helm to LV 46 for 6 yards (D.Holmes)."
+  },
+  {
+    "wallclock": "2025-10-12T22:54:16Z",
+    "period": 4,
+    "clock": "0:54",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward sacked at TEN 43 for -11 yards. FUMBLES, RECOVERED by LV-T.Booker at TEN 39."
+  },
+  {
+    "wallclock": "2025-10-12T22:55:06Z",
+    "period": 4,
+    "clock": "0:47",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith kneels to TEN 40 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-12T22:55:21Z",
+    "period": 4,
+    "clock": "0:31",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith kneels to TEN 41 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-12T22:55:21Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

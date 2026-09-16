@@ -1,0 +1,4513 @@
+[
+  {
+    "wallclock": "2025-09-07T17:03:52Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.McFadden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan kicks 66 yards from NYG 35 to WAS -1. D.Samuel to WAS 20 for 21 yards (M.McFadden)."
+  },
+  {
+    "wallclock": "2025-09-07T17:04:37Z",
+    "period": 1,
+    "clock": "14:55",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass short left to A.Ekeler to WAS 24 for 4 yards (P.Adebo)."
+  },
+  {
+    "wallclock": "2025-09-07T17:05:02Z",
+    "period": 1,
+    "clock": "14:30",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels left end to WAS 29 for 5 yards (B.Burns; T.Nubin)."
+  },
+  {
+    "wallclock": "2025-09-07T17:05:42Z",
+    "period": 1,
+    "clock": "13:50",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels scrambles right end to WAS 36 for 7 yards (T.Nubin; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T17:06:16Z",
+    "period": 1,
+    "clock": "13:15",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Robertson-Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Ekeler right tackle to WAS 41 for 5 yards (B.Okereke; R.Robertson-Harris)."
+  },
+  {
+    "wallclock": "2025-09-07T17:06:40Z",
+    "period": 1,
+    "clock": "12:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short right to D.Samuel (C.Flott)."
+  },
+  {
+    "wallclock": "2025-09-07T17:07:22Z",
+    "period": 1,
+    "clock": "12:47",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on WAS-Z.Ertz, False Start, 5 yards, enforced at WAS 41 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T17:07:58Z",
+    "period": 1,
+    "clock": "12:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass incomplete short middle to Z.Ertz."
+  },
+  {
+    "wallclock": "2025-09-07T17:08:40Z",
+    "period": 1,
+    "clock": "12:42",
+    "play_type": "Punt",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Way punts 52 yards to NYG 12, Center-T.Ott. G.Olszewski to NYG 23 for 11 yards (P.Butler)."
+  },
+  {
+    "wallclock": "2025-09-07T17:09:23Z",
+    "period": 1,
+    "clock": "12:31",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:31."
+  },
+  {
+    "wallclock": "2025-09-07T17:11:48Z",
+    "period": 1,
+    "clock": "12:31",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Kinlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy up the middle to NYG 22 for -1 yards (J.Kinlaw)."
+  },
+  {
+    "wallclock": "2025-09-07T17:12:27Z",
+    "period": 1,
+    "clock": "11:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete deep right to M.Nabers."
+  },
+  {
+    "wallclock": "2025-09-07T17:13:08Z",
+    "period": 1,
+    "clock": "11:48",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Payne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short right to W.Robinson to NYG 26 for 4 yards (D.Payne)."
+  },
+  {
+    "wallclock": "2025-09-07T17:13:45Z",
+    "period": 1,
+    "clock": "11:13",
+    "play_type": "Punt",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 53 yards to WAS 21, Center-C.Kreiter. J.Lane to WAS 30 for 9 yards (D.Belton).PENALTY on WAS-J.Jones, Offensive Holding, 10 yards, enforced at WAS 21."
+  },
+  {
+    "wallclock": "2025-09-07T17:14:58Z",
+    "period": 1,
+    "clock": "11:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:02."
+  },
+  {
+    "wallclock": "2025-09-07T17:17:19Z",
+    "period": 1,
+    "clock": "11:02",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Nunez-Roches",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Ekeler left guard to WAS 17 for 6 yards (J.Holland; R.Nunez-Roches)."
+  },
+  {
+    "wallclock": "2025-09-07T17:17:38Z",
+    "period": 1,
+    "clock": "10:42",
+    "play_type": "Pass Reception",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.McFadden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass deep right to C.Moore ran ob at NYG 49 for 34 yards [M.McFadden]."
+  },
+  {
+    "wallclock": "2025-09-07T17:18:19Z",
+    "period": 1,
+    "clock": "10:07",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short left to D.Samuel pushed ob at NYG 41 for 8 yards (P.Adebo)."
+  },
+  {
+    "wallclock": "2025-09-07T17:18:57Z",
+    "period": 1,
+    "clock": "9:32",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass deep right to N.Brown to NYG 23 for 18 yards (C.Flott; T.Nubin)."
+  },
+  {
+    "wallclock": "2025-09-07T17:19:38Z",
+    "period": 1,
+    "clock": "8:51",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.McFadden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels left end to NYG 15 for 8 yards (M.McFadden; J.Holland)."
+  },
+  {
+    "wallclock": "2025-09-07T17:20:19Z",
+    "period": 1,
+    "clock": "8:09",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.McFadden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.McFadden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Ekeler left tackle to NYG 11 for 4 yards (M.McFadden). NYG-M.McFadden was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-07T17:21:37Z",
+    "period": 1,
+    "clock": "7:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:54."
+  },
+  {
+    "wallclock": "2025-09-07T17:24:29Z",
+    "period": 1,
+    "clock": "7:43",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Ekeler up the middle to NYG 7 for 4 yards (J.Holland; D.Lawrence)."
+  },
+  {
+    "wallclock": "2025-09-07T17:25:08Z",
+    "period": 1,
+    "clock": "7:00",
+    "play_type": "Passing Touchdown",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Gay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short left to Z.Ertz for 7 yards, TOUCHDOWN. M.Gay extra point is GOOD, Center-T.Ott, Holder-T.Way."
+  },
+  {
+    "wallclock": "2025-09-07T17:26:16Z",
+    "period": 1,
+    "clock": "7:00",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:00."
+  },
+  {
+    "wallclock": "2025-09-07T17:28:50Z",
+    "period": 1,
+    "clock": "7:00",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Gay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bellore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Gay kicks 63 yards from WAS 35 to NYG 2. W.Robinson to NYG 22 for 20 yards (N.Bellore)."
+  },
+  {
+    "wallclock": "2025-09-07T17:29:33Z",
+    "period": 1,
+    "clock": "6:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wilson pass incomplete short left to M.Nabers."
+  },
+  {
+    "wallclock": "2025-09-07T17:30:09Z",
+    "period": 1,
+    "clock": "6:52",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Payne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy left guard to NYG 28 for 6 yards (D.Payne; F.Luvu)."
+  },
+  {
+    "wallclock": "2025-09-07T17:30:54Z",
+    "period": 1,
+    "clock": "6:07",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Amos",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short right to W.Robinson pushed ob at NYG 33 for 5 yards (T.Amos)."
+  },
+  {
+    "wallclock": "2025-09-07T17:31:33Z",
+    "period": 1,
+    "clock": "5:30",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy right tackle to NYG 39 for 6 yards (Q.Martin; B.Wagner)."
+  },
+  {
+    "wallclock": "2025-09-07T17:32:13Z",
+    "period": 1,
+    "clock": "4:50",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short left to W.Robinson to NYG 46 for 7 yards (W.Harris)."
+  },
+  {
+    "wallclock": "2025-09-07T17:32:59Z",
+    "period": 1,
+    "clock": "4:04",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wilson pass short right to M.Nabers to WAS 29 for 25 yards (Q.Martin)."
+  },
+  {
+    "wallclock": "2025-09-07T17:33:46Z",
+    "period": 1,
+    "clock": "3:20",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short right to C.Skattebo to WAS 23 for 6 yards (W.Harris)."
+  },
+  {
+    "wallclock": "2025-09-07T17:34:28Z",
+    "period": 1,
+    "clock": "2:38",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Goldman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Skattebo up the middle to WAS 25 for -2 yards (E.Goldman)."
+  },
+  {
+    "wallclock": "2025-09-07T17:35:12Z",
+    "period": 1,
+    "clock": "1:54",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Lattimore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Lattimore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short left to W.Robinson to WAS 17 for 8 yards (M.Lattimore; F.Luvu).PENALTY on WAS-M.Lattimore, Unnecessary Roughness, 9 yards, enforced at WAS 17."
+  },
+  {
+    "wallclock": "2025-09-07T17:37:14Z",
+    "period": 1,
+    "clock": "1:28",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wise",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wilson pass short right to M.Nabers to WAS 10 for -2 yards (D.Wise)."
+  },
+  {
+    "wallclock": "2025-09-07T17:38:06Z",
+    "period": 1,
+    "clock": "0:43",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by WAS at 00:43."
+  },
+  {
+    "wallclock": "2025-09-07T17:39:13Z",
+    "period": 1,
+    "clock": "0:43",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short right to T.Johnson."
+  },
+  {
+    "wallclock": "2025-09-07T17:39:54Z",
+    "period": 1,
+    "clock": "0:39",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson scrambles right end to WAS 2 for 8 yards (W.Harris). FUMBLES (W.Harris), and recovers at WAS 2."
+  },
+  {
+    "wallclock": "2025-09-07T17:39:54Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-07T17:43:36Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Penalty",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wise",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short right to M.Nabers (W.Harris).PENALTY on WAS-D.Wise, Illegal Use of Hands, 1 yard, enforced at WAS 2 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T17:44:46Z",
+    "period": 2,
+    "clock": "14:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mbow",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Mbow reported in as eligible.  R.Wilson pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-09-07T17:45:25Z",
+    "period": 2,
+    "clock": "14:48",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wise",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Skattebo up the middle to WAS 2 for -1 yards (B.Wagner, D.Wise)."
+  },
+  {
+    "wallclock": "2025-09-07T17:46:09Z",
+    "period": 2,
+    "clock": "14:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wise",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short middle [D.Wise]."
+  },
+  {
+    "wallclock": "2025-09-07T17:46:52Z",
+    "period": 2,
+    "clock": "13:57",
+    "play_type": "Field Goal Good",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Gano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "G.Gano 21 yard field goal is GOOD, Center-C.Kreiter, Holder-J.Gillan."
+  },
+  {
+    "wallclock": "2025-09-07T17:47:17Z",
+    "period": 2,
+    "clock": "13:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:57."
+  },
+  {
+    "wallclock": "2025-09-07T17:49:58Z",
+    "period": 2,
+    "clock": "13:57",
+    "play_type": "Kickoff",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Gano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Gano kicks 64 yards from NYG 35 to WAS 1. D.Samuel to WAS 30 for 29 yards (D.Belton)."
+  },
+  {
+    "wallclock": "2025-09-07T17:50:44Z",
+    "period": 2,
+    "clock": "13:51",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Croskey-Merritt right end to WAS 31 for 1 yard (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T17:51:08Z",
+    "period": 2,
+    "clock": "13:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete deep right to D.Samuel."
+  },
+  {
+    "wallclock": "2025-09-07T17:51:48Z",
+    "period": 2,
+    "clock": "13:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass incomplete deep left to T.McLaurin."
+  },
+  {
+    "wallclock": "2025-09-07T17:52:26Z",
+    "period": 2,
+    "clock": "13:17",
+    "play_type": "Punt",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bellore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Way punts 64 yards to NYG 5, Center-T.Ott. G.Olszewski to NYG 15 for 10 yards (N.Bellore; P.Butler)."
+  },
+  {
+    "wallclock": "2025-09-07T17:53:01Z",
+    "period": 2,
+    "clock": "13:07",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:07."
+  },
+  {
+    "wallclock": "2025-09-07T17:55:28Z",
+    "period": 2,
+    "clock": "13:07",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Singletary right guard to NYG 16 for 1 yard (V.Miller)."
+  },
+  {
+    "wallclock": "2025-09-07T17:56:02Z",
+    "period": 2,
+    "clock": "12:33",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Singletary left tackle to NYG 24 for 8 yards (W.Harris; Q.Martin)."
+  },
+  {
+    "wallclock": "2025-09-07T17:56:46Z",
+    "period": 2,
+    "clock": "11:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short right to W.Robinson."
+  },
+  {
+    "wallclock": "2025-09-07T17:57:22Z",
+    "period": 2,
+    "clock": "11:47",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 34 yards to WAS 42, Center-C.Kreiter, fair catch by J.Lane."
+  },
+  {
+    "wallclock": "2025-09-07T17:57:41Z",
+    "period": 2,
+    "clock": "11:40",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:40."
+  },
+  {
+    "wallclock": "2025-09-07T18:00:44Z",
+    "period": 2,
+    "clock": "11:40",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Croskey-Merritt left end to NYG 47 for 11 yards (B.Burns; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T18:01:19Z",
+    "period": 2,
+    "clock": "11:05",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels sacked at WAS 47 for -6 yards (B.Burns)."
+  },
+  {
+    "wallclock": "2025-09-07T18:02:01Z",
+    "period": 2,
+    "clock": "10:24",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short right to D.Samuel to NYG 37 for 16 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T18:02:47Z",
+    "period": 2,
+    "clock": "9:38",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Nunez-Roches",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Samuel right end to NYG 38 for -1 yards (B.Okereke).PENALTY on NYG-R.Nunez-Roches, Defensive Holding, 5 yards, enforced at NYG 37 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T18:03:45Z",
+    "period": 2,
+    "clock": "9:16",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short right to N.Brown to NYG 13 for 19 yards (D.Muasau).PENALTY on WAS-N.Brown, Offensive Offside, 5 yards, enforced at NYG 32 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T18:04:57Z",
+    "period": 2,
+    "clock": "8:51",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels sacked at NYG 41 for -4 yards (B.Burns)."
+  },
+  {
+    "wallclock": "2025-09-07T18:05:40Z",
+    "period": 2,
+    "clock": "8:08",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short left to T.McLaurin to NYG 28 for 13 yards (P.Adebo)."
+  },
+  {
+    "wallclock": "2025-09-07T18:06:23Z",
+    "period": 2,
+    "clock": "7:25",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels scrambles right end ran ob at NYG 17 for 11 yards (J.Holland).PENALTY on NYG-J.Holland, Defensive Holding, 5 yards, enforced at NYG 17."
+  },
+  {
+    "wallclock": "2025-09-07T18:07:42Z",
+    "period": 2,
+    "clock": "7:02",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Robertson-Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Croskey-Merritt right guard to NYG 6 for 6 yards (D.Lawrence; R.Robertson-Harris)."
+  },
+  {
+    "wallclock": "2025-09-07T18:08:24Z",
+    "period": 2,
+    "clock": "6:14",
+    "play_type": "Rushing Touchdown",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Gay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) J.Croskey-Merritt right end for 6 yards, TOUCHDOWN. M.Gay extra point is GOOD, Center-T.Ott, Holder-T.Way."
+  },
+  {
+    "wallclock": "2025-09-07T18:09:23Z",
+    "period": 2,
+    "clock": "6:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:14."
+  },
+  {
+    "wallclock": "2025-09-07T18:12:02Z",
+    "period": 2,
+    "clock": "6:14",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Gay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Butler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Yankoff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Gay kicks 65 yards from WAS 35 to NYG 0. W.Robinson to NYG 21 for 21 yards (P.Butler; C.Yankoff)."
+  },
+  {
+    "wallclock": "2025-09-07T18:12:53Z",
+    "period": 2,
+    "clock": "6:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Kinlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short left to M.Nabers [J.Kinlaw]."
+  },
+  {
+    "wallclock": "2025-09-07T18:13:36Z",
+    "period": 2,
+    "clock": "6:04",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Armstrong",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Kinlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short left to T.Johnson to NYG 26 for 5 yards (D.Armstrong) [J.Kinlaw]."
+  },
+  {
+    "wallclock": "2025-09-07T18:14:21Z",
+    "period": 2,
+    "clock": "5:19",
+    "play_type": "Penalty",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Payne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete deep left to W.Robinson [D.Payne].PENALTY on WAS-V.Miller, Defensive Offside, 4 yards, enforced at NYG 26 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T18:15:29Z",
+    "period": 2,
+    "clock": "5:14",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by WAS at 05:14."
+  },
+  {
+    "wallclock": "2025-09-07T18:16:44Z",
+    "period": 2,
+    "clock": "5:14",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wilson right tackle to NYG 32 for 2 yards (B.Wagner)."
+  },
+  {
+    "wallclock": "2025-09-07T18:17:25Z",
+    "period": 2,
+    "clock": "4:34",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy up the middle to NYG 35 for 3 yards (F.Luvu; B.Wagner)."
+  },
+  {
+    "wallclock": "2025-09-07T18:18:02Z",
+    "period": 2,
+    "clock": "3:58",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Payne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy left tackle to NYG 35 for no gain (J.Martin; D.Payne)."
+  },
+  {
+    "wallclock": "2025-09-07T18:18:44Z",
+    "period": 2,
+    "clock": "3:15",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Eluemunor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) WAS-W.Harris was injured during the play.  PENALTY on NYG-J.Eluemunor, False Start, 5 yards, enforced at NYG 35 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T18:19:53Z",
+    "period": 2,
+    "clock": "2:52",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Payne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson sacked at NYG 21 for -9 yards (D.Payne)."
+  },
+  {
+    "wallclock": "2025-09-07T18:20:34Z",
+    "period": 2,
+    "clock": "2:11",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 38 yards to WAS 41, Center-C.Kreiter. J.Lane to WAS 41 for no gain (N.Jones)."
+  },
+  {
+    "wallclock": "2025-09-07T18:21:08Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-07T18:23:48Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass incomplete deep right to J.Lane."
+  },
+  {
+    "wallclock": "2025-09-07T18:24:27Z",
+    "period": 2,
+    "clock": "1:55",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short middle to J.Lane to NYG 48 for 11 yards (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-07T18:24:47Z",
+    "period": 2,
+    "clock": "1:35",
+    "play_type": "Sack",
+    "yards": -11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Tunsil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels sacked at WAS 41 for -11 yards (sack split by K.Thibodeaux and A.Carter).Penalty on WAS-L.Tunsil, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-07T18:25:54Z",
+    "period": 2,
+    "clock": "1:29",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass short right to D.Samuel to 50 for 9 yards (D.Belton; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T18:26:17Z",
+    "period": 2,
+    "clock": "1:15",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NYG at 01:15."
+  },
+  {
+    "wallclock": "2025-09-07T18:27:10Z",
+    "period": 2,
+    "clock": "1:15",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass deep right to D.Samuel to NYG 29 for 21 yards (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-07T18:27:31Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Ekeler left guard to NYG 25 for 4 yards (B.Burns; D.Lawrence)."
+  },
+  {
+    "wallclock": "2025-09-07T18:27:53Z",
+    "period": 2,
+    "clock": "0:34",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short middle to A.Ekeler to NYG 13 for 12 yards (D.Belton; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T18:28:19Z",
+    "period": 2,
+    "clock": "0:28",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by WAS at 00:28."
+  },
+  {
+    "wallclock": "2025-09-07T18:29:07Z",
+    "period": 2,
+    "clock": "0:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass incomplete short middle to N.Brown."
+  },
+  {
+    "wallclock": "2025-09-07T18:29:51Z",
+    "period": 2,
+    "clock": "0:23",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NYG at 00:23."
+  },
+  {
+    "wallclock": "2025-09-07T18:30:50Z",
+    "period": 2,
+    "clock": "0:23",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels up the middle to NYG 4 for 9 yards (A.Carter)."
+  },
+  {
+    "wallclock": "2025-09-07T18:31:06Z",
+    "period": 2,
+    "clock": "0:07",
+    "play_type": "Pass Incompletion",
+    "yards": -20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short left.PENALTY on WAS-J.Daniels, Intentional Grounding, 10 yards, enforced at NYG 4."
+  },
+  {
+    "wallclock": "2025-09-07T18:31:06Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-07T18:46:19Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Gay kicks 65 yards from WAS 35 to landing zone to end zone, Touchback to the NYG 20."
+  },
+  {
+    "wallclock": "2025-09-07T18:47:14Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Lattimore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short left to M.Nabers to NYG 31 for 11 yards (M.Lattimore). ** Injury Update: WAS-W.Harris has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-07T18:47:46Z",
+    "period": 3,
+    "clock": "14:28",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tracy right end to NYG 37 for 6 yards (F.Luvu)."
+  },
+  {
+    "wallclock": "2025-09-07T18:48:20Z",
+    "period": 3,
+    "clock": "13:54",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Kinlaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Tracy right guard to NYG 37 for no gain (J.Kinlaw; B.Wagner)."
+  },
+  {
+    "wallclock": "2025-09-07T18:49:04Z",
+    "period": 3,
+    "clock": "13:10",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Armstrong",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson sacked at NYG 35 for -2 yards (D.Armstrong)."
+  },
+  {
+    "wallclock": "2025-09-07T18:49:45Z",
+    "period": 3,
+    "clock": "12:33",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 65 yards to end zone, Center-C.Kreiter, Touchback."
+  },
+  {
+    "wallclock": "2025-09-07T18:50:16Z",
+    "period": 3,
+    "clock": "12:24",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:24."
+  },
+  {
+    "wallclock": "2025-09-07T18:52:52Z",
+    "period": 3,
+    "clock": "12:24",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass short right to N.Brown to WAS 29 for 9 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T18:53:22Z",
+    "period": 3,
+    "clock": "11:54",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Croskey-Merritt up the middle to WAS 41 for 12 yards (J.Holland)."
+  },
+  {
+    "wallclock": "2025-09-07T18:54:00Z",
+    "period": 3,
+    "clock": "11:15",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Croskey-Merritt right tackle to WAS 42 for 1 yard (A.Phillips; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T18:54:38Z",
+    "period": 3,
+    "clock": "10:38",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Allegretti",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels scrambles right end ran ob at WAS 45 for 3 yards (B.Okereke).PENALTY on WAS-N.Allegretti, Offensive Holding, 10 yards, enforced at WAS 42 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T18:55:38Z",
+    "period": 3,
+    "clock": "10:09",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short right to Z.Ertz to WAS 40 for 8 yards (D.Muasau)."
+  },
+  {
+    "wallclock": "2025-09-07T18:56:19Z",
+    "period": 3,
+    "clock": "9:33",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by WAS at 09:33."
+  },
+  {
+    "wallclock": "2025-09-07T18:57:10Z",
+    "period": 3,
+    "clock": "9:33",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass short middle to Z.Ertz to 50 for 10 yards (J.Holland).New York Giants challenged the pass completion ruling, and the play was REVERSED.(Shotgun) J.Daniels pass incomplete short middle to Z.Ertz (J.Holland)."
+  },
+  {
+    "wallclock": "2025-09-07T18:59:15Z",
+    "period": 3,
+    "clock": "9:28",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Way punts 31 yards to NYG 29, Center-T.Ott, downed by WAS-T.Ott."
+  },
+  {
+    "wallclock": "2025-09-07T19:00:26Z",
+    "period": 3,
+    "clock": "9:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:18."
+  },
+  {
+    "wallclock": "2025-09-07T19:02:34Z",
+    "period": 3,
+    "clock": "9:18",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Singletary left tackle to NYG 29 for no gain (B.Wagner)."
+  },
+  {
+    "wallclock": "2025-09-07T19:03:05Z",
+    "period": 3,
+    "clock": "8:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Lattimore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete deep left to M.Nabers (M.Lattimore)."
+  },
+  {
+    "wallclock": "2025-09-07T19:03:48Z",
+    "period": 3,
+    "clock": "8:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short left to T.Johnson."
+  },
+  {
+    "wallclock": "2025-09-07T19:04:26Z",
+    "period": 3,
+    "clock": "8:37",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 46 yards to WAS 25, Center-C.Kreiter, fair catch by J.Lane."
+  },
+  {
+    "wallclock": "2025-09-07T19:04:52Z",
+    "period": 3,
+    "clock": "8:30",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:30."
+  },
+  {
+    "wallclock": "2025-09-07T19:07:47Z",
+    "period": 3,
+    "clock": "8:30",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass short right to T.McLaurin ran ob at WAS 39 for 14 yards."
+  },
+  {
+    "wallclock": "2025-09-07T19:08:24Z",
+    "period": 3,
+    "clock": "7:55",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Croskey-Merritt right end to WAS 44 for 5 yards (C.Flott)."
+  },
+  {
+    "wallclock": "2025-09-07T19:08:59Z",
+    "period": 3,
+    "clock": "7:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short right to J.Croskey-Merritt."
+  },
+  {
+    "wallclock": "2025-09-07T19:09:41Z",
+    "period": 3,
+    "clock": "7:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short right to T.McLaurin (P.Adebo).Washington challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)"
+  },
+  {
+    "wallclock": "2025-09-07T19:13:34Z",
+    "period": 3,
+    "clock": "7:12",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Way punts 56 yards to end zone, Center-T.Ott, Touchback."
+  },
+  {
+    "wallclock": "2025-09-07T19:14:20Z",
+    "period": 3,
+    "clock": "7:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short right to T.Tracy [V.Miller]."
+  },
+  {
+    "wallclock": "2025-09-07T19:14:52Z",
+    "period": 3,
+    "clock": "6:59",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Newton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Tracy left tackle to NYG 18 for -2 yards (J.Newton)."
+  },
+  {
+    "wallclock": "2025-09-07T19:15:32Z",
+    "period": 3,
+    "clock": "6:19",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reaves",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short left to W.Robinson to NYG 29 for 11 yards (J.Reaves, B.Wagner)."
+  },
+  {
+    "wallclock": "2025-09-07T19:16:08Z",
+    "period": 3,
+    "clock": "5:43",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Kinlaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wise",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wilson right guard to NYG 31 for 2 yards (J.Kinlaw; D.Wise)."
+  },
+  {
+    "wallclock": "2025-09-07T19:16:54Z",
+    "period": 3,
+    "clock": "4:56",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wilson scrambles up the middle to NYG 37 for 6 yards (F.Luvu)."
+  },
+  {
+    "wallclock": "2025-09-07T19:17:25Z",
+    "period": 3,
+    "clock": "4:26",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Tracy right end pushed ob at NYG 41 for 4 yards (M.Sainristil). WAS-M.Sainristil was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-07T19:18:38Z",
+    "period": 3,
+    "clock": "4:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Igbinoghene",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete deep left to D.Slayton (N.Igbinoghene)."
+  },
+  {
+    "wallclock": "2025-09-07T19:19:23Z",
+    "period": 3,
+    "clock": "3:57",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Igbinoghene",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass deep left to M.Nabers to WAS 38 for 21 yards (N.Igbinoghene) [Q.Martin]."
+  },
+  {
+    "wallclock": "2025-09-07T19:20:05Z",
+    "period": 3,
+    "clock": "3:14",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Lattimore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wilson pass incomplete deep right to M.Nabers. ** Injury Update: WAS-M.Sainristil has returned to the game. PENALTY on WAS-M.Lattimore, Defensive Holding, 5 yards, enforced at WAS 38 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T19:21:29Z",
+    "period": 3,
+    "clock": "3:07",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hudson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short middle to T.Johnson to WAS 18 for 15 yards (W.Harris).PENALTY on NYG-J.Hudson, Offensive Holding, 10 yards, enforced at WAS 33 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T19:22:25Z",
+    "period": 3,
+    "clock": "2:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Amos",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete deep right to M.Nabers (T.Amos)."
+  },
+  {
+    "wallclock": "2025-09-07T19:23:10Z",
+    "period": 3,
+    "clock": "2:38",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Kinlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short middle to C.Skattebo to WAS 37 for 6 yards (F.Luvu; J.Kinlaw)."
+  },
+  {
+    "wallclock": "2025-09-07T19:23:57Z",
+    "period": 3,
+    "clock": "1:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Payne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short right to T.Tracy (D.Payne)."
+  },
+  {
+    "wallclock": "2025-09-07T19:24:36Z",
+    "period": 3,
+    "clock": "1:43",
+    "play_type": "Field Goal Good",
+    "yards": 55,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Gano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "G.Gano 55 yard field goal is GOOD, Center-C.Kreiter, Holder-J.Gillan."
+  },
+  {
+    "wallclock": "2025-09-07T19:25:59Z",
+    "period": 3,
+    "clock": "1:43",
+    "play_type": "Kickoff",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Gano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Gano kicks 62 yards from NYG 35 to WAS 3. L.McCaffrey to WAS 39 for 36 yards (T.Nubin; J.Holland)."
+  },
+  {
+    "wallclock": "2025-09-07T19:26:49Z",
+    "period": 3,
+    "clock": "1:36",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Croskey-Merritt left tackle to WAS 35 for -4 yards (K.Thibodeaux, A.Carter)."
+  },
+  {
+    "wallclock": "2025-09-07T19:27:24Z",
+    "period": 3,
+    "clock": "1:01",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete deep left to Z.Ertz.PENALTY on NYG-T.Nubin, Defensive Holding, 5 yards, enforced at WAS 35 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T19:28:18Z",
+    "period": 3,
+    "clock": "0:57",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short left to D.Samuel to WAS 44 for 4 yards (T.Nubin; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T19:28:54Z",
+    "period": 3,
+    "clock": "0:22",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels scrambles up the middle to WAS 49 for 5 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T19:28:54Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-07T19:32:18Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass short right to D.Samuel to WAS 49 for no gain (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-07T19:33:00Z",
+    "period": 4,
+    "clock": "14:19",
+    "play_type": "Punt",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Yankoff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Way punts 42 yards to NYG 9, Center-T.Ott. G.Olszewski pushed ob at NYG 12 for 3 yards (C.Yankoff)."
+  },
+  {
+    "wallclock": "2025-09-07T19:33:57Z",
+    "period": 4,
+    "clock": "14:10",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Amos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Amos",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wilson pass short right to M.Nabers to NYG 28 for 16 yards (T.Amos).Penalty on WAS-T.Amos, Defensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-07T19:34:47Z",
+    "period": 4,
+    "clock": "13:45",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson scrambles left tackle to NYG 43 for 15 yards (Q.Martin)."
+  },
+  {
+    "wallclock": "2025-09-07T19:35:25Z",
+    "period": 4,
+    "clock": "13:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete deep left."
+  },
+  {
+    "wallclock": "2025-09-07T19:36:06Z",
+    "period": 4,
+    "clock": "13:00",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Lattimore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short left to T.Tracy to NYG 49 for 6 yards (F.Luvu; M.Lattimore)."
+  },
+  {
+    "wallclock": "2025-09-07T19:36:48Z",
+    "period": 4,
+    "clock": "12:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reaves",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short left to T.Tracy (J.Reaves)."
+  },
+  {
+    "wallclock": "2025-09-07T19:37:55Z",
+    "period": 4,
+    "clock": "12:14",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 51 yards to end zone, Center-C.Kreiter, Touchback."
+  },
+  {
+    "wallclock": "2025-09-07T19:38:12Z",
+    "period": 4,
+    "clock": "12:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:06."
+  },
+  {
+    "wallclock": "2025-09-07T19:40:55Z",
+    "period": 4,
+    "clock": "12:06",
+    "play_type": "Rush",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels scrambles up the middle ran ob at WAS 34 for 14 yards (P.Adebo)."
+  },
+  {
+    "wallclock": "2025-09-07T19:41:33Z",
+    "period": 4,
+    "clock": "11:32",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McNichols",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Garcia",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McNichols up the middle to WAS 36 for 2 yards (E.Garcia)."
+  },
+  {
+    "wallclock": "2025-09-07T19:42:04Z",
+    "period": 4,
+    "clock": "11:02",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short middle to Z.Ertz to WAS 47 for 11 yards (T.Nubin)."
+  },
+  {
+    "wallclock": "2025-09-07T19:42:43Z",
+    "period": 4,
+    "clock": "10:22",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Ekeler left end to 50 for 3 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T19:43:23Z",
+    "period": 4,
+    "clock": "9:42",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Conerly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short right.PENALTY on WAS-J.Conerly, Offensive Holding, 10 yards, enforced at 50 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T19:44:31Z",
+    "period": 4,
+    "clock": "9:35",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels up the middle ran ob at NYG 48 for 12 yards (P.Adebo)."
+  },
+  {
+    "wallclock": "2025-09-07T19:45:15Z",
+    "period": 4,
+    "clock": "8:55",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short right to D.Samuel to NYG 29 for 19 yards (J.Holland)."
+  },
+  {
+    "wallclock": "2025-09-07T19:46:02Z",
+    "period": 4,
+    "clock": "8:10",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by WAS at 08:10."
+  },
+  {
+    "wallclock": "2025-09-07T19:47:04Z",
+    "period": 4,
+    "clock": "8:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass incomplete short right to D.Samuel."
+  },
+  {
+    "wallclock": "2025-09-07T19:47:41Z",
+    "period": 4,
+    "clock": "8:06",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on WAS-A.Ekeler, False Start, 5 yards, enforced at NYG 29 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T19:48:20Z",
+    "period": 4,
+    "clock": "8:06",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ekeler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass short right to A.Ekeler to NYG 19 for 15 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T19:49:08Z",
+    "period": 4,
+    "clock": "7:09",
+    "play_type": "Rushing Touchdown",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Gay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) D.Samuel left end for 19 yards, TOUCHDOWN. M.Gay extra point is GOOD, Center-T.Ott, Holder-T.Way."
+  },
+  {
+    "wallclock": "2025-09-07T19:50:10Z",
+    "period": 4,
+    "clock": "7:09",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:09."
+  },
+  {
+    "wallclock": "2025-09-07T19:52:56Z",
+    "period": 4,
+    "clock": "7:09",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Gay kicks 65 yards from WAS 35 to end zone, Touchback to the NYG 35."
+  },
+  {
+    "wallclock": "2025-09-07T19:53:41Z",
+    "period": 4,
+    "clock": "7:09",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wise",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson scrambles left end to NYG 42 for 7 yards (D.Wise)."
+  },
+  {
+    "wallclock": "2025-09-07T19:54:11Z",
+    "period": 4,
+    "clock": "6:38",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tracy up the middle to NYG 44 for 2 yards (B.Wagner)."
+  },
+  {
+    "wallclock": "2025-09-07T19:54:48Z",
+    "period": 4,
+    "clock": "6:01",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Eluemunor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete deep right to W.Robinson (M.Sainristil).PENALTY on NYG-J.Eluemunor, Illegal Formation, 5 yards, enforced at NYG 44 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T19:56:00Z",
+    "period": 4,
+    "clock": "5:56",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass deep left to W.Robinson ran ob at WAS 41 for 20 yards."
+  },
+  {
+    "wallclock": "2025-09-07T19:56:29Z",
+    "period": 4,
+    "clock": "5:32",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) R.Wilson scrambles right end pushed ob at WAS 38 for 3 yards (B.Wagner)."
+  },
+  {
+    "wallclock": "2025-09-07T19:57:14Z",
+    "period": 4,
+    "clock": "4:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Newton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short right [J.Newton]."
+  },
+  {
+    "wallclock": "2025-09-07T19:58:00Z",
+    "period": 4,
+    "clock": "4:46",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass short middle to T.Tracy to WAS 33 for 5 yards (M.Sainristil; B.Wagner)."
+  },
+  {
+    "wallclock": "2025-09-07T19:58:46Z",
+    "period": 4,
+    "clock": "3:59",
+    "play_type": "Penalty",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass deep left intended for D.Slayton INTERCEPTED by Q.Martin at WAS 7. Q.Martin to WAS 46 for 39 yards (M.Nabers).PENALTY on WAS-B.Wagner, Roughing the Passer, 15 yards, enforced at WAS 33 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T20:00:14Z",
+    "period": 4,
+    "clock": "3:46",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Armstrong",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson scrambles up the middle to WAS 17 for 1 yard (D.Armstrong)."
+  },
+  {
+    "wallclock": "2025-09-07T20:00:39Z",
+    "period": 4,
+    "clock": "3:22",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bellinger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) R.Wilson pass short middle to D.Bellinger to WAS 3 for 14 yards (Q.Martin)."
+  },
+  {
+    "wallclock": "2025-09-07T20:01:03Z",
+    "period": 4,
+    "clock": "2:57",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) R.Wilson pass incomplete short middle."
+  },
+  {
+    "wallclock": "2025-09-07T20:01:47Z",
+    "period": 4,
+    "clock": "2:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Payne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short right to M.Nabers (D.Payne)."
+  },
+  {
+    "wallclock": "2025-09-07T20:02:28Z",
+    "period": 4,
+    "clock": "2:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Nabers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short left to M.Nabers."
+  },
+  {
+    "wallclock": "2025-09-07T20:03:12Z",
+    "period": 4,
+    "clock": "2:43",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Wilson pass incomplete short middle to W.Robinson."
+  },
+  {
+    "wallclock": "2025-09-07T20:04:32Z",
+    "period": 4,
+    "clock": "2:39",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Croskey-Merritt left tackle to WAS 5 for 2 yards (B.Burns; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T20:04:44Z",
+    "period": 4,
+    "clock": "2:35",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NYG at 02:35."
+  },
+  {
+    "wallclock": "2025-09-07T20:05:40Z",
+    "period": 4,
+    "clock": "2:35",
+    "play_type": "Rush",
+    "yards": 42,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Croskey-Merritt right tackle pushed ob at WAS 47 for 42 yards (P.Adebo)."
+  },
+  {
+    "wallclock": "2025-09-07T20:06:43Z",
+    "period": 4,
+    "clock": "2:26",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McNichols",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Adebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Holland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McNichols left end to NYG 40 for 13 yards (P.Adebo; J.Holland)."
+  },
+  {
+    "wallclock": "2025-09-07T20:07:06Z",
+    "period": 4,
+    "clock": "2:19",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NYG at 02:19."
+  },
+  {
+    "wallclock": "2025-09-07T20:08:00Z",
+    "period": 4,
+    "clock": "2:19",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McNichols",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McNichols left tackle to NYG 38 for 2 yards (D.Muasau; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T20:08:26Z",
+    "period": 4,
+    "clock": "2:15",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by NYG at 02:15."
+  },
+  {
+    "wallclock": "2025-09-07T20:09:10Z",
+    "period": 4,
+    "clock": "2:15",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McNichols",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McNichols left tackle to NYG 30 for 8 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-09-07T20:09:31Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-07T20:09:31Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Daniels kneels to NYG 31 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-07T20:12:58Z",
+    "period": 4,
+    "clock": "1:18",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Daniels kneels to NYG 32 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-07T20:13:40Z",
+    "period": 4,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Daniels kneels to NYG 33 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-07T20:13:40Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

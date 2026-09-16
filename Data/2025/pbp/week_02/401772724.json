@@ -1,0 +1,4489 @@
+[
+  {
+    "wallclock": "2025-09-14T17:02:37Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 58 yards from LA 35 to TEN 7. C.Dike pushed ob at TEN 28 for 21 yards (C.Durant)."
+  },
+  {
+    "wallclock": "2025-09-14T17:03:19Z",
+    "period": 1,
+    "clock": "14:54",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short middle to T.Lockett to TEN 33 for 5 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-14T17:03:53Z",
+    "period": 1,
+    "clock": "14:21",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Witherspoon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Zeitler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to C.Dike to TEN 39 for 6 yards (A.Witherspoon; K.Kinchens).PENALTY on TEN-K.Zeitler, Ineligible Downfield Pass, 5 yards, enforced at TEN 33 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:04:48Z",
+    "period": 1,
+    "clock": "14:01",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Ojukwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on TEN-J.Ojukwu, False Start, 5 yards, enforced at TEN 28 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:05:25Z",
+    "period": 1,
+    "clock": "13:38",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at TEN 15 for -8 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-09-14T17:06:07Z",
+    "period": 1,
+    "clock": "12:56",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to C.Okonkwo to TEN 29 for 14 yards (N.Landman; K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-14T17:06:51Z",
+    "period": 1,
+    "clock": "12:13",
+    "play_type": "Punt",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Helm",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 57 yards to LA 14, Center-M.Cox. X.Smith to LA 28 for 14 yards (G.Helm)."
+  },
+  {
+    "wallclock": "2025-09-14T17:07:41Z",
+    "period": 1,
+    "clock": "12:02",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left tackle to LA 31 for 3 yards (J.Brownlee; R.McCreary)."
+  },
+  {
+    "wallclock": "2025-09-14T17:08:18Z",
+    "period": 1,
+    "clock": "11:24",
+    "play_type": "Penalty",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Atwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short left to T.Atwell (X.Woods).PENALTY on TEN-D.Jones, Defensive Offside, 4 yards, enforced at LA 31 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:09:06Z",
+    "period": 1,
+    "clock": "11:21",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higbee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to T.Higbee to LA 46 for 11 yards (C.Barton)."
+  },
+  {
+    "wallclock": "2025-09-14T17:09:42Z",
+    "period": 1,
+    "clock": "10:44",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Key",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to TEN 49 for 5 yards (J.Simmons; A.Key)."
+  },
+  {
+    "wallclock": "2025-09-14T17:10:09Z",
+    "period": 1,
+    "clock": "10:19",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Higbee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) PENALTY on LA-T.Higbee, False Start, 5 yards, enforced at TEN 49 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:10:53Z",
+    "period": 1,
+    "clock": "9:57",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to P.Nacua ran ob at TEN 46 for 8 yards (R.McCreary)."
+  },
+  {
+    "wallclock": "2025-09-14T17:11:24Z",
+    "period": 1,
+    "clock": "9:28",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Williams right tackle to TEN 45 for 1 yard (J.Brownlee)."
+  },
+  {
+    "wallclock": "2025-09-14T17:12:03Z",
+    "period": 1,
+    "clock": "8:39",
+    "play_type": "Rushing Touchdown",
+    "yards": 45,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "P.Nacua left end for 45 yards, TOUCHDOWN. J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-14T17:13:07Z",
+    "period": 1,
+    "clock": "8:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:39."
+  },
+  {
+    "wallclock": "2025-09-14T17:15:51Z",
+    "period": 1,
+    "clock": "8:39",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 65 yards from LA 35 to end zone, Touchback to the TEN 35."
+  },
+  {
+    "wallclock": "2025-09-14T17:16:35Z",
+    "period": 1,
+    "clock": "8:39",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard up the middle to TEN 40 for 5 yards (T.Davis; P.Ford)."
+  },
+  {
+    "wallclock": "2025-09-14T17:17:17Z",
+    "period": 1,
+    "clock": "7:57",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right tackle to TEN 40 for no gain (B.Young, T.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T17:17:51Z",
+    "period": 1,
+    "clock": "7:23",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward scrambles up the middle to TEN 42 for 2 yards (N.Landman)."
+  },
+  {
+    "wallclock": "2025-09-14T17:18:28Z",
+    "period": 1,
+    "clock": "6:45",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 48 yards to LA 10, Center-M.Cox, fair catch by X.Smith."
+  },
+  {
+    "wallclock": "2025-09-14T17:18:58Z",
+    "period": 1,
+    "clock": "6:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:39."
+  },
+  {
+    "wallclock": "2025-09-14T17:21:24Z",
+    "period": 1,
+    "clock": "6:39",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lynch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right tackle to LA 11 for 1 yard (J.Lynch; J.Brownlee)."
+  },
+  {
+    "wallclock": "2025-09-14T17:21:51Z",
+    "period": 1,
+    "clock": "6:11",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ravenell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Stafford pass short middle to D.Adams to LA 17 for 6 yards (C.Ravenell)."
+  },
+  {
+    "wallclock": "2025-09-14T17:22:37Z",
+    "period": 1,
+    "clock": "5:26",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short left to P.Nacua to LA 27 for 10 yards (J.Brownlee)."
+  },
+  {
+    "wallclock": "2025-09-14T17:23:19Z",
+    "period": 1,
+    "clock": "4:43",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right end to LA 31 for 4 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-09-14T17:24:02Z",
+    "period": 1,
+    "clock": "4:01",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right guard to LA 34 for 3 yards (J.Simmons)."
+  },
+  {
+    "wallclock": "2025-09-14T17:24:45Z",
+    "period": 1,
+    "clock": "3:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short right to D.Adams [J.Simmons]."
+  },
+  {
+    "wallclock": "2025-09-14T17:25:21Z",
+    "period": 1,
+    "clock": "3:13",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Whittington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Evans punts 51 yards to TEN 15, Center-A.Ward, downed by LA-J.Whittington."
+  },
+  {
+    "wallclock": "2025-09-14T17:25:51Z",
+    "period": 1,
+    "clock": "3:00",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:00."
+  },
+  {
+    "wallclock": "2025-09-14T17:28:22Z",
+    "period": 1,
+    "clock": "3:00",
+    "play_type": "Pass Reception",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ridley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass short left to C.Ridley pushed ob at TEN 41 for 26 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-14T17:29:03Z",
+    "period": 1,
+    "clock": "2:22",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard left tackle to TEN 44 for 3 yards (T.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T17:29:43Z",
+    "period": 1,
+    "clock": "1:42",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to C.Dike pushed ob at TEN 43 for -1 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-14T17:30:09Z",
+    "period": 1,
+    "clock": "1:02",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on LA-K.Turner, Neutral Zone Infraction, 5 yards, enforced at TEN 43 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:31:16Z",
+    "period": 1,
+    "clock": "0:38",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TEN at 00:38."
+  },
+  {
+    "wallclock": "2025-09-14T17:32:10Z",
+    "period": 1,
+    "clock": "0:38",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right tackle to 50 for 2 yards (K.Turner)."
+  },
+  {
+    "wallclock": "2025-09-14T17:32:10Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-14T17:36:00Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Witherspoon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward scrambles right end ran ob at LA 47 for 3 yards (A.Witherspoon)."
+  },
+  {
+    "wallclock": "2025-09-14T17:36:45Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dike right end to LA 43 for 4 yards (J.Verse)."
+  },
+  {
+    "wallclock": "2025-09-14T17:37:25Z",
+    "period": 2,
+    "clock": "13:35",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short middle to E.Ayomanor to LA 35 for 8 yards (N.Landman; O.Speights)."
+  },
+  {
+    "wallclock": "2025-09-14T17:38:06Z",
+    "period": 2,
+    "clock": "12:54",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at LA 41 for -6 yards (K.Turner)."
+  },
+  {
+    "wallclock": "2025-09-14T17:38:46Z",
+    "period": 2,
+    "clock": "12:14",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard left tackle to LA 37 for 4 yards (O.Speights, N.Landman)."
+  },
+  {
+    "wallclock": "2025-09-14T17:39:31Z",
+    "period": 2,
+    "clock": "11:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right to T.Pollard."
+  },
+  {
+    "wallclock": "2025-09-14T17:40:14Z",
+    "period": 2,
+    "clock": "11:21",
+    "play_type": "Field Goal Good",
+    "yards": 55,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Slye 55 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-09-14T17:40:29Z",
+    "period": 2,
+    "clock": "11:21",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:21."
+  },
+  {
+    "wallclock": "2025-09-14T17:43:19Z",
+    "period": 2,
+    "clock": "11:21",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mausi",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 64 yards from TEN 35 to LA 1. B.Corum to LA 25 for 24 yards (D.Mausi; C.Gray)."
+  },
+  {
+    "wallclock": "2025-09-14T17:44:04Z",
+    "period": 2,
+    "clock": "11:16",
+    "play_type": "Pass Reception",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass deep middle to D.Adams to TEN 42 for 33 yards (R.McCreary; A.Hooker)."
+  },
+  {
+    "wallclock": "2025-09-14T17:44:51Z",
+    "period": 2,
+    "clock": "10:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete deep left to D.Adams."
+  },
+  {
+    "wallclock": "2025-09-14T17:45:43Z",
+    "period": 2,
+    "clock": "10:22",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LA at 10:22."
+  },
+  {
+    "wallclock": "2025-09-14T17:46:56Z",
+    "period": 2,
+    "clock": "10:22",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short middle to P.Nacua to TEN 33 for 9 yards (C.Barton) [J.Ward]."
+  },
+  {
+    "wallclock": "2025-09-14T17:47:29Z",
+    "period": 2,
+    "clock": "9:48",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higbee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short right to T.Higbee to TEN 13 for 20 yards (J.Brownlee)."
+  },
+  {
+    "wallclock": "2025-09-14T17:48:14Z",
+    "period": 2,
+    "clock": "9:04",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higbee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to T.Higbee pushed ob at TEN 7 for 6 yards (X.Woods)."
+  },
+  {
+    "wallclock": "2025-09-14T17:48:57Z",
+    "period": 2,
+    "clock": "8:22",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum right tackle to TEN 3 for 4 yards (A.Hooker)."
+  },
+  {
+    "wallclock": "2025-09-14T17:49:39Z",
+    "period": 2,
+    "clock": "7:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short left to D.Adams."
+  },
+  {
+    "wallclock": "2025-09-14T17:50:22Z",
+    "period": 2,
+    "clock": "7:37",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Joseph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford to TEN 4 for -1 yards. FUMBLES, and recovers at TEN 6. M.Stafford pass incomplete short right to D.Adams (L.Sneed) [S.Joseph]."
+  },
+  {
+    "wallclock": "2025-09-14T17:51:11Z",
+    "period": 2,
+    "clock": "7:34",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by LA at 07:34."
+  },
+  {
+    "wallclock": "2025-09-14T17:52:07Z",
+    "period": 2,
+    "clock": "7:34",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short middle to D.Adams."
+  },
+  {
+    "wallclock": "2025-09-14T17:52:50Z",
+    "period": 2,
+    "clock": "7:25",
+    "play_type": "Field Goal Good",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Karty 21 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-14T17:53:10Z",
+    "period": 2,
+    "clock": "7:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:25."
+  },
+  {
+    "wallclock": "2025-09-14T17:55:50Z",
+    "period": 2,
+    "clock": "7:25",
+    "play_type": "Kickoff",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dolac",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 61 yards from LA 35 to TEN 4. C.Dike ran ob at TEN 33 for 29 yards (S.Dolac).PENALTY on TEN-J.Williams, Offensive Holding, 10 yards, enforced at TEN 25."
+  },
+  {
+    "wallclock": "2025-09-14T17:56:50Z",
+    "period": 2,
+    "clock": "7:18",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ridley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass short left to C.Ridley ran ob at TEN 36 for 21 yards (C.Durant)."
+  },
+  {
+    "wallclock": "2025-09-14T17:57:27Z",
+    "period": 2,
+    "clock": "6:43",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Pollard up the middle to TEN 39 for 3 yards (T.Davis; O.Speights)."
+  },
+  {
+    "wallclock": "2025-09-14T17:58:03Z",
+    "period": 2,
+    "clock": "6:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right to C.Okonkwo."
+  },
+  {
+    "wallclock": "2025-09-14T17:58:45Z",
+    "period": 2,
+    "clock": "6:02",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to E.Ayomanor pushed ob at LA 45 for 16 yards (E.Forbes)."
+  },
+  {
+    "wallclock": "2025-09-14T17:59:17Z",
+    "period": 2,
+    "clock": "5:33",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Helm",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short right to G.Helm to LA 43 for 2 yards (N.Landman)."
+  },
+  {
+    "wallclock": "2025-09-14T18:00:02Z",
+    "period": 2,
+    "clock": "4:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-09-14T18:00:45Z",
+    "period": 2,
+    "clock": "4:42",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Ojukwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on TEN-J.Ojukwu, False Start, 5 yards, enforced at LA 43 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T18:01:22Z",
+    "period": 2,
+    "clock": "4:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ridley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short right to C.Ridley (E.Forbes)."
+  },
+  {
+    "wallclock": "2025-09-14T18:02:13Z",
+    "period": 2,
+    "clock": "4:37",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Oliver",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 43 yards to LA 5, Center-M.Cox, downed by TEN-B.Oliver."
+  },
+  {
+    "wallclock": "2025-09-14T18:02:43Z",
+    "period": 2,
+    "clock": "4:27",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:27."
+  },
+  {
+    "wallclock": "2025-09-14T18:05:17Z",
+    "period": 2,
+    "clock": "4:27",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short right to P.Nacua to LA 9 for 4 yards (J.Brownlee)."
+  },
+  {
+    "wallclock": "2025-09-14T18:05:54Z",
+    "period": 2,
+    "clock": "3:50",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left tackle to LA 10 for 1 yard (C.Barton; R.McCreary)."
+  },
+  {
+    "wallclock": "2025-09-14T18:06:16Z",
+    "period": 2,
+    "clock": "3:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Stafford pass incomplete short left to D.Adams (R.McCreary)."
+  },
+  {
+    "wallclock": "2025-09-14T18:06:50Z",
+    "period": 2,
+    "clock": "3:22",
+    "play_type": "Punt",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Evans punts 47 yards to TEN 43, Center-A.Ward. C.Dike for 57 yards, TOUCHDOWN NULLIFIED by Penalty.PENALTY on TEN-C.Gray, Illegal Blindside Block, 15 yards, enforced at LA 41."
+  },
+  {
+    "wallclock": "2025-09-14T18:09:07Z",
+    "period": 2,
+    "clock": "3:08",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right guard to LA 46 for 10 yards (K.Curl; K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-14T18:09:45Z",
+    "period": 2,
+    "clock": "2:30",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right guard to LA 40 for 6 yards (J.Verse; T.Hamilton)."
+  },
+  {
+    "wallclock": "2025-09-14T18:10:22Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-14T18:13:12Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right end pushed ob at LA 37 for 3 yards (E.Forbes)."
+  },
+  {
+    "wallclock": "2025-09-14T18:13:44Z",
+    "period": 2,
+    "clock": "1:54",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward up the middle to LA 36 for 1 yard (T.Davis).The Replay Official reviewed the first down ruling, and the play was Upheld. The ruling on the field stands."
+  },
+  {
+    "wallclock": "2025-09-14T18:17:16Z",
+    "period": 2,
+    "clock": "1:28",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right tackle to LA 32 for 4 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-09-14T18:17:35Z",
+    "period": 2,
+    "clock": "1:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass incomplete short left to E.Ayomanor (C.Durant)."
+  },
+  {
+    "wallclock": "2025-09-14T18:18:16Z",
+    "period": 2,
+    "clock": "1:06",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass deep right to E.Ayomanor pushed ob at LA 9 for 23 yards (E.Forbes)."
+  },
+  {
+    "wallclock": "2025-09-14T18:18:36Z",
+    "period": 2,
+    "clock": "1:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ridley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Ward pass incomplete short left to C.Ridley."
+  },
+  {
+    "wallclock": "2025-09-14T18:19:22Z",
+    "period": 2,
+    "clock": "0:57",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-09-14T18:20:10Z",
+    "period": 2,
+    "clock": "0:38",
+    "play_type": "Passing Touchdown",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Stewart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) C.Ward pass short left to E.Ayomanor for 9 yards, TOUCHDOWN [J.Stewart]. J.Slye extra point is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-09-14T18:21:18Z",
+    "period": 2,
+    "clock": "0:38",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:38."
+  },
+  {
+    "wallclock": "2025-09-14T18:24:10Z",
+    "period": 2,
+    "clock": "0:38",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 61 yards from TEN 35 to LA 4. B.Corum to LA 30 for 26 yards (M.Brown).PENALTY on TEN-J.Harrell, Illegal Formation, 5 yards, enforced at LA 30."
+  },
+  {
+    "wallclock": "2025-09-14T18:25:10Z",
+    "period": 2,
+    "clock": "0:32",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Atwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short left intended for T.Atwell INTERCEPTED by C.Barton at LA 46. C.Barton ran ob at LA 46 for no gain."
+  },
+  {
+    "wallclock": "2025-09-14T18:26:16Z",
+    "period": 2,
+    "clock": "0:27",
+    "play_type": "Penalty",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short left to E.Ayomanor.PENALTY on LA-C.Durant, Defensive Pass Interference, 14 yards, enforced at LA 46 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T18:27:03Z",
+    "period": 2,
+    "clock": "0:23",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard up the middle to LA 29 for 3 yards (N.Landman; B.Young). LA-J.Verse was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T18:27:25Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TEN at 00:16."
+  },
+  {
+    "wallclock": "2025-09-14T18:29:09Z",
+    "period": 2,
+    "clock": "0:16",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard up the middle to LA 19 for 10 yards (Q.Lake; J.McCollough)."
+  },
+  {
+    "wallclock": "2025-09-14T18:29:33Z",
+    "period": 2,
+    "clock": "0:03",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by TEN at 00:03."
+  },
+  {
+    "wallclock": "2025-09-14T18:30:11Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "Field Goal Good",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Slye 37 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-09-14T18:30:11Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-14T18:44:25Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 65 yards from TEN 35 to end zone, Touchback to the LA 35."
+  },
+  {
+    "wallclock": "2025-09-14T18:45:07Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-09-14T18:45:44Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short right to D.Adams to TEN 46 for 19 yards (A.Hooker; D.Baker)."
+  },
+  {
+    "wallclock": "2025-09-14T18:46:32Z",
+    "period": 3,
+    "clock": "14:07",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Tuttle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left tackle to TEN 45 for 1 yard (S.Tuttle)."
+  },
+  {
+    "wallclock": "2025-09-14T18:47:12Z",
+    "period": 3,
+    "clock": "13:26",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higbee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short left to T.Higbee to TEN 45 for no gain (X.Woods)."
+  },
+  {
+    "wallclock": "2025-09-14T18:47:47Z",
+    "period": 3,
+    "clock": "12:52",
+    "play_type": "Pass Reception",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Stafford pass deep left to D.Adams to TEN 19 for 26 yards (L.Sneed).Penalty on TEN-L.Sneed, Defensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-14T18:48:58Z",
+    "period": 3,
+    "clock": "12:24",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left tackle to TEN 12 for 7 yards (C.Barton; R.McCreary)."
+  },
+  {
+    "wallclock": "2025-09-14T18:49:37Z",
+    "period": 3,
+    "clock": "11:45",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left guard to TEN 9 for 3 yards (D.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T18:50:20Z",
+    "period": 3,
+    "clock": "11:02",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short left to P.Nacua to TEN 8 for 1 yard (X.Woods)."
+  },
+  {
+    "wallclock": "2025-09-14T18:51:03Z",
+    "period": 3,
+    "clock": "10:19",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short left to K.Williams to TEN 3 for 5 yards (J.Brownlee)."
+  },
+  {
+    "wallclock": "2025-09-14T18:51:46Z",
+    "period": 3,
+    "clock": "9:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short left to D.Adams (L.Sneed)."
+  },
+  {
+    "wallclock": "2025-09-14T18:52:27Z",
+    "period": 3,
+    "clock": "9:29",
+    "play_type": "Field Goal Good",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Karty 21 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-14T18:52:42Z",
+    "period": 3,
+    "clock": "9:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:29."
+  },
+  {
+    "wallclock": "2025-09-14T18:55:17Z",
+    "period": 3,
+    "clock": "9:29",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 60 yards from LA 35 to TEN 5. C.Dike pushed ob at TEN 26 for 21 yards (J.McCollough)."
+  },
+  {
+    "wallclock": "2025-09-14T18:56:08Z",
+    "period": 3,
+    "clock": "9:23",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right guard to TEN 30 for 4 yards (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-14T18:56:45Z",
+    "period": 3,
+    "clock": "8:46",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short middle to C.Okonkwo to TEN 37 for 7 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-14T18:57:06Z",
+    "period": 3,
+    "clock": "8:25",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Pollard right tackle to TEN 46 for 9 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-14T18:57:43Z",
+    "period": 3,
+    "clock": "7:48",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard up the middle to 50 for 4 yards (N.Landman). ** Injury Update: LA-J.Verse has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-14T18:58:26Z",
+    "period": 3,
+    "clock": "7:05",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dike right end pushed ob at LA 45 for 5 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-14T18:59:04Z",
+    "period": 3,
+    "clock": "6:28",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to T.Lockett to LA 41 for 4 yards (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-14T18:59:33Z",
+    "period": 3,
+    "clock": "6:05",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TEN at 06:05."
+  },
+  {
+    "wallclock": "2025-09-14T19:00:31Z",
+    "period": 3,
+    "clock": "6:05",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hamilton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Murchison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) T.Pollard right tackle to LA 38 for 3 yards (T.Hamilton; L.Murchison)."
+  },
+  {
+    "wallclock": "2025-09-14T19:01:09Z",
+    "period": 3,
+    "clock": "5:26",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right guard to LA 35 for 3 yards (N.Landman)."
+  },
+  {
+    "wallclock": "2025-09-14T19:01:47Z",
+    "period": 3,
+    "clock": "4:48",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Stewart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at LA 41 for -6 yards (J.Stewart).Penalty on TEN-D.Moore, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-14T19:02:48Z",
+    "period": 3,
+    "clock": "4:20",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward scrambles up the middle to LA 39 for 2 yards (K.Turner)."
+  },
+  {
+    "wallclock": "2025-09-14T19:03:31Z",
+    "period": 3,
+    "clock": "3:32",
+    "play_type": "Field Goal Good",
+    "yards": 57,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " J.Slye 57 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-09-14T19:03:48Z",
+    "period": 3,
+    "clock": "3:32",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:32."
+  },
+  {
+    "wallclock": "2025-09-14T19:06:36Z",
+    "period": 3,
+    "clock": "3:32",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mims",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Slye kicks 64 yards from TEN 35 to LA 1. B.Corum to LA 31 for 30 yards (J.Mims)."
+  },
+  {
+    "wallclock": "2025-09-14T19:07:20Z",
+    "period": 3,
+    "clock": "3:27",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short left to P.Nacua pushed ob at TEN 45 for 24 yards (X.Woods)."
+  },
+  {
+    "wallclock": "2025-09-14T19:08:00Z",
+    "period": 3,
+    "clock": "2:48",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass deep middle to P.Nacua to TEN 23 for 22 yards (R.McCreary)."
+  },
+  {
+    "wallclock": "2025-09-14T19:08:42Z",
+    "period": 3,
+    "clock": "2:06",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum right end to TEN 8 for 15 yards (A.Hooker)."
+  },
+  {
+    "wallclock": "2025-09-14T19:09:27Z",
+    "period": 3,
+    "clock": "1:17",
+    "play_type": "Passing Touchdown",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "M.Stafford pass short right to D.Allen pushed ob at TEN 1 for 7 yards (J.Brownlee).Los Angeles Rams challenged the runner was down by contact ruling, and the play was REVERSED.M.Stafford pass short right to D.Allen for 8 yards, TOUCHDOWN. J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-14T19:10:12Z",
+    "period": 3,
+    "clock": "0:46",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LA at 00:46."
+  },
+  {
+    "wallclock": "2025-09-14T19:12:01Z",
+    "period": 3,
+    "clock": "1:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:17."
+  },
+  {
+    "wallclock": "2025-09-14T19:14:50Z",
+    "period": 3,
+    "clock": "1:17",
+    "play_type": "Kickoff",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Reeder",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 56 yards from LA 35 to TEN 9. C.Dike MUFFS catch, and recovers at TEN 15. C.Dike to TEN 14 for -1 yards (T.Reeder)."
+  },
+  {
+    "wallclock": "2025-09-14T19:15:40Z",
+    "period": 3,
+    "clock": "1:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ward pass incomplete deep right to C.Dike."
+  },
+  {
+    "wallclock": "2025-09-14T19:16:27Z",
+    "period": 3,
+    "clock": "1:02",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right end to TEN 19 for 5 yards (O.Speights)."
+  },
+  {
+    "wallclock": "2025-09-14T19:17:13Z",
+    "period": 3,
+    "clock": "0:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ayomanor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete deep right to E.Ayomanor (D.Williams)."
+  },
+  {
+    "wallclock": "2025-09-14T19:17:55Z",
+    "period": 3,
+    "clock": "0:11",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 55 yards to LA 26, Center-M.Cox, fair catch by X.Smith."
+  },
+  {
+    "wallclock": "2025-09-14T19:18:48Z",
+    "period": 3,
+    "clock": "0:03",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right guard to LA 28 for 2 yards (X.Woods)."
+  },
+  {
+    "wallclock": "2025-09-14T19:18:48Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-14T19:21:39Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short right to D.Adams to LA 34 for 6 yards (C.Gray)."
+  },
+  {
+    "wallclock": "2025-09-14T19:22:20Z",
+    "period": 4,
+    "clock": "14:18",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to P.Nacua to LA 47 for 13 yards (A.Hooker)."
+  },
+  {
+    "wallclock": "2025-09-14T19:23:04Z",
+    "period": 4,
+    "clock": "13:35",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Oladejo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right tackle to LA 46 for -1 yards (D.Jones, O.Oladejo)."
+  },
+  {
+    "wallclock": "2025-09-14T19:23:33Z",
+    "period": 4,
+    "clock": "13:06",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Stafford sacked at LA 38 for -8 yards (A.Hooker)."
+  },
+  {
+    "wallclock": "2025-09-14T19:24:17Z",
+    "period": 4,
+    "clock": "12:21",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Simmons",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short middle to K.Williams to LA 47 for 9 yards (Q.Diggs) [J.Simmons]."
+  },
+  {
+    "wallclock": "2025-09-14T19:25:04Z",
+    "period": 4,
+    "clock": "12:07",
+    "play_type": "Punt",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dolac",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Evans punts 47 yards to TEN 6, Center-A.Ward. C.Dike to TEN 27 for 21 yards (S.Dolac)."
+  },
+  {
+    "wallclock": "2025-09-14T19:25:36Z",
+    "period": 4,
+    "clock": "11:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:56."
+  },
+  {
+    "wallclock": "2025-09-14T19:28:03Z",
+    "period": 4,
+    "clock": "11:56",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Pollard right guard to TEN 29 for 2 yards (J.Stewart)."
+  },
+  {
+    "wallclock": "2025-09-14T19:28:43Z",
+    "period": 4,
+    "clock": "11:15",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward sacked at TEN 21 for -8 yards (B.Young). FUMBLES (B.Young) [B.Young], touched at TEN 19, RECOVERED by LA-N.Landman at TEN 21."
+  },
+  {
+    "wallclock": "2025-09-14T19:30:26Z",
+    "period": 4,
+    "clock": "11:09",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Joseph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left end to TEN 18 for 3 yards (D.Baker, S.Joseph)."
+  },
+  {
+    "wallclock": "2025-09-14T19:31:05Z",
+    "period": 4,
+    "clock": "10:30",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Whittington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCreary",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short middle to J.Whittington to TEN 16 for 2 yards (R.McCreary)."
+  },
+  {
+    "wallclock": "2025-09-14T19:31:50Z",
+    "period": 4,
+    "clock": "9:40",
+    "play_type": "Passing Touchdown",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) M.Stafford pass deep right to D.Adams for 16 yards, TOUCHDOWN. J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-14T19:32:52Z",
+    "period": 4,
+    "clock": "9:40",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:40."
+  },
+  {
+    "wallclock": "2025-09-14T19:35:46Z",
+    "period": 4,
+    "clock": "9:40",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 62 yards from LA 35 to TEN 3. C.Dike to TEN 24 for 21 yards (X.Smith)."
+  },
+  {
+    "wallclock": "2025-09-14T19:36:36Z",
+    "period": 4,
+    "clock": "9:34",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Hance",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on TEN-B.Hance, False Start, 5 yards, enforced at TEN 24 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:37:09Z",
+    "period": 4,
+    "clock": "9:34",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ridley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete deep right to C.Ridley."
+  },
+  {
+    "wallclock": "2025-09-14T19:37:50Z",
+    "period": 4,
+    "clock": "9:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short middle to C.Okonkwo [J.Verse]."
+  },
+  {
+    "wallclock": "2025-09-14T19:38:33Z",
+    "period": 4,
+    "clock": "9:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass incomplete short left to T.Lockett [J.Verse]."
+  },
+  {
+    "wallclock": "2025-09-14T19:39:11Z",
+    "period": 4,
+    "clock": "9:16",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Oliver",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hekker punts 47 yards to LA 34, Center-M.Cox. X.Smith to LA 34 for no gain (B.Oliver)."
+  },
+  {
+    "wallclock": "2025-09-14T19:39:49Z",
+    "period": 4,
+    "clock": "9:08",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:08."
+  },
+  {
+    "wallclock": "2025-09-14T19:42:08Z",
+    "period": 4,
+    "clock": "9:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short left to P.Nacua."
+  },
+  {
+    "wallclock": "2025-09-14T19:42:49Z",
+    "period": 4,
+    "clock": "9:02",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brownlee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Corum up the middle to LA 49 for 15 yards (J.Brownlee; X.Woods)."
+  },
+  {
+    "wallclock": "2025-09-14T19:43:31Z",
+    "period": 4,
+    "clock": "8:20",
+    "play_type": "Pass Reception",
+    "yards": 40,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Whittington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass deep left to J.Whittington pushed ob at TEN 11 for 40 yards (A.Hooker) [J.Ward]."
+  },
+  {
+    "wallclock": "2025-09-14T19:44:27Z",
+    "period": 4,
+    "clock": "7:38",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LA at 07:38."
+  },
+  {
+    "wallclock": "2025-09-14T19:45:21Z",
+    "period": 4,
+    "clock": "7:38",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum left guard to TEN 2 for 9 yards (L.Sneed)."
+  },
+  {
+    "wallclock": "2025-09-14T19:46:04Z",
+    "period": 4,
+    "clock": "6:54",
+    "play_type": "Penalty",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short right.PENALTY on TEN-L.Sneed, Defensive Holding, 1 yard, enforced at TEN 2 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:47:10Z",
+    "period": 4,
+    "clock": "6:45",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Key",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Corum up the middle for 1 yard, TOUCHDOWN. J.Karty extra point is Blocked (A.Key), Center-A.Ward, Holder-E.Evans. DEFENSIVE TWO-POINT ATTEMPT. M.Harris recovered the blocked kick. ATTEMPT FAILS."
+  },
+  {
+    "wallclock": "2025-09-14T19:49:28Z",
+    "period": 4,
+    "clock": "6:45",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Evans kicks 65 yards from LA 35 to end zone, Touchback to the TEN 35."
+  },
+  {
+    "wallclock": "2025-09-14T19:50:07Z",
+    "period": 4,
+    "clock": "6:45",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ridley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to C.Ridley to TEN 45 for 10 yards (K.Kinchens, J.McCollough)."
+  },
+  {
+    "wallclock": "2025-09-14T19:50:28Z",
+    "period": 4,
+    "clock": "6:23",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short right to C.Okonkwo ran ob at LA 49 for 6 yards (J.McCollough)."
+  },
+  {
+    "wallclock": "2025-09-14T19:50:54Z",
+    "period": 4,
+    "clock": "6:00",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Pollard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Pollard right tackle to LA 40 for 9 yards (K.Curl, K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-14T19:51:15Z",
+    "period": 4,
+    "clock": "5:38",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Okonkwo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short middle to C.Okonkwo to LA 32 for 8 yards (K.Kinchens, K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-14T19:51:42Z",
+    "period": 4,
+    "clock": "5:12",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward sacked ob at LA 34 for -2 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-14T19:52:26Z",
+    "period": 4,
+    "clock": "4:30",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to V.Jefferson to LA 29 for 5 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-14T19:52:50Z",
+    "period": 4,
+    "clock": "4:07",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Helm",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass short left to G.Helm to LA 22 for 7 yards (Q.Lake) [K.Turner].Los Angeles Rams challenged the passer was not down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)"
+  },
+  {
+    "wallclock": "2025-09-14T19:54:38Z",
+    "period": 4,
+    "clock": "3:39",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short left to V.Jefferson to LA 17 for 5 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-14T19:54:58Z",
+    "period": 4,
+    "clock": "3:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass incomplete short middle to C.Dike (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-14T19:55:28Z",
+    "period": 4,
+    "clock": "3:15",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Ward pass short right to C.Dike to LA 17 for no gain (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-14T19:55:54Z",
+    "period": 4,
+    "clock": "2:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Ward pass incomplete deep right to C.Dike."
+  },
+  {
+    "wallclock": "2025-09-14T19:56:42Z",
+    "period": 4,
+    "clock": "2:40",
+    "play_type": "Field Goal Good",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Slye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Slye 35 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker."
+  },
+  {
+    "wallclock": "2025-09-14T19:58:08Z",
+    "period": 4,
+    "clock": "2:40",
+    "play_type": "Kickoff",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hekker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Onside Kick formation) J.Hekker kicks onside 6 yards from TEN 35 to TEN 41. B.Corum (didn't try to advance) to TEN 41 for no gain."
+  },
+  {
+    "wallclock": "2025-09-14T19:58:53Z",
+    "period": 4,
+    "clock": "2:39",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Sneed",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to TEN 29 for 12 yards (L.Sneed; A.Hooker)."
+  },
+  {
+    "wallclock": "2025-09-14T19:59:14Z",
+    "period": 4,
+    "clock": "2:31",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TEN at 02:31."
+  },
+  {
+    "wallclock": "2025-09-14T19:59:52Z",
+    "period": 4,
+    "clock": "2:31",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Oladejo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left tackle to TEN 29 for no gain (C.Barton; O.Oladejo)."
+  },
+  {
+    "wallclock": "2025-09-14T20:00:13Z",
+    "period": 4,
+    "clock": "2:25",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by TEN at 02:25."
+  },
+  {
+    "wallclock": "2025-09-14T20:00:55Z",
+    "period": 4,
+    "clock": "2:25",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right tackle to TEN 14 for 15 yards (C.Gray).PENALTY on TEN-C.Gray, Horse Collar Tackle, 7 yards, enforced at TEN 14."
+  },
+  {
+    "wallclock": "2025-09-14T20:02:18Z",
+    "period": 4,
+    "clock": "2:17",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by LA at 02:17."
+  },
+  {
+    "wallclock": "2025-09-14T20:03:11Z",
+    "period": 4,
+    "clock": "2:17",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to TEN 1 for 6 yards (D.Baker; C.Gray)."
+  },
+  {
+    "wallclock": "2025-09-14T20:03:37Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-14T20:06:19Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford kneels to TEN 5 for -4 yards."
+  },
+  {
+    "wallclock": "2025-09-14T20:07:01Z",
+    "period": 4,
+    "clock": "1:17",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford kneels to TEN 7 for -2 yards."
+  },
+  {
+    "wallclock": "2025-09-14T20:07:46Z",
+    "period": 4,
+    "clock": "0:35",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Field Goal formation) PENALTY on LA, Delay of Game, 5 yards, enforced at TEN 7 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T20:08:50Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

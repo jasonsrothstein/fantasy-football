@@ -1,0 +1,3673 @@
+[
+  {
+    "wallclock": "2025-12-07T18:02:58Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Moody",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Moody kicks 61 yards from WAS 35 to MIN 4. M.Price to MIN 39 for 35 yards (M.Sainristil)."
+  },
+  {
+    "wallclock": "2025-12-07T18:03:50Z",
+    "period": 1,
+    "clock": "14:54",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right tackle to MIN 42 for 3 yards (J.Martin; B.Wagner)."
+  },
+  {
+    "wallclock": "2025-12-07T18:04:28Z",
+    "period": 1,
+    "clock": "14:16",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Sims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short right to B.Sims to WAS 49 for 9 yards (F.Luvu)."
+  },
+  {
+    "wallclock": "2025-12-07T18:05:05Z",
+    "period": 1,
+    "clock": "13:39",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones up the middle to WAS 42 for 7 yards (B.Wagner; Q.Martin)."
+  },
+  {
+    "wallclock": "2025-12-07T18:05:41Z",
+    "period": 1,
+    "clock": "13:02",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Igbinoghene",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short left to T.Hockenson pushed ob at WAS 32 for 10 yards (N.Igbinoghene)."
+  },
+  {
+    "wallclock": "2025-12-07T18:06:17Z",
+    "period": 1,
+    "clock": "12:28",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short middle to J.Nailor to WAS 23 for 9 yards (M.Sainristil; B.Wagner)."
+  },
+  {
+    "wallclock": "2025-12-07T18:07:00Z",
+    "period": 1,
+    "clock": "11:46",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left guard to WAS 18 for 5 yards (Q.Martin)."
+  },
+  {
+    "wallclock": "2025-12-07T18:07:39Z",
+    "period": 1,
+    "clock": "11:03",
+    "play_type": "Passing Touchdown",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Oliver",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.McCarthy pass deep left to J.Oliver for 18 yards, TOUCHDOWN. W.Reichard extra point is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-07T18:08:32Z",
+    "period": 1,
+    "clock": "11:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:03."
+  },
+  {
+    "wallclock": "2025-12-07T18:11:36Z",
+    "period": 1,
+    "clock": "11:03",
+    "play_type": "Kickoff",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Keys",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 64 yards from MIN 35 to WAS 1. D.Samuel to WAS 41 for 40 yards (A.Keys; Z.Scott).PENALTY on WAS-P.Butler, Offensive Holding, 10 yards, enforced at WAS 25."
+  },
+  {
+    "wallclock": "2025-12-07T18:13:05Z",
+    "period": 1,
+    "clock": "10:52",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Rodriguez left tackle to WAS 19 for 4 yards (E.Wilson; A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-12-07T18:13:40Z",
+    "period": 1,
+    "clock": "10:18",
+    "play_type": "Pass Reception",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass deep left to T.McLaurin to WAS 47 for 28 yards (J.Ward) [J.Allen]."
+  },
+  {
+    "wallclock": "2025-12-07T18:14:12Z",
+    "period": 1,
+    "clock": "9:46",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short right to D.Samuel to WAS 49 for 2 yards (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-12-07T18:14:52Z",
+    "period": 1,
+    "clock": "9:06",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Rodriguez right tackle to MIN 41 for 10 yards (J.Metellus; B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-07T18:15:28Z",
+    "period": 1,
+    "clock": "8:30",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Yankoff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short left to C.Yankoff."
+  },
+  {
+    "wallclock": "2025-12-07T18:16:06Z",
+    "period": 1,
+    "clock": "8:27",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Sinnott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short left to B.Sinnott to MIN 33 for 8 yards (B.Murphy; B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-07T18:16:47Z",
+    "period": 1,
+    "clock": "7:46",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels scrambles right end to MIN 31 for 2 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-07T18:17:28Z",
+    "period": 1,
+    "clock": "7:05",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McNichols",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.McNichols right guard to MIN 23 for 8 yards (J.Metellus; H.Smith).PENALTY on WAS-J.Bates, Offensive Holding, 10 yards, enforced at MIN 31 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:18:45Z",
+    "period": 1,
+    "clock": "6:47",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McNichols",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short right to J.McNichols to MIN 39 for 2 yards (B.Cashman; J.Redmond)."
+  },
+  {
+    "wallclock": "2025-12-07T18:19:29Z",
+    "period": 1,
+    "clock": "6:03",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels scrambles up the middle to MIN 34 for 5 yards (H.Smith)."
+  },
+  {
+    "wallclock": "2025-12-07T18:20:16Z",
+    "period": 1,
+    "clock": "5:15",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short left to D.Samuel to MIN 19 for 15 yards (I.Rodgers; A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-12-07T18:21:04Z",
+    "period": 1,
+    "clock": "4:28",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Rodriguez right tackle to MIN 4 for 15 yards (D.Turner; H.Smith)."
+  },
+  {
+    "wallclock": "2025-12-07T18:21:50Z",
+    "period": 1,
+    "clock": "3:42",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Rodriguez left guard to MIN 2 for 2 yards (B.Cashman; E.Wilson)."
+  },
+  {
+    "wallclock": "2025-12-07T18:22:34Z",
+    "period": 1,
+    "clock": "2:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Coleman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) B.Coleman reported in as eligible.  J.Daniels pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-12-07T18:23:20Z",
+    "period": 1,
+    "clock": "2:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short right [J.Allen]."
+  },
+  {
+    "wallclock": "2025-12-07T18:24:07Z",
+    "period": 1,
+    "clock": "2:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass incomplete short middle to D.Samuel."
+  },
+  {
+    "wallclock": "2025-12-07T18:24:31Z",
+    "period": 1,
+    "clock": "2:42",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:42."
+  },
+  {
+    "wallclock": "2025-12-07T18:27:15Z",
+    "period": 1,
+    "clock": "2:42",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason up the middle to MIN 6 for 4 yards (B.Wagner; V.Miller)."
+  },
+  {
+    "wallclock": "2025-12-07T18:27:53Z",
+    "period": 1,
+    "clock": "2:04",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left guard to MIN 6 for no gain (B.Wagner)."
+  },
+  {
+    "wallclock": "2025-12-07T18:28:33Z",
+    "period": 1,
+    "clock": "1:24",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy scrambles up the middle to MIN 13 for 7 yards (F.Luvu)."
+  },
+  {
+    "wallclock": "2025-12-07T18:29:21Z",
+    "period": 1,
+    "clock": "0:36",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Kinlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left end to MIN 15 for 2 yards (B.Wagner; J.Kinlaw)."
+  },
+  {
+    "wallclock": "2025-12-07T18:29:58Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-07T18:32:57Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Magee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short middle to J.Nailor to MIN 24 for 9 yards (B.Wagner; J.Magee)."
+  },
+  {
+    "wallclock": "2025-12-07T18:33:38Z",
+    "period": 2,
+    "clock": "14:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass incomplete deep right to J.Addison [P.Smith]."
+  },
+  {
+    "wallclock": "2025-12-07T18:34:21Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Mason right guard to MIN 36 for 12 yards (B.Wagner)."
+  },
+  {
+    "wallclock": "2025-12-07T18:35:00Z",
+    "period": 2,
+    "clock": "13:36",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Mason up the middle to MIN 40 for 4 yards (B.Wagner)."
+  },
+  {
+    "wallclock": "2025-12-07T18:35:40Z",
+    "period": 2,
+    "clock": "12:56",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked ob at MIN 37 for -3 yards (W.Harris)."
+  },
+  {
+    "wallclock": "2025-12-07T18:36:23Z",
+    "period": 2,
+    "clock": "12:16",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Nailor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short left to J.Nailor ran ob at MIN 49 for 12 yards (M.Sainristil)."
+  },
+  {
+    "wallclock": "2025-12-07T18:37:03Z",
+    "period": 2,
+    "clock": "11:38",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Magee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right end to WAS 49 for 2 yards (J.Martin; J.Magee)."
+  },
+  {
+    "wallclock": "2025-12-07T18:37:46Z",
+    "period": 2,
+    "clock": "10:54",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Payne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked at WAS 49 for 0 yards (D.Payne)."
+  },
+  {
+    "wallclock": "2025-12-07T18:38:56Z",
+    "period": 2,
+    "clock": "9:59",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass deep left to J.Addison to WAS 28 for 21 yards (Q.Martin)."
+  },
+  {
+    "wallclock": "2025-12-07T18:39:41Z",
+    "period": 2,
+    "clock": "9:14",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short left to J.Jefferson to WAS 30 for -2 yards (M.Sainristil, D.Walker)."
+  },
+  {
+    "wallclock": "2025-12-07T18:40:19Z",
+    "period": 2,
+    "clock": "8:36",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right end to WAS 30 for no gain (Q.Martin)."
+  },
+  {
+    "wallclock": "2025-12-07T18:41:05Z",
+    "period": 2,
+    "clock": "7:50",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short middle to J.Jefferson to WAS 17 for 13 yards (B.Wagner; Q.Martin)."
+  },
+  {
+    "wallclock": "2025-12-07T18:41:47Z",
+    "period": 2,
+    "clock": "7:08",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason up the middle to WAS 12 for 5 yards (B.Wagner)."
+  },
+  {
+    "wallclock": "2025-12-07T18:42:26Z",
+    "period": 2,
+    "clock": "6:29",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason right tackle to WAS 8 for 4 yards (J.Martin)."
+  },
+  {
+    "wallclock": "2025-12-07T18:43:10Z",
+    "period": 2,
+    "clock": "5:41",
+    "play_type": "Rushing Touchdown",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Mason left end for 8 yards, TOUCHDOWN. W.Reichard extra point is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-07T18:44:01Z",
+    "period": 2,
+    "clock": "5:41",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:41."
+  },
+  {
+    "wallclock": "2025-12-07T18:46:47Z",
+    "period": 2,
+    "clock": "5:41",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Richter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 60 yards from MIN 35 to WAS 5. D.Samuel to WAS 24 for 19 yards (B.Richter)."
+  },
+  {
+    "wallclock": "2025-12-07T18:47:45Z",
+    "period": 2,
+    "clock": "5:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass incomplete short left to T.McLaurin (A.Van Ginkel)."
+  },
+  {
+    "wallclock": "2025-12-07T18:48:23Z",
+    "period": 2,
+    "clock": "5:33",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Greenard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Rodriguez up the middle to WAS 29 for 5 yards (J.Greenard; J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-12-07T18:48:58Z",
+    "period": 2,
+    "clock": "4:57",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels scrambles right end pushed ob at WAS 33 for 4 yards (H.Smith)."
+  },
+  {
+    "wallclock": "2025-12-07T18:49:33Z",
+    "period": 2,
+    "clock": "4:25",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Way punts 46 yards to MIN 21, Center-T.Ott, fair catch by M.Price."
+  },
+  {
+    "wallclock": "2025-12-07T18:50:03Z",
+    "period": 2,
+    "clock": "4:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:18."
+  },
+  {
+    "wallclock": "2025-12-07T18:52:35Z",
+    "period": 2,
+    "clock": "4:18",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Goldman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right guard to MIN 26 for 5 yards (E.Goldman; P.Smith)."
+  },
+  {
+    "wallclock": "2025-12-07T18:53:12Z",
+    "period": 2,
+    "clock": "3:41",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reaves",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right tackle to MIN 30 for 4 yards (J.Jones; J.Reaves)."
+  },
+  {
+    "wallclock": "2025-12-07T18:53:57Z",
+    "period": 2,
+    "clock": "2:56",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones right guard to MIN 34 for 4 yards (P.Smith; B.Wagner)."
+  },
+  {
+    "wallclock": "2025-12-07T18:54:33Z",
+    "period": 2,
+    "clock": "2:20",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones up the middle to MIN 38 for 4 yards (V.Miller)."
+  },
+  {
+    "wallclock": "2025-12-07T18:54:57Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-07T18:57:36Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Darrisaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIN-C.Darrisaw, False Start, 5 yards, enforced at MIN 38 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T18:58:18Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short left to A.Jones (F.Luvu)."
+  },
+  {
+    "wallclock": "2025-12-07T18:58:57Z",
+    "period": 2,
+    "clock": "1:57",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy sacked at MIN 24 for -9 yards (V.Miller)."
+  },
+  {
+    "wallclock": "2025-12-07T18:59:17Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by WAS at 01:51."
+  },
+  {
+    "wallclock": "2025-12-07T18:59:50Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Lane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Wright punts 43 yards to WAS 33, Center-A.DePaola, fair catch by J.Lane."
+  },
+  {
+    "wallclock": "2025-12-07T19:00:18Z",
+    "period": 2,
+    "clock": "1:45",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:45."
+  },
+  {
+    "wallclock": "2025-12-07T19:03:13Z",
+    "period": 2,
+    "clock": "1:45",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass short left to T.McLaurin pushed ob at WAS 39 for 6 yards (F.Moreau)."
+  },
+  {
+    "wallclock": "2025-12-07T19:03:47Z",
+    "period": 2,
+    "clock": "1:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-12-07T19:04:23Z",
+    "period": 2,
+    "clock": "1:40",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels pass short left to T.McLaurin to WAS 46 for 7 yards (F.Moreau)."
+  },
+  {
+    "wallclock": "2025-12-07T19:04:41Z",
+    "period": 2,
+    "clock": "1:22",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short left to T.McLaurin."
+  },
+  {
+    "wallclock": "2025-12-07T19:05:25Z",
+    "period": 2,
+    "clock": "1:19",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short right to D.Samuel to WAS 45 for -1 yards (B.Murphy)."
+  },
+  {
+    "wallclock": "2025-12-07T19:06:09Z",
+    "period": 2,
+    "clock": "0:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-07T19:06:51Z",
+    "period": 2,
+    "clock": "0:27",
+    "play_type": "Punt",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Medrano",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Way punts 49 yards to MIN 6, Center-T.Ott. M.Price to MIN 14 for 8 yards (K.Medrano)."
+  },
+  {
+    "wallclock": "2025-12-07T19:07:39Z",
+    "period": 2,
+    "clock": "0:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:17."
+  },
+  {
+    "wallclock": "2025-12-07T19:09:51Z",
+    "period": 2,
+    "clock": "0:17",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy kneels to MIN 13 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-07T19:09:51Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-07T19:23:54Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 61 yards from MIN 35 to WAS 4. D.Samuel to WAS 23 for 19 yards (J.Ward)."
+  },
+  {
+    "wallclock": "2025-12-07T19:24:41Z",
+    "period": 3,
+    "clock": "14:56",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Rodriguez right guard to WAS 27 for 4 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-07T19:25:20Z",
+    "period": 3,
+    "clock": "14:17",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels sacked ob at WAS 26 for -1 yards (J.Redmond)."
+  },
+  {
+    "wallclock": "2025-12-07T19:26:09Z",
+    "period": 3,
+    "clock": "13:31",
+    "play_type": "Penalty",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete deep right to N.Brown.PENALTY on MIN-F.Moreau, Defensive Pass Interference, 14 yards, enforced at WAS 26 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T19:27:05Z",
+    "period": 3,
+    "clock": "13:27",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Rodriguez up the middle to WAS 44 for 4 yards (J.Redmond)."
+  },
+  {
+    "wallclock": "2025-12-07T19:27:46Z",
+    "period": 3,
+    "clock": "12:46",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Rodriguez right end to WAS 49 for 5 yards (B.Cashman; J.Hargrave)."
+  },
+  {
+    "wallclock": "2025-12-07T19:28:28Z",
+    "period": 3,
+    "clock": "12:05",
+    "play_type": "Penalty",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ingram-Dawkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ingram-Dawkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Conerly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels sacked at WAS 44 for -5 yards (E.Wilson). FUMBLES (E.Wilson) [E.Wilson], RECOVERED by MIN-T.Ingram-Dawkins at WAS 46. T.Ingram-Dawkins to WAS 26 for 20 yards (J.Conerly).PENALTY on MIN, Defensive Too Many Men on Field, 5 yards, enforced at WAS 49 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T19:29:51Z",
+    "period": 3,
+    "clock": "11:52",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Rodriguez left tackle to MIN 42 for 4 yards (I.Pace; J.Allen)."
+  },
+  {
+    "wallclock": "2025-12-07T19:30:27Z",
+    "period": 3,
+    "clock": "11:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short left to D.Samuel."
+  },
+  {
+    "wallclock": "2025-12-07T19:31:05Z",
+    "period": 3,
+    "clock": "11:13",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Murphy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Greenard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Daniels scrambles right end to MIN 37 for 5 yards (B.Murphy; J.Greenard)."
+  },
+  {
+    "wallclock": "2025-12-07T19:31:51Z",
+    "period": 3,
+    "clock": "10:26",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Daniels pass short left to Z.Ertz to MIN 26 for 11 yards (I.Rodgers; B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-07T19:32:32Z",
+    "period": 3,
+    "clock": "9:45",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Croskey-Merritt right guard to MIN 19 for 7 yards (H.Smith)."
+  },
+  {
+    "wallclock": "2025-12-07T19:33:08Z",
+    "period": 3,
+    "clock": "9:10",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Croskey-Merritt right end to MIN 19 for no gain (J.Redmond; I.Rodgers)."
+  },
+  {
+    "wallclock": "2025-12-07T19:33:51Z",
+    "period": 3,
+    "clock": "8:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass incomplete short left to N.Brown."
+  },
+  {
+    "wallclock": "2025-12-07T19:34:32Z",
+    "period": 3,
+    "clock": "8:24",
+    "play_type": "Pass Interception Return",
+    "yards": 40,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Daniels",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McLaurin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Daniels pass short left intended for T.McLaurin INTERCEPTED by A.Van Ginkel at MIN 30. A.Van Ginkel to WAS 30 for 40 yards (T.McLaurin)."
+  },
+  {
+    "wallclock": "2025-12-07T19:36:48Z",
+    "period": 3,
+    "clock": "8:16",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:16."
+  },
+  {
+    "wallclock": "2025-12-07T19:37:53Z",
+    "period": 3,
+    "clock": "8:16",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Darrisaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Kinlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short left to J.Jefferson to WAS 20 for 10 yards (M.Sainristil).Penalty on MIN-C.Darrisaw, Offensive Holding, offsetting, enforced at WAS 30 - No Play.Penalty on WAS-J.Kinlaw, Defensive Holding, offsetting."
+  },
+  {
+    "wallclock": "2025-12-07T19:38:50Z",
+    "period": 3,
+    "clock": "7:52",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones up the middle to WAS 27 for 3 yards (J.Martin; B.Wagner)."
+  },
+  {
+    "wallclock": "2025-12-07T19:39:27Z",
+    "period": 3,
+    "clock": "7:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short right to J.Jefferson (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T19:40:12Z",
+    "period": 3,
+    "clock": "7:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short right to T.Hockenson (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T19:40:49Z",
+    "period": 3,
+    "clock": "7:01",
+    "play_type": "Field Goal Good",
+    "yards": 45,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Reichard 45 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-07T19:41:09Z",
+    "period": 3,
+    "clock": "7:01",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:01."
+  },
+  {
+    "wallclock": "2025-12-07T19:43:55Z",
+    "period": 3,
+    "clock": "7:01",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 65 yards from MIN 35 to landing zone to end zone, Touchback to the WAS 20."
+  },
+  {
+    "wallclock": "2025-12-07T19:44:49Z",
+    "period": 3,
+    "clock": "7:01",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Croskey-Merritt right tackle to WAS 25 for 5 yards (J.Redmond; E.Wilson)."
+  },
+  {
+    "wallclock": "2025-12-07T19:45:26Z",
+    "period": 3,
+    "clock": "6:25",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mariota",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Mariota pass short middle to D.Samuel to WAS 36 for 11 yards (J.Metellus; I.Pace)."
+  },
+  {
+    "wallclock": "2025-12-07T19:46:05Z",
+    "period": 3,
+    "clock": "5:46",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Croskey-Merritt up the middle to WAS 37 for 1 yard (B.Cashman; I.Pace)."
+  },
+  {
+    "wallclock": "2025-12-07T19:46:46Z",
+    "period": 3,
+    "clock": "5:05",
+    "play_type": "Pass Interception Return",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mariota",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Mariota pass short left intended for T.Burks INTERCEPTED by H.Smith at WAS 48. H.Smith to WAS 37 for 11 yards (T.Burks; D.Samuel)."
+  },
+  {
+    "wallclock": "2025-12-07T19:47:40Z",
+    "period": 3,
+    "clock": "4:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:57."
+  },
+  {
+    "wallclock": "2025-12-07T19:49:49Z",
+    "period": 3,
+    "clock": "4:57",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass deep left to J.Addison ran ob at WAS 17 for 20 yards (M.Sainristil)."
+  },
+  {
+    "wallclock": "2025-12-07T19:50:33Z",
+    "period": 3,
+    "clock": "4:15",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left end to WAS 11 for 6 yards (Q.Martin)."
+  },
+  {
+    "wallclock": "2025-12-07T19:51:16Z",
+    "period": 3,
+    "clock": "3:40",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIN at 03:40."
+  },
+  {
+    "wallclock": "2025-12-07T19:52:08Z",
+    "period": 3,
+    "clock": "3:40",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason right end to WAS 6 for 5 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-07T19:52:49Z",
+    "period": 3,
+    "clock": "2:53",
+    "play_type": "Passing Touchdown",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Oliver",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.McCarthy pass short right to J.Oliver for 6 yards, TOUCHDOWN [J.Martin]. W.Reichard extra point is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-07T19:53:47Z",
+    "period": 3,
+    "clock": "2:53",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:53."
+  },
+  {
+    "wallclock": "2025-12-07T19:56:24Z",
+    "period": 3,
+    "clock": "2:53",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Samuel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 60 yards from MIN 35 to WAS 5. D.Samuel pushed ob at WAS 30 for 25 yards (T.Thomas)."
+  },
+  {
+    "wallclock": "2025-12-07T19:57:10Z",
+    "period": 3,
+    "clock": "2:49",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Rodriguez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Redmond",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Rodriguez right tackle to WAS 29 for -1 yards (J.Redmond, J.Allen)."
+  },
+  {
+    "wallclock": "2025-12-07T19:57:48Z",
+    "period": 3,
+    "clock": "2:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mariota",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Ertz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Mariota pass incomplete short left to Z.Ertz (J.Ward). WAS-Z.Ertz was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-07T19:58:23Z",
+    "period": 3,
+    "clock": "2:05",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:05."
+  },
+  {
+    "wallclock": "2025-12-07T20:00:56Z",
+    "period": 3,
+    "clock": "2:05",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mariota",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Mariota sacked at WAS 21 for -8 yards (E.Wilson)."
+  },
+  {
+    "wallclock": "2025-12-07T20:01:34Z",
+    "period": 3,
+    "clock": "1:28",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Way",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Ott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Price",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Owens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bellore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pace",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Way punts 45 yards to MIN 34, Center-T.Ott. M.Price to MIN 34 for no gain (T.Owens).Penalty on WAS-N.Bellore, Unnecessary Roughness, offsetting.Penalty on MIN-I.Pace, Unnecessary Roughness, offsetting."
+  },
+  {
+    "wallclock": "2025-12-07T20:03:31Z",
+    "period": 3,
+    "clock": "1:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:18."
+  },
+  {
+    "wallclock": "2025-12-07T20:05:20Z",
+    "period": 3,
+    "clock": "1:18",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Igbinoghene",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy scrambles right end to 50 for 16 yards (N.Igbinoghene)."
+  },
+  {
+    "wallclock": "2025-12-07T20:06:10Z",
+    "period": 3,
+    "clock": "0:28",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Luvu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left tackle to WAS 41 for 9 yards (V.Miller; F.Luvu)."
+  },
+  {
+    "wallclock": "2025-12-07T20:06:39Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-07T20:09:29Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Magee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones left guard to WAS 36 for 5 yards (J.Magee)."
+  },
+  {
+    "wallclock": "2025-12-07T20:10:07Z",
+    "period": 4,
+    "clock": "14:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jefferson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Goldman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass incomplete deep left to J.Jefferson (M.Sainristil) [E.Goldman]."
+  },
+  {
+    "wallclock": "2025-12-07T20:10:52Z",
+    "period": 4,
+    "clock": "14:17",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sainristil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jones left guard to WAS 18 for 18 yards (J.Jones; M.Sainristil)."
+  },
+  {
+    "wallclock": "2025-12-07T20:11:39Z",
+    "period": 4,
+    "clock": "13:29",
+    "play_type": "Penalty",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Igbinoghene",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short right to A.Jones to WAS 5 for 13 yards (N.Igbinoghene).PENALTY on WAS-J.Martin, Roughing the Passer, 9 yards, enforced at WAS 18 - No Play.Penalty on MIN-D.Jackson, Ineligible Downfield Pass, superseded."
+  },
+  {
+    "wallclock": "2025-12-07T20:13:32Z",
+    "period": 4,
+    "clock": "13:09",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jones right end to WAS 2 for 7 yards (D.Walker; W.Harris)."
+  },
+  {
+    "wallclock": "2025-12-07T20:14:16Z",
+    "period": 4,
+    "clock": "12:25",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy sacked at WAS 2 for 0 yards (B.Wagner)."
+  },
+  {
+    "wallclock": "2025-12-07T20:15:07Z",
+    "period": 4,
+    "clock": "11:34",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Igbinoghene",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass incomplete short left to J.Addison (N.Igbinoghene)."
+  },
+  {
+    "wallclock": "2025-12-07T20:15:52Z",
+    "period": 4,
+    "clock": "11:31",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIN at 11:31."
+  },
+  {
+    "wallclock": "2025-12-07T20:16:48Z",
+    "period": 4,
+    "clock": "11:26",
+    "play_type": "Passing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hockenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.DePaola",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.McCarthy pass short right to T.Hockenson for 2 yards, TOUCHDOWN. WAS-J.Jones was injured during the play. W.Reichard extra point is GOOD, Center-A.DePaola, Holder-R.Wright."
+  },
+  {
+    "wallclock": "2025-12-07T20:18:33Z",
+    "period": 4,
+    "clock": "11:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:26."
+  },
+  {
+    "wallclock": "2025-12-07T20:21:15Z",
+    "period": 4,
+    "clock": "11:26",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Reichard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the WAS 35."
+  },
+  {
+    "wallclock": "2025-12-07T20:21:58Z",
+    "period": 4,
+    "clock": "11:26",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mariota",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Mariota pass deep right to N.Brown to MIN 46 for 19 yards (J.Metellus)."
+  },
+  {
+    "wallclock": "2025-12-07T20:22:32Z",
+    "period": 4,
+    "clock": "10:52",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metellus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Croskey-Merritt up the middle to MIN 38 for 8 yards (E.Wilson; J.Metellus)."
+  },
+  {
+    "wallclock": "2025-12-07T20:23:15Z",
+    "period": 4,
+    "clock": "10:09",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Cashman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Croskey-Merritt left end pushed ob at MIN 28 for 10 yards (B.Cashman)."
+  },
+  {
+    "wallclock": "2025-12-07T20:23:57Z",
+    "period": 4,
+    "clock": "9:30",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Croskey-Merritt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Croskey-Merritt left guard to MIN 27 for 1 yard (D.Turner)."
+  },
+  {
+    "wallclock": "2025-12-07T20:24:40Z",
+    "period": 4,
+    "clock": "8:48",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mariota",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Mariota scrambles right end to MIN 24 for 3 yards (E.Wilson)."
+  },
+  {
+    "wallclock": "2025-12-07T20:25:25Z",
+    "period": 4,
+    "clock": "8:02",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mariota",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Van",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hargrave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Mariota scrambles right end to MIN 20 for 4 yards (J.Hargrave; A.Van Ginkel). FUMBLES (J.Hargrave), RECOVERED by MIN-J.Hargrave at MIN 17."
+  },
+  {
+    "wallclock": "2025-12-07T20:26:21Z",
+    "period": 4,
+    "clock": "7:53",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:53."
+  },
+  {
+    "wallclock": "2025-12-07T20:28:35Z",
+    "period": 4,
+    "clock": "7:53",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Goldman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left guard to MIN 19 for 2 yards (E.Goldman)."
+  },
+  {
+    "wallclock": "2025-12-07T20:29:18Z",
+    "period": 4,
+    "clock": "7:10",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short right to J.Addison pushed ob at MIN 28 for 9 yards (A.Hamilton)."
+  },
+  {
+    "wallclock": "2025-12-07T20:30:01Z",
+    "period": 4,
+    "clock": "6:29",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Felton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass short right to T.Felton pushed ob at MIN 38 for 10 yards (A.Hamilton)."
+  },
+  {
+    "wallclock": "2025-12-07T20:30:46Z",
+    "period": 4,
+    "clock": "5:45",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mason",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Day",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Mason left end to MIN 35 for -3 yards (B.Wagner).PENALTY on WAS-S.Day, Defensive Holding, 5 yards, enforced at MIN 38 - No Play."
+  },
+  {
+    "wallclock": "2025-12-07T20:31:38Z",
+    "period": 4,
+    "clock": "5:15",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Scott right tackle to MIN 44 for 1 yard (P.Smith)."
+  },
+  {
+    "wallclock": "2025-12-07T20:32:19Z",
+    "period": 4,
+    "clock": "4:34",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hamilton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short left to J.Addison to WAS 44 for 12 yards (A.Hamilton)."
+  },
+  {
+    "wallclock": "2025-12-07T20:33:05Z",
+    "period": 4,
+    "clock": "3:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Addison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy pass incomplete short left to J.Addison."
+  },
+  {
+    "wallclock": "2025-12-07T20:33:51Z",
+    "period": 4,
+    "clock": "3:42",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Payne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Scott left end to WAS 40 for 4 yards (B.Wagner; D.Payne)."
+  },
+  {
+    "wallclock": "2025-12-07T20:34:36Z",
+    "period": 4,
+    "clock": "2:59",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Wagner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.McCarthy pass short right to Z.Scott to WAS 35 for 5 yards (B.Wagner). (Virtual Measurement)."
+  },
+  {
+    "wallclock": "2025-12-07T20:36:32Z",
+    "period": 4,
+    "clock": "2:03",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Igbinoghene",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " Z.Scott left guard to WAS 25 for 10 yards (Q.Martin; N.Igbinoghene)."
+  },
+  {
+    "wallclock": "2025-12-07T20:36:53Z",
+    "period": 4,
+    "clock": "1:59",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-07T20:39:32Z",
+    "period": 4,
+    "clock": "1:59",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.McCarthy kneels to WAS 26 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-07T20:40:13Z",
+    "period": 4,
+    "clock": "1:16",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.McCarthy kneels to WAS 27 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-07T20:40:52Z",
+    "period": 4,
+    "clock": "0:39",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.McCarthy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.McCarthy kneels to WAS 28 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-07T20:40:52Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

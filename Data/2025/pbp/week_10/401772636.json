@@ -1,0 +1,4554 @@
+[
+  {
+    "wallclock": "2025-11-09T14:35:07Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Dulin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Franks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion kicks 60 yards from ATL 35 to IND 5. A.Dulin to IND 25 for 20 yards (K.Hodge; F.Franks)."
+  },
+  {
+    "wallclock": "2025-11-09T14:35:53Z",
+    "period": 1,
+    "clock": "14:56",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor up the middle to IND 27 for 2 yards (J.Walker; R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-09T14:36:30Z",
+    "period": 1,
+    "clock": "14:19",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short left to A.Pierce to IND 37 for 10 yards (J.Walker)."
+  },
+  {
+    "wallclock": "2025-11-09T14:37:06Z",
+    "period": 1,
+    "clock": "13:43",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bortolini",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short right to J.Taylor to ATL 49 for 14 yards (J.Bates). FUMBLES (J.Bates), recovered by IND-T.Bortolini at ATL 46."
+  },
+  {
+    "wallclock": "2025-11-09T14:37:58Z",
+    "period": 1,
+    "clock": "13:05",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short right to T.Warren pushed ob at ATL 35 for 11 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-09T14:38:30Z",
+    "period": 1,
+    "clock": "12:29",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor left end to ATL 31 for 4 yards (D.Alford; R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-09T14:39:09Z",
+    "period": 1,
+    "clock": "11:50",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to ATL 27 for 4 yards (S.Roberts; X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-09T14:39:53Z",
+    "period": 1,
+    "clock": "11:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Alie-Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass incomplete short left to M.Alie-Cox (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-09T14:40:34Z",
+    "period": 1,
+    "clock": "11:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass incomplete short right to J.Downs (D.Alford)."
+  },
+  {
+    "wallclock": "2025-11-09T14:41:09Z",
+    "period": 1,
+    "clock": "10:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:58."
+  },
+  {
+    "wallclock": "2025-11-09T14:43:38Z",
+    "period": 1,
+    "clock": "10:58",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gardner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left tackle pushed ob at ATL 44 for 16 yards (A.Gardner)."
+  },
+  {
+    "wallclock": "2025-11-09T14:44:24Z",
+    "period": 1,
+    "clock": "10:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep right to K.Pitts."
+  },
+  {
+    "wallclock": "2025-11-09T14:45:06Z",
+    "period": 1,
+    "clock": "10:09",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Adebawore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to ATL 46 for 2 yards (A.Adebawore; N.Cross)."
+  },
+  {
+    "wallclock": "2025-11-09T14:45:52Z",
+    "period": 1,
+    "clock": "9:24",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilkinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix sacked at ATL 38 for -8 yards (C.Bynum). FUMBLES (C.Bynum), RECOVERED by IND-G.Pratt at ATL 31. G.Pratt to ATL 23 for 8 yards (T.Allgeier; E.Wilkinson)."
+  },
+  {
+    "wallclock": "2025-11-09T14:47:05Z",
+    "period": 1,
+    "clock": "9:15",
+    "play_type": "Rush",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Dulin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Dulin left end to ATL 1 for 22 yards (X.Watts; J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-09T14:47:41Z",
+    "period": 1,
+    "clock": "8:36",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) J.Taylor up the middle for 1 yard, TOUCHDOWN. M.Badgley extra point is No Good, Wide Right, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-11-09T14:49:04Z",
+    "period": 1,
+    "clock": "8:36",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:36."
+  },
+  {
+    "wallclock": "2025-11-09T14:51:21Z",
+    "period": 1,
+    "clock": "8:36",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Goodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Adebawore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 66 yards from IND 35 to ATL -1. N.Brooks to ATL 19 for 20 yards (T.Goodson; A.Adebawore)."
+  },
+  {
+    "wallclock": "2025-11-09T14:52:14Z",
+    "period": 1,
+    "clock": "8:30",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass deep left to D.London pushed ob at ATL 49 for 30 yards (N.Cross)."
+  },
+  {
+    "wallclock": "2025-11-09T14:52:49Z",
+    "period": 1,
+    "clock": "8:01",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass short left to D.London to IND 38 for 13 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-11-09T14:53:23Z",
+    "period": 1,
+    "clock": "7:24",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to IND 34 for 4 yards (L.Latu; Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T14:54:05Z",
+    "period": 1,
+    "clock": "6:42",
+    "play_type": "Penalty",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep left to D.Mooney.PENALTY on IND-M.Blackmon, Defensive Pass Interference, 20 yards, enforced at IND 34 - No Play."
+  },
+  {
+    "wallclock": "2025-11-09T14:55:05Z",
+    "period": 1,
+    "clock": "6:36",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left tackle to IND 1 for 13 yards (G.Pratt; K.Moore)."
+  },
+  {
+    "wallclock": "2025-11-09T14:55:32Z",
+    "period": 1,
+    "clock": "6:07",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) T.Allgeier left tackle for 1 yard, TOUCHDOWN. Z.Gonzalez extra point is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-11-09T14:56:49Z",
+    "period": 1,
+    "clock": "6:07",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:07."
+  },
+  {
+    "wallclock": "2025-11-09T14:59:15Z",
+    "period": 1,
+    "clock": "6:07",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion kicks 65 yards from ATL 35 to end zone, Touchback to the IND 35."
+  },
+  {
+    "wallclock": "2025-11-09T15:00:07Z",
+    "period": 1,
+    "clock": "6:07",
+    "play_type": "Rush",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor right tackle to ATL 37 for 28 yards (B.Bowman; A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-09T15:00:47Z",
+    "period": 1,
+    "clock": "5:19",
+    "play_type": "Passing Touchdown",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) D.Jones pass deep middle to A.Pierce for 37 yards, TOUCHDOWN. M.Badgley extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-11-09T15:02:08Z",
+    "period": 1,
+    "clock": "5:19",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:19."
+  },
+  {
+    "wallclock": "2025-11-09T15:04:28Z",
+    "period": 1,
+    "clock": "5:19",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 60 yards from IND 35 to ATL 5. J.Agnew to ATL 27 for 22 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-11-09T15:05:13Z",
+    "period": 1,
+    "clock": "5:14",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Adebawore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to ATL 27 for no gain (A.Adebawore)."
+  },
+  {
+    "wallclock": "2025-11-09T15:05:37Z",
+    "period": 1,
+    "clock": "4:50",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gardner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass short left to D.Mooney pushed ob at ATL 44 for 17 yards (A.Gardner)."
+  },
+  {
+    "wallclock": "2025-11-09T15:06:05Z",
+    "period": 1,
+    "clock": "4:27",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gardner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson right end pushed ob at IND 46 for 10 yards (A.Gardner)."
+  },
+  {
+    "wallclock": "2025-11-09T15:06:32Z",
+    "period": 1,
+    "clock": "4:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tuimoloau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson up the middle to IND 41 for 5 yards (J.Tuimoloau; Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T15:06:57Z",
+    "period": 1,
+    "clock": "3:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass incomplete short left to D.Mooney."
+  },
+  {
+    "wallclock": "2025-11-09T15:07:42Z",
+    "period": 1,
+    "clock": "3:30",
+    "play_type": "Pass Reception",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to B.Robinson to IND 45 for -4 yards (M.Blackmon)."
+  },
+  {
+    "wallclock": "2025-11-09T15:08:24Z",
+    "period": 1,
+    "clock": "2:52",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 43 yards to IND 2, Center-L.McCullough, downed by ATL-K.Hodge."
+  },
+  {
+    "wallclock": "2025-11-09T15:08:53Z",
+    "period": 1,
+    "clock": "2:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:39."
+  },
+  {
+    "wallclock": "2025-11-09T15:11:26Z",
+    "period": 1,
+    "clock": "2:39",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short middle to T.Warren to IND 10 for 8 yards (J.Walker)."
+  },
+  {
+    "wallclock": "2025-11-09T15:12:03Z",
+    "period": 1,
+    "clock": "2:03",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones scrambles right end pushed ob at IND 13 for 3 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-09T15:12:50Z",
+    "period": 1,
+    "clock": "1:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass incomplete short left to T.Warren."
+  },
+  {
+    "wallclock": "2025-11-09T15:13:29Z",
+    "period": 1,
+    "clock": "1:13",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones scrambles up the middle to IND 26 for 13 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-09T15:14:17Z",
+    "period": 1,
+    "clock": "0:26",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Raimann",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short left to J.Downs to IND 33 for 7 yards (B.Bowman).PENALTY on IND-B.Raimann, Ineligible Downfield Pass, 5 yards, enforced at IND 26 - No Play."
+  },
+  {
+    "wallclock": "2025-11-09T15:14:17Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-11-09T15:18:23Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass deep left to A.Pierce to IND 47 for 26 yards (K.Taylor) [K.Elliss]."
+  },
+  {
+    "wallclock": "2025-11-09T15:19:07Z",
+    "period": 2,
+    "clock": "14:17",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short right to T.Warren to ATL 44 for 9 yards (J.Bertrand; X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-09T15:19:49Z",
+    "period": 2,
+    "clock": "13:35",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor up the middle to ATL 39 for 5 yards (K.Elliss; Z.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-09T15:20:32Z",
+    "period": 2,
+    "clock": "12:52",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones sacked at ATL 40 for -1 yards (Z.Harrison). FUMBLES (Z.Harrison) [Z.Harrison], touched at ATL 40, ball out of bounds at ATL 38."
+  },
+  {
+    "wallclock": "2025-11-09T15:21:26Z",
+    "period": 2,
+    "clock": "12:06",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to J.Downs to ATL 37 for 3 yards (A.Terrell; K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-09T15:22:08Z",
+    "period": 2,
+    "clock": "11:25",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor left end to ATL 35 for 2 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-09T15:22:47Z",
+    "period": 2,
+    "clock": "10:46",
+    "play_type": "Field Goal Missed",
+    "yards": 53,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley 53 yard field goal is No Good, Short, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-11-09T15:23:21Z",
+    "period": 2,
+    "clock": "10:40",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:40."
+  },
+  {
+    "wallclock": "2025-11-09T15:25:47Z",
+    "period": 2,
+    "clock": "10:40",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to ATL 44 for 1 yard (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T15:26:28Z",
+    "period": 2,
+    "clock": "10:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-11-09T15:27:23Z",
+    "period": 2,
+    "clock": "9:50",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ATL at 09:50."
+  },
+  {
+    "wallclock": "2025-11-09T15:28:30Z",
+    "period": 2,
+    "clock": "9:50",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix sacked at ATL 44 for 0 yards (N.Cross)."
+  },
+  {
+    "wallclock": "2025-11-09T15:29:17Z",
+    "period": 2,
+    "clock": "9:03",
+    "play_type": "Punt",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Franks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Dulin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 46 yards to IND 10, Center-L.McCullough. J.Downs to IND 28 for 18 yards (F.Franks).PENALTY on IND-A.Dulin, Offensive Holding, 6 yards, enforced at IND 13."
+  },
+  {
+    "wallclock": "2025-11-09T15:30:44Z",
+    "period": 2,
+    "clock": "8:53",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right tackle to IND 12 for 5 yards (Z.Harrison; B.Bowman)."
+  },
+  {
+    "wallclock": "2025-11-09T15:31:26Z",
+    "period": 2,
+    "clock": "8:08",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Woods",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor left end to IND 16 for 4 yards (J.Woods; B.Bowman)."
+  },
+  {
+    "wallclock": "2025-11-09T15:32:06Z",
+    "period": 2,
+    "clock": "7:25",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on IND-B.Smith, False Start, 5 yards, enforced at IND 16 - No Play."
+  },
+  {
+    "wallclock": "2025-11-09T15:32:56Z",
+    "period": 2,
+    "clock": "7:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass incomplete short right to A.Pierce (J.Pearce)."
+  },
+  {
+    "wallclock": "2025-11-09T15:33:28Z",
+    "period": 2,
+    "clock": "7:02",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Sanchez punts 44 yards to ATL 45, Center-L.Rhodes, fair catch by J.Agnew.Penalty on ATL, Defensive Too Many Men on Field, declined."
+  },
+  {
+    "wallclock": "2025-11-09T15:34:40Z",
+    "period": 2,
+    "clock": "6:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:54."
+  },
+  {
+    "wallclock": "2025-11-09T15:37:18Z",
+    "period": 2,
+    "clock": "6:54",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left tackle to 50 for 5 yards (L.Latu)."
+  },
+  {
+    "wallclock": "2025-11-09T15:38:02Z",
+    "period": 2,
+    "clock": "6:10",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woerner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short middle to C.Woerner to IND 36 for 14 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T15:38:48Z",
+    "period": 2,
+    "clock": "5:24",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier right end to IND 33 for 3 yards (G.Pratt; N.Cross)."
+  },
+  {
+    "wallclock": "2025-11-09T15:39:32Z",
+    "period": 2,
+    "clock": "4:41",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gardner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to D.London to IND 20 for 13 yards (A.Gardner; Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T15:40:11Z",
+    "period": 2,
+    "clock": "4:02",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right end to IND 16 for 4 yards (N.Cross; K.Paye)."
+  },
+  {
+    "wallclock": "2025-11-09T15:40:42Z",
+    "period": 2,
+    "clock": "3:25",
+    "play_type": "Passing Touchdown",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) M.Penix pass deep right to D.London for 16 yards, TOUCHDOWN. Z.Gonzalez extra point is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-11-09T15:42:12Z",
+    "period": 2,
+    "clock": "3:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:25."
+  },
+  {
+    "wallclock": "2025-11-09T15:44:49Z",
+    "period": 2,
+    "clock": "3:25",
+    "play_type": "Kickoff",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Abdullah",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ogletree",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion kicks 61 yards from ATL 35 to IND 4. A.Abdullah pushed ob at IND 46 for 42 yards (M.Ford).PENALTY on IND-A.Ogletree, Offensive Holding, 10 yards, enforced at IND 24."
+  },
+  {
+    "wallclock": "2025-11-09T15:46:06Z",
+    "period": 2,
+    "clock": "3:19",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to M.Pittman to IND 23 for 9 yards (K.Taylor)."
+  },
+  {
+    "wallclock": "2025-11-09T15:46:31Z",
+    "period": 2,
+    "clock": "2:53",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Taylor up the middle to IND 25 for 2 yards (D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-11-09T15:47:09Z",
+    "period": 2,
+    "clock": "2:16",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short left to J.Taylor to IND 29 for 4 yards (J.Woods)."
+  },
+  {
+    "wallclock": "2025-11-09T15:47:37Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-09T15:50:18Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short left to A.Pierce to IND 40 for 11 yards (K.Taylor)."
+  },
+  {
+    "wallclock": "2025-11-09T15:50:58Z",
+    "period": 2,
+    "clock": "1:26",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones scrambles up the middle to IND 49 for 9 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-09T15:51:22Z",
+    "period": 2,
+    "clock": "1:03",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Jones sacked at IND 39 for -10 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-09T15:52:05Z",
+    "period": 2,
+    "clock": "0:20",
+    "play_type": "Pass Interception Return",
+    "yards": -12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass deep left intended for A.Pierce INTERCEPTED by J.Bates at ATL 40. J.Bates to ATL 43 for 3 yards (A.Pierce).PENALTY on ATL-J.Bates, Taunting, 15 yards, enforced at ATL 43."
+  },
+  {
+    "wallclock": "2025-11-09T15:53:56Z",
+    "period": 2,
+    "clock": "0:08",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Penix kneels to ATL 27 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-09T15:53:56Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-11-09T16:10:07Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Olubi",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 57 yards from IND 35 to ATL 8. J.Agnew to ATL 31 for 23 yards (S.Olubi)."
+  },
+  {
+    "wallclock": "2025-11-09T16:11:19Z",
+    "period": 3,
+    "clock": "14:55",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier right end to ATL 35 for 4 yards (G.Pratt; G.Stewart). IND-G.Stewart was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-09T16:12:06Z",
+    "period": 3,
+    "clock": "14:38",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:38."
+  },
+  {
+    "wallclock": "2025-11-09T16:14:48Z",
+    "period": 3,
+    "clock": "14:24",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass deep left to K.Pitts pushed ob at IND 40 for 25 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-11-09T16:15:29Z",
+    "period": 3,
+    "clock": "13:45",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end pushed ob at IND 30 for 10 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-11-09T16:16:10Z",
+    "period": 3,
+    "clock": "13:07",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Adebawore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left tackle to IND 25 for 5 yards (K.Paye; A.Adebawore)."
+  },
+  {
+    "wallclock": "2025-11-09T16:16:37Z",
+    "period": 3,
+    "clock": "12:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass incomplete short right to K.Pitts."
+  },
+  {
+    "wallclock": "2025-11-09T16:17:19Z",
+    "period": 3,
+    "clock": "12:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep left to K.Pitts (J.Jones)."
+  },
+  {
+    "wallclock": "2025-11-09T16:18:04Z",
+    "period": 3,
+    "clock": "12:26",
+    "play_type": "Field Goal Good",
+    "yards": 43,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "Z.Gonzalez 43 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-11-09T16:18:55Z",
+    "period": 3,
+    "clock": "12:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:26."
+  },
+  {
+    "wallclock": "2025-11-09T16:21:01Z",
+    "period": 3,
+    "clock": "12:26",
+    "play_type": "Kickoff",
+    "yards": 50,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Dulin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hellams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion kicks 59 yards from ATL 35 to IND 6. A.Dulin to ATL 44 for 50 yards (D.Hellams)."
+  },
+  {
+    "wallclock": "2025-11-09T16:21:58Z",
+    "period": 3,
+    "clock": "12:19",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short left to J.Taylor pushed ob at ATL 20 for 24 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-09T16:22:41Z",
+    "period": 3,
+    "clock": "11:40",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones sacked at ATL 30 for -10 yards (J.Walker). FUMBLES (J.Walker), and recovers at ATL 31."
+  },
+  {
+    "wallclock": "2025-11-09T16:23:33Z",
+    "period": 3,
+    "clock": "11:16",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Abdullah",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Woods",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to A.Abdullah to ATL 23 for 8 yards (J.Woods; K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-09T16:24:21Z",
+    "period": 3,
+    "clock": "10:28",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones sacked at ATL 35 for -12 yards (J.Pearce). FUMBLES (J.Pearce) [J.Pearce], touched at ATL 41, RECOVERED by ATL-J.Walker at ATL 44. J.Walker to ATL 44 for no gain (J.Taylor)."
+  },
+  {
+    "wallclock": "2025-11-09T16:25:22Z",
+    "period": 3,
+    "clock": "10:21",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:21."
+  },
+  {
+    "wallclock": "2025-11-09T16:27:39Z",
+    "period": 3,
+    "clock": "10:21",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to ATL 46 for 2 yards (K.Moore)."
+  },
+  {
+    "wallclock": "2025-11-09T16:28:04Z",
+    "period": 3,
+    "clock": "9:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass incomplete short right to D.Mooney (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-11-09T16:28:49Z",
+    "period": 3,
+    "clock": "9:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gardner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to D.London (A.Gardner)."
+  },
+  {
+    "wallclock": "2025-11-09T16:29:26Z",
+    "period": 3,
+    "clock": "9:47",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 41 yards to IND 13, Center-L.McCullough, fair catch by J.Downs."
+  },
+  {
+    "wallclock": "2025-11-09T16:29:56Z",
+    "period": 3,
+    "clock": "9:40",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:40."
+  },
+  {
+    "wallclock": "2025-11-09T16:32:30Z",
+    "period": 3,
+    "clock": "9:40",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right tackle to IND 17 for 4 yards (J.Bertrand; D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-11-09T16:33:13Z",
+    "period": 3,
+    "clock": "8:57",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor right tackle to IND 24 for 7 yards (B.Bowman)."
+  },
+  {
+    "wallclock": "2025-11-09T16:33:51Z",
+    "period": 3,
+    "clock": "8:20",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to IND 27 for 3 yards (D.Onyemata; K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-09T16:34:22Z",
+    "period": 3,
+    "clock": "7:49",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short right to M.Pittman to IND 33 for 6 yards (K.Taylor).PENALTY on ATL, Defensive Too Many Men on Field, 5 yards, enforced at IND 27 - No Play."
+  },
+  {
+    "wallclock": "2025-11-09T16:35:34Z",
+    "period": 3,
+    "clock": "7:28",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right guard to IND 44 for 12 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-09T16:36:04Z",
+    "period": 3,
+    "clock": "6:58",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) J.Taylor left guard to IND 48 for 4 yards (D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-11-09T16:36:42Z",
+    "period": 3,
+    "clock": "6:20",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short left to T.Warren pushed ob at ATL 28 for 24 yards (X.Watts; D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-11-09T16:37:30Z",
+    "period": 3,
+    "clock": "5:33",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Goodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Goodson left end to ATL 24 for 4 yards (K.Taylor)."
+  },
+  {
+    "wallclock": "2025-11-09T16:38:08Z",
+    "period": 3,
+    "clock": "4:56",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right guard to ATL 21 for 3 yards (Z.Harrison; J.Bertrand)."
+  },
+  {
+    "wallclock": "2025-11-09T16:38:52Z",
+    "period": 3,
+    "clock": "4:12",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to ATL 19 for 2 yards (J.Walker; A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-11-09T16:39:34Z",
+    "period": 3,
+    "clock": "3:29",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor left guard to ATL 14 for 5 yards (A.Ebiketie; K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-09T16:40:11Z",
+    "period": 3,
+    "clock": "2:52",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Direct snap to T.Warren.  J.Taylor right end pushed ob at ATL 12 for 2 yards (J.Bates; K.Taylor)."
+  },
+  {
+    "wallclock": "2025-11-09T16:40:52Z",
+    "period": 3,
+    "clock": "2:14",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones scrambles right end pushed ob at ATL 9 for 3 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-09T16:41:35Z",
+    "period": 3,
+    "clock": "1:35",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones scrambles up the middle to ATL 5 for 4 yards (J.Walker)."
+  },
+  {
+    "wallclock": "2025-11-09T16:42:18Z",
+    "period": 3,
+    "clock": "0:52",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor left end to ATL 7 for -2 yards (J.Bertrand)."
+  },
+  {
+    "wallclock": "2025-11-09T16:43:19Z",
+    "period": 3,
+    "clock": "0:47",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left tackle to ATL 11 for 4 yards (C.Bynum; N.Cross). ** Injury Update: IND-G.Stewart has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-09T16:43:47Z",
+    "period": 3,
+    "clock": "0:19",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass deep left to D.London to ATL 28 for 17 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-11-09T16:43:47Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-11-09T16:47:05Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short right to D.London."
+  },
+  {
+    "wallclock": "2025-11-09T16:47:48Z",
+    "period": 4,
+    "clock": "14:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short right to D.Mooney."
+  },
+  {
+    "wallclock": "2025-11-09T16:48:21Z",
+    "period": 4,
+    "clock": "14:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-11-09T16:49:01Z",
+    "period": 4,
+    "clock": "14:42",
+    "play_type": "Punt",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Franks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 43 yards to IND 29, Center-L.McCullough. J.Downs to ATL 47 for 24 yards (F.Franks)."
+  },
+  {
+    "wallclock": "2025-11-09T16:49:54Z",
+    "period": 4,
+    "clock": "14:28",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:28."
+  },
+  {
+    "wallclock": "2025-11-09T16:52:19Z",
+    "period": 4,
+    "clock": "14:28",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor right guard to ATL 43 for 4 yards (D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-11-09T16:52:59Z",
+    "period": 4,
+    "clock": "13:48",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor left tackle to ATL 25 for 18 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-09T16:53:43Z",
+    "period": 4,
+    "clock": "13:04",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor left end to ATL 17 for 8 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-09T16:54:22Z",
+    "period": 4,
+    "clock": "12:24",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor up the middle to ATL 16 for 1 yard (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-09T16:54:57Z",
+    "period": 4,
+    "clock": "11:50",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones up the middle to ATL 14 for 2 yards (D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-11-09T16:55:40Z",
+    "period": 4,
+    "clock": "11:07",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dorlus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to ATL 15 for -1 yards (A.Ebiketie, B.Dorlus)."
+  },
+  {
+    "wallclock": "2025-11-09T16:56:24Z",
+    "period": 4,
+    "clock": "10:20",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on IND, Delay of Game, 5 yards, enforced at ATL 15 - No Play."
+  },
+  {
+    "wallclock": "2025-11-09T16:57:08Z",
+    "period": 4,
+    "clock": "10:20",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Woods",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short middle to T.Warren to ATL 14 for 6 yards (J.Woods)."
+  },
+  {
+    "wallclock": "2025-11-09T16:57:47Z",
+    "period": 4,
+    "clock": "9:42",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dorlus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones sacked at ATL 16 for -2 yards (B.Dorlus)."
+  },
+  {
+    "wallclock": "2025-11-09T16:58:25Z",
+    "period": 4,
+    "clock": "9:00",
+    "play_type": "Field Goal Good",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "M.Badgley 34 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-11-09T16:58:56Z",
+    "period": 4,
+    "clock": "9:00",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:00."
+  },
+  {
+    "wallclock": "2025-11-09T17:01:11Z",
+    "period": 4,
+    "clock": "9:00",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Goodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 61 yards from IND 35 to ATL 4. J.Agnew to ATL 23 for 19 yards (T.Goodson)."
+  },
+  {
+    "wallclock": "2025-11-09T17:02:04Z",
+    "period": 4,
+    "clock": "8:56",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end pushed ob at ATL 30 for 7 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-11-09T17:02:35Z",
+    "period": 4,
+    "clock": "8:27",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson right tackle to ATL 38 for 8 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-11-09T17:03:13Z",
+    "period": 4,
+    "clock": "7:49",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Gallimore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to ATL 41 for 3 yards (N.Gallimore; G.Stewart)."
+  },
+  {
+    "wallclock": "2025-11-09T17:03:50Z",
+    "period": 4,
+    "clock": "7:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep right to D.Mooney."
+  },
+  {
+    "wallclock": "2025-11-09T17:04:26Z",
+    "period": 4,
+    "clock": "7:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass incomplete deep middle to D.Sills."
+  },
+  {
+    "wallclock": "2025-11-09T17:05:04Z",
+    "period": 4,
+    "clock": "7:02",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 50 yards to IND 9, Center-L.McCullough, fair catch by J.Downs."
+  },
+  {
+    "wallclock": "2025-11-09T17:05:59Z",
+    "period": 4,
+    "clock": "6:55",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass short right to T.Warren to IND 17 for 8 yards (A.Terrell; B.Bowman)."
+  },
+  {
+    "wallclock": "2025-11-09T17:06:37Z",
+    "period": 4,
+    "clock": "6:02",
+    "play_type": "Rushing Touchdown",
+    "yards": 83,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Taylor up the middle for 83 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. D.Jones pass to J.Taylor is incomplete. ATTEMPT FAILS."
+  },
+  {
+    "wallclock": "2025-11-09T17:09:22Z",
+    "period": 4,
+    "clock": "6:02",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 64 yards from IND 35 to ATL 1. J.Agnew to ATL 29 for 28 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-11-09T17:10:32Z",
+    "period": 4,
+    "clock": "5:57",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short middle to D.London to ATL 44 for 15 yards (N.Cross)."
+  },
+  {
+    "wallclock": "2025-11-09T17:11:17Z",
+    "period": 4,
+    "clock": "5:11",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to B.Robinson pushed ob at IND 48 for 8 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T17:12:06Z",
+    "period": 4,
+    "clock": "4:27",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to IND 46 for 2 yards (G.Stewart)."
+  },
+  {
+    "wallclock": "2025-11-09T17:12:48Z",
+    "period": 4,
+    "clock": "3:45",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Allgeier up the middle to IND 39 for 7 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T17:13:25Z",
+    "period": 4,
+    "clock": "3:09",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gardner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Allgeier right tackle to IND 32 for 7 yards (A.Gardner; Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T17:14:06Z",
+    "period": 4,
+    "clock": "2:30",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short middle to K.Pitts to IND 19 for 13 yards (K.Moore)."
+  },
+  {
+    "wallclock": "2025-11-09T17:14:42Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-09T17:17:44Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left tackle to IND 9 for 10 yards (L.Latu)."
+  },
+  {
+    "wallclock": "2025-11-09T17:18:31Z",
+    "period": 4,
+    "clock": "1:54",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by IND at 01:54."
+  },
+  {
+    "wallclock": "2025-11-09T17:18:51Z",
+    "period": 4,
+    "clock": "1:54",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gardner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier right end to IND 1 for 8 yards (A.Gardner)."
+  },
+  {
+    "wallclock": "2025-11-09T17:20:08Z",
+    "period": 4,
+    "clock": "1:48",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by IND at 01:48."
+  },
+  {
+    "wallclock": "2025-11-09T17:20:03Z",
+    "period": 4,
+    "clock": "1:44",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Allgeier left tackle for 1 yard, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. M.Penix pass to D.London is complete. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": "2025-11-09T17:22:34Z",
+    "period": 4,
+    "clock": "1:44",
+    "play_type": "Kickoff",
+    "yards": 49,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Abdullah",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion kicks 62 yards from ATL 35 to IND 3. A.Abdullah to ATL 48 for 49 yards (N.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-09T17:23:28Z",
+    "period": 4,
+    "clock": "1:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass incomplete short left to T.Warren (K.Elliss).The Replay Official reviewed the incomplete pass ruling, and the play was Upheld. The ruling on the field stands."
+  },
+  {
+    "wallclock": "2025-11-09T17:25:50Z",
+    "period": 4,
+    "clock": "1:32",
+    "play_type": "Sack",
+    "yards": -11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones sacked at IND 41 for -11 yards (A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-11-09T17:26:17Z",
+    "period": 4,
+    "clock": "1:27",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by IND at 01:27."
+  },
+  {
+    "wallclock": "2025-11-09T17:26:47Z",
+    "period": 4,
+    "clock": "1:26",
+    "play_type": "Rush",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones scrambles right end pushed ob at ATL 40 for 19 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-09T17:27:39Z",
+    "period": 4,
+    "clock": "1:17",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short left to T.Warren ran ob at ATL 30 for 10 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-09T17:28:22Z",
+    "period": 4,
+    "clock": "1:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass incomplete deep left to A.Pierce."
+  },
+  {
+    "wallclock": "2025-11-09T17:29:02Z",
+    "period": 4,
+    "clock": "1:07",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones sacked at ATL 36 for -6 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-09T17:29:34Z",
+    "period": 4,
+    "clock": "0:35",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Jones pass short left to M.Pittman to ATL 26 for 10 yards (K.Taylor; X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-09T17:30:06Z",
+    "period": 4,
+    "clock": "0:29",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ATL at 00:29."
+  },
+  {
+    "wallclock": "2025-11-09T17:30:31Z",
+    "period": 4,
+    "clock": "0:25",
+    "play_type": "Field Goal Good",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "M.Badgley 44 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-11-09T17:31:55Z",
+    "period": 4,
+    "clock": "0:25",
+    "play_type": "Kickoff",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Treadwell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 54 yards from IND 35 to ATL 11. J.Agnew to ATL 26 for 15 yards (L.Treadwell)."
+  },
+  {
+    "wallclock": "2025-11-09T17:32:44Z",
+    "period": 4,
+    "clock": "0:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to D.Mooney."
+  },
+  {
+    "wallclock": "2025-11-09T17:33:15Z",
+    "period": 4,
+    "clock": "0:15",
+    "play_type": "Pass Incompletion",
+    "yards": -30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tuimoloau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass incomplete short right [J.Tuimoloau].PENALTY on ATL-M.Penix, Intentional Grounding, 15 yards, enforced at ATL 26."
+  },
+  {
+    "wallclock": "2025-11-09T17:33:15Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Regulation",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 4"
+  },
+  {
+    "wallclock": "2025-11-09T17:33:15Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Regulation",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 4"
+  },
+  {
+    "wallclock": "2025-11-09T17:39:44Z",
+    "period": 5,
+    "clock": "10:00",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Badgley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Dulin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Badgley kicks 63 yards from IND 35 to ATL 2. J.Agnew to ATL 30 for 28 yards (A.Dulin)."
+  },
+  {
+    "wallclock": "2025-11-09T17:40:44Z",
+    "period": 5,
+    "clock": "9:55",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Adebawore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to ATL 31 for 1 yard (G.Pratt; A.Adebawore)."
+  },
+  {
+    "wallclock": "2025-11-09T17:41:25Z",
+    "period": 5,
+    "clock": "9:14",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to D.Mooney."
+  },
+  {
+    "wallclock": "2025-11-09T17:42:03Z",
+    "period": 5,
+    "clock": "9:10",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass incomplete deep right to D.Mooney [N.Cross].PENALTY on IND-M.Blackmon, Illegal Contact, 5 yards, enforced at ATL 31 - No Play."
+  },
+  {
+    "wallclock": "2025-11-09T17:42:59Z",
+    "period": 5,
+    "clock": "9:06",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left tackle to ATL 34 for -2 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T17:43:41Z",
+    "period": 5,
+    "clock": "8:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short right to D.Mooney."
+  },
+  {
+    "wallclock": "2025-11-09T17:44:19Z",
+    "period": 5,
+    "clock": "8:19",
+    "play_type": "Sack",
+    "yards": -12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix sacked at ATL 22 for -12 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-09T17:45:00Z",
+    "period": 5,
+    "clock": "7:37",
+    "play_type": "Punt",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Pinion punts 40 yards to IND 38, Center-L.McCullough. J.Downs ran ob at IND 43 for 5 yards (K.Hodge)."
+  },
+  {
+    "wallclock": "2025-11-09T17:45:53Z",
+    "period": 5,
+    "clock": "7:29",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor left end pushed ob at IND 44 for 1 yard (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-09T17:46:35Z",
+    "period": 5,
+    "clock": "6:50",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Jones pass deep right to T.Warren pushed ob at ATL 33 for 23 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-09T17:47:17Z",
+    "period": 5,
+    "clock": "6:14",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to ATL 26 for 7 yards (J.Bates; Z.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-09T17:47:54Z",
+    "period": 5,
+    "clock": "5:37",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor up the middle to ATL 25 for 1 yard (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-09T17:48:33Z",
+    "period": 5,
+    "clock": "4:58",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to ATL 14 for 11 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-09T17:49:13Z",
+    "period": 5,
+    "clock": "4:18",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor up the middle to ATL 8 for 6 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-09T17:49:55Z",
+    "period": 5,
+    "clock": "3:31",
+    "play_type": "Rushing Touchdown",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Taylor right guard for 8 yards, TOUCHDOWN."
+  },
+  {
+    "wallclock": "2025-11-09T17:49:55Z",
+    "period": 5,
+    "clock": "3:31",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

@@ -1,0 +1,4469 @@
+[
+  {
+    "wallclock": "2025-09-21T17:02:55Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Trotter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Granson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 64 yards from PHI 35 to LA 1. B.Corum to LA 23 for 22 yards (J.Trotter; K.Granson)."
+  },
+  {
+    "wallclock": "2025-09-21T17:03:35Z",
+    "period": 1,
+    "clock": "14:54",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to LA 28 for 5 yards (J.Davis)."
+  },
+  {
+    "wallclock": "2025-09-21T17:04:09Z",
+    "period": 1,
+    "clock": "14:20",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to K.Williams to LA 36 for 8 yards (C.DeJean) [N.Smith]."
+  },
+  {
+    "wallclock": "2025-09-21T17:04:53Z",
+    "period": 1,
+    "clock": "13:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short left to K.Williams."
+  },
+  {
+    "wallclock": "2025-09-21T17:05:19Z",
+    "period": 1,
+    "clock": "13:32",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Stafford pass short middle intended for D.Adams INTERCEPTED by Z.Baun at LA 38. Z.Baun to LA 38 for no gain (D.Adams)."
+  },
+  {
+    "wallclock": "2025-09-21T17:06:30Z",
+    "period": 1,
+    "clock": "13:28",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right guard to LA 37 for 1 yard (K.Turner; J.Verse)."
+  },
+  {
+    "wallclock": "2025-09-21T17:07:12Z",
+    "period": 1,
+    "clock": "12:46",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Smith to LA 32 for 5 yards (K.Kinchens; E.Forbes)."
+  },
+  {
+    "wallclock": "2025-09-21T17:07:54Z",
+    "period": 1,
+    "clock": "12:03",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts scrambles up the middle to LA 30 for 2 yards (O.Speights)."
+  },
+  {
+    "wallclock": "2025-09-21T17:08:42Z",
+    "period": 1,
+    "clock": "11:16",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts right end ran ob at LA 12 for 18 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-21T17:09:27Z",
+    "period": 1,
+    "clock": "10:36",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley up the middle to LA 14 for -2 yards (J.Verse, Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-21T17:10:10Z",
+    "period": 1,
+    "clock": "9:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short left to J.Dotson."
+  },
+  {
+    "wallclock": "2025-09-21T17:10:55Z",
+    "period": 1,
+    "clock": "9:49",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Smith to LA 3 for 11 yards (K.Curl, E.Forbes)."
+  },
+  {
+    "wallclock": "2025-09-21T17:11:36Z",
+    "period": 1,
+    "clock": "9:08",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts up the middle to LA 2 for 1 yard (N.Landman; J.Verse)."
+  },
+  {
+    "wallclock": "2025-09-21T17:12:28Z",
+    "period": 1,
+    "clock": "8:16",
+    "play_type": "Penalty",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass incomplete short middle to A.Brown.PENALTY on LA-Q.Lake, Defensive Pass Interference, 1 yard, enforced at LA 2 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T17:13:35Z",
+    "period": 1,
+    "clock": "8:07",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Hurts up the middle for 1 yard, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-09-21T17:14:36Z",
+    "period": 1,
+    "clock": "8:07",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:07."
+  },
+  {
+    "wallclock": "2025-09-21T17:17:19Z",
+    "period": 1,
+    "clock": "8:07",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 61 yards from PHI 35 to LA 4. B.Corum to LA 30 for 26 yards (K.Ringo)."
+  },
+  {
+    "wallclock": "2025-09-21T17:17:56Z",
+    "period": 1,
+    "clock": "8:01",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right tackle to LA 36 for 6 yards (J.Davis)."
+  },
+  {
+    "wallclock": "2025-09-21T17:18:29Z",
+    "period": 1,
+    "clock": "7:28",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right guard to LA 41 for 5 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T17:19:05Z",
+    "period": 1,
+    "clock": "6:53",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right end to PHI 48 for 11 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T17:19:42Z",
+    "period": 1,
+    "clock": "6:16",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum right tackle to PHI 48 for no gain (N.Smith)."
+  },
+  {
+    "wallclock": "2025-09-21T17:20:18Z",
+    "period": 1,
+    "clock": "5:39",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to P.Nacua to PHI 37 for 11 yards (C.DeJean; J.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T17:21:01Z",
+    "period": 1,
+    "clock": "4:57",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Whittington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short left to J.Whittington [J.Hunt]."
+  },
+  {
+    "wallclock": "2025-09-21T17:21:43Z",
+    "period": 1,
+    "clock": "4:53",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short middle to P.Nacua to PHI 33 for 4 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-09-21T17:22:28Z",
+    "period": 1,
+    "clock": "4:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Atwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short middle to T.Atwell (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-09-21T17:23:08Z",
+    "period": 1,
+    "clock": "4:00",
+    "play_type": "Field Goal Good",
+    "yards": 51,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Karty 51 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-21T17:23:22Z",
+    "period": 1,
+    "clock": "4:00",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:00."
+  },
+  {
+    "wallclock": "2025-09-21T17:26:16Z",
+    "period": 1,
+    "clock": "4:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 65 yards from LA 35 to landing zone to end zone, Touchback to the PHI 20."
+  },
+  {
+    "wallclock": "2025-09-21T17:27:34Z",
+    "period": 1,
+    "clock": "3:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-09-21T17:28:21Z",
+    "period": 1,
+    "clock": "3:47",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at PHI 12 for -8 yards (P.Ford)."
+  },
+  {
+    "wallclock": "2025-09-21T17:29:04Z",
+    "period": 1,
+    "clock": "3:05",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley up the middle to PHI 15 for 3 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-21T17:29:40Z",
+    "period": 1,
+    "clock": "2:29",
+    "play_type": "Punt",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Trotter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 59 yards to LA 26, Center-C.Hughlett. X.Smith to LA 46 for 20 yards (J.Trotter)."
+  },
+  {
+    "wallclock": "2025-09-21T17:30:13Z",
+    "period": 1,
+    "clock": "2:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:15."
+  },
+  {
+    "wallclock": "2025-09-21T17:32:43Z",
+    "period": 1,
+    "clock": "2:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higbee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short right to T.Higbee."
+  },
+  {
+    "wallclock": "2025-09-21T17:33:24Z",
+    "period": 1,
+    "clock": "2:11",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum left end to PHI 44 for 10 yards (Z.Baun; A.Mukuba)."
+  },
+  {
+    "wallclock": "2025-09-21T17:34:07Z",
+    "period": 1,
+    "clock": "1:20",
+    "play_type": "Passing Touchdown",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "M.Stafford pass deep left to D.Adams for 44 yards, TOUCHDOWN. J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-21T17:35:14Z",
+    "period": 1,
+    "clock": "1:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:20."
+  },
+  {
+    "wallclock": "2025-09-21T17:37:55Z",
+    "period": 1,
+    "clock": "1:20",
+    "play_type": "Kickoff",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Reeder",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 62 yards from LA 35 to PHI 3. T.Bigsby pushed ob at PHI 19 for 16 yards (T.Reeder)."
+  },
+  {
+    "wallclock": "2025-09-21T17:38:40Z",
+    "period": 1,
+    "clock": "1:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass incomplete short middle to A.Brown (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-21T17:39:22Z",
+    "period": 1,
+    "clock": "1:12",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Fiske",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right guard to PHI 21 for 2 yards (B.Fiske; T.Davis)."
+  },
+  {
+    "wallclock": "2025-09-21T17:39:59Z",
+    "period": 1,
+    "clock": "0:36",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at PHI 11 for -10 yards (J.McCollough)."
+  },
+  {
+    "wallclock": "2025-09-21T17:39:59Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-21T17:43:43Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Punt",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Calcaterra",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 64 yards to LA 25, Center-C.Hughlett. X.Smith to LA 34 for 9 yards (G.Calcaterra).Penalty on LA-J.McCollough, Offensive Holding, offsetting, enforced at LA 34.Penalty on PHI-S.Brown, Unnecessary Roughness, offsetting."
+  },
+  {
+    "wallclock": "2025-09-21T17:45:56Z",
+    "period": 2,
+    "clock": "14:49",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right end pushed ob at LA 47 for 13 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T17:46:36Z",
+    "period": 2,
+    "clock": "14:14",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right guard to LA 47 for no gain (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-09-21T17:47:17Z",
+    "period": 2,
+    "clock": "13:33",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short right to P.Nacua to 50 for 3 yards (A.Jackson)."
+  },
+  {
+    "wallclock": "2025-09-21T17:47:47Z",
+    "period": 2,
+    "clock": "13:03",
+    "play_type": "Penalty",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete deep right to D.Adams.PENALTY on PHI-Q.Mitchell, Defensive Pass Interference, 17 yards, enforced at 50 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T17:48:37Z",
+    "period": 2,
+    "clock": "12:59",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left guard to PHI 30 for 3 yards (M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-09-21T17:49:18Z",
+    "period": 2,
+    "clock": "12:18",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to PHI 23 for 7 yards (J.Campbell; C.DeJean)."
+  },
+  {
+    "wallclock": "2025-09-21T17:50:04Z",
+    "period": 2,
+    "clock": "11:32",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum left tackle to PHI 16 for 7 yards (S.Brown)."
+  },
+  {
+    "wallclock": "2025-09-21T17:50:45Z",
+    "period": 2,
+    "clock": "10:51",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum left tackle to PHI 6 for 10 yards (R.Blankenship; Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-09-21T17:51:24Z",
+    "period": 2,
+    "clock": "10:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short left to D.Adams."
+  },
+  {
+    "wallclock": "2025-09-21T17:52:06Z",
+    "period": 2,
+    "clock": "10:09",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right tackle to PHI 2 for 4 yards (A.Jackson; A.Mukuba)."
+  },
+  {
+    "wallclock": "2025-09-21T17:52:45Z",
+    "period": 2,
+    "clock": "9:30",
+    "play_type": "Rush",
+    "yards": -18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Shelton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right guard for 2 yards, TOUCHDOWN NULLIFIED by Penalty.PENALTY on LA-C.Shelton, Offensive Holding, 10 yards, enforced at PHI 0."
+  },
+  {
+    "wallclock": "2025-09-21T17:54:08Z",
+    "period": 2,
+    "clock": "9:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Higbee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short left to T.Higbee."
+  },
+  {
+    "wallclock": "2025-09-21T17:54:49Z",
+    "period": 2,
+    "clock": "9:15",
+    "play_type": "Field Goal Good",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Karty 28 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-21T17:55:06Z",
+    "period": 2,
+    "clock": "9:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:15."
+  },
+  {
+    "wallclock": "2025-09-21T17:57:50Z",
+    "period": 2,
+    "clock": "9:15",
+    "play_type": "Kickoff",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metchie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metchie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Trotter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Calcaterra",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 58 yards from LA 35 to PHI 7. J.Metchie MUFFS catch, and recovers at PHI 6. J.Metchie to PHI 27 for 21 yards (O.Speights).PENALTY on PHI-J.Trotter, Illegal Block Above the Waist, 8 yards, enforced at PHI 17.Penalty on PHI-G.Calcaterra, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-21T17:59:40Z",
+    "period": 2,
+    "clock": "9:08",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right guard to PHI 10 for 1 yard (K.Curl; P.Ford)."
+  },
+  {
+    "wallclock": "2025-09-21T18:00:10Z",
+    "period": 2,
+    "clock": "8:38",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short left to S.Barkley pushed ob at PHI 12 for 2 yards (Q.Lake; K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-21T18:01:12Z",
+    "period": 2,
+    "clock": "8:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep right to J.Dotson (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-21T18:01:52Z",
+    "period": 2,
+    "clock": "7:55",
+    "play_type": "Punt",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Trotter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 57 yards to LA 31, Center-C.Hughlett. X.Smith to LA 46 for 15 yards (J.Trotter)."
+  },
+  {
+    "wallclock": "2025-09-21T18:02:21Z",
+    "period": 2,
+    "clock": "7:44",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:44."
+  },
+  {
+    "wallclock": "2025-09-21T18:04:54Z",
+    "period": 2,
+    "clock": "7:44",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum right guard to 50 for 4 yards (A.Jackson; B.Young)."
+  },
+  {
+    "wallclock": "2025-09-21T18:05:34Z",
+    "period": 2,
+    "clock": "7:04",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to P.Nacua to PHI 35 for 15 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-09-21T18:06:15Z",
+    "period": 2,
+    "clock": "6:23",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short right to D.Adams ran ob at PHI 31 for 4 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-09-21T18:06:55Z",
+    "period": 2,
+    "clock": "5:47",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum left end pushed ob at PHI 22 for 9 yards (A.Jackson)."
+  },
+  {
+    "wallclock": "2025-09-21T18:07:36Z",
+    "period": 2,
+    "clock": "5:12",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Whittington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Whittington left end to PHI 16 for 6 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-09-21T18:08:18Z",
+    "period": 2,
+    "clock": "4:30",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams up the middle to PHI 15 for 1 yard (J.Carter; S.Brown)."
+  },
+  {
+    "wallclock": "2025-09-21T18:08:58Z",
+    "period": 2,
+    "clock": "3:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short left to D.Adams."
+  },
+  {
+    "wallclock": "2025-09-21T18:09:38Z",
+    "period": 2,
+    "clock": "3:43",
+    "play_type": "Field Goal Good",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Karty 33 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-21T18:09:57Z",
+    "period": 2,
+    "clock": "3:43",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:43."
+  },
+  {
+    "wallclock": "2025-09-21T18:12:29Z",
+    "period": 2,
+    "clock": "3:43",
+    "play_type": "Kickoff",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dolac",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 53 yards from LA 35 to PHI 12. T.Bigsby MUFFS catch, and recovers at PHI 6. T.Bigsby to PHI 14 for 8 yards (X.Smith; S.Dolac)."
+  },
+  {
+    "wallclock": "2025-09-21T18:13:24Z",
+    "period": 2,
+    "clock": "3:36",
+    "play_type": "Pass Reception",
+    "yards": -13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass short right to S.Barkley to PHI 13 for -1 yards (B.Young).PENALTY on PHI-A.Brown, Unnecessary Roughness, 6 yards, enforced at PHI 13."
+  },
+  {
+    "wallclock": "2025-09-21T18:14:42Z",
+    "period": 2,
+    "clock": "3:22",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley up the middle to PHI 8 for 1 yard (J.Verse)."
+  },
+  {
+    "wallclock": "2025-09-21T18:15:27Z",
+    "period": 2,
+    "clock": "2:36",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley left guard to PHI 15 for 7 yards (N.Landman)."
+  },
+  {
+    "wallclock": "2025-09-21T18:16:02Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-21T18:18:49Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Punt",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 42 yards to LA 43, Center-C.Hughlett. X.Smith to PHI 48 for 9 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-09-21T18:19:35Z",
+    "period": 2,
+    "clock": "1:52",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left guard to PHI 36 for 12 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-09-21T18:20:00Z",
+    "period": 2,
+    "clock": "1:27",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Stafford pass short left to D.Adams to PHI 28 for 8 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-09-21T18:20:30Z",
+    "period": 2,
+    "clock": "0:57",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left guard to PHI 28 for no gain (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-09-21T18:21:09Z",
+    "period": 2,
+    "clock": "0:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete short left to P.Nacua."
+  },
+  {
+    "wallclock": "2025-09-21T18:21:49Z",
+    "period": 2,
+    "clock": "0:10",
+    "play_type": "Field Goal Good",
+    "yards": 46,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Karty 46 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-21T18:22:36Z",
+    "period": 2,
+    "clock": "0:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:10."
+  },
+  {
+    "wallclock": "2025-09-21T18:23:01Z",
+    "period": 2,
+    "clock": "0:10",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Evans kicks 65 yards from LA 35 to end zone, Touchback to the PHI 35."
+  },
+  {
+    "wallclock": "2025-09-21T18:23:37Z",
+    "period": 2,
+    "clock": "0:10",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts kneels to PHI 34 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-21T18:23:37Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-21T18:37:33Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metchie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metchie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 61 yards from LA 35 to PHI 4. J.Metchie MUFFS catch, and recovers at PHI 3. J.Metchie to PHI 10 for 7 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-21T18:38:27Z",
+    "period": 3,
+    "clock": "14:53",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to S.Barkley to PHI 13 for 3 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-21T18:38:55Z",
+    "period": 3,
+    "clock": "14:25",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts sacked at PHI 5 for -8 yards (J.Verse). FUMBLES (J.Verse) [J.Verse], RECOVERED by LA-N.Landman at PHI 10."
+  },
+  {
+    "wallclock": "2025-09-21T18:40:13Z",
+    "period": 3,
+    "clock": "14:06",
+    "play_type": "Passing Touchdown",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "M.Stafford pass short right to K.Williams for 10 yards, TOUCHDOWN. J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans."
+  },
+  {
+    "wallclock": "2025-09-21T18:41:11Z",
+    "period": 3,
+    "clock": "14:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:06."
+  },
+  {
+    "wallclock": "2025-09-21T18:44:11Z",
+    "period": 3,
+    "clock": "14:06",
+    "play_type": "Kickoff",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metchie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metchie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Reeder",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty kicks 56 yards from LA 35 to PHI 9. J.Metchie MUFFS catch, and recovers at PHI 8. J.Metchie to PHI 21 for 13 yards (T.Reeder; J.McCollough)."
+  },
+  {
+    "wallclock": "2025-09-21T18:44:57Z",
+    "period": 3,
+    "clock": "14:00",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to A.Brown ran ob at PHI 29 for 8 yards."
+  },
+  {
+    "wallclock": "2025-09-21T18:45:27Z",
+    "period": 3,
+    "clock": "13:35",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Fiske",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley left tackle to PHI 32 for 3 yards (B.Fiske)."
+  },
+  {
+    "wallclock": "2025-09-21T18:45:56Z",
+    "period": 3,
+    "clock": "13:05",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley right guard to PHI 39 for 7 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-09-21T18:46:22Z",
+    "period": 3,
+    "clock": "12:40",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Dickerson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jurgens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts left tackle to PHI 42 for 3 yards (K.Turner).PENALTY on PHI-L.Dickerson, Offensive Holding, 10 yards, enforced at PHI 39 - No Play.Penalty on PHI-C.Jurgens, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-21T18:47:24Z",
+    "period": 3,
+    "clock": "12:22",
+    "play_type": "Pass Reception",
+    "yards": 38,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass deep right to A.Brown to LA 33 for 38 yards (C.Durant)."
+  },
+  {
+    "wallclock": "2025-09-21T18:48:03Z",
+    "period": 3,
+    "clock": "11:38",
+    "play_type": "Passing Touchdown",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass deep middle to D.Goedert for 33 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-09-21T18:49:04Z",
+    "period": 3,
+    "clock": "11:38",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:38."
+  },
+  {
+    "wallclock": "2025-09-21T18:51:44Z",
+    "period": 3,
+    "clock": "11:38",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 53 yards from PHI 35 to LA 12. B.Corum to LA 31 for 19 yards (K.Ringo; S.Brown)."
+  },
+  {
+    "wallclock": "2025-09-21T18:52:27Z",
+    "period": 3,
+    "clock": "11:33",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to P.Nacua to LA 43 for 12 yards (A.Jackson)."
+  },
+  {
+    "wallclock": "2025-09-21T18:53:07Z",
+    "period": 3,
+    "clock": "10:54",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right guard to LA 49 for 6 yards (Z.Baun; C.DeJean)."
+  },
+  {
+    "wallclock": "2025-09-21T18:53:50Z",
+    "period": 3,
+    "clock": "10:11",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left guard to PHI 49 for 2 yards (J.Hunt; M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-09-21T18:54:33Z",
+    "period": 3,
+    "clock": "9:27",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford sacked at PHI 49 for 0 yards (J.Davis)."
+  },
+  {
+    "wallclock": "2025-09-21T18:55:14Z",
+    "period": 3,
+    "clock": "8:50",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Evans punts 36 yards to PHI 13, Center-A.Ward, fair catch by J.Dotson."
+  },
+  {
+    "wallclock": "2025-09-21T18:55:53Z",
+    "period": 3,
+    "clock": "8:43",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:43."
+  },
+  {
+    "wallclock": "2025-09-21T18:58:26Z",
+    "period": 3,
+    "clock": "8:43",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-09-21T18:59:09Z",
+    "period": 3,
+    "clock": "8:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right to A.Brown (E.Forbes)."
+  },
+  {
+    "wallclock": "2025-09-21T18:59:51Z",
+    "period": 3,
+    "clock": "8:33",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Smith to PHI 29 for 16 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-21T19:00:31Z",
+    "period": 3,
+    "clock": "7:54",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to J.Dotson to PHI 36 for 7 yards (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-21T19:01:01Z",
+    "period": 3,
+    "clock": "7:23",
+    "play_type": "Penalty",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass incomplete short middle to D.Smith.PENALTY on LA-K.Kinchens, Unnecessary Roughness, 15 yards, enforced at PHI 36 - No Play."
+  },
+  {
+    "wallclock": "2025-09-21T19:02:15Z",
+    "period": 3,
+    "clock": "7:19",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Forbes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right end to LA 40 for 9 yards (E.Forbes)."
+  },
+  {
+    "wallclock": "2025-09-21T19:02:48Z",
+    "period": 3,
+    "clock": "6:45",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Metchie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short left to J.Metchie pushed ob at LA 32 for 8 yards (C.Durant)."
+  },
+  {
+    "wallclock": "2025-09-21T19:03:27Z",
+    "period": 3,
+    "clock": "6:11",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley right tackle to LA 20 for 12 yards (K.Curl; K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-21T19:03:55Z",
+    "period": 3,
+    "clock": "5:43",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Verse",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley up the middle to LA 20 for no gain (J.Verse)."
+  },
+  {
+    "wallclock": "2025-09-21T19:04:28Z",
+    "period": 3,
+    "clock": "5:10",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short middle to A.Brown to LA 14 for 6 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-21T19:05:05Z",
+    "period": 3,
+    "clock": "4:33",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short left to D.Smith to LA 11 for 3 yards (C.Durant; B.Young)."
+  },
+  {
+    "wallclock": "2025-09-21T19:05:51Z",
+    "period": 3,
+    "clock": "3:47",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Landman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts up the middle to LA 10 for 1 yard (N.Landman; Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-21T19:06:33Z",
+    "period": 3,
+    "clock": "3:05",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley right guard to LA 9 for 1 yard (K.Turner)."
+  },
+  {
+    "wallclock": "2025-09-21T19:07:18Z",
+    "period": 3,
+    "clock": "2:16",
+    "play_type": "Passing Touchdown",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hughlett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass short right to A.Brown for 9 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-09-21T19:08:24Z",
+    "period": 3,
+    "clock": "2:16",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:16."
+  },
+  {
+    "wallclock": "2025-09-21T19:11:52Z",
+    "period": 3,
+    "clock": "2:16",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 62 yards from PHI 35 to LA 3. B.Corum to LA 30 for 27 yards (T.Bigsby). LA-K.Dotson was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-21T19:13:17Z",
+    "period": 3,
+    "clock": "2:11",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams left guard to LA 34 for 4 yards (J.Uche)."
+  },
+  {
+    "wallclock": "2025-09-21T19:13:59Z",
+    "period": 3,
+    "clock": "1:31",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LA at 01:31."
+  },
+  {
+    "wallclock": "2025-09-21T19:15:04Z",
+    "period": 3,
+    "clock": "1:31",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Whittington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to J.Whittington pushed ob at LA 32 for -2 yards (C.DeJean) [J.Carter]."
+  },
+  {
+    "wallclock": "2025-09-21T19:15:42Z",
+    "period": 3,
+    "clock": "0:53",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short left to P.Nacua (Q.Mitchell, J.Carter) [J.Carter].Los Angeles Rams challenged the incomplete pass ruling, and the play was REVERSED.(Shotgun) M.Stafford pass short left to P.Nacua to LA 40 for 8 yards (Q.Mitchell) [J.Carter]."
+  },
+  {
+    "wallclock": "2025-09-21T19:17:59Z",
+    "period": 3,
+    "clock": "0:44",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:44."
+  },
+  {
+    "wallclock": "2025-09-21T19:19:50Z",
+    "period": 3,
+    "clock": "0:40",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short left to P.Nacua to PHI 40 for 20 yards (J.Campbell).PENALTY on LA-P.Nacua, Taunting, 15 yards, enforced between downs."
+  },
+  {
+    "wallclock": "2025-09-21T19:21:25Z",
+    "period": 3,
+    "clock": "0:18",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "P.Nacua left end to PHI 49 for 6 yards (Z.Baun; J.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T19:21:25Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-21T19:24:29Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass short right to D.Allen to PHI 46 for 3 yards (N.Smith)."
+  },
+  {
+    "wallclock": "2025-09-21T19:25:10Z",
+    "period": 4,
+    "clock": "14:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Stafford pass incomplete deep right to D.Adams [J.Hunt]."
+  },
+  {
+    "wallclock": "2025-09-21T19:25:52Z",
+    "period": 4,
+    "clock": "14:13",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by LA at 14:13."
+  },
+  {
+    "wallclock": "2025-09-21T19:26:47Z",
+    "period": 4,
+    "clock": "14:13",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right guard to PHI 47 for -1 yards (J.Davis, J.Carter)."
+  },
+  {
+    "wallclock": "2025-09-21T19:27:50Z",
+    "period": 4,
+    "clock": "14:07",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right end to PHI 47 for no gain (Q.Lake; K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-21T19:28:29Z",
+    "period": 4,
+    "clock": "13:29",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to D.Smith pushed ob at LA 47 for 6 yards (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-21T19:29:10Z",
+    "period": 4,
+    "clock": "12:51",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jurgens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts sacked at 50 for -3 yards (B.Young).Penalty on PHI-C.Jurgens, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-21T19:30:30Z",
+    "period": 4,
+    "clock": "12:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep right to A.Brown (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-21T19:30:50Z",
+    "period": 4,
+    "clock": "12:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:18."
+  },
+  {
+    "wallclock": "2025-09-21T19:33:26Z",
+    "period": 4,
+    "clock": "12:18",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum right end pushed ob at PHI 38 for 12 yards (Q.Mitchell). ** Injury Update: LA-K.Dotson has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-21T19:34:08Z",
+    "period": 4,
+    "clock": "11:41",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Corum left guard to PHI 37 for 1 yard (J.Hunt; J.Davis)."
+  },
+  {
+    "wallclock": "2025-09-21T19:34:52Z",
+    "period": 4,
+    "clock": "10:55",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short middle to P.Nacua to PHI 26 for 11 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-09-21T19:35:33Z",
+    "period": 4,
+    "clock": "10:15",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Whittington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Whittington right end to PHI 25 for 1 yard (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-09-21T19:36:16Z",
+    "period": 4,
+    "clock": "9:33",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short right to P.Nacua to PHI 18 for 7 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-21T19:36:57Z",
+    "period": 4,
+    "clock": "8:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete deep right to D.Adams (R.Blankenship) [B.Young]."
+  },
+  {
+    "wallclock": "2025-09-21T19:37:41Z",
+    "period": 4,
+    "clock": "8:46",
+    "play_type": "Blocked Field Goal",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Karty 36 yard field goal is BLOCKED (J.Carter), Center-A.Ward, Holder-E.Evans, recovered by LA-J.Karty at PHI 24.PENALTY on PHI-J.Carter, Unnecessary Roughness, 9 yards, enforced between downs. Incomplete Pass by 16-J.Karty after Blocked Kick Recovery."
+  },
+  {
+    "wallclock": "2025-09-21T19:40:14Z",
+    "period": 4,
+    "clock": "8:42",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:42."
+  },
+  {
+    "wallclock": "2025-09-21T19:41:16Z",
+    "period": 4,
+    "clock": "8:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short middle to D.Goedert (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-21T19:41:54Z",
+    "period": 4,
+    "clock": "8:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Lake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short middle to D.Smith (Q.Lake)."
+  },
+  {
+    "wallclock": "2025-09-21T19:42:38Z",
+    "period": 4,
+    "clock": "8:32",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to A.Brown to PHI 34 for 25 yards (D.Williams)."
+  },
+  {
+    "wallclock": "2025-09-21T19:43:17Z",
+    "period": 4,
+    "clock": "7:54",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts left end pushed ob at PHI 45 for 11 yards (D.Williams)."
+  },
+  {
+    "wallclock": "2025-09-21T19:43:51Z",
+    "period": 4,
+    "clock": "7:24",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) S.Barkley right guard to PHI 47 for 2 yards (B.Young; T.Davis)."
+  },
+  {
+    "wallclock": "2025-09-21T19:44:27Z",
+    "period": 4,
+    "clock": "6:49",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to D.Smith to LA 48 for 5 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-21T19:45:09Z",
+    "period": 4,
+    "clock": "6:07",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Curl",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short left to D.Smith to LA 38 for 10 yards (K.Curl)."
+  },
+  {
+    "wallclock": "2025-09-21T19:45:42Z",
+    "period": 4,
+    "clock": "5:34",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley left guard to LA 38 for no gain (P.Ford)."
+  },
+  {
+    "wallclock": "2025-09-21T19:46:21Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass incomplete short middle to S.Barkley."
+  },
+  {
+    "wallclock": "2025-09-21T19:47:10Z",
+    "period": 4,
+    "clock": "4:48",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PHI at 04:48."
+  },
+  {
+    "wallclock": "2025-09-21T19:48:17Z",
+    "period": 4,
+    "clock": "4:48",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McCollough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to A.Brown ran ob at LA 15 for 23 yards (J.McCollough)."
+  },
+  {
+    "wallclock": "2025-09-21T19:49:05Z",
+    "period": 4,
+    "clock": "4:40",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts left tackle to LA 13 for 2 yards (O.Speights)."
+  },
+  {
+    "wallclock": "2025-09-21T19:49:44Z",
+    "period": 4,
+    "clock": "4:02",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Speights",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts right guard to LA 8 for 5 yards (O.Speights)."
+  },
+  {
+    "wallclock": "2025-09-21T19:50:25Z",
+    "period": 4,
+    "clock": "3:20",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kinchens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley left tackle to LA 4 for 4 yards (K.Kinchens)."
+  },
+  {
+    "wallclock": "2025-09-21T19:51:08Z",
+    "period": 4,
+    "clock": "2:38",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley right guard to LA 9 for -5 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-09-21T19:51:48Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-21T19:54:56Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to S.Barkley ran ob at LA 4 for 5 yards."
+  },
+  {
+    "wallclock": "2025-09-21T19:55:42Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short left to A.Brown."
+  },
+  {
+    "wallclock": "2025-09-21T19:56:37Z",
+    "period": 4,
+    "clock": "1:48",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Smith for 4 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. J.Hurts pass to D.Smith is incomplete. ATTEMPT FAILS."
+  },
+  {
+    "wallclock": "2025-09-21T19:58:57Z",
+    "period": 4,
+    "clock": "1:48",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Corum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Trotter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 56 yards from PHI 35 to LA 9. B.Corum to LA 30 for 21 yards (J.Trotter)."
+  },
+  {
+    "wallclock": "2025-09-21T19:59:43Z",
+    "period": 4,
+    "clock": "1:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete short right to P.Nacua."
+  },
+  {
+    "wallclock": "2025-09-21T20:00:04Z",
+    "period": 4,
+    "clock": "1:41",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bennett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Stafford pass short right to P.Nacua to LA 39 for 9 yards (J.Bennett)."
+  },
+  {
+    "wallclock": "2025-09-21T20:00:22Z",
+    "period": 4,
+    "clock": "1:23",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Williams right guard to LA 44 for 5 yards (N.Smith)."
+  },
+  {
+    "wallclock": "2025-09-21T20:00:39Z",
+    "period": 4,
+    "clock": "1:06",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bennett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Stafford pass short middle to P.Nacua to PHI 44 for 12 yards (J.Bennett)."
+  },
+  {
+    "wallclock": "2025-09-21T20:00:58Z",
+    "period": 4,
+    "clock": "0:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Stafford pass incomplete deep right to P.Nacua."
+  },
+  {
+    "wallclock": "2025-09-21T20:01:43Z",
+    "period": 4,
+    "clock": "0:41",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Whittington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bennett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass short middle to J.Whittington to PHI 35 for 9 yards (J.Bennett, R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-09-21T20:02:02Z",
+    "period": 4,
+    "clock": "0:22",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Williams up the middle to PHI 33 for 2 yards (Z.Baun; J.Carter)."
+  },
+  {
+    "wallclock": "2025-09-21T20:02:30Z",
+    "period": 4,
+    "clock": "0:18",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by PHI at 00:18."
+  },
+  {
+    "wallclock": "2025-09-21T20:03:11Z",
+    "period": 4,
+    "clock": "0:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Stafford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Nacua",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bennett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Stafford pass incomplete deep right to P.Nacua (J.Bennett)."
+  },
+  {
+    "wallclock": "2025-09-21T20:03:55Z",
+    "period": 4,
+    "clock": "0:13",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Williams right guard to PHI 26 for 7 yards (A.Mukuba; C.DeJean)."
+  },
+  {
+    "wallclock": "2025-09-21T20:04:13Z",
+    "period": 4,
+    "clock": "0:03",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by LA at 00:03."
+  },
+  {
+    "wallclock": "2025-09-21T20:04:56Z",
+    "period": 4,
+    "clock": "0:03",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by PHI at 00:03."
+  },
+  {
+    "wallclock": null,
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "Blocked Field Goal",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Karty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ward",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Karty 44 yard field goal is BLOCKED (J.Davis), Center-A.Ward, Holder-E.Evans, RECOVERED by PHI-J.Davis at PHI 39. J.Davis for 61 yards, TOUCHDOWN."
+  },
+  {
+    "wallclock": "2025-09-21T20:05:49Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

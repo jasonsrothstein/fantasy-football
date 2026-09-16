@@ -1,0 +1,4309 @@
+[
+  {
+    "wallclock": "2025-11-10T01:24:12Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 55 yards from LAC 35 to PIT 10, out of bounds.PENALTY on LAC-C.Dicker, Kickoff Out of Bounds, placed at PIT 40."
+  },
+  {
+    "wallclock": "2025-11-10T01:25:03Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Peat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on PIT-A.Peat, False Start, 5 yards, enforced at PIT 40 - No Play."
+  },
+  {
+    "wallclock": "2025-11-10T01:26:38Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to J.Warren to PIT 38 for 3 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-11-10T01:27:15Z",
+    "period": 1,
+    "clock": "14:23",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mickens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to C.Austin to PIT 46 for 8 yards (R.Mickens)."
+  },
+  {
+    "wallclock": "2025-11-10T01:27:56Z",
+    "period": 1,
+    "clock": "13:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Austin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete short left to C.Austin."
+  },
+  {
+    "wallclock": "2025-11-10T01:28:28Z",
+    "period": 1,
+    "clock": "13:37",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Waitman punts 43 yards to LAC 11, Center-C.Kuntz, fair catch by D.Davis."
+  },
+  {
+    "wallclock": "2025-11-10T01:29:18Z",
+    "period": 1,
+    "clock": "13:30",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal right tackle to LAC 13 for 2 yards (P.Queen; K.Benton)."
+  },
+  {
+    "wallclock": "2025-11-10T01:29:52Z",
+    "period": 1,
+    "clock": "12:57",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Echols",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to T.Harris to LAC 12 for -1 yards (B.Echols)."
+  },
+  {
+    "wallclock": "2025-11-10T01:30:34Z",
+    "period": 1,
+    "clock": "12:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short left to O.Gadsden."
+  },
+  {
+    "wallclock": "2025-11-10T01:31:14Z",
+    "period": 1,
+    "clock": "12:11",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 34 yards to LAC 46, Center-J.Harris, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-10T01:31:44Z",
+    "period": 1,
+    "clock": "12:04",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:04."
+  },
+  {
+    "wallclock": "2025-11-10T01:34:29Z",
+    "period": 1,
+    "clock": "12:04",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Eboigbe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Oweh",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren right end to LAC 42 for 4 yards (J.Eboigbe; O.Oweh)."
+  },
+  {
+    "wallclock": "2025-11-10T01:35:11Z",
+    "period": 1,
+    "clock": "11:22",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Perryman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren right guard to LAC 41 for 1 yard (D.Perryman)."
+  },
+  {
+    "wallclock": "2025-11-10T01:35:56Z",
+    "period": 1,
+    "clock": "10:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete deep right to D.Metcalf."
+  },
+  {
+    "wallclock": "2025-11-10T01:36:36Z",
+    "period": 1,
+    "clock": "10:25",
+    "play_type": "Field Goal Good",
+    "yards": 59,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Boswell 59 yard field goal is GOOD, Center-C.Kuntz, Holder-C.Waitman."
+  },
+  {
+    "wallclock": "2025-11-10T01:37:22Z",
+    "period": 1,
+    "clock": "10:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:25."
+  },
+  {
+    "wallclock": "2025-11-10T01:39:43Z",
+    "period": 1,
+    "clock": "10:25",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Skowronek",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks 60 yards from PIT 35 to LAC 5. T.Williams to LAC 31 for 26 yards (B.Skowronek)."
+  },
+  {
+    "wallclock": "2025-11-10T01:40:24Z",
+    "period": 1,
+    "clock": "10:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete deep left to L.McConkey [K.Benton]."
+  },
+  {
+    "wallclock": "2025-11-10T01:41:06Z",
+    "period": 1,
+    "clock": "10:15",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to Q.Johnston to LAC 40 for 9 yards (P.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-10T01:41:36Z",
+    "period": 1,
+    "clock": "9:46",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert up the middle to LAC 40 for no gain (M.Harrison; P.Queen)."
+  },
+  {
+    "wallclock": "2025-11-10T01:42:23Z",
+    "period": 1,
+    "clock": "8:59",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert up the middle to LAC 42 for 2 yards (P.Queen; Ca.Heyward)."
+  },
+  {
+    "wallclock": "2025-11-10T01:43:05Z",
+    "period": 1,
+    "clock": "8:17",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Harmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Patterson right guard to LAC 43 for 1 yard (P.Wilson; D.Harmon)."
+  },
+  {
+    "wallclock": "2025-11-10T01:43:42Z",
+    "period": 1,
+    "clock": "7:40",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to O.Gadsden to LAC 49 for 6 yards (J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-11-10T01:44:23Z",
+    "period": 1,
+    "clock": "6:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Watt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short left to K.Allen (J.Porter) [T.Watt]."
+  },
+  {
+    "wallclock": "2025-11-10T01:45:08Z",
+    "period": 1,
+    "clock": "6:54",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Leonard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 45 yards to PIT 6, Center-J.Harris, downed by LAC-D.Leonard."
+  },
+  {
+    "wallclock": "2025-11-10T01:45:37Z",
+    "period": 1,
+    "clock": "6:47",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:47."
+  },
+  {
+    "wallclock": "2025-11-10T01:48:13Z",
+    "period": 1,
+    "clock": "6:47",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Caldwell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Johnson right end to PIT 4 for -2 yards (J.Caldwell)."
+  },
+  {
+    "wallclock": "2025-11-10T01:48:59Z",
+    "period": 1,
+    "clock": "6:02",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Johnson right guard to PIT 9 for 5 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-11-10T01:49:44Z",
+    "period": 1,
+    "clock": "5:09",
+    "play_type": "Safety",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": true,
+    "scoring_type": "SF",
+    "play_text": "Team Safety"
+  },
+  {
+    "wallclock": "2025-11-10T01:51:32Z",
+    "period": 1,
+    "clock": "5:09",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thornhill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks 71 yards from PIT 20 to LAC 9. D.Davis to LAC 34 for 25 yards (J.Thornhill)."
+  },
+  {
+    "wallclock": "2025-11-10T01:52:15Z",
+    "period": 1,
+    "clock": "5:03",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal up the middle to LAC 37 for 3 yards (K.Benton; Ca.Heyward)."
+  },
+  {
+    "wallclock": "2025-11-10T01:52:54Z",
+    "period": 1,
+    "clock": "4:24",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert scrambles right guard to LAC 40 for 3 yards (P.Queen)."
+  },
+  {
+    "wallclock": "2025-11-10T01:53:35Z",
+    "period": 1,
+    "clock": "3:42",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Deculus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on LAC-A.Deculus, False Start, 5 yards, enforced at LAC 40 - No Play."
+  },
+  {
+    "wallclock": "2025-11-10T01:54:16Z",
+    "period": 1,
+    "clock": "3:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short middle to Q.Johnston."
+  },
+  {
+    "wallclock": "2025-11-10T01:54:56Z",
+    "period": 1,
+    "clock": "3:22",
+    "play_type": "Punt",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williamson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 55 yards to PIT 10, Center-J.Harris. K.Williams to PIT 21 for 11 yards (K.Williamson)."
+  },
+  {
+    "wallclock": "2025-11-10T01:55:33Z",
+    "period": 1,
+    "clock": "3:11",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:11."
+  },
+  {
+    "wallclock": "2025-11-10T01:58:02Z",
+    "period": 1,
+    "clock": "3:11",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short middle to D.Metcalf to PIT 40 for 19 yards (D.James; D.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-10T01:58:38Z",
+    "period": 1,
+    "clock": "2:35",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Perryman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren right tackle to PIT 44 for 4 yards (D.Perryman)."
+  },
+  {
+    "wallclock": "2025-11-10T01:59:15Z",
+    "period": 1,
+    "clock": "1:58",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short middle to D.Washington to LAC 41 for 15 yards (E.Molden)."
+  },
+  {
+    "wallclock": "2025-11-10T02:00:00Z",
+    "period": 1,
+    "clock": "1:13",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Anderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Anderson reported in as eligible.  J.Warren left end to LAC 32 for 9 yards (C.Hart)."
+  },
+  {
+    "wallclock": "2025-11-10T02:00:49Z",
+    "period": 1,
+    "clock": "0:25",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PIT at 00:25."
+  },
+  {
+    "wallclock": "2025-11-10T02:01:46Z",
+    "period": 1,
+    "clock": "0:25",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Mack",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren right guard to LAC 29 for 3 yards (D.Henley; K.Mack)."
+  },
+  {
+    "wallclock": "2025-11-10T02:01:46Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-11-10T02:05:06Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Freiermuth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Mack",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mickens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to P.Freiermuth to LAC 20 for 9 yards (K.Mack; R.Mickens)."
+  },
+  {
+    "wallclock": "2025-11-10T02:05:50Z",
+    "period": 2,
+    "clock": "14:16",
+    "play_type": "Penalty",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Fautanu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Johnson right guard to LAC 13 for 7 yards (D.Henley).PENALTY on PIT-T.Fautanu, Offensive Holding, 9 yards, enforced at LAC 20 - No Play."
+  },
+  {
+    "wallclock": "2025-11-10T02:06:50Z",
+    "period": 2,
+    "clock": "13:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Perryman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass deep right to J.Smith to LAC 11 for 18 yards (D.Henley; D.Perryman).Los Angeles Chargers challenged the pass completion ruling, and the play was REVERSED.(Shotgun) A.Rodgers pass incomplete deep right to J.Smith."
+  },
+  {
+    "wallclock": "2025-11-10T02:10:52Z",
+    "period": 2,
+    "clock": "13:46",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mickens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to K.Gainwell pushed ob at LAC 27 for 2 yards (R.Mickens)."
+  },
+  {
+    "wallclock": "2025-11-10T02:11:26Z",
+    "period": 2,
+    "clock": "13:14",
+    "play_type": "Field Goal Missed",
+    "yards": 45,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell 45 yard field goal is No Good, Wide Right, Center-C.Kuntz, Holder-C.Waitman."
+  },
+  {
+    "wallclock": "2025-11-10T02:12:33Z",
+    "period": 2,
+    "clock": "13:10",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass short right to T.Harris to LAC 40 for 5 yards (D.Slay)."
+  },
+  {
+    "wallclock": "2025-11-10T02:13:11Z",
+    "period": 2,
+    "clock": "12:33",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to Q.Johnston to LAC 48 for 8 yards (D.Slay; P.Queen)."
+  },
+  {
+    "wallclock": "2025-11-10T02:13:52Z",
+    "period": 2,
+    "clock": "11:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete deep right to Q.Johnston."
+  },
+  {
+    "wallclock": "2025-11-10T02:14:32Z",
+    "period": 2,
+    "clock": "11:47",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal up the middle to PIT 41 for 11 yards (D.Slay). PIT-D.Slay was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-10T02:15:05Z",
+    "period": 2,
+    "clock": "11:36",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:36."
+  },
+  {
+    "wallclock": "2025-11-10T02:16:37Z",
+    "period": 2,
+    "clock": "11:15",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass short right to O.Gadsden pushed ob at PIT 36 for 5 yards (J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-11-10T02:17:12Z",
+    "period": 2,
+    "clock": "10:44",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pierre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short middle to D.Davis to PIT 33 for 3 yards (J.Pierre)."
+  },
+  {
+    "wallclock": "2025-11-10T02:17:57Z",
+    "period": 2,
+    "clock": "9:58",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal right guard to PIT 25 for 8 yards (P.Queen)."
+  },
+  {
+    "wallclock": "2025-11-10T02:18:41Z",
+    "period": 2,
+    "clock": "9:15",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Herbig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert sacked at PIT 30 for -5 yards (N.Herbig)."
+  },
+  {
+    "wallclock": "2025-11-10T02:19:27Z",
+    "period": 2,
+    "clock": "8:29",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Echols",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to L.McConkey to PIT 14 for 16 yards (B.Echols)."
+  },
+  {
+    "wallclock": "2025-11-10T02:20:07Z",
+    "period": 2,
+    "clock": "7:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass incomplete short left to O.Gadsden."
+  },
+  {
+    "wallclock": "2025-11-10T02:20:47Z",
+    "period": 2,
+    "clock": "7:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Highsmith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short left to O.Gadsden [A.Highsmith]."
+  },
+  {
+    "wallclock": "2025-11-10T02:21:31Z",
+    "period": 2,
+    "clock": "7:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short left to L.McConkey."
+  },
+  {
+    "wallclock": "2025-11-10T02:22:13Z",
+    "period": 2,
+    "clock": "7:32",
+    "play_type": "Field Goal Good",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Dicker 32 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott."
+  },
+  {
+    "wallclock": "2025-11-10T02:22:36Z",
+    "period": 2,
+    "clock": "7:32",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:32."
+  },
+  {
+    "wallclock": "2025-11-10T02:25:10Z",
+    "period": 2,
+    "clock": "7:32",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 62 yards from LAC 35 to PIT 3. K.Gainwell pushed ob at PIT 28 for 25 yards (D.Phillips)."
+  },
+  {
+    "wallclock": "2025-11-10T02:26:07Z",
+    "period": 2,
+    "clock": "7:27",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dupree",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers sacked at PIT 27 for -1 yards (B.Dupree)."
+  },
+  {
+    "wallclock": "2025-11-10T02:26:48Z",
+    "period": 2,
+    "clock": "6:45",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren left end to PIT 30 for 3 yards (E.Molden)."
+  },
+  {
+    "wallclock": "2025-11-10T02:27:32Z",
+    "period": 2,
+    "clock": "6:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Reed",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete deep right to C.Austin (N.Reed)."
+  },
+  {
+    "wallclock": "2025-11-10T02:28:06Z",
+    "period": 2,
+    "clock": "5:55",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Waitman punts 51 yards to LAC 19, Center-C.Kuntz, fair catch by D.Davis."
+  },
+  {
+    "wallclock": "2025-11-10T02:28:35Z",
+    "period": 2,
+    "clock": "5:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:49."
+  },
+  {
+    "wallclock": "2025-11-10T02:31:06Z",
+    "period": 2,
+    "clock": "5:49",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal right tackle to LAC 30 for 11 yards (K.Dugger; M.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-10T02:31:41Z",
+    "period": 2,
+    "clock": "5:14",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Echols",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to Q.Johnston to LAC 33 for 3 yards (B.Echols; Ca.Heyward)."
+  },
+  {
+    "wallclock": "2025-11-10T02:32:25Z",
+    "period": 2,
+    "clock": "4:30",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Highsmith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bozeman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short right to O.Gadsden [A.Highsmith].PENALTY on LAC-B.Bozeman, Offensive Holding, 10 yards, enforced at LAC 33 - No Play."
+  },
+  {
+    "wallclock": "2025-11-10T02:33:17Z",
+    "period": 2,
+    "clock": "4:27",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to K.Vidal to LAC 36 for 13 yards (P.Wilson; J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-11-10T02:33:56Z",
+    "period": 2,
+    "clock": "3:48",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert sacked at LAC 29 for -7 yards (K.Benton)."
+  },
+  {
+    "wallclock": "2025-11-10T02:34:37Z",
+    "period": 2,
+    "clock": "3:07",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 48 yards to PIT 23, Center-J.Harris, fair catch by K.Williams."
+  },
+  {
+    "wallclock": "2025-11-10T02:35:46Z",
+    "period": 2,
+    "clock": "3:00",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Eboigbe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren right end to PIT 27 for 4 yards (J.Eboigbe)."
+  },
+  {
+    "wallclock": "2025-11-10T02:36:30Z",
+    "period": 2,
+    "clock": "2:16",
+    "play_type": "Pass Interception Return",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass deep middle intended for D.Metcalf INTERCEPTED by R.Mickens at PIT 48. R.Mickens to PIT 38 for 10 yards (K.Gainwell)."
+  },
+  {
+    "wallclock": "2025-11-10T02:37:38Z",
+    "period": 2,
+    "clock": "2:09",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Herbig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal up the middle to PIT 30 for 8 yards (P.Wilson; N.Herbig)."
+  },
+  {
+    "wallclock": "2025-11-10T02:37:57Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-10T02:40:34Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pierre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal left end to PIT 27 for 3 yards (P.Queen; J.Pierre)."
+  },
+  {
+    "wallclock": "2025-11-10T02:41:14Z",
+    "period": 2,
+    "clock": "1:19",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to Q.Johnston to PIT 20 for 7 yards (P.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-10T02:41:41Z",
+    "period": 2,
+    "clock": "0:52",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gadsden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Herbert pass short right to O.Gadsden pushed ob at PIT 18 for 2 yards (P.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-10T02:42:15Z",
+    "period": 2,
+    "clock": "0:49",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LAC at 00:49."
+  },
+  {
+    "wallclock": "2025-11-10T02:43:21Z",
+    "period": 2,
+    "clock": "0:49",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal left end to PIT 15 for 3 yards (K.Benton)."
+  },
+  {
+    "wallclock": "2025-11-10T02:43:49Z",
+    "period": 2,
+    "clock": "0:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pierre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Herbert pass incomplete short right to K.Allen (J.Pierre)."
+  },
+  {
+    "wallclock": "2025-11-10T02:44:29Z",
+    "period": 2,
+    "clock": "0:12",
+    "play_type": "Passing Touchdown",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Herbert pass short middle to L.McConkey for 15 yards, TOUCHDOWN. C.Dicker extra point is GOOD, Center-J.Harris, Holder-J.Scott."
+  },
+  {
+    "wallclock": "2025-11-10T02:46:24Z",
+    "period": 2,
+    "clock": "0:12",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback to the PIT 35."
+  },
+  {
+    "wallclock": "2025-11-10T02:47:20Z",
+    "period": 2,
+    "clock": "0:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete deep left to R.Wilson (D.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-10T02:48:08Z",
+    "period": 2,
+    "clock": "0:05",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Austin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete short right to C.Austin."
+  },
+  {
+    "wallclock": "2025-11-10T02:48:53Z",
+    "period": 2,
+    "clock": "0:01",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by LAC at 00:01."
+  },
+  {
+    "wallclock": "2025-11-10T02:49:39Z",
+    "period": 2,
+    "clock": "0:01",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to R.Wilson ran ob at PIT 43 for 8 yards (D.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-10T02:49:39Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-11-10T03:03:41Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bruener",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks 57 yards from PIT 35 to LAC 8. T.Williams to LAC 33 for 25 yards (Co.Heyward; C.Bruener)."
+  },
+  {
+    "wallclock": "2025-11-10T03:04:31Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Fisk",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on LAC-T.Fisk, False Start, 5 yards, enforced at LAC 33 - No Play."
+  },
+  {
+    "wallclock": "2025-11-10T03:05:12Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Highsmith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Highsmith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short middle to J.Herbert to LAC 24 for -4 yards (A.Highsmith).PENALTY on PIT-A.Highsmith, Defensive Offside, 5 yards, enforced at LAC 28 - No Play."
+  },
+  {
+    "wallclock": "2025-11-10T03:06:02Z",
+    "period": 3,
+    "clock": "14:37",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal up the middle to LAC 35 for 2 yards (M.Harrison; K.Benton)."
+  },
+  {
+    "wallclock": "2025-11-10T03:06:45Z",
+    "period": 3,
+    "clock": "13:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Watt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short right to Q.Johnston (T.Watt)."
+  },
+  {
+    "wallclock": "2025-11-10T03:07:26Z",
+    "period": 3,
+    "clock": "13:51",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Watt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to K.Allen to LAC 47 for 12 yards (J.Ramsey) [T.Watt]."
+  },
+  {
+    "wallclock": "2025-11-10T03:08:04Z",
+    "period": 3,
+    "clock": "13:14",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Black",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Harmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal up the middle to LAC 47 for no gain (Y.Black; D.Harmon)."
+  },
+  {
+    "wallclock": "2025-11-10T03:08:42Z",
+    "period": 3,
+    "clock": "12:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pierre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short middle to Q.Johnston (J.Pierre)."
+  },
+  {
+    "wallclock": "2025-11-10T03:09:24Z",
+    "period": 3,
+    "clock": "12:31",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Highsmith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert sacked at LAC 42 for -5 yards (A.Highsmith)."
+  },
+  {
+    "wallclock": "2025-11-10T03:10:02Z",
+    "period": 3,
+    "clock": "11:52",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 50 yards to PIT 8, Center-J.Harris, fair catch by K.Williams."
+  },
+  {
+    "wallclock": "2025-11-10T03:10:28Z",
+    "period": 3,
+    "clock": "11:44",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:44."
+  },
+  {
+    "wallclock": "2025-11-10T03:13:20Z",
+    "period": 3,
+    "clock": "11:44",
+    "play_type": "Rush",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren right end pushed ob at PIT 22 for 14 yards (D.James; E.Molden)."
+  },
+  {
+    "wallclock": "2025-11-10T03:14:05Z",
+    "period": 3,
+    "clock": "11:04",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren right guard to PIT 27 for 5 yards (D.Hand). LAC-T.Tart was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-10T03:14:43Z",
+    "period": 3,
+    "clock": "10:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:34."
+  },
+  {
+    "wallclock": "2025-11-10T03:16:05Z",
+    "period": 3,
+    "clock": "10:18",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Eboigbe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren left tackle to PIT 30 for 3 yards (J.Eboigbe; D.Hand)."
+  },
+  {
+    "wallclock": "2025-11-10T03:17:11Z",
+    "period": 3,
+    "clock": "9:28",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PIT at 09:28."
+  },
+  {
+    "wallclock": "2025-11-10T03:18:01Z",
+    "period": 3,
+    "clock": "9:28",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers sacked at PIT 27 for -3 yards (T.Tuipulotu)."
+  },
+  {
+    "wallclock": "2025-11-10T03:18:42Z",
+    "period": 3,
+    "clock": "8:48",
+    "play_type": "Punt",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Wax",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Waitman punts 45 yards to LAC 28, Center-C.Kuntz. D.Davis to LAC 36 for 8 yards (R.Wilson).PENALTY on LAC-M.Wax, Illegal Block Above the Waist, 10 yards, enforced at LAC 33."
+  },
+  {
+    "wallclock": "2025-11-10T03:19:54Z",
+    "period": 3,
+    "clock": "8:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:39."
+  },
+  {
+    "wallclock": "2025-11-10T03:22:31Z",
+    "period": 3,
+    "clock": "8:39",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pierre",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass short middle to L.McConkey to LAC 41 for 18 yards (J.Pierre; J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-11-10T03:23:07Z",
+    "period": 3,
+    "clock": "8:03",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal right tackle to PIT 47 for 12 yards (K.Dugger). PIT-J.Porter was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-10T03:23:39Z",
+    "period": 3,
+    "clock": "7:50",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:50."
+  },
+  {
+    "wallclock": "2025-11-10T03:24:41Z",
+    "period": 3,
+    "clock": "7:30",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Watt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal up the middle to PIT 39 for 8 yards (T.Watt; K.Dugger)."
+  },
+  {
+    "wallclock": "2025-11-10T03:25:15Z",
+    "period": 3,
+    "clock": "6:56",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Herbig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal left tackle to PIT 41 for -2 yards (N.Herbig)."
+  },
+  {
+    "wallclock": "2025-11-10T03:25:56Z",
+    "period": 3,
+    "clock": "6:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short left to Q.Johnston (Ca.Heyward)."
+  },
+  {
+    "wallclock": "2025-11-10T03:26:39Z",
+    "period": 3,
+    "clock": "6:07",
+    "play_type": "Field Goal Good",
+    "yards": 59,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Dicker 59 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott."
+  },
+  {
+    "wallclock": "2025-11-10T03:27:09Z",
+    "period": 3,
+    "clock": "6:07",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:07."
+  },
+  {
+    "wallclock": "2025-11-10T03:29:44Z",
+    "period": 3,
+    "clock": "6:07",
+    "play_type": "Kickoff",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sermon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 60 yards from LAC 35 to PIT 5. K.Williams to PIT 34 for 29 yards (D.Phillips).PENALTY on PIT-T.Sermon, Offensive Holding, 10 yards, enforced at PIT 28."
+  },
+  {
+    "wallclock": "2025-11-10T03:30:48Z",
+    "period": 3,
+    "clock": "6:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Rodgers pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-11-10T03:31:32Z",
+    "period": 3,
+    "clock": "5:56",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.James",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mickens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Warren right end to PIT 20 for 2 yards (D.James; R.Mickens)."
+  },
+  {
+    "wallclock": "2025-11-10T03:32:14Z",
+    "period": 3,
+    "clock": "5:19",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LAC at 05:19."
+  },
+  {
+    "wallclock": "2025-11-10T03:33:16Z",
+    "period": 3,
+    "clock": "5:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete deep right to D.Metcalf."
+  },
+  {
+    "wallclock": "2025-11-10T03:33:52Z",
+    "period": 3,
+    "clock": "5:16",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Waitman punts 44 yards to LAC 36, Center-C.Kuntz, fair catch by D.Davis."
+  },
+  {
+    "wallclock": "2025-11-10T03:34:19Z",
+    "period": 3,
+    "clock": "5:09",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:09."
+  },
+  {
+    "wallclock": "2025-11-10T03:36:46Z",
+    "period": 3,
+    "clock": "5:09",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Porter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal left guard to LAC 42 for 6 yards (Ca.Heyward; P.Queen). ** Injury Update: PIT-J.Porter has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-10T03:37:22Z",
+    "period": 3,
+    "clock": "4:33",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal left guard to LAC 40 for -2 yards (K.Dugger)."
+  },
+  {
+    "wallclock": "2025-11-10T03:37:53Z",
+    "period": 3,
+    "clock": "4:02",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pierre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert scrambles right tackle to PIT 45 for 15 yards (P.Queen; J.Pierre)."
+  },
+  {
+    "wallclock": "2025-11-10T03:38:36Z",
+    "period": 3,
+    "clock": "3:19",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Black",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Becton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Patterson left guard to PIT 43 for 2 yards (Y.Black).PENALTY on LAC-M.Becton, Offensive Holding, 10 yards, enforced at PIT 45 - No Play."
+  },
+  {
+    "wallclock": "2025-11-10T03:39:30Z",
+    "period": 3,
+    "clock": "2:57",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Fisk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pierre",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert pass short left to T.Fisk to PIT 48 for 7 yards (J.Pierre)."
+  },
+  {
+    "wallclock": "2025-11-10T03:40:16Z",
+    "period": 3,
+    "clock": "2:11",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Highsmith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert sacked at PIT 49 for -1 yards (A.Highsmith)."
+  },
+  {
+    "wallclock": "2025-11-10T03:40:57Z",
+    "period": 3,
+    "clock": "1:30",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Conklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short middle to T.Conklin to PIT 37 for 12 yards (P.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-10T03:41:38Z",
+    "period": 3,
+    "clock": "0:49",
+    "play_type": "Field Goal Missed",
+    "yards": 55,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker 55 yard field goal is No Good, Hit Left Upright, Center-J.Harris, Holder-J.Scott."
+  },
+  {
+    "wallclock": "2025-11-10T03:42:28Z",
+    "period": 3,
+    "clock": "0:45",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:45."
+  },
+  {
+    "wallclock": "2025-11-10T03:44:59Z",
+    "period": 3,
+    "clock": "0:45",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren right guard to LAC 44 for 11 yards (E.Molden). ** Injury Update: LAC-T.Tart has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-10T03:45:28Z",
+    "period": 3,
+    "clock": "0:17",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Freiermuth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tuipulotu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass short middle to P.Freiermuth to LAC 35 for 9 yards (T.Tuipulotu)."
+  },
+  {
+    "wallclock": "2025-11-10T03:45:28Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-11-10T03:48:41Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Perryman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren right guard to LAC 32 for 3 yards (D.Perryman; T.Tart)."
+  },
+  {
+    "wallclock": "2025-11-10T03:49:21Z",
+    "period": 4,
+    "clock": "14:20",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Rodgers pass short right to J.Warren to LAC 14 for 18 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-11-10T03:50:10Z",
+    "period": 4,
+    "clock": "13:31",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Warren up the middle to LAC 10 for 4 yards (D.Hand)."
+  },
+  {
+    "wallclock": "2025-11-10T03:50:50Z",
+    "period": 4,
+    "clock": "12:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Rodgers pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-11-10T03:51:33Z",
+    "period": 4,
+    "clock": "12:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Eboigbe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete short left to K.Gainwell [J.Eboigbe]."
+  },
+  {
+    "wallclock": "2025-11-10T03:52:19Z",
+    "period": 4,
+    "clock": "12:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete short right to D.Metcalf (C.Hart)."
+  },
+  {
+    "wallclock": "2025-11-10T03:52:54Z",
+    "period": 4,
+    "clock": "12:41",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:41."
+  },
+  {
+    "wallclock": "2025-11-10T03:55:27Z",
+    "period": 4,
+    "clock": "12:41",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Johnston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short right to Q.Johnston pushed ob at LAC 25 for 15 yards (J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-11-10T03:56:09Z",
+    "period": 4,
+    "clock": "11:58",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal left tackle to LAC 29 for 4 yards (P.Queen; J.Ramsey)."
+  },
+  {
+    "wallclock": "2025-11-10T03:56:54Z",
+    "period": 4,
+    "clock": "11:13",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass incomplete short right to K.Allen."
+  },
+  {
+    "wallclock": "2025-11-10T03:57:38Z",
+    "period": 4,
+    "clock": "11:08",
+    "play_type": "Pass Reception",
+    "yards": 58,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McConkey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ramsey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short left to L.McConkey to PIT 13 for 58 yards (J.Ramsey; K.Dugger)."
+  },
+  {
+    "wallclock": "2025-11-10T03:58:31Z",
+    "period": 4,
+    "clock": "10:15",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal left end to PIT 2 for 11 yards (M.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-10T03:59:18Z",
+    "period": 4,
+    "clock": "9:26",
+    "play_type": "Rushing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) K.Vidal left tackle for 2 yards, TOUCHDOWN. C.Dicker extra point is GOOD, Center-J.Harris, Holder-J.Scott."
+  },
+  {
+    "wallclock": "2025-11-10T04:00:30Z",
+    "period": 4,
+    "clock": "9:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:26."
+  },
+  {
+    "wallclock": "2025-11-10T04:03:05Z",
+    "period": 4,
+    "clock": "9:26",
+    "play_type": "Kickoff",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 64 yards from LAC 35 to PIT 1. K.Gainwell MUFFS catch, and recovers at PIT 1. K.Gainwell to PIT 37 for 36 yards (D.Phillips)."
+  },
+  {
+    "wallclock": "2025-11-10T04:03:54Z",
+    "period": 4,
+    "clock": "9:18",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to D.Metcalf to PIT 42 for 5 yards (D.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-10T04:04:20Z",
+    "period": 4,
+    "clock": "8:53",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass incomplete short right to K.Gainwell.PENALTY on LAC-C.Hart, Defensive Holding, 5 yards, enforced at PIT 42 - No Play."
+  },
+  {
+    "wallclock": "2025-11-10T04:05:20Z",
+    "period": 4,
+    "clock": "8:48",
+    "play_type": "Pass Interception Return",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Anderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short left intended for C.Austin INTERCEPTED by D.Jackson at LAC 40. D.Jackson ran ob at PIT 39 for 21 yards (S.Anderson)."
+  },
+  {
+    "wallclock": "2025-11-10T04:06:26Z",
+    "period": 4,
+    "clock": "8:39",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Harmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal up the middle to PIT 36 for 3 yards (D.Harmon)."
+  },
+  {
+    "wallclock": "2025-11-10T04:07:10Z",
+    "period": 4,
+    "clock": "7:56",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal up the middle to PIT 35 for 1 yard (P.Queen; Ca.Heyward)."
+  },
+  {
+    "wallclock": "2025-11-10T04:07:55Z",
+    "period": 4,
+    "clock": "7:11",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal left end to PIT 25 for 10 yards (Ca.Heyward).PENALTY on LAC-Z.Johnson, Offensive Holding, 10 yards, enforced at PIT 35 - No Play."
+  },
+  {
+    "wallclock": "2025-11-10T04:08:53Z",
+    "period": 4,
+    "clock": "6:43",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Watt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert sacked at PIT 48 for -3 yards (T.Watt)."
+  },
+  {
+    "wallclock": "2025-11-10T04:09:26Z",
+    "period": 4,
+    "clock": "6:35",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by PIT at 06:35."
+  },
+  {
+    "wallclock": "2025-11-10T04:10:19Z",
+    "period": 4,
+    "clock": "6:35",
+    "play_type": "Muffed Punt Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Scott punts 31 yards to PIT 17, Center-J.Harris. K.Williams MUFFS catch, RECOVERED by LAC-D.Phillips at PIT 21."
+  },
+  {
+    "wallclock": "2025-11-10T04:11:43Z",
+    "period": 4,
+    "clock": "6:25",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal up the middle to PIT 25 for -4 yards (Ca.Heyward)."
+  },
+  {
+    "wallclock": "2025-11-10T04:12:25Z",
+    "period": 4,
+    "clock": "5:43",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal up the middle to PIT 26 for -1 yards (M.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-10T04:13:05Z",
+    "period": 4,
+    "clock": "5:03",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sawyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Harmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal left tackle to PIT 24 for 2 yards (J.Sawyer; D.Harmon)."
+  },
+  {
+    "wallclock": "2025-11-10T04:13:31Z",
+    "period": 4,
+    "clock": "4:58",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by PIT at 04:58."
+  },
+  {
+    "wallclock": "2025-11-10T04:14:05Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Field Goal Good",
+    "yards": 42,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Harris",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Dicker 42 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott."
+  },
+  {
+    "wallclock": "2025-11-10T04:14:36Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:54."
+  },
+  {
+    "wallclock": "2025-11-10T04:17:12Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Dicker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback to the PIT 35."
+  },
+  {
+    "wallclock": "2025-11-10T04:17:51Z",
+    "period": 4,
+    "clock": "4:54",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.St-Juste",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short right to C.Austin to PIT 41 for 6 yards (B.St-Juste)."
+  },
+  {
+    "wallclock": "2025-11-10T04:18:14Z",
+    "period": 4,
+    "clock": "4:31",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Freiermuth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Molden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass short left to P.Freiermuth to LAC 44 for 15 yards (E.Molden)."
+  },
+  {
+    "wallclock": "2025-11-10T04:18:38Z",
+    "period": 4,
+    "clock": "4:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hand",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass incomplete short left [D.Hand]."
+  },
+  {
+    "wallclock": "2025-11-10T04:19:39Z",
+    "period": 4,
+    "clock": "4:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Austin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass incomplete short right to C.Austin."
+  },
+  {
+    "wallclock": "2025-11-10T04:20:24Z",
+    "period": 4,
+    "clock": "3:59",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Metcalf",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short left to D.Metcalf pushed ob at LAC 33 for 11 yards (C.Hart)."
+  },
+  {
+    "wallclock": "2025-11-10T04:21:00Z",
+    "period": 4,
+    "clock": "3:55",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Gainwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Rodgers pass short left to K.Gainwell to LAC 31 for 2 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-11-10T04:21:23Z",
+    "period": 4,
+    "clock": "3:32",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Henley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass short left to J.Smith to LAC 27 for 4 yards (D.Henley)."
+  },
+  {
+    "wallclock": "2025-11-10T04:21:52Z",
+    "period": 4,
+    "clock": "2:57",
+    "play_type": "Passing Touchdown",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Rodgers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kuntz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Waitman",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) A.Rodgers pass short right to R.Wilson for 27 yards, TOUCHDOWN. C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-C.Waitman."
+  },
+  {
+    "wallclock": "2025-11-10T04:24:20Z",
+    "period": 4,
+    "clock": "2:57",
+    "play_type": "Kickoff",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Boswell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Boswell kicks onside 14 yards from PIT 35 to PIT 49. K.Allen (didn't try to advance) to PIT 49 for no gain."
+  },
+  {
+    "wallclock": "2025-11-10T04:25:03Z",
+    "period": 4,
+    "clock": "2:56",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Watt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Herbert pass short middle to K.Allen to PIT 42 for 7 yards (T.Watt)."
+  },
+  {
+    "wallclock": "2025-11-10T04:26:03Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-10T04:27:26Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Vidal left end to PIT 44 for -2 yards (K.Benton)."
+  },
+  {
+    "wallclock": "2025-11-10T04:28:11Z",
+    "period": 4,
+    "clock": "1:15",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Vidal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Benton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Queen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Vidal left end to PIT 38 for 6 yards (K.Benton; P.Queen)."
+  },
+  {
+    "wallclock": "2025-11-10T04:28:50Z",
+    "period": 4,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Herbert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Herbert kneels to PIT 39 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-10T04:28:50Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

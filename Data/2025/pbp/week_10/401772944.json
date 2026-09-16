@@ -1,0 +1,4201 @@
+[
+  {
+    "wallclock": "2025-11-07T01:16:50Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Lutz kicks 65 yards from DEN 35 to end zone, Touchback to the LV 35."
+  },
+  {
+    "wallclock": "2025-11-07T01:17:40Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty up the middle to LV 35 for no gain (T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-11-07T01:18:17Z",
+    "period": 1,
+    "clock": "14:24",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to D.Thornton to LV 39 for 4 yards (R.Moss)."
+  },
+  {
+    "wallclock": "2025-11-07T01:18:57Z",
+    "period": 1,
+    "clock": "13:44",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillian",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to T.Lockett to LV 45 for 6 yards (J.McMillian)."
+  },
+  {
+    "wallclock": "2025-11-07T01:19:34Z",
+    "period": 1,
+    "clock": "13:07",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Uwazurike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right guard to 50 for 5 yards (E.Uwazurike; A.Singleton)."
+  },
+  {
+    "wallclock": "2025-11-07T01:20:16Z",
+    "period": 1,
+    "clock": "12:25",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith scrambles right end to DEN 44 for 6 yards (B.Jones)."
+  },
+  {
+    "wallclock": "2025-11-07T01:20:54Z",
+    "period": 1,
+    "clock": "11:48",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Greenlaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tillman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty up the middle to DEN 41 for 3 yards (D.Greenlaw; D.Tillman)."
+  },
+  {
+    "wallclock": "2025-11-07T01:22:11Z",
+    "period": 1,
+    "clock": "11:03",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on LV-M.Mayer, False Start, 5 yards, enforced at DEN 41 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T01:22:58Z",
+    "period": 1,
+    "clock": "10:44",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to T.Lockett ran ob at DEN 37 for 9 yards (T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-11-07T01:23:42Z",
+    "period": 1,
+    "clock": "10:05",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Uwazurike",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at DEN 42 for -5 yards (sack split by E.Uwazurike and Z.Allen)."
+  },
+  {
+    "wallclock": "2025-11-07T01:24:27Z",
+    "period": 1,
+    "clock": "9:20",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 40 yards to DEN 2, Center-J.Bobenmoyer, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-07T01:24:56Z",
+    "period": 1,
+    "clock": "9:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:14."
+  },
+  {
+    "wallclock": "2025-11-07T01:27:49Z",
+    "period": 1,
+    "clock": "9:14",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins up the middle to DEN 8 for 6 yards (J.Laulu; E.Roberts)."
+  },
+  {
+    "wallclock": "2025-11-07T01:28:52Z",
+    "period": 1,
+    "clock": "8:31",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Crum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Crum reported in as eligible.  J.Dobbins right end pushed ob at DEN 10 for 2 yards (C.Snowden)."
+  },
+  {
+    "wallclock": "2025-11-07T01:29:32Z",
+    "period": 1,
+    "clock": "7:54",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins left guard to DEN 11 for 1 yard (M.Crosby)."
+  },
+  {
+    "wallclock": "2025-11-07T01:30:14Z",
+    "period": 1,
+    "clock": "7:12",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 30 yards to DEN 41, Center-M.Fraboni, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-07T01:31:08Z",
+    "period": 1,
+    "clock": "7:07",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right end to DEN 41 for no gain (A.Singleton)."
+  },
+  {
+    "wallclock": "2025-11-07T01:31:46Z",
+    "period": 1,
+    "clock": "6:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short middle to B.Bowers (Z.Allen)."
+  },
+  {
+    "wallclock": "2025-11-07T01:32:26Z",
+    "period": 1,
+    "clock": "6:26",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to R.Mostert pushed ob at DEN 30 for 11 yards (A.Singleton)."
+  },
+  {
+    "wallclock": "2025-11-07T01:33:06Z",
+    "period": 1,
+    "clock": "5:50",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tucker right end to DEN 23 for 7 yards (R.Moss)."
+  },
+  {
+    "wallclock": "2025-11-07T01:33:45Z",
+    "period": 1,
+    "clock": "5:11",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short middle to M.Mayer to DEN 12 for 11 yards (B.Jones)."
+  },
+  {
+    "wallclock": "2025-11-07T01:34:21Z",
+    "period": 1,
+    "clock": "4:34",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right end to DEN 6 for 6 yards (B.Jones; A.Singleton)."
+  },
+  {
+    "wallclock": "2025-11-07T01:35:03Z",
+    "period": 1,
+    "clock": "3:53",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Greenlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass short right to M.Mayer to DEN 4 for 2 yards (D.Greenlaw)."
+  },
+  {
+    "wallclock": "2025-11-07T01:35:48Z",
+    "period": 1,
+    "clock": "3:02",
+    "play_type": "Rushing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) A.Jeanty left guard for 4 yards, TOUCHDOWN. D.Carlson extra point is GOOD, Center-J.Bobenmoyer, Holder-A.Cole."
+  },
+  {
+    "wallclock": "2025-11-07T01:36:52Z",
+    "period": 1,
+    "clock": "3:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:02."
+  },
+  {
+    "wallclock": "2025-11-07T01:39:45Z",
+    "period": 1,
+    "clock": "3:02",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lindenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Carlson kicks 65 yards from LV 35 to DEN 0. R.Harvey MUFFS catch, and recovers at DEN 0. R.Harvey to DEN 20 for 20 yards (C.Lindenberg)."
+  },
+  {
+    "wallclock": "2025-11-07T01:40:28Z",
+    "period": 1,
+    "clock": "2:56",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to C.Sutton ran ob at DEN 26 for 6 yards."
+  },
+  {
+    "wallclock": "2025-11-07T01:41:03Z",
+    "period": 1,
+    "clock": "2:26",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix sacked at DEN 17 for -9 yards (A.Butler)."
+  },
+  {
+    "wallclock": "2025-11-07T01:41:44Z",
+    "period": 1,
+    "clock": "1:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short right to E.Engram (C.Snowden) [C.Snowden]."
+  },
+  {
+    "wallclock": "2025-11-07T01:42:24Z",
+    "period": 1,
+    "clock": "1:40",
+    "play_type": "Punt",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Bachman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Skinner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Holmes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 51 yards to LV 32, Center-M.Fraboni. A.Bachman to LV 42 for 10 yards (J.Skinner).PENALTY on LV-D.Holmes, Offensive Holding, 10 yards, enforced at LV 32."
+  },
+  {
+    "wallclock": "2025-11-07T01:43:24Z",
+    "period": 1,
+    "clock": "1:31",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:31."
+  },
+  {
+    "wallclock": "2025-11-07T01:45:55Z",
+    "period": 1,
+    "clock": "1:31",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Barron",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty right guard to LV 32 for 10 yards (T.Hufanga; J.Barron)."
+  },
+  {
+    "wallclock": "2025-11-07T01:46:29Z",
+    "period": 1,
+    "clock": "0:57",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to A.Jeanty pushed ob at LV 38 for 6 yards (R.Moss; A.Singleton)."
+  },
+  {
+    "wallclock": "2025-11-07T01:47:08Z",
+    "period": 1,
+    "clock": "0:21",
+    "play_type": "Rush",
+    "yards": -18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bech",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left end to DEN 30 for 32 yards (R.Moss).PENALTY on LV-J.Bech, Offensive Holding, 10 yards, enforced at LV 40."
+  },
+  {
+    "wallclock": "2025-11-07T01:47:08Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-11-07T01:51:38Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short left to B.Bowers."
+  },
+  {
+    "wallclock": "2025-11-07T01:52:16Z",
+    "period": 2,
+    "clock": "14:56",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Powers-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at LV 24 for -6 yards (N.Bonitto). LV-J.Powers-Johnson was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-07T01:52:16Z",
+    "period": 2,
+    "clock": "14:46",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:46."
+  },
+  {
+    "wallclock": "2025-11-07T01:56:05Z",
+    "period": 2,
+    "clock": "14:39",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole to LV 11 for -13 yards. FUMBLES, and recovers at LV 11. A.Cole punts 43 yards to DEN 33, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-07T01:57:01Z",
+    "period": 2,
+    "clock": "14:31",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short left to R.Harvey.PENALTY on DEN-M.Lewis, Offensive Holding, 10 yards, enforced at DEN 33 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T01:58:04Z",
+    "period": 2,
+    "clock": "14:08",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Harvey left tackle to DEN 27 for 4 yards (A.Butler)."
+  },
+  {
+    "wallclock": "2025-11-07T01:58:44Z",
+    "period": 2,
+    "clock": "13:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short left to C.Sutton."
+  },
+  {
+    "wallclock": "2025-11-07T01:59:10Z",
+    "period": 2,
+    "clock": "13:24",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass short right to T.Franklin to DEN 40 for 13 yards (E.Stokes)."
+  },
+  {
+    "wallclock": "2025-11-07T02:00:14Z",
+    "period": 2,
+    "clock": "12:18",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) PENALTY on DEN, Delay of Game, 5 yards, enforced at DEN 40 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T02:00:58Z",
+    "period": 2,
+    "clock": "12:05",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 36 yards to LV 29, Center-M.Fraboni, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-07T02:01:32Z",
+    "period": 2,
+    "clock": "11:59",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:59."
+  },
+  {
+    "wallclock": "2025-11-07T02:02:27Z",
+    "period": 2,
+    "clock": "11:59",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left tackle to LV 30 for 1 yard (Z.Allen)."
+  },
+  {
+    "wallclock": "2025-11-07T02:03:01Z",
+    "period": 2,
+    "clock": "11:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Greenlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short left to M.Mayer (D.Greenlaw)."
+  },
+  {
+    "wallclock": "2025-11-07T02:03:43Z",
+    "period": 2,
+    "clock": "11:20",
+    "play_type": "Pass Reception",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Barron",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to B.Bowers pushed ob at DEN 39 for 31 yards (J.Barron)."
+  },
+  {
+    "wallclock": "2025-11-07T02:04:22Z",
+    "period": 2,
+    "clock": "10:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short left to A.Jeanty."
+  },
+  {
+    "wallclock": "2025-11-07T02:05:04Z",
+    "period": 2,
+    "clock": "10:41",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to T.Tucker to DEN 36 for 3 yards (N.Bonitto)."
+  },
+  {
+    "wallclock": "2025-11-07T02:05:47Z",
+    "period": 2,
+    "clock": "9:59",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short left to T.Tucker.PENALTY on DEN-J.Cooper, Defensive Offside, 5 yards, enforced at DEN 36 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T02:06:42Z",
+    "period": 2,
+    "clock": "9:54",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Uwazurike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith up the middle to DEN 31 for no gain (E.Uwazurike)."
+  },
+  {
+    "wallclock": "2025-11-07T02:07:22Z",
+    "period": 2,
+    "clock": "9:13",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tillman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thornton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass short right to T.Tucker for 31 yards, TOUCHDOWN NULLIFIED by Penalty [D.Tillman].PENALTY on LV-D.Thornton, Offensive Pass Interference, 10 yards, enforced at DEN 31 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T02:08:29Z",
+    "period": 2,
+    "clock": "9:06",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 40 yards to DEN 1, Center-J.Bobenmoyer, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-07T02:09:04Z",
+    "period": 2,
+    "clock": "8:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:58."
+  },
+  {
+    "wallclock": "2025-11-07T02:11:44Z",
+    "period": 2,
+    "clock": "8:58",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass short left to J.Dobbins pushed ob at DEN 8 for 7 yards (J.Adams)."
+  },
+  {
+    "wallclock": "2025-11-07T02:12:16Z",
+    "period": 2,
+    "clock": "8:30",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass short right to T.Franklin to DEN 10 for 2 yards (E.Stokes)."
+  },
+  {
+    "wallclock": "2025-11-07T02:12:53Z",
+    "period": 2,
+    "clock": "7:53",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass incomplete short left to E.Engram (J.Laulu)."
+  },
+  {
+    "wallclock": "2025-11-07T02:13:46Z",
+    "period": 2,
+    "clock": "7:46",
+    "play_type": "Punt",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Skinner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 38 yards to DEN 48, Center-M.Fraboni, out of bounds.PENALTY on DEN-J.Skinner, Player Out of Bounds on Kick, 5 yards, enforced at DEN 48."
+  },
+  {
+    "wallclock": "2025-11-07T02:15:10Z",
+    "period": 2,
+    "clock": "7:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short left to T.Tucker.PENALTY on LV-T.Tucker, Illegal Touch Pass, 0 yards, enforced at DEN 43."
+  },
+  {
+    "wallclock": "2025-11-07T02:16:31Z",
+    "period": 2,
+    "clock": "7:26",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Bowers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Bowers right end to DEN 47 for -4 yards (N.Bonitto)."
+  },
+  {
+    "wallclock": "2025-11-07T02:17:13Z",
+    "period": 2,
+    "clock": "6:45",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Barron",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to M.Mayer pushed ob at DEN 38 for 9 yards (J.Barron)."
+  },
+  {
+    "wallclock": "2025-11-07T02:17:58Z",
+    "period": 2,
+    "clock": "6:03",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at DEN 47 for -9 yards (T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-11-07T02:18:38Z",
+    "period": 2,
+    "clock": "5:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:58."
+  },
+  {
+    "wallclock": "2025-11-07T02:21:16Z",
+    "period": 2,
+    "clock": "5:58",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins right end pushed ob at LV 40 for 13 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-11-07T02:22:01Z",
+    "period": 2,
+    "clock": "5:18",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Crum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Trautman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Crum reported in as eligible.  J.Dobbins right guard to LV 39 for 1 yard (E.Roberts; M.Crosby).PENALTY on DEN-A.Trautman, Offensive Holding, 10 yards, enforced at LV 40 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T02:22:56Z",
+    "period": 2,
+    "clock": "4:54",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Adams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to R.Harvey to LV 48 for 2 yards (J.Adams)."
+  },
+  {
+    "wallclock": "2025-11-07T02:23:40Z",
+    "period": 2,
+    "clock": "4:10",
+    "play_type": "Pass Reception",
+    "yards": 43,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Bryant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass deep right to P.Bryant pushed ob at LV 5 for 43 yards (L.Johnson)."
+  },
+  {
+    "wallclock": "2025-11-07T02:24:29Z",
+    "period": 2,
+    "clock": "3:27",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Harvey left end pushed ob at LV 7 for -2 yards (J.Chinn)."
+  },
+  {
+    "wallclock": "2025-11-07T02:25:14Z",
+    "period": 2,
+    "clock": "2:41",
+    "play_type": "Passing Touchdown",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Nix pass short middle to T.Franklin for 7 yards, TOUCHDOWN. W.Lutz extra point is GOOD, Center-M.Fraboni, Holder-J.Crawshaw."
+  },
+  {
+    "wallclock": "2025-11-07T02:27:30Z",
+    "period": 2,
+    "clock": "2:41",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Lutz kicks 65 yards from DEN 35 to end zone, Touchback to the LV 35."
+  },
+  {
+    "wallclock": "2025-11-07T02:28:19Z",
+    "period": 2,
+    "clock": "2:41",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Roach",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at LV 35 for 0 yards (M.Roach)."
+  },
+  {
+    "wallclock": "2025-11-07T02:29:01Z",
+    "period": 2,
+    "clock": "2:36",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by DEN at 02:36."
+  },
+  {
+    "wallclock": "2025-11-07T02:29:23Z",
+    "period": 2,
+    "clock": "2:36",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Greenlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty up the middle to LV 39 for 4 yards (A.Singleton; D.Greenlaw)."
+  },
+  {
+    "wallclock": "2025-11-07T02:29:49Z",
+    "period": 2,
+    "clock": "2:31",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by DEN at 02:31."
+  },
+  {
+    "wallclock": "2025-11-07T02:30:24Z",
+    "period": 2,
+    "clock": "2:31",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at LV 33 for -6 yards (sack split by Z.Allen and N.Bonitto)."
+  },
+  {
+    "wallclock": "2025-11-07T02:30:56Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-07T02:33:46Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Punt",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bandy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Eichenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 39 yards to DEN 28, Center-J.Bobenmoyer. M.Bandy to DEN 27 for -1 yards (J.Bobenmoyer; T.Eichenberg)."
+  },
+  {
+    "wallclock": "2025-11-07T02:34:32Z",
+    "period": 2,
+    "clock": "1:50",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Badie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short right to T.Badie."
+  },
+  {
+    "wallclock": "2025-11-07T02:35:13Z",
+    "period": 2,
+    "clock": "1:45",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to E.Engram to DEN 34 for 7 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-11-07T02:35:32Z",
+    "period": 2,
+    "clock": "1:27",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Bryant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Bryant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass short right to P.Bryant to DEN 47 for 13 yards (J.Chinn).PENALTY on DEN-P.Bryant, Offensive Pass Interference, 10 yards, enforced at DEN 34 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T02:36:35Z",
+    "period": 2,
+    "clock": "1:21",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short left to C.Sutton to DEN 38 for 14 yards (J.Chinn)."
+  },
+  {
+    "wallclock": "2025-11-07T02:36:57Z",
+    "period": 2,
+    "clock": "0:58",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.McGlinchey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on DEN-M.McGlinchey, False Start, 5 yards, enforced at DEN 38 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T02:37:46Z",
+    "period": 2,
+    "clock": "0:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete deep right to T.Franklin."
+  },
+  {
+    "wallclock": "2025-11-07T02:39:00Z",
+    "period": 2,
+    "clock": "0:43",
+    "play_type": "Pass Interception Return",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Bryant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass deep middle intended for T.Franklin INTERCEPTED by K.Kelly at LV 10. K.Kelly to LV 36 for 26 yards (P.Bryant)."
+  },
+  {
+    "wallclock": "2025-11-07T02:39:37Z",
+    "period": 2,
+    "clock": "0:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Thornton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short right to D.Thornton."
+  },
+  {
+    "wallclock": "2025-11-07T02:40:28Z",
+    "period": 2,
+    "clock": "0:21",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LV at 00:21."
+  },
+  {
+    "wallclock": "2025-11-07T02:41:20Z",
+    "period": 2,
+    "clock": "0:21",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillian",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to T.Lockett ran ob at LV 45 for 9 yards (J.McMillian)."
+  },
+  {
+    "wallclock": "2025-11-07T02:42:04Z",
+    "period": 2,
+    "clock": "0:15",
+    "play_type": "Pass Reception",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Greenlaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Greenlaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to A.Jeanty to LV 38 for -7 yards (D.Greenlaw) [N.Bonitto]. FUMBLES (D.Greenlaw), ball out of bounds at LV 39."
+  },
+  {
+    "wallclock": "2025-11-07T02:42:04Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-11-07T02:56:51Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Eichenberg",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Bryant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Carlson kicks 63 yards from LV 35 to DEN 2. R.Harvey to DEN 17 for 15 yards (T.Eichenberg).PENALTY on DEN-P.Bryant, Offensive Holding, 8 yards, enforced at DEN 17."
+  },
+  {
+    "wallclock": "2025-11-07T02:58:09Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on DEN-M.Lewis, False Start, 5 yards, enforced at DEN 9 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T02:58:48Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins left tackle to DEN 7 for 3 yards (J.Chinn; J.Laulu)."
+  },
+  {
+    "wallclock": "2025-11-07T02:59:30Z",
+    "period": 3,
+    "clock": "14:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short right to R.Harvey."
+  },
+  {
+    "wallclock": "2025-11-07T03:00:14Z",
+    "period": 3,
+    "clock": "14:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Bryant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short left to P.Bryant."
+  },
+  {
+    "wallclock": "2025-11-07T03:00:54Z",
+    "period": 3,
+    "clock": "14:03",
+    "play_type": "Punt",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Bachman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tillman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 54 yards to LV 39, Center-M.Fraboni. A.Bachman pushed ob at DEN 46 for 15 yards (D.Tillman).PENALTY on LV-T.McCollum, Offensive Holding, 10 yards, enforced at LV 39."
+  },
+  {
+    "wallclock": "2025-11-07T03:02:27Z",
+    "period": 3,
+    "clock": "13:50",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Greenlaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left guard to LV 34 for 5 yards (D.Greenlaw; T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-11-07T03:03:00Z",
+    "period": 3,
+    "clock": "13:17",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Franklin-Myers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right guard to LV 37 for 3 yards (A.Singleton; J.Franklin-Myers)."
+  },
+  {
+    "wallclock": "2025-11-07T03:04:05Z",
+    "period": 3,
+    "clock": "12:31",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by LV at 12:31."
+  },
+  {
+    "wallclock": "2025-11-07T03:04:52Z",
+    "period": 3,
+    "clock": "12:31",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short right to T.Lockett."
+  },
+  {
+    "wallclock": "2025-11-07T03:05:31Z",
+    "period": 3,
+    "clock": "12:27",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bandy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " A.Cole punts 47 yards to DEN 16, Center-J.Bobenmoyer, fair catch by M.Bandy."
+  },
+  {
+    "wallclock": "2025-11-07T03:06:00Z",
+    "period": 3,
+    "clock": "12:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:20."
+  },
+  {
+    "wallclock": "2025-11-07T03:08:33Z",
+    "period": 3,
+    "clock": "12:20",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Porter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins up the middle to DEN 23 for 7 yards (D.Porter; I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-11-07T03:09:11Z",
+    "period": 3,
+    "clock": "11:43",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Adams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins right guard to DEN 25 for 2 yards (J.Adams; T.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-07T03:09:57Z",
+    "period": 3,
+    "clock": "11:04",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by DEN at 11:04."
+  },
+  {
+    "wallclock": "2025-11-07T03:11:01Z",
+    "period": 3,
+    "clock": "10:57",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix up the middle to DEN 26 for 1 yard (T.Booker)."
+  },
+  {
+    "wallclock": "2025-11-07T03:11:31Z",
+    "period": 3,
+    "clock": "10:27",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Prentice",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass short right to A.Prentice pushed ob at DEN 39 for 13 yards (C.Snowden)."
+  },
+  {
+    "wallclock": "2025-11-07T03:12:15Z",
+    "period": 3,
+    "clock": "9:47",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Roberts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins left end to DEN 46 for 7 yards (E.Roberts; J.Chinn)."
+  },
+  {
+    "wallclock": "2025-11-07T03:12:52Z",
+    "period": 3,
+    "clock": "9:11",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins right guard to DEN 48 for 2 yards (M.Crosby; J.Chinn)."
+  },
+  {
+    "wallclock": "2025-11-07T03:13:34Z",
+    "period": 3,
+    "clock": "8:29",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins left end ran ob at LV 45 for 7 yards (D.White)."
+  },
+  {
+    "wallclock": "2025-11-07T03:14:13Z",
+    "period": 3,
+    "clock": "7:53",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Porter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short middle to R.Harvey to LV 38 for 7 yards (D.Porter) [J.Laulu]."
+  },
+  {
+    "wallclock": "2025-11-07T03:14:50Z",
+    "period": 3,
+    "clock": "7:15",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Wattenberg",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on DEN-L.Wattenberg, False Start, 5 yards, enforced at LV 38 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T03:15:27Z",
+    "period": 3,
+    "clock": "7:06",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Harvey up the middle to LV 36 for 7 yards (D.White; J.Chinn)."
+  },
+  {
+    "wallclock": "2025-11-07T03:16:08Z",
+    "period": 3,
+    "clock": "6:25",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Sutton sacked at LV 41 for -5 yards (C.Snowden)."
+  },
+  {
+    "wallclock": "2025-11-07T03:16:54Z",
+    "period": 3,
+    "clock": "5:39",
+    "play_type": "Field Goal Missed",
+    "yards": 59,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " W.Lutz 59 yard field goal is No Good, Short, Center-M.Fraboni, Holder-J.Crawshaw."
+  },
+  {
+    "wallclock": "2025-11-07T03:17:17Z",
+    "period": 3,
+    "clock": "5:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:34."
+  },
+  {
+    "wallclock": "2025-11-07T03:20:08Z",
+    "period": 3,
+    "clock": "5:34",
+    "play_type": "Pass Interception Return",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tillman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tillman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) G.Smith pass short middle intended for A.Jeanty INTERCEPTED by D.Tillman at DEN 44. D.Tillman to LV 33 for 23 yards (M.Mayer)."
+  },
+  {
+    "wallclock": "2025-11-07T03:21:23Z",
+    "period": 3,
+    "clock": "5:22",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins left tackle to LV 33 for no gain (M.Crosby)."
+  },
+  {
+    "wallclock": "2025-11-07T03:22:05Z",
+    "period": 3,
+    "clock": "4:41",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short right.PENALTY on DEN-T.Franklin, Offensive Pass Interference, 10 yards, enforced at LV 33 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T03:23:11Z",
+    "period": 3,
+    "clock": "4:34",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins up the middle to LV 41 for 2 yards (T.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-07T03:23:50Z",
+    "period": 3,
+    "clock": "3:55",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Trautman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass short right to A.Trautman to LV 39 for 2 yards (L.Johnson)."
+  },
+  {
+    "wallclock": "2025-11-07T03:24:39Z",
+    "period": 3,
+    "clock": "3:05",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Crawshaw punts 39 yards to end zone, Center-M.Fraboni, Touchback."
+  },
+  {
+    "wallclock": "2025-11-07T03:24:58Z",
+    "period": 3,
+    "clock": "2:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:57."
+  },
+  {
+    "wallclock": "2025-11-07T03:27:50Z",
+    "period": 3,
+    "clock": "2:57",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Franklin-Myers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty up the middle to LV 23 for 3 yards (J.Franklin-Myers)."
+  },
+  {
+    "wallclock": "2025-11-07T03:28:22Z",
+    "period": 3,
+    "clock": "2:25",
+    "play_type": "Pass Incompletion",
+    "yards": -26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass incomplete short right.PENALTY on LV-G.Smith, Intentional Grounding, 13 yards, enforced at LV 23."
+  },
+  {
+    "wallclock": "2025-11-07T03:29:21Z",
+    "period": 3,
+    "clock": "2:20",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Mostert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Mostert up the middle to LV 14 for 4 yards (Z.Allen; A.Singleton)."
+  },
+  {
+    "wallclock": "2025-11-07T03:30:05Z",
+    "period": 3,
+    "clock": "1:37",
+    "play_type": "Blocked Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Skinner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Badie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Badie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mayer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punt is BLOCKED by J.Skinner, Center-J.Bobenmoyer, RECOVERED by DEN-T.Badie at LV 12. T.Badie pushed ob at LV 12 for no gain (M.Mayer)."
+  },
+  {
+    "wallclock": "2025-11-07T03:31:07Z",
+    "period": 3,
+    "clock": "1:29",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix left end to LV 14 for -2 yards (I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-11-07T03:31:49Z",
+    "period": 3,
+    "clock": "0:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short left to E.Engram."
+  },
+  {
+    "wallclock": "2025-11-07T03:32:30Z",
+    "period": 3,
+    "clock": "0:43",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to T.Franklin to LV 14 for no gain (J.Chinn; D.White)."
+  },
+  {
+    "wallclock": "2025-11-07T03:33:06Z",
+    "period": 3,
+    "clock": "0:05",
+    "play_type": "Field Goal Good",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Lutz 32 yard field goal is GOOD, Center-M.Fraboni, Holder-J.Crawshaw. LV-T.McCollum was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-07T03:34:33Z",
+    "period": 3,
+    "clock": "0:05",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Key",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Strnad",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Lutz kicks 62 yards from DEN 35 to LV 3. D.Laube to LV 31 for 28 yards (D.Key; J.Strnad)."
+  },
+  {
+    "wallclock": "2025-11-07T03:34:33Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-11-07T03:37:58Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith scrambles right end to LV 32 for 1 yard (N.Bonitto). LV-G.Smith was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-07T03:39:20Z",
+    "period": 4,
+    "clock": "14:48",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:48."
+  },
+  {
+    "wallclock": "2025-11-07T03:41:23Z",
+    "period": 4,
+    "clock": "14:38",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty left end to LV 30 for -2 yards (J.Cooper)."
+  },
+  {
+    "wallclock": "2025-11-07T03:42:01Z",
+    "period": 4,
+    "clock": "13:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Pickett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bech",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Pickett pass incomplete short right to J.Bech."
+  },
+  {
+    "wallclock": "2025-11-07T03:42:39Z",
+    "period": 4,
+    "clock": "13:56",
+    "play_type": "Punt",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Richardson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 42 yards to DEN 28, Center-J.Bobenmoyer, out of bounds.PENALTY on LV-D.Richardson, Player Out of Bounds on Kick, 5 yards, enforced at DEN 28."
+  },
+  {
+    "wallclock": "2025-11-07T03:44:00Z",
+    "period": 4,
+    "clock": "13:50",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:50."
+  },
+  {
+    "wallclock": "2025-11-07T03:46:02Z",
+    "period": 4,
+    "clock": "13:50",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to C.Sutton to DEN 37 for 4 yards (C.Snowden)."
+  },
+  {
+    "wallclock": "2025-11-07T03:46:38Z",
+    "period": 4,
+    "clock": "13:14",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass incomplete deep left to T.Franklin."
+  },
+  {
+    "wallclock": "2025-11-07T03:47:22Z",
+    "period": 4,
+    "clock": "13:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-11-07T03:48:10Z",
+    "period": 4,
+    "clock": "13:01",
+    "play_type": "Punt",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Bachman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Prentice",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Trautman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McCollum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Laube",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 45 yards to LV 18, Center-M.Fraboni. A.Bachman to LV 21 for 3 yards (A.Prentice; A.Trautman). ** Injury Update: LV-T.McCollum has returned to the game. PENALTY on LV-D.Laube, Illegal Blindside Block, 10 yards, enforced at LV 20."
+  },
+  {
+    "wallclock": "2025-11-07T03:49:30Z",
+    "period": 4,
+    "clock": "12:48",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:48."
+  },
+  {
+    "wallclock": "2025-11-07T03:51:42Z",
+    "period": 4,
+    "clock": "12:48",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "G.Smith pass deep right to T.Tucker to LV 35 for 25 yards (R.Moss). ** Injury Update: LV-G.Smith has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-07T03:52:22Z",
+    "period": 4,
+    "clock": "12:09",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Roach",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short right to A.Jeanty to LV 39 for 4 yards (M.Roach)."
+  },
+  {
+    "wallclock": "2025-11-07T03:53:02Z",
+    "period": 4,
+    "clock": "11:28",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to T.Lockett ran ob at DEN 42 for 19 yards (T.Hufanga) [Z.Allen]."
+  },
+  {
+    "wallclock": "2025-11-07T03:53:48Z",
+    "period": 4,
+    "clock": "10:47",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty up the middle to DEN 41 for 1 yard (B.Jones)."
+  },
+  {
+    "wallclock": "2025-11-07T03:54:22Z",
+    "period": 4,
+    "clock": "10:12",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lockett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass short left to T.Lockett to DEN 40 for 1 yard (T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-11-07T03:55:03Z",
+    "period": 4,
+    "clock": "9:31",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Franklin-Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith sacked at DEN 43 for -3 yards (sack split by J.Franklin-Myers and J.Cooper)."
+  },
+  {
+    "wallclock": "2025-11-07T03:55:50Z",
+    "period": 4,
+    "clock": "8:42",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Punt formation) PENALTY on LV-T.McCollum, False Start, 5 yards, enforced at DEN 43 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T03:56:36Z",
+    "period": 4,
+    "clock": "8:42",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Cole punts 48 yards to end zone, Center-J.Bobenmoyer, Touchback."
+  },
+  {
+    "wallclock": "2025-11-07T03:56:52Z",
+    "period": 4,
+    "clock": "8:35",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:35."
+  },
+  {
+    "wallclock": "2025-11-07T03:59:39Z",
+    "period": 4,
+    "clock": "8:35",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Stokes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to E.Engram to DEN 25 for 5 yards (D.White; E.Stokes)."
+  },
+  {
+    "wallclock": "2025-11-07T04:00:18Z",
+    "period": 4,
+    "clock": "7:56",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) R.Harvey left guard to DEN 25 for no gain (C.Snowden; M.Crosby)."
+  },
+  {
+    "wallclock": "2025-11-07T04:00:59Z",
+    "period": 4,
+    "clock": "7:16",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass deep left intended for T.Franklin INTERCEPTED by K.Kelly at DEN 45. K.Kelly to DEN 45 for no gain (T.Franklin)."
+  },
+  {
+    "wallclock": "2025-11-07T04:02:02Z",
+    "period": 4,
+    "clock": "7:10",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty up the middle to DEN 39 for 6 yards (B.Jones)."
+  },
+  {
+    "wallclock": "2025-11-07T04:02:36Z",
+    "period": 4,
+    "clock": "6:37",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Roach",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty up the middle to DEN 34 for 5 yards (M.Roach; T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-11-07T04:03:14Z",
+    "period": 4,
+    "clock": "5:59",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Jeanty right guard to DEN 31 for 3 yards (A.Singleton; D.Jones)."
+  },
+  {
+    "wallclock": "2025-11-07T04:03:55Z",
+    "period": 4,
+    "clock": "5:17",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Jeanty",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tillman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Jeanty right guard to DEN 30 for 1 yard (D.Tillman; T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-11-07T04:04:38Z",
+    "period": 4,
+    "clock": "4:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Smith pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-11-07T04:05:24Z",
+    "period": 4,
+    "clock": "4:30",
+    "play_type": "Field Goal Missed",
+    "yards": 48,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Carlson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bobenmoyer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Cole",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " D.Carlson 48 yard field goal is No Good, Wide Right, Center-J.Bobenmoyer, Holder-A.Cole."
+  },
+  {
+    "wallclock": "2025-11-07T04:05:53Z",
+    "period": 4,
+    "clock": "4:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:26."
+  },
+  {
+    "wallclock": "2025-11-07T04:08:41Z",
+    "period": 4,
+    "clock": "4:26",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Meinerz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins left end to DEN 46 for 8 yards (D.White). ** Injury Update: DEN-Q.Meinerz has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-07T04:09:23Z",
+    "period": 4,
+    "clock": "3:44",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Snowden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins right tackle to DEN 47 for 1 yard (C.Snowden)."
+  },
+  {
+    "wallclock": "2025-11-07T04:10:01Z",
+    "period": 4,
+    "clock": "3:06",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass short right to T.Franklin ran ob at LV 35 for 18 yards (L.Johnson)."
+  },
+  {
+    "wallclock": "2025-11-07T04:10:46Z",
+    "period": 4,
+    "clock": "3:00",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " PENALTY on LV-M.Crosby, Encroachment, 5 yards, enforced at LV 35 - No Play."
+  },
+  {
+    "wallclock": "2025-11-07T04:11:39Z",
+    "period": 4,
+    "clock": "3:00",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hemingway",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins up the middle to LV 26 for 4 yards (T.Hemingway)."
+  },
+  {
+    "wallclock": "2025-11-07T04:12:13Z",
+    "period": 4,
+    "clock": "2:26",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Crosby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins right guard to LV 26 for no gain (J.Chinn; M.Crosby)."
+  },
+  {
+    "wallclock": "2025-11-07T04:12:32Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by LV at 02:21."
+  },
+  {
+    "wallclock": "2025-11-07T04:13:28Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix up the middle to LV 25 for 1 yard (T.Booker)."
+  },
+  {
+    "wallclock": "2025-11-07T04:13:58Z",
+    "period": 4,
+    "clock": "2:18",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by LV at 02:18."
+  },
+  {
+    "wallclock": "2025-11-07T04:14:48Z",
+    "period": 4,
+    "clock": "2:18",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kelly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Pola-Mao",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins up the middle to LV 18 for 7 yards (K.Kelly; I.Pola-Mao)."
+  },
+  {
+    "wallclock": "2025-11-07T04:15:10Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-07T04:16:45Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Chinn",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Laulu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins left end to LV 13 for 5 yards (J.Chinn; J.Laulu)."
+  },
+  {
+    "wallclock": "2025-11-07T04:17:32Z",
+    "period": 4,
+    "clock": "1:13",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Nix kneels to LV 14 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-07T04:18:07Z",
+    "period": 4,
+    "clock": "0:39",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Nix kneels to LV 15 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-07T04:18:07Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

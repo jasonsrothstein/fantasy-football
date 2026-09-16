@@ -1,0 +1,3780 @@
+[
+  {
+    "wallclock": "2025-10-26T17:02:46Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan kicks 65 yards from NYG 35 to end zone, Touchback to the PHI 35."
+  },
+  {
+    "wallclock": "2025-10-26T17:04:41Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep left to D.Smith (T.Nubin)."
+  },
+  {
+    "wallclock": "2025-10-26T17:05:23Z",
+    "period": 1,
+    "clock": "14:43",
+    "play_type": "Rushing Touchdown",
+    "yards": 65,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "F.Johnson reported in as eligible.  S.Barkley left tackle for 65 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-26T17:07:39Z",
+    "period": 1,
+    "clock": "14:43",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 64 yards from PHI 35 to NYG 1. G.Olszewski to NYG 31 for 30 yards (C.Latu)."
+  },
+  {
+    "wallclock": "2025-10-26T17:08:29Z",
+    "period": 1,
+    "clock": "14:37",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo right tackle to NYG 35 for 4 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-26T17:09:04Z",
+    "period": 1,
+    "clock": "14:03",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bellinger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Skattebo left guard to NYG 38 for 3 yards (J.Hunt).PENALTY on NYG-D.Bellinger, Offensive Offside, 5 yards, enforced at NYG 35 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T17:10:00Z",
+    "period": 1,
+    "clock": "13:41",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart scrambles right guard to NYG 31 for 1 yard (J.Hunt)."
+  },
+  {
+    "wallclock": "2025-10-26T17:10:42Z",
+    "period": 1,
+    "clock": "12:59",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short right to T.Johnson to NYG 30 for -1 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-26T17:11:20Z",
+    "period": 1,
+    "clock": "12:21",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Gipson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 45 yards to PHI 25, Center-C.Kreiter, fair catch by X.Gipson."
+  },
+  {
+    "wallclock": "2025-10-26T17:11:37Z",
+    "period": 1,
+    "clock": "12:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:14."
+  },
+  {
+    "wallclock": "2025-10-26T17:14:28Z",
+    "period": 1,
+    "clock": "12:14",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Nunez-Roches",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley left tackle to PHI 30 for 5 yards (R.Nunez-Roches; T.Nubin)."
+  },
+  {
+    "wallclock": "2025-10-26T17:15:13Z",
+    "period": 1,
+    "clock": "11:28",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Johnson reported in as eligible.  T.Bigsby right end pushed ob at PHI 48 for 18 yards (D.Banks; B.Burns)."
+  },
+  {
+    "wallclock": "2025-10-26T17:16:00Z",
+    "period": 1,
+    "clock": "10:44",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass short middle to D.Smith to NYG 37 for 15 yards (C.Flott).PENALTY on PHI-L.Johnson, Offensive Holding, 10 yards, enforced at PHI 48 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T17:16:53Z",
+    "period": 1,
+    "clock": "10:17",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley left tackle to PHI 46 for 8 yards (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-10-26T17:17:33Z",
+    "period": 1,
+    "clock": "9:37",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to S.Barkley to NYG 42 for 12 yards (D.Belton; A.Carter)."
+  },
+  {
+    "wallclock": "2025-10-26T17:18:18Z",
+    "period": 1,
+    "clock": "8:52",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby left guard to NYG 42 for no gain (A.Carter)."
+  },
+  {
+    "wallclock": "2025-10-26T17:19:02Z",
+    "period": 1,
+    "clock": "8:08",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts scrambles right end to NYG 35 for 7 yards (K.Thibodeaux; D.Belton)."
+  },
+  {
+    "wallclock": "2025-10-26T17:19:51Z",
+    "period": 1,
+    "clock": "7:18",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked ob at NYG 35 for 0 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-10-26T17:20:40Z",
+    "period": 1,
+    "clock": "6:33",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Toth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on PHI-B.Toth, False Start, 5 yards, enforced at NYG 35 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T17:21:45Z",
+    "period": 1,
+    "clock": "6:15",
+    "play_type": "Field Goal Missed",
+    "yards": 58,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott 58 yard field goal is No Good, Hit Right Upright, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-26T17:22:38Z",
+    "period": 1,
+    "clock": "6:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:10."
+  },
+  {
+    "wallclock": "2025-10-26T17:25:22Z",
+    "period": 1,
+    "clock": "6:10",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart sacked at NYG 47 for -1 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-26T17:26:03Z",
+    "period": 1,
+    "clock": "5:29",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Skattebo left guard to 50 for 3 yards (Z.Baun; M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-10-26T17:26:46Z",
+    "period": 1,
+    "clock": "4:46",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart scrambles right end to PHI 42 for 8 yards (A.Mukuba)."
+  },
+  {
+    "wallclock": "2025-10-26T17:27:28Z",
+    "period": 1,
+    "clock": "4:03",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) C.Skattebo up the middle to PHI 37 for 5 yards (J.Carter)."
+  },
+  {
+    "wallclock": "2025-10-26T17:27:58Z",
+    "period": 1,
+    "clock": "3:33",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass short left to D.Slayton pushed ob at PHI 18 for 19 yards (N.Dean)."
+  },
+  {
+    "wallclock": "2025-10-26T17:28:34Z",
+    "period": 1,
+    "clock": "2:56",
+    "play_type": "Passing Touchdown",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Gano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) J.Dart pass short left to C.Skattebo for 18 yards, TOUCHDOWN. G.Gano extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan."
+  },
+  {
+    "wallclock": "2025-10-26T17:29:55Z",
+    "period": 1,
+    "clock": "2:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:56."
+  },
+  {
+    "wallclock": "2025-10-26T17:32:26Z",
+    "period": 1,
+    "clock": "2:56",
+    "play_type": "Kickoff",
+    "yards": 41,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan kicks 59 yards from NYG 35 to PHI 6. W.Shipley to PHI 47 for 41 yards (J.Gillan)."
+  },
+  {
+    "wallclock": "2025-10-26T17:33:19Z",
+    "period": 1,
+    "clock": "2:49",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Robertson-Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right guard to NYG 49 for 4 yards (R.Robertson-Harris)."
+  },
+  {
+    "wallclock": "2025-10-26T17:34:04Z",
+    "period": 1,
+    "clock": "2:04",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Gipson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short middle to X.Gipson to NYG 46 for 3 yards (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-10-26T17:34:50Z",
+    "period": 1,
+    "clock": "1:18",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to S.Barkley to NYG 46 for no gain (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-10-26T17:35:32Z",
+    "period": 1,
+    "clock": "0:36",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts scrambles up the middle to NYG 41 for 5 yards (D.Belton)."
+  },
+  {
+    "wallclock": "2025-10-26T17:36:05Z",
+    "period": 1,
+    "clock": "0:02",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Dickerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on PHI-L.Dickerson, False Start, 5 yards, enforced at NYG 41 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T17:36:05Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-10-26T17:39:50Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts pass short middle to D.Smith to NYG 20 for 26 yards (C.Flott)."
+  },
+  {
+    "wallclock": "2025-10-26T17:40:34Z",
+    "period": 2,
+    "clock": "14:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep left to D.Smith."
+  },
+  {
+    "wallclock": "2025-10-26T17:41:16Z",
+    "period": 2,
+    "clock": "14:11",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Robertson-Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Johnson reported in as eligible.  S.Barkley up the middle to NYG 19 for 1 yard (R.Robertson-Harris)."
+  },
+  {
+    "wallclock": "2025-10-26T17:41:57Z",
+    "period": 2,
+    "clock": "13:30",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts scrambles left end pushed ob at NYG 11 for 8 yards (B.Burns)."
+  },
+  {
+    "wallclock": "2025-10-26T17:43:36Z",
+    "period": 2,
+    "clock": "12:57",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts up the middle to NYG 9 for 2 yards (K.Thibodeaux).New York Giants challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-10-26T17:48:09Z",
+    "period": 2,
+    "clock": "12:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:23."
+  },
+  {
+    "wallclock": "2025-10-26T17:49:37Z",
+    "period": 2,
+    "clock": "12:23",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Nunez-Roches",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley left guard to NYG 9 for no gain (R.Nunez-Roches)."
+  },
+  {
+    "wallclock": "2025-10-26T17:50:17Z",
+    "period": 2,
+    "clock": "11:38",
+    "play_type": "Passing Touchdown",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass short left to S.Barkley for 9 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-26T17:51:11Z",
+    "period": 2,
+    "clock": "11:38",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:38."
+  },
+  {
+    "wallclock": "2025-10-26T17:54:05Z",
+    "period": 2,
+    "clock": "11:38",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 65 yards from PHI 35 to NYG 0. G.Olszewski to NYG 31 for 31 yards (S.Brown)."
+  },
+  {
+    "wallclock": "2025-10-26T17:54:56Z",
+    "period": 2,
+    "clock": "11:32",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy left end to NYG 32 for 1 yard (N.Dean; C.DeJean)."
+  },
+  {
+    "wallclock": "2025-10-26T17:55:32Z",
+    "period": 2,
+    "clock": "10:56",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short left to D.Slayton to NYG 39 for 7 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-10-26T17:56:15Z",
+    "period": 2,
+    "clock": "10:13",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short right to T.Tracy pushed ob at NYG 48 for 9 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-26T17:56:49Z",
+    "period": 2,
+    "clock": "9:41",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tracy right tackle to PHI 49 for 3 yards (M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-10-26T17:57:27Z",
+    "period": 2,
+    "clock": "9:03",
+    "play_type": "Rush",
+    "yards": -14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tracy left guard to PHI 43 for 6 yards (Z.Baun; C.DeJean).PENALTY on NYG-W.Robinson, Illegal Block Above the Waist, 10 yards, enforced at PHI 43."
+  },
+  {
+    "wallclock": "2025-10-26T17:58:50Z",
+    "period": 2,
+    "clock": "8:27",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NYG, Delay of Game, 5 yards, enforced at NYG 47 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T17:59:26Z",
+    "period": 2,
+    "clock": "8:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Skattebo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete short middle to C.Skattebo (Z.Baun). NYG-C.Skattebo was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-26T18:03:07Z",
+    "period": 2,
+    "clock": "8:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete deep right to D.Slayton (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-10-26T18:03:46Z",
+    "period": 2,
+    "clock": "8:01",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Punt formation) PENALTY on PHI-C.Latu, Neutral Zone Infraction, 5 yards, enforced at NYG 42 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T18:04:25Z",
+    "period": 2,
+    "clock": "8:01",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 40 yards to PHI 13, Center-C.Kreiter, out of bounds."
+  },
+  {
+    "wallclock": "2025-10-26T18:04:55Z",
+    "period": 2,
+    "clock": "7:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:54."
+  },
+  {
+    "wallclock": "2025-10-26T18:07:39Z",
+    "period": 2,
+    "clock": "7:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davidson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short middle to S.Barkley (D.Davidson)."
+  },
+  {
+    "wallclock": "2025-10-26T18:08:23Z",
+    "period": 2,
+    "clock": "7:49",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davidson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley left guard to PHI 16 for 3 yards (D.Davidson)."
+  },
+  {
+    "wallclock": "2025-10-26T18:09:07Z",
+    "period": 2,
+    "clock": "7:05",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Alexander",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at PHI 9 for -7 yards (sack split by D.Lawrence and D.Alexander)."
+  },
+  {
+    "wallclock": "2025-10-26T18:09:53Z",
+    "period": 2,
+    "clock": "6:19",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 57 yards to NYG 34, Center-C.Adomitis, fair catch by G.Olszewski."
+  },
+  {
+    "wallclock": "2025-10-26T18:10:12Z",
+    "period": 2,
+    "clock": "6:13",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:13."
+  },
+  {
+    "wallclock": "2025-10-26T18:13:02Z",
+    "period": 2,
+    "clock": "6:13",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy right tackle to NYG 40 for 6 yards (N.Dean)."
+  },
+  {
+    "wallclock": "2025-10-26T18:13:32Z",
+    "period": 2,
+    "clock": "5:43",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) T.Tracy left tackle to NYG 46 for 6 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-10-26T18:14:13Z",
+    "period": 2,
+    "clock": "5:02",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bellinger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass deep left to D.Bellinger to PHI 33 for 21 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-10-26T18:14:59Z",
+    "period": 2,
+    "clock": "4:16",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart left guard to PHI 27 for 6 yards (N.Dean)."
+  },
+  {
+    "wallclock": "2025-10-26T18:15:28Z",
+    "period": 2,
+    "clock": "3:46",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart sacked at PHI 29 for -2 yards (J.Davis)."
+  },
+  {
+    "wallclock": "2025-10-26T18:16:16Z",
+    "period": 2,
+    "clock": "3:02",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NYG at 03:02."
+  },
+  {
+    "wallclock": "2025-10-26T18:17:24Z",
+    "period": 2,
+    "clock": "3:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete deep left to T.Johnson (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-26T18:18:05Z",
+    "period": 2,
+    "clock": "2:53",
+    "play_type": "Field Goal Good",
+    "yards": 47,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Gano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "G.Gano 47 yard field goal is GOOD, Center-C.Kreiter, Holder-J.Gillan."
+  },
+  {
+    "wallclock": "2025-10-26T18:19:27Z",
+    "period": 2,
+    "clock": "2:53",
+    "play_type": "Kickoff",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Dimukeje",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan kicks 55 yards from NYG 35 to PHI 10. W.Shipley pushed ob at PHI 42 for 32 yards (V.Dimukeje)."
+  },
+  {
+    "wallclock": "2025-10-26T18:20:14Z",
+    "period": 2,
+    "clock": "2:46",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right end pushed ob at NYG 48 for 10 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-10-26T18:20:53Z",
+    "period": 2,
+    "clock": "2:10",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley left end to NYG 42 for 6 yards (D.Muasau)."
+  },
+  {
+    "wallclock": "2025-10-26T18:21:13Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-26T18:24:01Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right tackle to NYG 37 for 5 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-10-26T18:24:25Z",
+    "period": 2,
+    "clock": "1:36",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Muasau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to D.Smith to NYG 26 for 11 yards (D.Muasau; C.Flott)."
+  },
+  {
+    "wallclock": "2025-10-26T18:24:52Z",
+    "period": 2,
+    "clock": "1:09",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Flott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to D.Smith to NYG 14 for 12 yards (B.Okereke). NYG-C.Flott was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-26T18:25:33Z",
+    "period": 2,
+    "clock": "0:56",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by NYG at 00:56."
+  },
+  {
+    "wallclock": "2025-10-26T18:27:02Z",
+    "period": 2,
+    "clock": "0:56",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to S.Barkley to NYG 11 for 3 yards (T.Nubin)."
+  },
+  {
+    "wallclock": "2025-10-26T18:27:33Z",
+    "period": 2,
+    "clock": "0:26",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on NYG-K.Thibodeaux, Neutral Zone Infraction, 5 yards, enforced at NYG 11 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T18:28:33Z",
+    "period": 2,
+    "clock": "0:25",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PHI at 00:25."
+  },
+  {
+    "wallclock": "2025-10-26T18:29:40Z",
+    "period": 2,
+    "clock": "0:21",
+    "play_type": "Passing Touchdown",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Goedert for 6 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-26T18:31:45Z",
+    "period": 2,
+    "clock": "0:21",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the NYG 35."
+  },
+  {
+    "wallclock": "2025-10-26T18:32:27Z",
+    "period": 2,
+    "clock": "0:21",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dart kneels to NYG 34 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-26T18:32:27Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-10-26T18:46:38Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Olszewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 63 yards from PHI 35 to NYG 2. G.Olszewski to NYG 35 for 33 yards (C.DeJean; K.Ringo)."
+  },
+  {
+    "wallclock": "2025-10-26T18:47:25Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart sacked at NYG 27 for -8 yards (J.Carter)."
+  },
+  {
+    "wallclock": "2025-10-26T18:48:10Z",
+    "period": 3,
+    "clock": "14:10",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short right to W.Robinson to NYG 35 for 8 yards (J.Campbell; C.DeJean)."
+  },
+  {
+    "wallclock": "2025-10-26T18:48:49Z",
+    "period": 3,
+    "clock": "13:31",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete deep middle to W.Robinson."
+  },
+  {
+    "wallclock": "2025-10-26T18:49:32Z",
+    "period": 3,
+    "clock": "13:22",
+    "play_type": "Punt",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Gipson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Hewitt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan punts 58 yards to PHI 7, Center-C.Kreiter. X.Gipson to PHI 24 for 17 yards (N.Hewitt)."
+  },
+  {
+    "wallclock": "2025-10-26T18:49:59Z",
+    "period": 3,
+    "clock": "13:10",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:10."
+  },
+  {
+    "wallclock": "2025-10-26T18:52:41Z",
+    "period": 3,
+    "clock": "13:10",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right tackle to PHI 29 for 5 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-10-26T18:53:17Z",
+    "period": 3,
+    "clock": "12:34",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short middle to D.Smith to PHI 44 for 15 yards (D.Belton)."
+  },
+  {
+    "wallclock": "2025-10-26T18:53:53Z",
+    "period": 3,
+    "clock": "11:58",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley left end to 50 for 6 yards (D.Belton)."
+  },
+  {
+    "wallclock": "2025-10-26T18:54:27Z",
+    "period": 3,
+    "clock": "11:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass incomplete short right to D.Smith (A.Phillips)."
+  },
+  {
+    "wallclock": "2025-10-26T18:55:15Z",
+    "period": 3,
+    "clock": "11:17",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Smith ran ob at NYG 39 for 11 yards."
+  },
+  {
+    "wallclock": "2025-10-26T18:56:00Z",
+    "period": 3,
+    "clock": "10:32",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Johnson reported in as eligible.  PENALTY on PHI, Delay of Game, 5 yards, enforced at NYG 39 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T18:56:44Z",
+    "period": 3,
+    "clock": "10:16",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Robertson-Harris",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Johnson reported in as eligible.  S.Barkley right guard to NYG 40 for 4 yards (A.Carter; R.Robertson-Harris)."
+  },
+  {
+    "wallclock": "2025-10-26T18:57:25Z",
+    "period": 3,
+    "clock": "9:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Johnson reported in as eligible.  J.Hurts pass incomplete short left to J.Dotson (K.Thibodeaux) [K.Thibodeaux]."
+  },
+  {
+    "wallclock": "2025-10-26T18:58:13Z",
+    "period": 3,
+    "clock": "9:26",
+    "play_type": "Pass Incompletion",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Cooper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Black",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short left to D.Cooper.PENALTY on NYG-K.Black, Defensive Pass Interference, 14 yards, enforced at NYG 40 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T18:59:14Z",
+    "period": 3,
+    "clock": "9:21",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Nunez-Roches",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at NYG 31 for -5 yards (R.Nunez-Roches)."
+  },
+  {
+    "wallclock": "2025-10-26T19:00:00Z",
+    "period": 3,
+    "clock": "8:35",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Shipley right end to NYG 31 for no gain (D.Banks; K.Thibodeaux)."
+  },
+  {
+    "wallclock": "2025-10-26T19:00:43Z",
+    "period": 3,
+    "clock": "7:52",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Layne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Smith to NYG 22 for 9 yards (R.Layne)."
+  },
+  {
+    "wallclock": "2025-10-26T19:01:27Z",
+    "period": 3,
+    "clock": "7:03",
+    "play_type": "Field Goal Good",
+    "yards": 40,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Elliott 40 yard field goal is GOOD, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-26T19:01:40Z",
+    "period": 3,
+    "clock": "7:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:03."
+  },
+  {
+    "wallclock": "2025-10-26T19:04:30Z",
+    "period": 3,
+    "clock": "7:03",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 60 yards from PHI 35 to NYG 5. D.Singletary to NYG 25 for 20 yards (W.Shipley)."
+  },
+  {
+    "wallclock": "2025-10-26T19:05:16Z",
+    "period": 3,
+    "clock": "6:56",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy left guard to NYG 29 for 4 yards (J.Hunt)."
+  },
+  {
+    "wallclock": "2025-10-26T19:05:49Z",
+    "period": 3,
+    "clock": "6:23",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy right guard to NYG 35 for 6 yards (J.Hunt)."
+  },
+  {
+    "wallclock": "2025-10-26T19:06:25Z",
+    "period": 3,
+    "clock": "5:47",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tracy left end to NYG 37 for 2 yards (J.Davis)."
+  },
+  {
+    "wallclock": "2025-10-26T19:06:57Z",
+    "period": 3,
+    "clock": "5:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete short left to D.Slayton."
+  },
+  {
+    "wallclock": "2025-10-26T19:07:32Z",
+    "period": 3,
+    "clock": "5:12",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short middle to T.Johnson to NYG 46 for 9 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-10-26T19:08:07Z",
+    "period": 3,
+    "clock": "4:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass incomplete deep right to D.Slayton."
+  },
+  {
+    "wallclock": "2025-10-26T19:08:50Z",
+    "period": 3,
+    "clock": "4:31",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Singletary right guard to NYG 49 for 3 yards (J.Uche)."
+  },
+  {
+    "wallclock": "2025-10-26T19:09:31Z",
+    "period": 3,
+    "clock": "3:49",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Van",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on NYG-G.Van Roten, False Start, 5 yards, enforced at NYG 49 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T19:10:21Z",
+    "period": 3,
+    "clock": "3:44",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short left to T.Johnson to PHI 44 for 12 yards (K.Ringo; Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-26T19:10:58Z",
+    "period": 3,
+    "clock": "3:07",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) D.Singletary up the middle to PHI 47 for -3 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-10-26T19:11:34Z",
+    "period": 3,
+    "clock": "2:31",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short left to W.Robinson pushed ob at PHI 41 for 6 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-10-26T19:12:15Z",
+    "period": 3,
+    "clock": "1:53",
+    "play_type": "Pass Reception",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass deep left to D.Singletary to PHI 13 for 28 yards (N.Dean)."
+  },
+  {
+    "wallclock": "2025-10-26T19:12:54Z",
+    "period": 3,
+    "clock": "1:14",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-10-26T19:13:36Z",
+    "period": 3,
+    "clock": "1:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Runyan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete short left.Penalty on NYG-J.Runyan, Ineligible Downfield Pass, declined."
+  },
+  {
+    "wallclock": "2025-10-26T19:14:57Z",
+    "period": 3,
+    "clock": "1:03",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart sacked at PHI 16 for -3 yards (J.Hunt)."
+  },
+  {
+    "wallclock": "2025-10-26T19:15:37Z",
+    "period": 3,
+    "clock": "0:19",
+    "play_type": "Field Goal Good",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Gano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "G.Gano 34 yard field goal is GOOD, Center-C.Kreiter, Holder-J.Gillan."
+  },
+  {
+    "wallclock": "2025-10-26T19:15:48Z",
+    "period": 3,
+    "clock": "0:19",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:19."
+  },
+  {
+    "wallclock": "2025-10-26T19:18:32Z",
+    "period": 3,
+    "clock": "0:19",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Hewitt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan kicks 63 yards from NYG 35 to PHI 2. W.Shipley to PHI 28 for 26 yards (N.Hewitt; D.Belton)."
+  },
+  {
+    "wallclock": "2025-10-26T19:19:28Z",
+    "period": 3,
+    "clock": "0:10",
+    "play_type": "Rush",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right end pushed ob at NYG 44 for 28 yards (D.Belton)."
+  },
+  {
+    "wallclock": "2025-10-26T19:19:28Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-10-26T19:22:49Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Sack",
+    "yards": -16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Johnson reported in as eligible.  J.Hurts sacked at PHI 40 for -16 yards (B.Burns)."
+  },
+  {
+    "wallclock": "2025-10-26T19:23:38Z",
+    "period": 4,
+    "clock": "14:11",
+    "play_type": "Rush",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Belton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Bigsby right tackle pushed ob at NYG 31 for 29 yards (D.Belton; T.Nubin)."
+  },
+  {
+    "wallclock": "2025-10-26T19:24:22Z",
+    "period": 4,
+    "clock": "13:29",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Black",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Burns",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby left guard to NYG 23 for 8 yards (K.Black; B.Burns)."
+  },
+  {
+    "wallclock": "2025-10-26T19:25:05Z",
+    "period": 4,
+    "clock": "12:47",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) W.Shipley up the middle to NYG 20 for 3 yards (A.Carter; D.Lawrence)."
+  },
+  {
+    "wallclock": "2025-10-26T19:25:46Z",
+    "period": 4,
+    "clock": "12:06",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lawrence",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby right tackle to NYG 17 for 3 yards (K.Thibodeaux; D.Lawrence)."
+  },
+  {
+    "wallclock": "2025-10-26T19:26:29Z",
+    "period": 4,
+    "clock": "11:17",
+    "play_type": "Passing Touchdown",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Goedert for 17 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-26T19:27:22Z",
+    "period": 4,
+    "clock": "11:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:17."
+  },
+  {
+    "wallclock": "2025-10-26T19:30:14Z",
+    "period": 4,
+    "clock": "11:17",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Singletary",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 63 yards from PHI 35 to NYG 2. D.Singletary to NYG 33 for 31 yards (W.Shipley)."
+  },
+  {
+    "wallclock": "2025-10-26T19:31:04Z",
+    "period": 4,
+    "clock": "11:12",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tracy right end to NYG 33 for no gain (C.DeJean; A.Mukuba)."
+  },
+  {
+    "wallclock": "2025-10-26T19:31:35Z",
+    "period": 4,
+    "clock": "10:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart sacked at NYG 25 for -8 yards (sack split by J.Uche and J.Campbell). FUMBLES (J.Uche) [J.Uche], RECOVERED by PHI-J.Davis at NYG 29.The Replay Official reviewed the fumble ruling, and the play was REVERSED.(No Huddle, Shotgun) J.Dart pass incomplete short left to T.Tracy (J.Uche) [J.Uche]."
+  },
+  {
+    "wallclock": "2025-10-26T19:35:49Z",
+    "period": 4,
+    "clock": "10:35",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart sacked at NYG 32 for -1 yards (M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-10-26T19:36:38Z",
+    "period": 4,
+    "clock": "9:46",
+    "play_type": "Pass Reception",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Slayton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass deep right to D.Slayton for 68 yards, TOUCHDOWN NULLIFIED by Penalty.PENALTY on NYG-D.Slayton, Offensive Pass Interference, 10 yards, enforced at NYG 32 - No Play."
+  },
+  {
+    "wallclock": "2025-10-26T19:37:58Z",
+    "period": 4,
+    "clock": "9:36",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Gipson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Gillan punts 51 yards to PHI 27, Center-C.Kreiter, fair catch by X.Gipson."
+  },
+  {
+    "wallclock": "2025-10-26T19:38:17Z",
+    "period": 4,
+    "clock": "9:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:29."
+  },
+  {
+    "wallclock": "2025-10-26T19:41:04Z",
+    "period": 4,
+    "clock": "9:29",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Thibodeaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Bigsby left end to PHI 37 for 10 yards (K.Thibodeaux; B.Okereke)."
+  },
+  {
+    "wallclock": "2025-10-26T19:41:50Z",
+    "period": 4,
+    "clock": "8:44",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Johnson reported in as eligible.  T.Bigsby right end to PHI 44 for 7 yards (A.Carter)."
+  },
+  {
+    "wallclock": "2025-10-26T19:42:30Z",
+    "period": 4,
+    "clock": "8:04",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Okereke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Johnson reported in as eligible.  T.Bigsby right tackle to NYG 44 for 12 yards (B.Okereke)."
+  },
+  {
+    "wallclock": "2025-10-26T19:43:13Z",
+    "period": 4,
+    "clock": "7:20",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "F.Johnson reported in as eligible.  W.Shipley left tackle to NYG 45 for -1 yards (T.Nubin)."
+  },
+  {
+    "wallclock": "2025-10-26T19:43:56Z",
+    "period": 4,
+    "clock": "6:37",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Banks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Mailata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Goedert to NYG 40 for 5 yards (D.Banks).Penalty on PHI-J.Mailata, Illegal Formation, declined."
+  },
+  {
+    "wallclock": "2025-10-26T19:45:31Z",
+    "period": 4,
+    "clock": "5:59",
+    "play_type": "Passing Touchdown",
+    "yards": 40,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass deep left to J.Dotson for 40 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-26T19:47:39Z",
+    "period": 4,
+    "clock": "5:59",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the NYG 35."
+  },
+  {
+    "wallclock": "2025-10-26T19:48:24Z",
+    "period": 4,
+    "clock": "5:59",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass short left to T.Tracy to NYG 40 for 5 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-10-26T19:48:50Z",
+    "period": 4,
+    "clock": "5:33",
+    "play_type": "Pass Reception",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass deep left to W.Robinson pushed ob at PHI 26 for 34 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-10-26T19:49:31Z",
+    "period": 4,
+    "clock": "4:55",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Epps",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dart pass short middle to B.Collins to PHI 8 for 18 yards (M.Epps)."
+  },
+  {
+    "wallclock": "2025-10-26T19:50:10Z",
+    "period": 4,
+    "clock": "4:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart pass incomplete short right to B.Collins."
+  },
+  {
+    "wallclock": "2025-10-26T19:50:44Z",
+    "period": 4,
+    "clock": "4:12",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tracy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tracy right guard to PHI 3 for 5 yards (B.Young)."
+  },
+  {
+    "wallclock": "2025-10-26T19:51:26Z",
+    "period": 4,
+    "clock": "3:30",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Trotter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dart right end to PHI 2 for 1 yard (J.Trotter)."
+  },
+  {
+    "wallclock": "2025-10-26T19:52:07Z",
+    "period": 4,
+    "clock": "2:44",
+    "play_type": "Rushing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Gano",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kreiter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Dart left tackle for 2 yards, TOUCHDOWN. G.Gano extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan."
+  },
+  {
+    "wallclock": "2025-10-26T19:54:35Z",
+    "period": 4,
+    "clock": "2:44",
+    "play_type": "Kickoff",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Gillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Gillan kicks onside 10 yards from NYG 35 to NYG 45. D.Goedert (didn't try to advance) to NYG 45 for no gain."
+  },
+  {
+    "wallclock": "2025-10-26T19:55:19Z",
+    "period": 4,
+    "clock": "2:43",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Nubin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Bigsby left guard to NYG 28 for 17 yards (T.Nubin)."
+  },
+  {
+    "wallclock": "2025-10-26T19:56:04Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-26T19:59:01Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.McKee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.McKee kneels to NYG 28 for no gain."
+  },
+  {
+    "wallclock": "2025-10-26T19:59:42Z",
+    "period": 4,
+    "clock": "1:19",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.McKee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.McKee kneels to NYG 29 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-26T20:00:22Z",
+    "period": 4,
+    "clock": "0:39",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.McKee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.McKee kneels to NYG 30 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-26T20:00:22Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

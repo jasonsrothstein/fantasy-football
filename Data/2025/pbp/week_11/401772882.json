@@ -1,0 +1,4893 @@
+[
+  {
+    "wallclock": "2025-11-16T18:03:14Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Incoom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 53 yards from CAR 35 to ATL 12. J.Agnew to ATL 31 for 19 yards (T.Incoom)."
+  },
+  {
+    "wallclock": "2025-11-16T18:04:05Z",
+    "period": 1,
+    "clock": "14:55",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Wilkinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to ATL 35 for 4 yards (M.Jackson).PENALTY on ATL-E.Wilkinson, Offensive Holding, 10 yards, enforced at ATL 31 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T18:04:59Z",
+    "period": 1,
+    "clock": "14:26",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wharton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to ATL 25 for 4 yards (T.Wharton; T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-11-16T18:05:42Z",
+    "period": 1,
+    "clock": "13:43",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Neuzil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short middle to D.Mooney to ATL 31 for 6 yards (C.Thornton). FUMBLES (C.Thornton), recovered by ATL-R.Neuzil at ATL 27."
+  },
+  {
+    "wallclock": "2025-11-16T18:06:17Z",
+    "period": 1,
+    "clock": "13:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass incomplete deep right to D.Mooney."
+  },
+  {
+    "wallclock": "2025-11-16T18:06:52Z",
+    "period": 1,
+    "clock": "13:07",
+    "play_type": "Punt",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Franks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 55 yards to CAR 18, Center-L.McCullough. T.Etienne to CAR 27 for 9 yards (F.Franks)."
+  },
+  {
+    "wallclock": "2025-11-16T18:07:44Z",
+    "period": 1,
+    "clock": "12:55",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle left guard to CAR 32 for 5 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-16T18:08:19Z",
+    "period": 1,
+    "clock": "12:20",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to M.Evans to CAR 35 for 3 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-16T18:08:58Z",
+    "period": 1,
+    "clock": "11:41",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Coker to 50 for 15 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-16T18:09:45Z",
+    "period": 1,
+    "clock": "10:54",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Orhorhoro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle right guard to ATL 49 for 1 yard (R.Orhorhoro)."
+  },
+  {
+    "wallclock": "2025-11-16T18:10:29Z",
+    "period": 1,
+    "clock": "10:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kareem",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete deep middle to T.McMillan (K.Kareem)."
+  },
+  {
+    "wallclock": "2025-11-16T18:11:15Z",
+    "period": 1,
+    "clock": "10:05",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Sanders to ATL 42 for 7 yards (J.Bates) [R.Harrison]."
+  },
+  {
+    "wallclock": "2025-11-16T18:11:57Z",
+    "period": 1,
+    "clock": "9:23",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to X.Legette to ATL 20 for 22 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-16T18:12:44Z",
+    "period": 1,
+    "clock": "8:37",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to R.Dowdle pushed ob at ATL 18 for 2 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-16T18:13:21Z",
+    "period": 1,
+    "clock": "8:03",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle up the middle to ATL 15 for 3 yards (D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-11-16T18:14:03Z",
+    "period": 1,
+    "clock": "7:20",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to T.McMillan to ATL 4 for 11 yards (J.Walker)."
+  },
+  {
+    "wallclock": "2025-11-16T18:14:40Z",
+    "period": 1,
+    "clock": "6:43",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young sacked at ATL 12 for -8 yards (J.Pearce)."
+  },
+  {
+    "wallclock": "2025-11-16T18:15:26Z",
+    "period": 1,
+    "clock": "5:57",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young scrambles left tackle to ATL 9 for 3 yards (R.Harrison).PENALTY on ATL-J.Pearce, Defensive Offside, 5 yards, enforced at ATL 12 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T18:16:19Z",
+    "period": 1,
+    "clock": "5:25",
+    "play_type": "Passing Touchdown",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Young pass short right to T.McMillan for 7 yards, TOUCHDOWN. R.Fitzgerald extra point is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-11-16T18:17:21Z",
+    "period": 1,
+    "clock": "5:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:25."
+  },
+  {
+    "wallclock": "2025-11-16T18:20:16Z",
+    "period": 1,
+    "clock": "5:25",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Umanmielen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 63 yards from CAR 35 to ATL 2. N.Brooks to ATL 25 for 23 yards (P.Umanmielen)."
+  },
+  {
+    "wallclock": "2025-11-16T18:21:04Z",
+    "period": 1,
+    "clock": "5:19",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass deep middle to D.London to CAR 45 for 30 yards (C.Rozeboom; T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-11-16T18:21:41Z",
+    "period": 1,
+    "clock": "4:42",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson left tackle to CAR 45 for no gain (A.Robinson; C.Cherelus)."
+  },
+  {
+    "wallclock": "2025-11-16T18:22:10Z",
+    "period": 1,
+    "clock": "4:12",
+    "play_type": "Pass Reception",
+    "yards": 41,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass short middle to D.London to CAR 4 for 41 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-11-16T18:22:43Z",
+    "period": 1,
+    "clock": "3:33",
+    "play_type": "Rushing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wharton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) B.Robinson right end for 4 yards, TOUCHDOWN.Penalty on CAR-T.Wharton, Defensive Holding, declined. Z.Gonzalez extra point is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-11-16T18:23:53Z",
+    "period": 1,
+    "clock": "3:33",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:33."
+  },
+  {
+    "wallclock": "2025-11-16T18:26:39Z",
+    "period": 1,
+    "clock": "3:33",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez kicks 65 yards from ATL 35 to end zone, Touchback to the CAR 35."
+  },
+  {
+    "wallclock": "2025-11-16T18:27:29Z",
+    "period": 1,
+    "clock": "3:33",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to T.McMillan pushed ob at 50 for 15 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-16T18:28:09Z",
+    "period": 1,
+    "clock": "2:56",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Etienne left end to ATL 48 for 2 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T18:28:48Z",
+    "period": 1,
+    "clock": "2:16",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Street",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left tackle to ATL 46 for 2 yards (K.Street)."
+  },
+  {
+    "wallclock": "2025-11-16T18:29:35Z",
+    "period": 1,
+    "clock": "1:29",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young sacked at CAR 46 for -8 yards (B.Bowman). CAR-B.Young was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-16T18:30:36Z",
+    "period": 1,
+    "clock": "1:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:20."
+  },
+  {
+    "wallclock": "2025-11-16T18:32:59Z",
+    "period": 1,
+    "clock": "1:07",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Martin punts 44 yards to ATL 10, Center-J.Jansen. J.Agnew MUFFS catch, ball out of bounds at ATL 5."
+  },
+  {
+    "wallclock": "2025-11-16T18:34:09Z",
+    "period": 1,
+    "clock": "0:59",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to ATL 10 for 5 yards (N.Scott; C.Cherelus)."
+  },
+  {
+    "wallclock": "2025-11-16T18:34:49Z",
+    "period": 1,
+    "clock": "0:18",
+    "play_type": "Rush",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end pushed ob at ATL 29 for 19 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-11-16T18:34:49Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-11-16T18:37:58Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right end to ATL 36 for 7 yards (C.Rozeboom; N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-16T18:38:26Z",
+    "period": 2,
+    "clock": "14:32",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson left guard to ATL 42 for 6 yards (C.Cherelus; N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-16T18:39:00Z",
+    "period": 2,
+    "clock": "13:58",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass deep left to D.Mooney to CAR 38 for 20 yards (Ja.Horn)."
+  },
+  {
+    "wallclock": "2025-11-16T18:39:37Z",
+    "period": 2,
+    "clock": "13:22",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson left guard to CAR 35 for 3 yards (B.Brown; C.Rozeboom)."
+  },
+  {
+    "wallclock": "2025-11-16T18:40:06Z",
+    "period": 2,
+    "clock": "12:51",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass short right to D.London to CAR 29 for 6 yards (M.Jackson; C.Rozeboom)."
+  },
+  {
+    "wallclock": "2025-11-16T18:40:45Z",
+    "period": 2,
+    "clock": "12:13",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson left tackle to CAR 30 for -1 yards (N.Scourton, B.Brown).PENALTY on CAR-B.Brown, Defensive Holding, 5 yards, enforced at CAR 29 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T18:41:47Z",
+    "period": 2,
+    "clock": "11:43",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Gipson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to B.Robinson to CAR 18 for 6 yards (C.Rozeboom; T.Gipson)."
+  },
+  {
+    "wallclock": "2025-11-16T18:42:31Z",
+    "period": 2,
+    "clock": "10:59",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left tackle to CAR 13 for 5 yards (M.Jackson).PENALTY on ATL-K.Pitts, Offensive Holding, 10 yards, enforced at CAR 18 - No Play.Penalty on ATL-D.London, Illegal Block Above the Waist, declined."
+  },
+  {
+    "wallclock": "2025-11-16T18:43:54Z",
+    "period": 2,
+    "clock": "10:30",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Wonnum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to T.Allgeier to CAR 24 for 4 yards (C.Cherelus; D.Wonnum)."
+  },
+  {
+    "wallclock": "2025-11-16T18:44:41Z",
+    "period": 2,
+    "clock": "9:42",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to D.Mooney to CAR 12 for 12 yards (C.Thornton)."
+  },
+  {
+    "wallclock": "2025-11-16T18:45:24Z",
+    "period": 2,
+    "clock": "8:58",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to B.Robinson to CAR 1 for 11 yards (N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-16T18:45:57Z",
+    "period": 2,
+    "clock": "8:27",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson left tackle to CAR 1 for no gain (N.Scourton)."
+  },
+  {
+    "wallclock": "2025-11-16T18:46:26Z",
+    "period": 2,
+    "clock": "7:52",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) B.Robinson left tackle for 1 yard, TOUCHDOWN. CAR-N.Scourton was injured during the play. Z.Gonzalez extra point is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": null,
+    "period": 2,
+    "clock": "7:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:52."
+  },
+  {
+    "wallclock": "2025-11-16T18:51:52Z",
+    "period": 2,
+    "clock": "7:52",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez kicks 65 yards from ATL 35 to landing zone to end zone, Touchback to the CAR 20."
+  },
+  {
+    "wallclock": "2025-11-16T18:52:50Z",
+    "period": 2,
+    "clock": "7:52",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Zavala",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle right end to CAR 23 for 3 yards (R.Harrison; J.Walker). ** Injury Update: CAR-B.Young has returned to the game. PENALTY on CAR-C.Zavala, Offensive Holding, 10 yards, enforced at CAR 20 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T18:53:47Z",
+    "period": 2,
+    "clock": "7:18",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on CAR-X.Legette, False Start, 5 yards, enforced at CAR 10 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T18:54:35Z",
+    "period": 2,
+    "clock": "6:55",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle right tackle to CAR 7 for 2 yards (J.Walker)."
+  },
+  {
+    "wallclock": "2025-11-16T18:55:16Z",
+    "period": 2,
+    "clock": "6:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short left to T.McMillan."
+  },
+  {
+    "wallclock": "2025-11-16T18:55:56Z",
+    "period": 2,
+    "clock": "6:11",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to J.Sanders to CAR 9 for 2 yards (B.Bowman)."
+  },
+  {
+    "wallclock": "2025-11-16T18:56:34Z",
+    "period": 2,
+    "clock": "5:33",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Martin punts 50 yards to ATL 41, Center-J.Jansen, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-16T18:57:05Z",
+    "period": 2,
+    "clock": "5:24",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:24."
+  },
+  {
+    "wallclock": "2025-11-16T18:59:45Z",
+    "period": 2,
+    "clock": "5:24",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to CAR 48 for 11 yards (C.Rozeboom; N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-16T19:00:26Z",
+    "period": 2,
+    "clock": "4:43",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson right tackle to CAR 44 for 4 yards (C.Rozeboom; C.Cherelus)."
+  },
+  {
+    "wallclock": "2025-11-16T19:01:04Z",
+    "period": 2,
+    "clock": "4:05",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson left guard to CAR 41 for 3 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-11-16T19:01:51Z",
+    "period": 2,
+    "clock": "3:16",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Lindstrom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on ATL-C.Lindstrom, False Start, 5 yards, enforced at CAR 41 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T19:02:34Z",
+    "period": 2,
+    "clock": "2:54",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to D.London to CAR 37 for 9 yards (C.Rozeboom; C.Cherelus). ** Injury Update: CAR-N.Scourton has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-16T19:03:43Z",
+    "period": 2,
+    "clock": "2:09",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ATL at 02:09."
+  },
+  {
+    "wallclock": "2025-11-16T19:04:41Z",
+    "period": 2,
+    "clock": "2:09",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep right to D.London.PENALTY on CAR-T.Moehrig, Illegal Use of Hands, 5 yards, enforced at CAR 37 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T19:05:50Z",
+    "period": 2,
+    "clock": "2:04",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right guard to CAR 24 for 8 yards (C.Rozeboom)."
+  },
+  {
+    "wallclock": "2025-11-16T19:06:05Z",
+    "period": 2,
+    "clock": "1:58",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-16T19:09:13Z",
+    "period": 2,
+    "clock": "1:58",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass deep left to D.London to CAR 2 for 22 yards (N.Scott; C.Thornton).Penalty on CAR-C.Thornton, Defensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-11-16T19:10:27Z",
+    "period": 2,
+    "clock": "1:52",
+    "play_type": "Penalty",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short right [A.Robinson].PENALTY on CAR-Ja.Horn, Defensive Holding, 1 yard, enforced at CAR 2 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T19:11:30Z",
+    "period": 2,
+    "clock": "1:41",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Allgeier right tackle for 1 yard, TOUCHDOWN. Z.Gonzalez extra point is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-11-16T19:12:59Z",
+    "period": 2,
+    "clock": "1:41",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:41."
+  },
+  {
+    "wallclock": "2025-11-16T19:15:16Z",
+    "period": 2,
+    "clock": "1:41",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez kicks 60 yards from ATL 35 to CAR 5. T.Etienne to CAR 31 for 26 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T19:16:05Z",
+    "period": 2,
+    "clock": "1:35",
+    "play_type": "Pass Reception",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to T.McMillan pushed ob at ATL 30 for 39 yards (B.Bowman) [J.Pearce]."
+  },
+  {
+    "wallclock": "2025-11-16T19:16:54Z",
+    "period": 2,
+    "clock": "1:25",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to ATL 24 for 6 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T19:17:32Z",
+    "period": 2,
+    "clock": "0:47",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to C.Hubbard ran ob at ATL 17 for 7 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-16T19:18:14Z",
+    "period": 2,
+    "clock": "0:42",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard up the middle to ATL 11 for 6 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-16T19:18:28Z",
+    "period": 2,
+    "clock": "0:37",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CAR at 00:37."
+  },
+  {
+    "wallclock": "2025-11-16T19:19:27Z",
+    "period": 2,
+    "clock": "0:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short left to C.Hubbard."
+  },
+  {
+    "wallclock": "2025-11-16T19:20:11Z",
+    "period": 2,
+    "clock": "0:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short middle to T.McMillan (X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-16T19:20:53Z",
+    "period": 2,
+    "clock": "0:25",
+    "play_type": "Field Goal Good",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Fitzgerald 29 yard field goal is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-11-16T19:21:34Z",
+    "period": 2,
+    "clock": "0:25",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:25."
+  },
+  {
+    "wallclock": "2025-11-16T19:23:50Z",
+    "period": 2,
+    "clock": "0:25",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Martin-Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 59 yards from CAR 35 to ATL 6. N.Brooks to ATL 29 for 23 yards (B.Martin-Scott)."
+  },
+  {
+    "wallclock": "2025-11-16T19:24:35Z",
+    "period": 2,
+    "clock": "0:19",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right end to ATL 32 for 3 yards (C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-11-16T19:24:58Z",
+    "period": 2,
+    "clock": "0:09",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by ATL at 00:09."
+  },
+  {
+    "wallclock": "2025-11-16T19:25:30Z",
+    "period": 2,
+    "clock": "0:09",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CAR at 00:09."
+  },
+  {
+    "wallclock": "2025-11-16T19:26:09Z",
+    "period": 2,
+    "clock": "0:09",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard pushed ob at ATL 47 for 15 yards (N.Scourton; C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-11-16T19:26:09Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-11-16T19:40:35Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hellams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez kicks 59 yards from ATL 35 to CAR 6. C.Hubbard to CAR 32 for 26 yards (D.Hellams)."
+  },
+  {
+    "wallclock": "2025-11-16T19:41:26Z",
+    "period": 3,
+    "clock": "14:55",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to R.Dowdle pushed ob at CAR 36 for 4 yards (J.Walker)."
+  },
+  {
+    "wallclock": "2025-11-16T19:42:06Z",
+    "period": 3,
+    "clock": "14:16",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young pass short right to J.Coker pushed ob at CAR 41 for 5 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-16T19:42:46Z",
+    "period": 3,
+    "clock": "13:40",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left tackle to CAR 43 for 2 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T19:43:28Z",
+    "period": 3,
+    "clock": "12:57",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass deep left to J.Coker to ATL 36 for 21 yards (N.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-16T19:44:16Z",
+    "period": 3,
+    "clock": "12:04",
+    "play_type": "Passing Touchdown",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Young pass deep left to X.Legette for 36 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. B.Young is sacked. ATTEMPT FAILS."
+  },
+  {
+    "wallclock": "2025-11-16T19:46:05Z",
+    "period": 3,
+    "clock": "12:04",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:04."
+  },
+  {
+    "wallclock": "2025-11-16T19:48:40Z",
+    "period": 3,
+    "clock": "12:04",
+    "play_type": "Kickoff",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Martin-Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Martin-Scott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Umanmielen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 50 yards from CAR 35 to ATL 15. N.Brooks MUFFS catch, and recovers at ATL 16. N.Brooks to ATL 27 for 11 yards (B.Martin-Scott). FUMBLES (B.Martin-Scott), RECOVERED by CAR-P.Umanmielen at ATL 32."
+  },
+  {
+    "wallclock": "2025-11-16T19:50:29Z",
+    "period": 3,
+    "clock": "12:01",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to X.Legette ran ob at ATL 27 for 5 yards (B.Bowman)."
+  },
+  {
+    "wallclock": "2025-11-16T19:51:08Z",
+    "period": 3,
+    "clock": "11:24",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left end to ATL 26 for 1 yard (L.London; D.Onyemata).PENALTY on CAR-J.Coker, Offensive Holding, 10 yards, enforced at ATL 27 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T19:52:17Z",
+    "period": 3,
+    "clock": "10:57",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to X.Legette pushed ob at ATL 17 for 20 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-16T19:53:02Z",
+    "period": 3,
+    "clock": "10:13",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kareem",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle right guard to ATL 13 for 4 yards (K.Kareem)."
+  },
+  {
+    "wallclock": "2025-11-16T19:53:29Z",
+    "period": 3,
+    "clock": "9:47",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Street",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) R.Dowdle right end to ATL 11 for 2 yards (A.Terrell; K.Street)."
+  },
+  {
+    "wallclock": "2025-11-16T19:54:13Z",
+    "period": 3,
+    "clock": "9:03",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bryant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to J.Sanders to ATL 8 for 3 yards (C.Bryant)."
+  },
+  {
+    "wallclock": "2025-11-16T19:55:01Z",
+    "period": 3,
+    "clock": "8:15",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young sacked at ATL 9 for -1 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-16T19:55:47Z",
+    "period": 3,
+    "clock": "8:09",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:09."
+  },
+  {
+    "wallclock": "2025-11-16T19:58:08Z",
+    "period": 3,
+    "clock": "8:09",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to ATL 10 for 1 yard (T.Moehrig; N.Scourton). ** Injury Update: ATL-D.Mooney has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-16T19:58:50Z",
+    "period": 3,
+    "clock": "7:27",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to K.Pitts pushed ob at ATL 17 for 7 yards (N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-16T19:59:30Z",
+    "period": 3,
+    "clock": "6:48",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to D.London pushed ob at ATL 22 for 5 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-11-16T20:00:16Z",
+    "period": 3,
+    "clock": "6:04",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix scrambles right tackle ran ob at ATL 31 for 9 yards (N.Scourton)."
+  },
+  {
+    "wallclock": "2025-11-16T20:00:48Z",
+    "period": 3,
+    "clock": "5:56",
+    "play_type": "Penalty",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lindstrom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson right end to ATL 32 for 1 yard (A.Robinson; N.Scourton).PENALTY on ATL-C.Lindstrom, Offensive Holding, 9 yards, enforced at ATL 31 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T20:01:43Z",
+    "period": 3,
+    "clock": "5:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to D.Mooney."
+  },
+  {
+    "wallclock": "2025-11-16T20:02:29Z",
+    "period": 3,
+    "clock": "5:22",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass incomplete short left [T.Moehrig]. ATL-M.Penix was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-16T20:04:03Z",
+    "period": 3,
+    "clock": "5:20",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "I.Mukuamu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Punt formation) PENALTY on CAR-I.Mukuamu, Neutral Zone Infraction, 5 yards, enforced at ATL 22 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T20:04:43Z",
+    "period": 3,
+    "clock": "5:20",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 52 yards to CAR 21, Center-L.McCullough, fair catch by T.Etienne."
+  },
+  {
+    "wallclock": "2025-11-16T20:05:05Z",
+    "period": 3,
+    "clock": "5:12",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:12."
+  },
+  {
+    "wallclock": "2025-11-16T20:07:50Z",
+    "period": 3,
+    "clock": "5:12",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Dorlus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle right guard to CAR 25 for 4 yards (B.Dorlus; R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T20:08:27Z",
+    "period": 3,
+    "clock": "4:35",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to R.Dowdle pushed ob at CAR 40 for 15 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-16T20:09:05Z",
+    "period": 3,
+    "clock": "3:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young pass incomplete short middle."
+  },
+  {
+    "wallclock": "2025-11-16T20:09:41Z",
+    "period": 3,
+    "clock": "3:56",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard left tackle to CAR 46 for 6 yards (N.Brooks; R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T20:10:22Z",
+    "period": 3,
+    "clock": "3:14",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to T.McMillan to ATL 45 for 9 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-16T20:10:58Z",
+    "period": 3,
+    "clock": "2:38",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young pass deep left to M.Evans to ATL 20 for 25 yards (X.Watts; N.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-16T20:11:40Z",
+    "period": 3,
+    "clock": "1:57",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle right end to ATL 16 for 4 yards (A.Ebiketie; J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-16T20:12:28Z",
+    "period": 3,
+    "clock": "1:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tremble",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to T.Tremble."
+  },
+  {
+    "wallclock": "2025-11-16T20:13:10Z",
+    "period": 3,
+    "clock": "1:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete deep left to X.Legette (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-16T20:13:52Z",
+    "period": 3,
+    "clock": "0:58",
+    "play_type": "Field Goal Good",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Fitzgerald 34 yard field goal is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-11-16T20:14:24Z",
+    "period": 3,
+    "clock": "0:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:58."
+  },
+  {
+    "wallclock": "2025-11-16T20:16:53Z",
+    "period": 3,
+    "clock": "0:58",
+    "play_type": "Kickoff",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Njongmeta",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 61 yards from CAR 35 to ATL 4. N.Brooks to ATL 22 for 18 yards (M.Njongmeta)."
+  },
+  {
+    "wallclock": "2025-11-16T20:17:46Z",
+    "period": 3,
+    "clock": "0:53",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Allgeier left guard to ATL 27 for 5 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-11-16T20:18:22Z",
+    "period": 3,
+    "clock": "0:16",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Gipson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier right guard to ATL 31 for 4 yards (T.Gipson; T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-11-16T20:18:22Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-11-16T20:21:29Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins up the middle to ATL 33 for 2 yards (B.Brown; C.Cherelus)."
+  },
+  {
+    "wallclock": "2025-11-16T20:22:00Z",
+    "period": 4,
+    "clock": "14:29",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass short left to T.Allgeier to ATL 35 for 2 yards (T.Moehrig)."
+  },
+  {
+    "wallclock": "2025-11-16T20:22:42Z",
+    "period": 4,
+    "clock": "13:47",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short left to K.Pitts to ATL 42 for 7 yards (Ja.Horn)."
+  },
+  {
+    "wallclock": "2025-11-16T20:23:25Z",
+    "period": 4,
+    "clock": "13:05",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rozeboom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Ray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson right guard to ATL 41 for -1 yards (C.Rozeboom, L.Ray)."
+  },
+  {
+    "wallclock": "2025-11-16T20:24:10Z",
+    "period": 4,
+    "clock": "12:19",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Etienne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 43 yards to CAR 16, Center-L.McCullough, fair catch by T.Etienne."
+  },
+  {
+    "wallclock": "2025-11-16T20:24:36Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:13."
+  },
+  {
+    "wallclock": "2025-11-16T20:27:21Z",
+    "period": 4,
+    "clock": "12:13",
+    "play_type": "Pass Reception",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass deep left to T.McMillan pushed ob at CAR 45 for 29 yards (N.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-16T20:28:00Z",
+    "period": 4,
+    "clock": "11:39",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Street",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left guard to CAR 48 for 3 yards (K.Street)."
+  },
+  {
+    "wallclock": "2025-11-16T20:28:40Z",
+    "period": 4,
+    "clock": "10:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to X.Legette (N.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-16T20:29:59Z",
+    "period": 4,
+    "clock": "10:56",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young sacked at CAR 41 for -7 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T20:30:34Z",
+    "period": 4,
+    "clock": "10:22",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Martin punts 41 yards to ATL 18, Center-J.Jansen, downed by CAR-N.Scott."
+  },
+  {
+    "wallclock": "2025-11-16T20:31:10Z",
+    "period": 4,
+    "clock": "10:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:14."
+  },
+  {
+    "wallclock": "2025-11-16T20:33:43Z",
+    "period": 4,
+    "clock": "10:14",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left tackle to ATL 25 for 7 yards (C.Thornton; N.Scott)."
+  },
+  {
+    "wallclock": "2025-11-16T20:34:12Z",
+    "period": 4,
+    "clock": "9:46",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Scourton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Robinson right end to ATL 20 for -5 yards (N.Scourton)."
+  },
+  {
+    "wallclock": "2025-11-16T20:34:53Z",
+    "period": 4,
+    "clock": "9:05",
+    "play_type": "Pass Incompletion",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short middle to D.London.PENALTY on CAR-Ja.Horn, Defensive Pass Interference, 8 yards, enforced at ATL 20 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T20:35:44Z",
+    "period": 4,
+    "clock": "9:01",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass short left to B.Robinson pushed ob at ATL 39 for 11 yards (M.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-16T20:36:29Z",
+    "period": 4,
+    "clock": "8:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Cousins pass incomplete short right to B.Robinson."
+  },
+  {
+    "wallclock": "2025-11-16T20:37:17Z",
+    "period": 4,
+    "clock": "8:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short middle to D.Mooney (C.Thornton)."
+  },
+  {
+    "wallclock": "2025-11-16T20:38:03Z",
+    "period": 4,
+    "clock": "8:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Mooney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete deep middle to D.Mooney (C.Thornton)."
+  },
+  {
+    "wallclock": "2025-11-16T20:38:55Z",
+    "period": 4,
+    "clock": "8:01",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 54 yards to CAR 7, Center-L.McCullough, out of bounds."
+  },
+  {
+    "wallclock": "2025-11-16T20:39:29Z",
+    "period": 4,
+    "clock": "7:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:54."
+  },
+  {
+    "wallclock": "2025-11-16T20:42:04Z",
+    "period": 4,
+    "clock": "7:54",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle right tackle to CAR 13 for 6 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T20:42:48Z",
+    "period": 4,
+    "clock": "7:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to X.Legette [A.Ebiketie]."
+  },
+  {
+    "wallclock": "2025-11-16T20:43:33Z",
+    "period": 4,
+    "clock": "7:05",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Coker to CAR 24 for 11 yards (N.Brooks) [J.Walker]. CAR-X.Legette was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-16T20:45:00Z",
+    "period": 4,
+    "clock": "6:27",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left end to CAR 25 for 1 yard (L.London)."
+  },
+  {
+    "wallclock": "2025-11-16T20:45:46Z",
+    "period": 4,
+    "clock": "5:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short middle to T.McMillan (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-11-16T20:46:31Z",
+    "period": 4,
+    "clock": "5:35",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to T.McMillan to CAR 34 for 9 yards (J.Walker) [J.Pearce].Atlanta challenged the first down ruling, and the play was REVERSED.(Shotgun) B.Young pass short right to T.McMillan to CAR 33 for 8 yards (J.Walker) [J.Pearce]."
+  },
+  {
+    "wallclock": "2025-11-16T20:50:34Z",
+    "period": 4,
+    "clock": "5:13",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left guard to CAR 35 for 2 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T20:51:11Z",
+    "period": 4,
+    "clock": "4:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Legette",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to X.Legette (N.Brooks). ** Injury Update: CAR-X.Legette has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-16T20:51:52Z",
+    "period": 4,
+    "clock": "4:34",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to R.Dowdle to CAR 41 for 6 yards (D.Onyemata; J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-16T20:52:36Z",
+    "period": 4,
+    "clock": "3:50",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Hubbard left tackle to CAR 44 for 3 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T20:53:21Z",
+    "period": 4,
+    "clock": "3:05",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young sacked at CAR 39 for -5 yards (L.London). CAR-B.Young was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-16T20:54:11Z",
+    "period": 4,
+    "clock": "3:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:02."
+  },
+  {
+    "wallclock": "2025-11-16T20:55:09Z",
+    "period": 4,
+    "clock": "3:02",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson right end to CAR 36 for 3 yards (Ja.Horn; A.Robinson)."
+  },
+  {
+    "wallclock": "2025-11-16T20:55:35Z",
+    "period": 4,
+    "clock": "2:57",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CAR at 02:57."
+  },
+  {
+    "wallclock": "2025-11-16T20:56:03Z",
+    "period": 4,
+    "clock": "2:57",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left tackle to CAR 34 for 2 yards (C.Cherelus)."
+  },
+  {
+    "wallclock": "2025-11-16T20:56:24Z",
+    "period": 4,
+    "clock": "2:52",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CAR at 02:52."
+  },
+  {
+    "wallclock": "2025-11-16T20:57:29Z",
+    "period": 4,
+    "clock": "2:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short left to D.London (C.Cherelus)."
+  },
+  {
+    "wallclock": "2025-11-16T20:58:18Z",
+    "period": 4,
+    "clock": "2:43",
+    "play_type": "Field Goal Good",
+    "yards": 52,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "Z.Gonzalez 52 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-11-16T20:59:41Z",
+    "period": 4,
+    "clock": "2:43",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez kicks 65 yards from ATL 35 to end zone, Touchback to the CAR 35."
+  },
+  {
+    "wallclock": "2025-11-16T21:00:36Z",
+    "period": 4,
+    "clock": "2:43",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short left to R.Dowdle (R.Harrison). ** Injury Update: CAR-B.Young has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-16T21:01:21Z",
+    "period": 4,
+    "clock": "2:38",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to B.Tremayne to CAR 41 for 6 yards (R.Harrison)."
+  },
+  {
+    "wallclock": "2025-11-16T21:02:17Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-16T21:04:50Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short right to C.Hubbard."
+  },
+  {
+    "wallclock": "2025-11-16T21:05:36Z",
+    "period": 4,
+    "clock": "1:54",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanders",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short middle to J.Sanders to ATL 49 for 10 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-11-16T21:05:57Z",
+    "period": 4,
+    "clock": "1:33",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Tremayne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Young pass short left to B.Tremayne to ATL 38 for 11 yards."
+  },
+  {
+    "wallclock": "2025-11-16T21:06:35Z",
+    "period": 4,
+    "clock": "1:29",
+    "play_type": "Pass Reception",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short left to R.Dowdle for 38 yards, TOUCHDOWN.The Replay Official reviewed the runner was inbounds ruling, and the play was REVERSED.(Shotgun) B.Young pass short left to R.Dowdle pushed ob at ATL 10 for 28 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-11-16T21:10:23Z",
+    "period": 4,
+    "clock": "1:23",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Orhorhoro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle left guard to ATL 12 for -2 yards (R.Orhorhoro)."
+  },
+  {
+    "wallclock": "2025-11-16T21:10:48Z",
+    "period": 4,
+    "clock": "1:19",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ATL at 01:19."
+  },
+  {
+    "wallclock": "2025-11-16T21:11:33Z",
+    "period": 4,
+    "clock": "1:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass incomplete short left to R.Dowdle."
+  },
+  {
+    "wallclock": "2025-11-16T21:12:20Z",
+    "period": 4,
+    "clock": "1:08",
+    "play_type": "Passing Touchdown",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McMillan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Coker",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Young pass short left to T.McMillan for 12 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. B.Young pass to J.Coker is complete. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": "2025-11-16T21:14:37Z",
+    "period": 4,
+    "clock": "1:08",
+    "play_type": "Kickoff",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Smith-Wade",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 59 yards from CAR 35 to ATL 6. J.Agnew to ATL 45 for 39 yards (C.Smith-Wade)."
+  },
+  {
+    "wallclock": "2025-11-16T21:15:29Z",
+    "period": 4,
+    "clock": "1:01",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short right to D.Sills pushed ob at CAR 44 for 11 yards (Ja.Horn)."
+  },
+  {
+    "wallclock": "2025-11-16T21:16:09Z",
+    "period": 4,
+    "clock": "0:56",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short middle to B.Robinson to CAR 33 for 11 yards (C.Cherelus)."
+  },
+  {
+    "wallclock": "2025-11-16T21:16:31Z",
+    "period": 4,
+    "clock": "0:34",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Sills",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Wharton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete short left to D.Sills (T.Wharton)."
+  },
+  {
+    "wallclock": "2025-11-16T21:17:15Z",
+    "period": 4,
+    "clock": "0:30",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass short middle to D.London to CAR 27 for 6 yards (C.Thornton)."
+  },
+  {
+    "wallclock": "2025-11-16T21:17:37Z",
+    "period": 4,
+    "clock": "0:26",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by ATL at 00:26."
+  },
+  {
+    "wallclock": "2025-11-16T21:18:19Z",
+    "period": 4,
+    "clock": "0:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete deep left to D.London (M.Jackson)."
+  },
+  {
+    "wallclock": "2025-11-16T21:19:10Z",
+    "period": 4,
+    "clock": "0:16",
+    "play_type": "Field Goal Good",
+    "yards": 45,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "Z.Gonzalez 45 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-11-16T21:20:31Z",
+    "period": 4,
+    "clock": "0:16",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Gonzalez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Hubbard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bertrand",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Gonzalez kicks 62 yards from ATL 35 to CAR 3. C.Hubbard to CAR 28 for 25 yards (J.Bertrand; K.Hodge)."
+  },
+  {
+    "wallclock": "2025-11-16T21:21:17Z",
+    "period": 4,
+    "clock": "0:11",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Young kneels to CAR 27 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-16T21:21:17Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Regulation",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 4"
+  },
+  {
+    "wallclock": "2025-11-16T21:25:40Z",
+    "period": 5,
+    "clock": "10:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Fitzgerald kicks 65 yards from CAR 35 to landing zone to end zone, Touchback to the ATL 20."
+  },
+  {
+    "wallclock": "2025-11-16T21:26:28Z",
+    "period": 5,
+    "clock": "10:00",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Moehrig",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Cherelus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left guard to ATL 24 for 4 yards (T.Moehrig; C.Cherelus)."
+  },
+  {
+    "wallclock": "2025-11-16T21:27:00Z",
+    "period": 5,
+    "clock": "9:28",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Thornton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Neuzil",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) K.Cousins pass short right to B.Robinson pushed ob at ATL 36 for 12 yards (C.Thornton).PENALTY on ATL-R.Neuzil, Ineligible Downfield Pass, 5 yards, enforced at ATL 24 - No Play."
+  },
+  {
+    "wallclock": "2025-11-16T21:28:02Z",
+    "period": 5,
+    "clock": "9:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Cousins pass incomplete short left to K.Pitts."
+  },
+  {
+    "wallclock": "2025-11-16T21:28:39Z",
+    "period": 5,
+    "clock": "9:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Cousins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) K.Cousins pass incomplete deep middle to K.Hodge."
+  },
+  {
+    "wallclock": "2025-11-16T21:29:32Z",
+    "period": 5,
+    "clock": "8:57",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hellams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 51 yards to CAR 30, Center-L.McCullough, downed by ATL-D.Hellams."
+  },
+  {
+    "wallclock": "2025-11-16T21:30:33Z",
+    "period": 5,
+    "clock": "8:45",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Dowdle left guard to CAR 31 for 1 yard (D.Onyemata)."
+  },
+  {
+    "wallclock": "2025-11-16T21:31:12Z",
+    "period": 5,
+    "clock": "8:06",
+    "play_type": "Pass Reception",
+    "yards": 54,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tremble",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Young pass short right to T.Tremble to ATL 15 for 54 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-11-16T21:32:02Z",
+    "period": 5,
+    "clock": "7:16",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left guard to ATL 12 for 3 yards (L.London)."
+  },
+  {
+    "wallclock": "2025-11-16T21:32:45Z",
+    "period": 5,
+    "clock": "6:33",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Street",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left guard to ATL 11 for 1 yard (K.Street)."
+  },
+  {
+    "wallclock": "2025-11-16T21:33:22Z",
+    "period": 5,
+    "clock": "5:56",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dowdle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Onyemata",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dowdle left guard to ATL 10 for 1 yard (D.Onyemata; J.Pearce)."
+  },
+  {
+    "wallclock": "2025-11-16T21:34:05Z",
+    "period": 5,
+    "clock": "5:10",
+    "play_type": "Field Goal Good",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Fitzgerald",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jansen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Martin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Fitzgerald 28 yard field goal is GOOD, Center-J.Jansen, Holder-S.Martin."
+  },
+  {
+    "wallclock": "2025-11-16T21:34:05Z",
+    "period": 5,
+    "clock": "5:10",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

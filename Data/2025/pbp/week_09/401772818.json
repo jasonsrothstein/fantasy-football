@@ -1,0 +1,4400 @@
+[
+  {
+    "wallclock": "2025-11-04T01:15:44Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 61 yards from ARZ 35 to DAL 4. K.Turpin to DAL 34 for 30 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-11-04T01:16:25Z",
+    "period": 1,
+    "clock": "14:53",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Williams right tackle to DAL 43 for 9 yards (M.Melton; D.Robinson)."
+  },
+  {
+    "wallclock": "2025-11-04T01:17:02Z",
+    "period": 1,
+    "clock": "14:17",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Williams up the middle to ARZ 49 for 8 yards (Ma.Wilson; B.Baker)."
+  },
+  {
+    "wallclock": "2025-11-04T01:17:33Z",
+    "period": 1,
+    "clock": "13:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Schoonmaker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Prescott pass incomplete short right to L.Schoonmaker."
+  },
+  {
+    "wallclock": "2025-11-04T01:18:10Z",
+    "period": 1,
+    "clock": "13:41",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass deep left to G.Pickens to ARZ 33 for 16 yards (M.Melton)."
+  },
+  {
+    "wallclock": "2025-11-04T01:18:43Z",
+    "period": 1,
+    "clock": "13:10",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Prescott pass short left to C.Lamb to ARZ 18 for 15 yards (Ma.Wilson; A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-11-04T01:19:18Z",
+    "period": 1,
+    "clock": "12:35",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Williams left tackle to ARZ 7 for 11 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-11-04T01:19:56Z",
+    "period": 1,
+    "clock": "11:57",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Nolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Williams left end to ARZ 9 for -2 yards (W.Nolen)."
+  },
+  {
+    "wallclock": "2025-11-04T01:20:36Z",
+    "period": 1,
+    "clock": "11:18",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short right to J.Ferguson to ARZ 4 for 5 yards (M.Melton)."
+  },
+  {
+    "wallclock": "2025-11-04T01:21:13Z",
+    "period": 1,
+    "clock": "10:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass incomplete short right to J.Ferguson (G.Williams)."
+  },
+  {
+    "wallclock": "2025-11-04T01:21:48Z",
+    "period": 1,
+    "clock": "10:37",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott sacked at ARZ 11 for -7 yards (J.Sweat)."
+  },
+  {
+    "wallclock": "2025-11-04T01:22:23Z",
+    "period": 1,
+    "clock": "10:32",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:32."
+  },
+  {
+    "wallclock": "2025-11-04T01:24:47Z",
+    "period": 1,
+    "clock": "10:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Odighizuwa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass incomplete short left [O.Odighizuwa]."
+  },
+  {
+    "wallclock": "2025-11-04T01:25:26Z",
+    "period": 1,
+    "clock": "10:28",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Demercado right tackle to ARZ 13 for 2 yards (K.Clark)."
+  },
+  {
+    "wallclock": "2025-11-04T01:26:06Z",
+    "period": 1,
+    "clock": "9:47",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to M.Harrison to ARZ 31 for 18 yards (D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T01:26:54Z",
+    "period": 1,
+    "clock": "9:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass incomplete short right to T.McBride [S.James]."
+  },
+  {
+    "wallclock": "2025-11-04T01:27:39Z",
+    "period": 1,
+    "clock": "8:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass incomplete deep right to Mi.Wilson."
+  },
+  {
+    "wallclock": "2025-11-04T01:28:28Z",
+    "period": 1,
+    "clock": "8:48",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bridges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to M.Harrison to ARZ 46 for 15 yards (T.Bridges).Penalty on DAL-S.Thomas, Defensive Offside, declined."
+  },
+  {
+    "wallclock": "2025-11-04T01:29:20Z",
+    "period": 1,
+    "clock": "8:27",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short right to M.Harrison (D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T01:30:00Z",
+    "period": 1,
+    "clock": "8:21",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.James",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass short right to Mi.Wilson pushed ob at 50 for 4 yards (S.James; D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T01:30:47Z",
+    "period": 1,
+    "clock": "7:36",
+    "play_type": "Pass Incompletion",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Houston",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete deep left to T.McBride [J.Houston].PENALTY on DAL-M.Bell, Defensive Holding, 5 yards, enforced at 50 - No Play."
+  },
+  {
+    "wallclock": "2025-11-04T01:31:57Z",
+    "period": 1,
+    "clock": "7:30",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Clowney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Houston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Knight right tackle to DAL 43 for 2 yards (J.Clowney; J.Houston)."
+  },
+  {
+    "wallclock": "2025-11-04T01:32:38Z",
+    "period": 1,
+    "clock": "6:49",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Clowney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Odighizuwa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Knight right tackle to DAL 41 for 2 yards (J.Clowney; O.Odighizuwa)."
+  },
+  {
+    "wallclock": "2025-11-04T01:33:24Z",
+    "period": 1,
+    "clock": "6:03",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short left to Mi.Wilson to DAL 34 for 7 yards (D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T01:34:13Z",
+    "period": 1,
+    "clock": "5:14",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett FUMBLES (Aborted) at DAL 36, and recovers at DAL 36."
+  },
+  {
+    "wallclock": "2025-11-04T01:34:57Z",
+    "period": 1,
+    "clock": "4:30",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.James",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short left to E.Higgins to DAL 29 for 7 yards (S.James; D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T01:35:40Z",
+    "period": 1,
+    "clock": "3:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short left to M.Harrison."
+  },
+  {
+    "wallclock": "2025-11-04T01:36:19Z",
+    "period": 1,
+    "clock": "3:38",
+    "play_type": "Field Goal Good",
+    "yards": 48,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Ryland 48 yard field goal is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": "2025-11-04T01:36:55Z",
+    "period": 1,
+    "clock": "3:38",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:38."
+  },
+  {
+    "wallclock": "2025-11-04T01:39:32Z",
+    "period": 1,
+    "clock": "3:38",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 62 yards from ARZ 35 to DAL 3. K.Turpin to DAL 23 for 20 yards (E.Higgins)."
+  },
+  {
+    "wallclock": "2025-11-04T01:40:17Z",
+    "period": 1,
+    "clock": "3:32",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Williams left end to DAL 26 for 3 yards (Ma.Wilson; Z.Collins)."
+  },
+  {
+    "wallclock": "2025-11-04T01:40:54Z",
+    "period": 1,
+    "clock": "2:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass incomplete short right to K.Turpin."
+  },
+  {
+    "wallclock": "2025-11-04T01:41:30Z",
+    "period": 1,
+    "clock": "2:49",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short middle to C.Lamb to DAL 40 for 14 yards (B.Baker).PENALTY on DAL-T.Booker, Offensive Holding, 10 yards, enforced at DAL 26 - No Play."
+  },
+  {
+    "wallclock": "2025-11-04T01:42:37Z",
+    "period": 1,
+    "clock": "2:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass incomplete deep left to G.Pickens (J.Sweat) [J.Sweat]."
+  },
+  {
+    "wallclock": "2025-11-04T01:43:16Z",
+    "period": 1,
+    "clock": "2:11",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Goodwin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Punt formation) PENALTY on DAL-C.Goodwin, False Start, 5 yards, enforced at DAL 16 - No Play."
+  },
+  {
+    "wallclock": "2025-11-04T01:43:50Z",
+    "period": 1,
+    "clock": "2:11",
+    "play_type": "Punt",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Anger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sieg",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Spann-Ford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Anger punts 41 yards to ARZ 48, Center-T.Sieg. G.Dortch pushed ob at DAL 47 for 5 yards (B.Spann-Ford)."
+  },
+  {
+    "wallclock": "2025-11-04T01:44:32Z",
+    "period": 1,
+    "clock": "2:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:02."
+  },
+  {
+    "wallclock": "2025-11-04T01:46:56Z",
+    "period": 1,
+    "clock": "2:02",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Demercado left end to DAL 41 for 6 yards (K.Elam)."
+  },
+  {
+    "wallclock": "2025-11-04T01:47:40Z",
+    "period": 1,
+    "clock": "1:18",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Ezeiruaku",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett sacked at ARZ 49 for -10 yards (D.Ezeiruaku)."
+  },
+  {
+    "wallclock": "2025-11-04T01:48:28Z",
+    "period": 1,
+    "clock": "0:29",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Odighizuwa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass deep middle to M.Harrison to DAL 31 for 20 yards (D.Bland; M.Bell) [O.Odighizuwa]."
+  },
+  {
+    "wallclock": "2025-11-04T01:48:28Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-11-04T01:51:51Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  E.Demercado up the middle to DAL 15 for 16 yards (J.Thomas)."
+  },
+  {
+    "wallclock": "2025-11-04T01:52:30Z",
+    "period": 2,
+    "clock": "14:20",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to M.Harrison to DAL 8 for 7 yards (M.Bell; D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T01:53:12Z",
+    "period": 2,
+    "clock": "13:38",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Clowney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Demercado up the middle to DAL 6 for 2 yards (J.Clowney)."
+  },
+  {
+    "wallclock": "2025-11-04T01:53:45Z",
+    "period": 2,
+    "clock": "13:05",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Z.Knight left end to DAL 4 for 2 yards (K.Murray)."
+  },
+  {
+    "wallclock": "2025-11-04T01:54:30Z",
+    "period": 2,
+    "clock": "12:17",
+    "play_type": "Passing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass short left to M.Harrison for 4 yards, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": "2025-11-04T01:55:26Z",
+    "period": 2,
+    "clock": "12:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:17."
+  },
+  {
+    "wallclock": "2025-11-04T01:58:14Z",
+    "period": 2,
+    "clock": "12:17",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Fehoko",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Pappoe",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 63 yards from ARZ 35 to DAL 2. K.Turpin to DAL 26 for 24 yards (S.Fehoko; O.Pappoe)."
+  },
+  {
+    "wallclock": "2025-11-04T01:58:53Z",
+    "period": 2,
+    "clock": "12:12",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Williams left tackle to DAL 28 for 2 yards (B.Baker)."
+  },
+  {
+    "wallclock": "2025-11-04T01:59:24Z",
+    "period": 2,
+    "clock": "11:40",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Melton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short right to G.Pickens to DAL 40 for 12 yards (M.Melton)."
+  },
+  {
+    "wallclock": "2025-11-04T02:00:08Z",
+    "period": 2,
+    "clock": "10:57",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Williams right tackle to DAL 43 for 3 yards (Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-04T02:00:42Z",
+    "period": 2,
+    "clock": "10:23",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Nolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short left to C.Lamb to DAL 48 for 5 yards (W.Nolen)."
+  },
+  {
+    "wallclock": "2025-11-04T02:01:23Z",
+    "period": 2,
+    "clock": "9:41",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Taylor-Demerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Williams up the middle to ARZ 47 for 5 yards (D.Taylor-Demerson)."
+  },
+  {
+    "wallclock": "2025-11-04T02:01:55Z",
+    "period": 2,
+    "clock": "9:09",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Prescott scrambles left tackle to ARZ 38 for 9 yards (B.Baker)."
+  },
+  {
+    "wallclock": "2025-11-04T02:02:35Z",
+    "period": 2,
+    "clock": "8:30",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Prescott pass incomplete deep right to C.Lamb."
+  },
+  {
+    "wallclock": "2025-11-04T02:03:15Z",
+    "period": 2,
+    "clock": "8:24",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stills",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Williams right guard to ARZ 35 for 3 yards (D.Stills)."
+  },
+  {
+    "wallclock": "2025-11-04T02:03:51Z",
+    "period": 2,
+    "clock": "7:49",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Turpin right end to ARZ 32 for 3 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-11-04T02:04:27Z",
+    "period": 2,
+    "clock": "7:12",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ferguson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short right to G.Pickens to ARZ 24 for 8 yards (J.Thompson).PENALTY on DAL-J.Ferguson, Offensive Holding, 10 yards, enforced at ARZ 32 - No Play."
+  },
+  {
+    "wallclock": "2025-11-04T02:05:27Z",
+    "period": 2,
+    "clock": "6:48",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass incomplete deep right to G.Pickens [J.Sweat]."
+  },
+  {
+    "wallclock": "2025-11-04T02:06:15Z",
+    "period": 2,
+    "clock": "6:40",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Flournoy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Luepke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short left to J.Ferguson to ARZ 32 for 10 yards (Ma.Wilson). FUMBLES (Ma.Wilson), touched at ARZ 26, RECOVERED by ARZ-B.Baker at ARZ 23. B.Baker to ARZ 24 for 1 yard (R.Flournoy; H.Luepke)."
+  },
+  {
+    "wallclock": "2025-11-04T02:07:10Z",
+    "period": 2,
+    "clock": "6:30",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:30."
+  },
+  {
+    "wallclock": "2025-11-04T02:09:25Z",
+    "period": 2,
+    "clock": "6:30",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Ezeiruaku",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Demercado right tackle to ARZ 25 for 1 yard (D.Ezeiruaku; K.Clark)."
+  },
+  {
+    "wallclock": "2025-11-04T02:10:01Z",
+    "period": 2,
+    "clock": "5:55",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Steward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to T.McBride to ARZ 35 for 10 yards (R.Steward)."
+  },
+  {
+    "wallclock": "2025-11-04T02:10:42Z",
+    "period": 2,
+    "clock": "5:14",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass incomplete short left to T.McBride."
+  },
+  {
+    "wallclock": "2025-11-04T02:11:22Z",
+    "period": 2,
+    "clock": "5:10",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Clowney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett sacked at ARZ 29 for -6 yards (J.Clowney)."
+  },
+  {
+    "wallclock": "2025-11-04T02:12:10Z",
+    "period": 2,
+    "clock": "4:21",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to T.McBride pushed ob at ARZ 36 for 7 yards (D.Bland).Penalty on ARZ-P.Johnson, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-11-04T02:13:10Z",
+    "period": 2,
+    "clock": "3:58",
+    "play_type": "Blocked Punt Touchdown",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "Marshawn Kneeland Blocked Punt Recovery in End Zone (Brandon Aubrey Kick)"
+  },
+  {
+    "wallclock": "2025-11-04T02:14:29Z",
+    "period": 2,
+    "clock": "3:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:58."
+  },
+  {
+    "wallclock": "2025-11-04T02:17:14Z",
+    "period": 2,
+    "clock": "3:58",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Aubrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goodwin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Aubrey kicks 59 yards from DAL 35 to ARZ 6. G.Dortch pushed ob at ARZ 26 for 20 yards (C.Goodwin)."
+  },
+  {
+    "wallclock": "2025-11-04T02:18:09Z",
+    "period": 2,
+    "clock": "3:50",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Ezeiruaku",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Toia",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  J.Brissett pass short right to E.Higgins to ARZ 42 for 16 yards (D.Ezeiruaku) [J.Toia]."
+  },
+  {
+    "wallclock": "2025-11-04T02:18:55Z",
+    "period": 2,
+    "clock": "3:04",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass deep right to M.Harrison to DAL 42 for 16 yards (D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T02:19:39Z",
+    "period": 2,
+    "clock": "2:19",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Higgins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Toia",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass short right to E.Higgins to DAL 35 for 7 yards (M.Bell; J.Toia)."
+  },
+  {
+    "wallclock": "2025-11-04T02:20:11Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-04T02:22:54Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Fowler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Fowler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Z.Knight up the middle to DAL 35 for no gain (D.Fowler). ** Injury Update: DAL-D.Fowler has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-04T02:23:14Z",
+    "period": 2,
+    "clock": "1:56",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by DAL at 01:56."
+  },
+  {
+    "wallclock": "2025-11-04T02:24:10Z",
+    "period": 2,
+    "clock": "1:56",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass short right to Z.Knight pushed ob at DAL 27 for 8 yards (S.James)."
+  },
+  {
+    "wallclock": "2025-11-04T02:24:54Z",
+    "period": 2,
+    "clock": "1:50",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to Z.Knight pushed ob at DAL 15 for 12 yards (M.Bell)."
+  },
+  {
+    "wallclock": "2025-11-04T02:25:37Z",
+    "period": 2,
+    "clock": "1:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short middle to T.McBride."
+  },
+  {
+    "wallclock": "2025-11-04T02:26:19Z",
+    "period": 2,
+    "clock": "1:41",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) G.Dortch right end to DAL 6 for 9 yards (D.Bland; S.James)."
+  },
+  {
+    "wallclock": "2025-11-04T02:26:58Z",
+    "period": 2,
+    "clock": "1:01",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Beachum reported in as eligible.  Z.Knight left end to DAL 1 for 5 yards (D.Bland; K.Murray)."
+  },
+  {
+    "wallclock": "2025-11-04T02:27:44Z",
+    "period": 2,
+    "clock": "0:54",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by DAL at 00:54."
+  },
+  {
+    "wallclock": "2025-11-04T02:28:21Z",
+    "period": 2,
+    "clock": "0:54",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gaines",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Odighizuwa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum and J.Gaines reported in as eligible.  Z.Knight up the middle to DAL 1 for no gain (O.Odighizuwa; S.Thomas)."
+  },
+  {
+    "wallclock": "2025-11-04T02:28:50Z",
+    "period": 2,
+    "clock": "0:51",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by DAL at 00:51."
+  },
+  {
+    "wallclock": "2025-11-04T02:29:20Z",
+    "period": 2,
+    "clock": "0:49",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Brissett up the middle for 1 yard, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": "2025-11-04T02:33:01Z",
+    "period": 2,
+    "clock": "0:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:49."
+  },
+  {
+    "wallclock": "2025-11-04T02:33:27Z",
+    "period": 2,
+    "clock": "0:49",
+    "play_type": "Kickoff",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 63 yards from ARZ 35 to DAL 2. K.Turpin pushed ob at DAL 38 for 36 yards (D.Burke)."
+  },
+  {
+    "wallclock": "2025-11-04T02:34:16Z",
+    "period": 2,
+    "clock": "0:41",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass incomplete deep right [C.Campbell]."
+  },
+  {
+    "wallclock": "2025-11-04T02:34:55Z",
+    "period": 2,
+    "clock": "0:35",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short right to J.Ferguson to DAL 46 for 8 yards (B.Baker; A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-11-04T02:35:13Z",
+    "period": 2,
+    "clock": "0:20",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass short right to J.Ferguson to 50 for 4 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-11-04T02:35:29Z",
+    "period": 2,
+    "clock": "0:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) D.Prescott spiked the ball to stop the clock."
+  },
+  {
+    "wallclock": "2025-11-04T02:36:14Z",
+    "period": 2,
+    "clock": "0:02",
+    "play_type": "Field Goal Missed",
+    "yards": 68,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Aubrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sieg",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Anger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Aubrey 68 yard field goal is No Good, Wide Left, Center-T.Sieg, Holder-B.Anger."
+  },
+  {
+    "wallclock": "2025-11-04T02:36:14Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-11-04T02:51:10Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Aubrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goodwin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Aubrey kicks 59 yards from DAL 35 to ARZ 6. G.Dortch to ARZ 26 for 20 yards (C.Goodwin)."
+  },
+  {
+    "wallclock": "2025-11-04T02:52:01Z",
+    "period": 3,
+    "clock": "14:53",
+    "play_type": "Pass Reception",
+    "yards": 50,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass deep middle to Mi.Wilson pushed ob at DAL 24 for 50 yards (D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T02:52:54Z",
+    "period": 3,
+    "clock": "14:05",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Z.Knight right end to DAL 7 for 17 yards (M.Bell)."
+  },
+  {
+    "wallclock": "2025-11-04T02:53:38Z",
+    "period": 3,
+    "clock": "13:21",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Ezeiruaku",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  Z.Knight up the middle to DAL 7 for no gain (D.Ezeiruaku; S.Thomas).PENALTY on ARZ, Illegal Formation, 5 yards, enforced at DAL 7 - No Play."
+  },
+  {
+    "wallclock": "2025-11-04T02:54:44Z",
+    "period": 3,
+    "clock": "12:48",
+    "play_type": "Passing Touchdown",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Brissett pass short right to T.McBride for 12 yards, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": "2025-11-04T02:55:42Z",
+    "period": 3,
+    "clock": "12:48",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:48."
+  },
+  {
+    "wallclock": "2025-11-04T02:58:31Z",
+    "period": 3,
+    "clock": "12:48",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Simon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 59 yards from ARZ 35 to DAL 6. K.Turpin to DAL 27 for 21 yards (A.Davis-Gaither; C.Simon)."
+  },
+  {
+    "wallclock": "2025-11-04T02:59:09Z",
+    "period": 3,
+    "clock": "12:43",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Williams left tackle to DAL 31 for 4 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-11-04T02:59:41Z",
+    "period": 3,
+    "clock": "12:11",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Schoonmaker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Prescott pass short left to L.Schoonmaker to DAL 45 for 14 yards (W.Johnson)."
+  },
+  {
+    "wallclock": "2025-11-04T03:00:01Z",
+    "period": 3,
+    "clock": "11:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) D.Prescott pass incomplete short left to C.Lamb (W.Johnson)."
+  },
+  {
+    "wallclock": "2025-11-04T03:00:42Z",
+    "period": 3,
+    "clock": "11:47",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ferguson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short middle to J.Ferguson to ARZ 32 for 23 yards (J.Thompson)."
+  },
+  {
+    "wallclock": "2025-11-04T03:01:19Z",
+    "period": 3,
+    "clock": "11:10",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Williams right tackle to ARZ 17 for 15 yards (D.Burke; B.Baker)."
+  },
+  {
+    "wallclock": "2025-11-04T03:01:51Z",
+    "period": 3,
+    "clock": "10:37",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Burch",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Williams left guard to ARZ 15 for 2 yards (B.Baker; J.Burch)."
+  },
+  {
+    "wallclock": "2025-11-04T03:02:28Z",
+    "period": 3,
+    "clock": "10:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ferguson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass incomplete short middle to J.Ferguson."
+  },
+  {
+    "wallclock": "2025-11-04T03:03:06Z",
+    "period": 3,
+    "clock": "9:55",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short right to C.Lamb to ARZ 5 for 10 yards (G.Williams; Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-04T03:03:39Z",
+    "period": 3,
+    "clock": "9:22",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Williams up the middle to ARZ 5 for no gain (Ma.Wilson)."
+  },
+  {
+    "wallclock": "2025-11-04T03:04:14Z",
+    "period": 3,
+    "clock": "8:47",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott sacked at ARZ 14 for -9 yards (J.Sweat)."
+  },
+  {
+    "wallclock": "2025-11-04T03:05:00Z",
+    "period": 3,
+    "clock": "8:01",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short right to K.Turpin to ARZ 8 for 6 yards (D.Burke)."
+  },
+  {
+    "wallclock": "2025-11-04T03:05:43Z",
+    "period": 3,
+    "clock": "7:15",
+    "play_type": "Field Goal Good",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Aubrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sieg",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Anger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "B.Aubrey 26 yard field goal is GOOD, Center-T.Sieg, Holder-B.Anger."
+  },
+  {
+    "wallclock": "2025-11-04T03:05:55Z",
+    "period": 3,
+    "clock": "7:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:15."
+  },
+  {
+    "wallclock": "2025-11-04T03:08:37Z",
+    "period": 3,
+    "clock": "7:15",
+    "play_type": "Kickoff",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Aubrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Childress",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Fant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Aubrey kicks 61 yards from DAL 35 to ARZ 4. G.Dortch to ARZ 39 for 35 yards (Z.Childress; P.Fant)."
+  },
+  {
+    "wallclock": "2025-11-04T03:09:29Z",
+    "period": 3,
+    "clock": "7:08",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Houston",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Demercado right end to 50 for 11 yards (J.Houston)."
+  },
+  {
+    "wallclock": "2025-11-04T03:10:12Z",
+    "period": 3,
+    "clock": "6:25",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  E.Demercado up the middle to DAL 41 for 9 yards (M.Bell, D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T03:10:51Z",
+    "period": 3,
+    "clock": "5:46",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Odighizuwa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  E.Demercado left tackle to DAL 37 for 4 yards (O.Odighizuwa)."
+  },
+  {
+    "wallclock": "2025-11-04T03:11:28Z",
+    "period": 3,
+    "clock": "5:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-11-04T03:12:12Z",
+    "period": 3,
+    "clock": "5:02",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short left to M.Harrison ran ob at DAL 21 for 16 yards (J.Thomas)."
+  },
+  {
+    "wallclock": "2025-11-04T03:13:01Z",
+    "period": 3,
+    "clock": "4:13",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  E.Demercado right end to DAL 20 for 1 yard (J.Thomas)."
+  },
+  {
+    "wallclock": "2025-11-04T03:13:48Z",
+    "period": 3,
+    "clock": "3:26",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Demercado left guard to DAL 16 for 4 yards (K.Clark)."
+  },
+  {
+    "wallclock": "2025-11-04T03:14:35Z",
+    "period": 3,
+    "clock": "2:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Clowney",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Odighizuwa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short left to T.McBride (J.Clowney) [O.Odighizuwa]."
+  },
+  {
+    "wallclock": "2025-11-04T03:15:38Z",
+    "period": 3,
+    "clock": "2:31",
+    "play_type": "Field Goal Good",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Ryland 34 yard field goal is GOOD, Center-A.Brewer, Holder-P.O'Donnell."
+  },
+  {
+    "wallclock": "2025-11-04T03:15:49Z",
+    "period": 3,
+    "clock": "2:31",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:31."
+  },
+  {
+    "wallclock": "2025-11-04T03:18:36Z",
+    "period": 3,
+    "clock": "2:31",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Ryland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Ryland kicks 58 yards from ARZ 35 to DAL 7. K.Turpin pushed ob at DAL 27 for 20 yards (K.Clark)."
+  },
+  {
+    "wallclock": "2025-11-04T03:19:21Z",
+    "period": 3,
+    "clock": "2:28",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass short right to C.Lamb to DAL 36 for 9 yards (J.Thompson; W.Johnson)."
+  },
+  {
+    "wallclock": "2025-11-04T03:19:45Z",
+    "period": 3,
+    "clock": "2:04",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tomlinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Davis up the middle to DAL 39 for 3 yards (J.Thompson; D.Tomlinson)."
+  },
+  {
+    "wallclock": "2025-11-04T03:20:07Z",
+    "period": 3,
+    "clock": "1:41",
+    "play_type": "Pass Reception",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass deep right to C.Lamb ran ob at ARZ 28 for 33 yards (W.Johnson)."
+  },
+  {
+    "wallclock": "2025-11-04T03:21:00Z",
+    "period": 3,
+    "clock": "0:59",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ARZ at 00:59."
+  },
+  {
+    "wallclock": "2025-11-04T03:21:50Z",
+    "period": 3,
+    "clock": "0:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Nolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Prescott pass incomplete short right to G.Pickens (W.Nolen)."
+  },
+  {
+    "wallclock": "2025-11-04T03:22:21Z",
+    "period": 3,
+    "clock": "0:56",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Nolen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Williams right tackle to ARZ 27 for 1 yard (W.Nolen; B.Browning)."
+  },
+  {
+    "wallclock": "2025-11-04T03:22:56Z",
+    "period": 3,
+    "clock": "0:21",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short left to C.Lamb pushed ob at ARZ 21 for 6 yards (D.Burke)."
+  },
+  {
+    "wallclock": "2025-11-04T03:22:56Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-11-04T03:26:22Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass incomplete short right to C.Lamb (D.Burke) [J.Sweat]."
+  },
+  {
+    "wallclock": "2025-11-04T03:27:02Z",
+    "period": 4,
+    "clock": "14:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:54."
+  },
+  {
+    "wallclock": "2025-11-04T03:29:29Z",
+    "period": 4,
+    "clock": "14:54",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short right to T.McBride pushed ob at ARZ 29 for 7 yards (M.Bell; K.Murray). DAL-M.Bell was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-04T03:31:06Z",
+    "period": 4,
+    "clock": "14:15",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  Z.Knight right end to ARZ 29 for no gain (K.Murray)."
+  },
+  {
+    "wallclock": "2025-11-04T03:31:46Z",
+    "period": 4,
+    "clock": "13:35",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett sacked at ARZ 21 for -8 yards (K.Clark)."
+  },
+  {
+    "wallclock": "2025-11-04T03:32:22Z",
+    "period": 4,
+    "clock": "12:59",
+    "play_type": "Punt",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Carson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "P.O'Donnell punts 47 yards to DAL 32, Center-A.Brewer, fair catch by K.Turpin.PENALTY on DAL-C.Carson, Offensive Holding, 10 yards, enforced at DAL 32."
+  },
+  {
+    "wallclock": "2025-11-04T03:33:30Z",
+    "period": 4,
+    "clock": "12:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:52."
+  },
+  {
+    "wallclock": "2025-11-04T03:35:51Z",
+    "period": 4,
+    "clock": "12:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass incomplete short middle to C.Lamb."
+  },
+  {
+    "wallclock": "2025-11-04T03:36:26Z",
+    "period": 4,
+    "clock": "12:48",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott scrambles up the middle to DAL 28 for 6 yards (B.Browning). ARZ-Ma.Wilson was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-04T03:39:36Z",
+    "period": 4,
+    "clock": "12:31",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Flournoy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short middle to R.Flournoy to DAL 35 for 7 yards (B.Baker)."
+  },
+  {
+    "wallclock": "2025-11-04T03:39:56Z",
+    "period": 4,
+    "clock": "12:11",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass short left to G.Pickens to 50 for 15 yards (G.Williams). FUMBLES (G.Williams), touched at ARZ 47, recovered by DAL-J.Williams at ARZ 43."
+  },
+  {
+    "wallclock": "2025-11-04T03:40:31Z",
+    "period": 4,
+    "clock": "11:43",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass short left to G.Pickens to ARZ 27 for 16 yards (W.Johnson). FUMBLES (W.Johnson), and recovers at ARZ 24. ARZ-J.Thompson was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-04T03:42:15Z",
+    "period": 4,
+    "clock": "11:17",
+    "play_type": "Rush",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Williams up the middle to ARZ 5 for 19 yards (D.Burke)."
+  },
+  {
+    "wallclock": "2025-11-04T03:42:36Z",
+    "period": 4,
+    "clock": "10:51",
+    "play_type": "Passing Touchdown",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Flournoy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Aubrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sieg",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Anger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass short left to R.Flournoy for 5 yards, TOUCHDOWN. B.Aubrey extra point is GOOD, Center-T.Sieg, Holder-B.Anger."
+  },
+  {
+    "wallclock": "2025-11-04T03:43:57Z",
+    "period": 4,
+    "clock": "10:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:51."
+  },
+  {
+    "wallclock": "2025-11-04T03:46:23Z",
+    "period": 4,
+    "clock": "10:51",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Aubrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dortch",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Liufau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Aubrey kicks 59 yards from DAL 35 to ARZ 6. G.Dortch to ARZ 33 for 27 yards (M.Liufau)."
+  },
+  {
+    "wallclock": "2025-11-04T03:47:15Z",
+    "period": 4,
+    "clock": "10:45",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Fowler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett sacked at ARZ 24 for -9 yards (D.Fowler). ** Injury Update: DAL-M.Bell has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-04T03:47:58Z",
+    "period": 4,
+    "clock": "10:03",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.McBride",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Bell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass deep middle to T.McBride to ARZ 43 for 19 yards (M.Bell; D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T03:48:45Z",
+    "period": 4,
+    "clock": "9:16",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Knight",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.James",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  Z.Knight right tackle to ARZ 42 for -1 yards (S.James)."
+  },
+  {
+    "wallclock": "2025-11-04T03:49:26Z",
+    "period": 4,
+    "clock": "8:35",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Steward",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett sacked at ARZ 35 for -7 yards (R.Steward)."
+  },
+  {
+    "wallclock": "2025-11-04T03:50:11Z",
+    "period": 4,
+    "clock": "7:49",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Hernandez",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on ARZ-W.Hernandez, False Start, 5 yards, enforced at ARZ 35 - No Play."
+  },
+  {
+    "wallclock": "2025-11-04T03:51:11Z",
+    "period": 4,
+    "clock": "7:49",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Clark",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Odighizuwa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass short left to E.Demercado to ARZ 29 for -1 yards (K.Clark) [O.Odighizuwa]."
+  },
+  {
+    "wallclock": "2025-11-04T03:53:48Z",
+    "period": 4,
+    "clock": "7:20",
+    "play_type": "Punt",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.O'Donnell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "P.O'Donnell punts 40 yards to DAL 31, Center-A.Brewer. K.Turpin pushed ob at DAL 37 for 6 yards (A.Davis-Gaither)."
+  },
+  {
+    "wallclock": "2025-11-04T03:54:43Z",
+    "period": 4,
+    "clock": "7:11",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Simon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thompson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott scrambles up the middle to DAL 42 for 5 yards (C.Simon). ** Injury Update: ARZ-J.Thompson has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-04T03:55:03Z",
+    "period": 4,
+    "clock": "6:52",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass short left to G.Pickens to DAL 48 for 6 yards (D.Burke).PENALTY on DAL-G.Pickens, Unsportsmanlike Conduct, 15 yards, enforced between downs."
+  },
+  {
+    "wallclock": "2025-11-04T03:56:19Z",
+    "period": 4,
+    "clock": "6:42",
+    "play_type": "Rush",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott scrambles right end to DAL 47 for 14 yards (G.Williams)."
+  },
+  {
+    "wallclock": "2025-11-04T03:56:42Z",
+    "period": 4,
+    "clock": "6:19",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass short left to C.Lamb to ARZ 46 for 7 yards (D.Burke)."
+  },
+  {
+    "wallclock": "2025-11-04T03:57:05Z",
+    "period": 4,
+    "clock": "5:55",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pickens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Browning",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass short left to G.Pickens to ARZ 35 for 11 yards (W.Johnson).Penalty on ARZ-B.Browning, Defensive Offside, declined."
+  },
+  {
+    "wallclock": "2025-11-04T03:57:50Z",
+    "period": 4,
+    "clock": "5:42",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Nolen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott sacked at ARZ 41 for -6 yards (W.Nolen)."
+  },
+  {
+    "wallclock": "2025-11-04T03:58:21Z",
+    "period": 4,
+    "clock": "5:12",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass short right to K.Turpin pushed ob at ARZ 37 for 4 yards (G.Williams)."
+  },
+  {
+    "wallclock": "2025-11-04T03:58:58Z",
+    "period": 4,
+    "clock": "4:46",
+    "play_type": "Fumble Recovery (Opponent)",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Simon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Simon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis-Gaither",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass short right to J.Williams to ARZ 39 for -2 yards (W.Johnson, C.Simon). FUMBLES (C.Simon), RECOVERED by ARZ-A.Davis-Gaither at ARZ 37."
+  },
+  {
+    "wallclock": "2025-11-04T04:01:03Z",
+    "period": 4,
+    "clock": "4:34",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Odighizuwa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  E.Demercado right tackle to ARZ 43 for 6 yards (O.Odighizuwa)."
+  },
+  {
+    "wallclock": "2025-11-04T04:01:26Z",
+    "period": 4,
+    "clock": "4:25",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by DAL at 04:25."
+  },
+  {
+    "wallclock": "2025-11-04T04:02:05Z",
+    "period": 4,
+    "clock": "4:25",
+    "play_type": "Rush",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Thomas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  E.Demercado left end to DAL 38 for 19 yards (J.Thomas)."
+  },
+  {
+    "wallclock": "2025-11-04T04:02:28Z",
+    "period": 4,
+    "clock": "4:17",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by DAL at 04:17."
+  },
+  {
+    "wallclock": "2025-11-04T04:03:23Z",
+    "period": 4,
+    "clock": "4:17",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Murray",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Carson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  E.Demercado right end to DAL 36 for 2 yards (K.Murray; C.Carson)."
+  },
+  {
+    "wallclock": "2025-11-04T04:03:50Z",
+    "period": 4,
+    "clock": "4:10",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by DAL at 04:10."
+  },
+  {
+    "wallclock": "2025-11-04T04:04:38Z",
+    "period": 4,
+    "clock": "4:10",
+    "play_type": "Rush",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Beachum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Demercado",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Clowney",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Beachum reported in as eligible.  E.Demercado up the middle to DAL 40 for -4 yards (J.Clowney)."
+  },
+  {
+    "wallclock": "2025-11-04T04:05:23Z",
+    "period": 4,
+    "clock": "3:24",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Bland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett scrambles right end to DAL 36 for 4 yards (D.Bland)."
+  },
+  {
+    "wallclock": "2025-11-04T04:06:11Z",
+    "period": 4,
+    "clock": "2:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Harrison",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Brissett pass incomplete short right to M.Harrison."
+  },
+  {
+    "wallclock": "2025-11-04T04:07:04Z",
+    "period": 4,
+    "clock": "2:31",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott sacked at DAL 28 for -9 yards (C.Campbell)."
+  },
+  {
+    "wallclock": "2025-11-04T04:07:29Z",
+    "period": 4,
+    "clock": "2:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lamb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Prescott pass incomplete deep right to C.Lamb."
+  },
+  {
+    "wallclock": "2025-11-04T04:07:50Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-04T04:10:35Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott sacked at DAL 19 for -9 yards (C.Campbell)."
+  },
+  {
+    "wallclock": "2025-11-04T04:11:05Z",
+    "period": 4,
+    "clock": "1:29",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Prescott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Burke",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Turpin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Prescott pass deep right INTERCEPTED by D.Burke at ARZ 41. D.Burke to ARZ 41 for no gain (K.Turpin)."
+  },
+  {
+    "wallclock": "2025-11-04T04:12:00Z",
+    "period": 4,
+    "clock": "1:19",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett kneels to ARZ 41 for no gain."
+  },
+  {
+    "wallclock": "2025-11-04T04:12:41Z",
+    "period": 4,
+    "clock": "0:39",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Brissett",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Brissett kneels to ARZ 40 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-04T04:12:41Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

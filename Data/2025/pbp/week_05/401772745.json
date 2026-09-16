@@ -1,0 +1,4768 @@
+[
+  {
+    "wallclock": "2025-10-05T17:02:37Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 58 yards from PHI 35 to DEN 7. R.Harvey to DEN 31 for 24 yards (C.Latu)."
+  },
+  {
+    "wallclock": "2025-10-05T17:03:25Z",
+    "period": 1,
+    "clock": "14:53",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins left tackle to DEN 34 for 3 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-05T17:04:01Z",
+    "period": 1,
+    "clock": "14:17",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins right tackle to DEN 37 for 3 yards (J.Hunt; R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-10-05T17:04:43Z",
+    "period": 1,
+    "clock": "13:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete deep right to C.Sutton."
+  },
+  {
+    "wallclock": "2025-10-05T17:05:25Z",
+    "period": 1,
+    "clock": "13:30",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 63 yards to end zone, Center-M.Fraboni, Touchback."
+  },
+  {
+    "wallclock": "2025-10-05T17:06:21Z",
+    "period": 1,
+    "clock": "13:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right to D.Goedert (J.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-05T17:07:03Z",
+    "period": 1,
+    "clock": "13:16",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to A.Brown to PHI 23 for 3 yards (T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-10-05T17:07:50Z",
+    "period": 1,
+    "clock": "12:30",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep right to D.Goedert."
+  },
+  {
+    "wallclock": "2025-10-05T17:08:35Z",
+    "period": 1,
+    "clock": "12:22",
+    "play_type": "Punt",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Granson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 69 yards to DEN 8, Center-C.Adomitis. M.Mims ran ob at DEN 31 for 23 yards (K.Granson)."
+  },
+  {
+    "wallclock": "2025-10-05T17:09:20Z",
+    "period": 1,
+    "clock": "12:08",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:08."
+  },
+  {
+    "wallclock": "2025-10-05T17:11:44Z",
+    "period": 1,
+    "clock": "12:08",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Mims right end to DEN 40 for 9 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-10-05T17:12:23Z",
+    "period": 1,
+    "clock": "11:29",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Palczewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Palczewski reported in as eligible.  R.Harvey left guard to DEN 42 for 2 yards (J.Davis; M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-10-05T17:13:01Z",
+    "period": 1,
+    "clock": "10:51",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to M.Mims to DEN 46 for 4 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-10-05T17:13:36Z",
+    "period": 1,
+    "clock": "10:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Adkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass incomplete short right to N.Adkins."
+  },
+  {
+    "wallclock": "2025-10-05T17:14:20Z",
+    "period": 1,
+    "clock": "10:10",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass short right to C.Sutton to PHI 47 for 7 yards (Q.Mitchell; J.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-05T17:14:59Z",
+    "period": 1,
+    "clock": "9:32",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins right guard to PHI 46 for 1 yard (J.Carter)."
+  },
+  {
+    "wallclock": "2025-10-05T17:15:28Z",
+    "period": 1,
+    "clock": "9:03",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Dobbins left guard to PHI 43 for 3 yards (J.Carter; Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-05T17:16:01Z",
+    "period": 1,
+    "clock": "8:30",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass short left to C.Sutton to PHI 39 for 4 yards (J.Campbell; Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-10-05T17:16:40Z",
+    "period": 1,
+    "clock": "7:51",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on PHI-J.Carter, Encroachment, 5 yards, enforced at PHI 39 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T17:17:21Z",
+    "period": 1,
+    "clock": "7:41",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ojulari",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Harvey left end to PHI 37 for -3 yards (A.Ojulari)."
+  },
+  {
+    "wallclock": "2025-10-05T17:18:01Z",
+    "period": 1,
+    "clock": "7:01",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix sacked at PHI 46 for -9 yards (C.DeJean). FUMBLES (C.DeJean), RECOVERED by PHI-J.Hunt at PHI 39.The Replay Official reviewed the fumble ruling, and the play was REVERSED.(Shotgun) B.Nix pass incomplete short left to T.Franklin (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-10-05T17:20:25Z",
+    "period": 1,
+    "clock": "6:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:57."
+  },
+  {
+    "wallclock": "2025-10-05T17:21:42Z",
+    "period": 1,
+    "clock": "6:57",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete deep middle to E.Engram [J.Carter]."
+  },
+  {
+    "wallclock": "2025-10-05T17:22:24Z",
+    "period": 1,
+    "clock": "6:49",
+    "play_type": "Field Goal Good",
+    "yards": 55,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Lutz 55 yard field goal is GOOD, Center-M.Fraboni, Holder-J.Crawshaw."
+  },
+  {
+    "wallclock": "2025-10-05T17:22:36Z",
+    "period": 1,
+    "clock": "6:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:49."
+  },
+  {
+    "wallclock": "2025-10-05T17:25:37Z",
+    "period": 1,
+    "clock": "6:49",
+    "play_type": "Kickoff",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Lutz kicks 66 yards from DEN 35 to PHI -1. T.Bigsby to PHI 17 for 18 yards (J.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-05T17:26:30Z",
+    "period": 1,
+    "clock": "6:44",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley right guard to PHI 20 for 3 yards (A.Singleton; R.Moss)."
+  },
+  {
+    "wallclock": "2025-10-05T17:27:10Z",
+    "period": 1,
+    "clock": "6:04",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short middle to A.Brown to PHI 28 for 8 yards (P.Surtain)."
+  },
+  {
+    "wallclock": "2025-10-05T17:27:43Z",
+    "period": 1,
+    "clock": "5:30",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short left to S.Barkley to PHI 32 for 4 yards (A.Singleton)."
+  },
+  {
+    "wallclock": "2025-10-05T17:28:15Z",
+    "period": 1,
+    "clock": "4:59",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley left end to PHI 49 for 17 yards (J.Cooper)."
+  },
+  {
+    "wallclock": "2025-10-05T17:28:53Z",
+    "period": 1,
+    "clock": "4:21",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Calcaterra",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to G.Calcaterra to DEN 44 for 7 yards (T.Hufanga; A.Singleton)."
+  },
+  {
+    "wallclock": "2025-10-05T17:29:24Z",
+    "period": 1,
+    "clock": "3:50",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Dillon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Strnad",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Dillon right tackle to DEN 35 for 9 yards (J.Strnad; R.Moss)."
+  },
+  {
+    "wallclock": "2025-10-05T17:30:01Z",
+    "period": 1,
+    "clock": "3:13",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to D.Smith to DEN 26 for 9 yards (R.Moss; B.Jones)."
+  },
+  {
+    "wallclock": "2025-10-05T17:30:32Z",
+    "period": 1,
+    "clock": "2:42",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Calcaterra",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short left to G.Calcaterra to DEN 15 for 11 yards (T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-10-05T17:31:06Z",
+    "period": 1,
+    "clock": "2:08",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Dillon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Dickerson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) A.Dillon left tackle to DEN 12 for 3 yards (J.Elliss; T.Hufanga). PHI-L.Dickerson was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-05T17:32:46Z",
+    "period": 1,
+    "clock": "1:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:49."
+  },
+  {
+    "wallclock": "2025-10-05T17:33:18Z",
+    "period": 1,
+    "clock": "1:22",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked ob at DEN 13 for -1 yards (A.Singleton)."
+  },
+  {
+    "wallclock": "2025-10-05T17:34:06Z",
+    "period": 1,
+    "clock": "0:38",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short left to D.Smith."
+  },
+  {
+    "wallclock": "2025-10-05T17:34:59Z",
+    "period": 1,
+    "clock": "0:29",
+    "play_type": "Field Goal Good",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "J.Elliott 31 yard field goal is GOOD, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-05T17:35:09Z",
+    "period": 1,
+    "clock": "0:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:29."
+  },
+  {
+    "wallclock": "2025-10-05T17:37:58Z",
+    "period": 1,
+    "clock": "0:29",
+    "play_type": "Kickoff",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 57 yards from PHI 35 to DEN 8. R.Harvey MUFFS catch, and recovers at DEN 15. R.Harvey to DEN 29 for 14 yards (S.Brown)."
+  },
+  {
+    "wallclock": "2025-10-05T17:38:48Z",
+    "period": 1,
+    "clock": "0:20",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass deep right to T.Franklin pushed ob at DEN 49 for 20 yards (K.Ringo) [Z.Smith]."
+  },
+  {
+    "wallclock": "2025-10-05T17:38:48Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-10-05T17:42:08Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short left to J.Dobbins pushed ob at PHI 46 for 5 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-05T17:42:46Z",
+    "period": 2,
+    "clock": "14:25",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Palczewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Palczewski reported in as eligible.  J.Dobbins up the middle to PHI 36 for 10 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-05T17:43:26Z",
+    "period": 2,
+    "clock": "13:45",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins left end to PHI 29 for 7 yards (Z.Baun; M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-10-05T17:44:06Z",
+    "period": 2,
+    "clock": "13:06",
+    "play_type": "Rush",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins right end ran ob at PHI 26 for 3 yards (K.Ringo).PENALTY on DEN, Illegal Formation, 5 yards, enforced at PHI 29 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T17:45:11Z",
+    "period": 2,
+    "clock": "12:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sherfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete deep left to T.Sherfield [J.Uche]."
+  },
+  {
+    "wallclock": "2025-10-05T17:45:55Z",
+    "period": 2,
+    "clock": "12:38",
+    "play_type": "Sack",
+    "yards": -13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix sacked at PHI 47 for -13 yards (Z.Smith)."
+  },
+  {
+    "wallclock": "2025-10-05T17:46:39Z",
+    "period": 2,
+    "clock": "11:59",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PHI at 11:59."
+  },
+  {
+    "wallclock": "2025-10-05T17:47:44Z",
+    "period": 2,
+    "clock": "11:59",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 37 yards to PHI 10, Center-M.Fraboni, fair catch by J.Dotson."
+  },
+  {
+    "wallclock": "2025-10-05T17:48:12Z",
+    "period": 2,
+    "clock": "11:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:52."
+  },
+  {
+    "wallclock": "2025-10-05T17:50:47Z",
+    "period": 2,
+    "clock": "11:52",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Uwazurike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley left guard to PHI 14 for 4 yards (E.Uwazurike)."
+  },
+  {
+    "wallclock": "2025-10-05T17:51:22Z",
+    "period": 2,
+    "clock": "11:18",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) S.Barkley right guard to PHI 18 for 4 yards (B.Jones)."
+  },
+  {
+    "wallclock": "2025-10-05T17:52:03Z",
+    "period": 2,
+    "clock": "10:36",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to A.Brown to PHI 29 for 11 yards (P.Surtain)."
+  },
+  {
+    "wallclock": "2025-10-05T17:52:39Z",
+    "period": 2,
+    "clock": "10:01",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) W.Shipley right guard to PHI 29 for no gain (T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-10-05T17:53:20Z",
+    "period": 2,
+    "clock": "9:20",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Uwazurike",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked ob at PHI 27 for -2 yards (E.Uwazurike)."
+  },
+  {
+    "wallclock": "2025-10-05T17:54:38Z",
+    "period": 2,
+    "clock": "8:32",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Mailata",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on PHI-J.Mailata, False Start, 5 yards, enforced at PHI 27 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T17:55:27Z",
+    "period": 2,
+    "clock": "8:12",
+    "play_type": "Pass Reception",
+    "yards": 52,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass deep right to D.Smith to DEN 26 for 52 yards (R.Moss)."
+  },
+  {
+    "wallclock": "2025-10-05T17:56:10Z",
+    "period": 2,
+    "clock": "7:29",
+    "play_type": "Pass Incompletion",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass incomplete deep left to A.Brown (P.Surtain).PENALTY on DEN-P.Surtain, Defensive Pass Interference, 24 yards, enforced at DEN 26 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T17:57:09Z",
+    "period": 2,
+    "clock": "7:20",
+    "play_type": "Passing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Goedert for 2 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-05T17:58:08Z",
+    "period": 2,
+    "clock": "7:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:20."
+  },
+  {
+    "wallclock": "2025-10-05T18:00:53Z",
+    "period": 2,
+    "clock": "7:20",
+    "play_type": "Kickoff",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Skinner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 60 yards from PHI 35 to DEN 5. R.Harvey pushed ob at DEN 29 for 24 yards (C.DeJean).PENALTY on DEN-J.Skinner, Offensive Holding, 10 yards, enforced at DEN 29."
+  },
+  {
+    "wallclock": "2025-10-05T18:02:16Z",
+    "period": 2,
+    "clock": "7:15",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sherfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short left to T.Sherfield to DEN 34 for 15 yards (K.Ringo)."
+  },
+  {
+    "wallclock": "2025-10-05T18:02:52Z",
+    "period": 2,
+    "clock": "6:39",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to R.Harvey to DEN 40 for 6 yards (K.Ringo)."
+  },
+  {
+    "wallclock": "2025-10-05T18:03:28Z",
+    "period": 2,
+    "clock": "6:02",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "G.Bolles",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on DEN-G.Bolles, False Start, 5 yards, enforced at DEN 40 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T18:04:15Z",
+    "period": 2,
+    "clock": "5:38",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins left guard to DEN 36 for 1 yard (M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-10-05T18:04:51Z",
+    "period": 2,
+    "clock": "5:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ojulari",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass incomplete short middle to E.Engram [A.Ojulari]."
+  },
+  {
+    "wallclock": "2025-10-05T18:05:46Z",
+    "period": 2,
+    "clock": "4:58",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 50 yards to PHI 14, Center-M.Fraboni, out of bounds."
+  },
+  {
+    "wallclock": "2025-10-05T18:06:22Z",
+    "period": 2,
+    "clock": "4:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:49."
+  },
+  {
+    "wallclock": "2025-10-05T18:08:59Z",
+    "period": 2,
+    "clock": "4:49",
+    "play_type": "Pass Incompletion",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right to D.Smith.PENALTY on DEN-R.Moss, Defensive Pass Interference, 11 yards, enforced at PHI 14 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T18:10:04Z",
+    "period": 2,
+    "clock": "4:45",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Barron",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Smith to PHI 25 for no gain (P.Surtain; J.Barron) [Z.Allen]."
+  },
+  {
+    "wallclock": "2025-10-05T18:10:49Z",
+    "period": 2,
+    "clock": "3:59",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short right to D.Smith to PHI 39 for 14 yards (A.Singleton)."
+  },
+  {
+    "wallclock": "2025-10-05T18:11:19Z",
+    "period": 2,
+    "clock": "3:30",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to A.Brown to DEN 48 for 13 yards (P.Surtain)."
+  },
+  {
+    "wallclock": "2025-10-05T18:12:03Z",
+    "period": 2,
+    "clock": "2:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass incomplete deep left to J.Dotson (R.Moss).Philadelphia challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)"
+  },
+  {
+    "wallclock": "2025-10-05T18:13:33Z",
+    "period": 2,
+    "clock": "2:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:39."
+  },
+  {
+    "wallclock": "2025-10-05T18:15:49Z",
+    "period": 2,
+    "clock": "2:39",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley left tackle to DEN 46 for 2 yards (J.Elliss)."
+  },
+  {
+    "wallclock": "2025-10-05T18:16:08Z",
+    "period": 2,
+    "clock": "2:34",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by DEN at 02:34."
+  },
+  {
+    "wallclock": "2025-10-05T18:17:08Z",
+    "period": 2,
+    "clock": "2:34",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on PHI-D.Smith, False Start, 5 yards, enforced at DEN 46 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T18:17:57Z",
+    "period": 2,
+    "clock": "2:34",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Allen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at PHI 47 for -2 yards (sack split by Z.Allen and N.Bonitto)."
+  },
+  {
+    "wallclock": "2025-10-05T18:18:26Z",
+    "period": 2,
+    "clock": "2:27",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by DEN at 02:27."
+  },
+  {
+    "wallclock": "2025-10-05T18:18:49Z",
+    "period": 2,
+    "clock": "2:27",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 53 yards to end zone, Center-C.Adomitis, Touchback."
+  },
+  {
+    "wallclock": "2025-10-05T18:20:08Z",
+    "period": 2,
+    "clock": "2:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-10-05T18:20:51Z",
+    "period": 2,
+    "clock": "2:12",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Badie",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Blankenship",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to T.Badie to DEN 36 for 16 yards (R.Blankenship)."
+  },
+  {
+    "wallclock": "2025-10-05T18:21:17Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-05T18:24:03Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to T.Franklin to DEN 41 for 5 yards (J.Campbell; Z.Smith)."
+  },
+  {
+    "wallclock": "2025-10-05T18:24:28Z",
+    "period": 2,
+    "clock": "1:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Badie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass incomplete short middle to T.Badie."
+  },
+  {
+    "wallclock": "2025-10-05T18:25:04Z",
+    "period": 2,
+    "clock": "1:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete deep left to T.Franklin."
+  },
+  {
+    "wallclock": "2025-10-05T18:25:46Z",
+    "period": 2,
+    "clock": "1:26",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 48 yards to PHI 11, Center-M.Fraboni, fair catch by J.Dotson."
+  },
+  {
+    "wallclock": "2025-10-05T18:26:48Z",
+    "period": 2,
+    "clock": "1:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tillman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right to D.Smith (D.Tillman)."
+  },
+  {
+    "wallclock": "2025-10-05T18:27:30Z",
+    "period": 2,
+    "clock": "1:15",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to W.Shipley pushed ob at PHI 15 for 4 yards (R.Moss)."
+  },
+  {
+    "wallclock": "2025-10-05T18:28:15Z",
+    "period": 2,
+    "clock": "1:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Allen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep left to D.Goedert [Z.Allen]."
+  },
+  {
+    "wallclock": "2025-10-05T18:29:01Z",
+    "period": 2,
+    "clock": "1:02",
+    "play_type": "Punt",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 45 yards to DEN 40, Center-C.Adomitis. M.Mims to DEN 44 for 4 yards (T.Bigsby; C.Latu)."
+  },
+  {
+    "wallclock": "2025-10-05T18:30:02Z",
+    "period": 2,
+    "clock": "0:52",
+    "play_type": "Pass Reception",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to E.Engram to DEN 41 for -3 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-10-05T18:30:26Z",
+    "period": 2,
+    "clock": "0:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass incomplete short left to C.Sutton (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-10-05T18:31:11Z",
+    "period": 2,
+    "clock": "0:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete deep right to M.Mims."
+  },
+  {
+    "wallclock": "2025-10-05T18:32:27Z",
+    "period": 2,
+    "clock": "0:15",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Crawshaw punts 54 yards to PHI 5, Center-M.Fraboni, fair catch by J.Dotson."
+  },
+  {
+    "wallclock": "2025-10-05T18:33:14Z",
+    "period": 2,
+    "clock": "0:08",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Hurts kneels to PHI 4 for -1 yards."
+  },
+  {
+    "wallclock": "2025-10-05T18:33:14Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-10-05T18:47:11Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Lutz kicks 62 yards from DEN 35 to PHI 3. W.Shipley to PHI 26 for 23 yards (K.Reid)."
+  },
+  {
+    "wallclock": "2025-10-05T18:47:59Z",
+    "period": 3,
+    "clock": "14:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillian",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short right to D.Goedert (J.McMillian)."
+  },
+  {
+    "wallclock": "2025-10-05T18:48:43Z",
+    "period": 3,
+    "clock": "14:50",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillian",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short middle to D.Smith to PHI 47 for 21 yards (J.McMillian; T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-10-05T18:49:16Z",
+    "period": 3,
+    "clock": "14:17",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillian",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to D.Goedert to DEN 47 for 6 yards (J.McMillian)."
+  },
+  {
+    "wallclock": "2025-10-05T18:50:01Z",
+    "period": 3,
+    "clock": "13:23",
+    "play_type": "Passing Touchdown",
+    "yards": 47,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Franklin-Myers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass deep right to S.Barkley for 47 yards, TOUCHDOWN. DEN-J.Franklin-Myers was injured during the play. J.Elliott extra point is GOOD, Center-C.Adomitis, Holder-B.Mann."
+  },
+  {
+    "wallclock": "2025-10-05T18:51:50Z",
+    "period": 3,
+    "clock": "13:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:23."
+  },
+  {
+    "wallclock": "2025-10-05T18:54:33Z",
+    "period": 3,
+    "clock": "13:23",
+    "play_type": "Kickoff",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sherfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Elliott kicks 58 yards from PHI 35 to DEN 7. R.Harvey pushed ob at DEN 35 for 28 yards (C.DeJean).PENALTY on DEN-T.Sherfield, Offensive Holding, 10 yards, enforced at DEN 28."
+  },
+  {
+    "wallclock": "2025-10-05T18:55:35Z",
+    "period": 3,
+    "clock": "13:18",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins right end to DEN 16 for -2 yards (J.Campbell, Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-05T18:56:18Z",
+    "period": 3,
+    "clock": "12:35",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to R.Harvey pushed ob at DEN 27 for 11 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-05T18:56:58Z",
+    "period": 3,
+    "clock": "11:59",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Palczewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Palczewski reported in as eligible.  B.Nix up the middle to DEN 29 for 2 yards (J.Davis)."
+  },
+  {
+    "wallclock": "2025-10-05T18:57:35Z",
+    "period": 3,
+    "clock": "11:21",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.McGlinchey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on DEN-M.McGlinchey, False Start, 5 yards, enforced at DEN 29 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T18:58:08Z",
+    "period": 3,
+    "clock": "11:08",
+    "play_type": "Rush",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix scrambles right end ran ob at DEN 38 for 14 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-05T18:58:52Z",
+    "period": 3,
+    "clock": "10:29",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Palczewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Prentice",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Palczewski reported in as eligible.  A.Prentice up the middle to DEN 46 for 8 yards (J.Campbell; B.Young)."
+  },
+  {
+    "wallclock": "2025-10-05T18:59:41Z",
+    "period": 3,
+    "clock": "9:43",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by DEN at 09:43."
+  },
+  {
+    "wallclock": "2025-10-05T19:00:30Z",
+    "period": 3,
+    "clock": "9:43",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins up the middle to PHI 37 for 17 yards (K.Ringo)."
+  },
+  {
+    "wallclock": "2025-10-05T19:01:07Z",
+    "period": 3,
+    "clock": "9:06",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Palczewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Palczewski reported in as eligible.  J.Dobbins right guard to PHI 35 for 2 yards (J.Uche)."
+  },
+  {
+    "wallclock": "2025-10-05T19:01:52Z",
+    "period": 3,
+    "clock": "8:21",
+    "play_type": "Pass Incompletion",
+    "yards": -26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short right [Z.Baun].PENALTY on DEN-B.Nix, Intentional Grounding, 13 yards, enforced at PHI 35."
+  },
+  {
+    "wallclock": "2025-10-05T19:03:15Z",
+    "period": 3,
+    "clock": "8:16",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to M.Mims to PHI 42 for 6 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-05T19:04:06Z",
+    "period": 3,
+    "clock": "7:25",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 33 yards to PHI 9, Center-M.Fraboni, fair catch by J.Dotson."
+  },
+  {
+    "wallclock": "2025-10-05T19:04:26Z",
+    "period": 3,
+    "clock": "7:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:18."
+  },
+  {
+    "wallclock": "2025-10-05T19:07:15Z",
+    "period": 3,
+    "clock": "7:18",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Franklin-Myers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to A.Brown to PHI 17 for 8 yards (P.Surtain). ** Injury Update: DEN-J.Franklin-Myers has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-05T19:07:47Z",
+    "period": 3,
+    "clock": "6:46",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to D.Goedert pushed ob at PHI 28 for 11 yards (B.Jones)."
+  },
+  {
+    "wallclock": "2025-10-05T19:08:22Z",
+    "period": 3,
+    "clock": "6:13",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts scrambles left end ran ob at PHI 32 for 4 yards (T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-10-05T19:09:09Z",
+    "period": 3,
+    "clock": "5:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short left to A.Brown [T.Hufanga]."
+  },
+  {
+    "wallclock": "2025-10-05T19:09:53Z",
+    "period": 3,
+    "clock": "5:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short left to A.Brown (P.Surtain)."
+  },
+  {
+    "wallclock": "2025-10-05T19:10:33Z",
+    "period": 3,
+    "clock": "5:26",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 68 yards to end zone, Center-C.Adomitis, Touchback."
+  },
+  {
+    "wallclock": "2025-10-05T19:10:54Z",
+    "period": 3,
+    "clock": "5:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:17."
+  },
+  {
+    "wallclock": "2025-10-05T19:13:44Z",
+    "period": 3,
+    "clock": "5:17",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix scrambles right end to DEN 26 for 6 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-10-05T19:14:24Z",
+    "period": 3,
+    "clock": "4:37",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ojulari",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins left guard to DEN 28 for 2 yards (A.Ojulari; J.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-05T19:15:06Z",
+    "period": 3,
+    "clock": "3:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete short right to M.Mims."
+  },
+  {
+    "wallclock": "2025-10-05T19:15:48Z",
+    "period": 3,
+    "clock": "3:52",
+    "play_type": "Punt",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Skinner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Crawshaw punts 43 yards to PHI 29, Center-M.Fraboni. J.Dotson to PHI 44 for 15 yards (J.Skinner)."
+  },
+  {
+    "wallclock": "2025-10-05T19:16:29Z",
+    "period": 3,
+    "clock": "3:43",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:43."
+  },
+  {
+    "wallclock": "2025-10-05T19:18:50Z",
+    "period": 3,
+    "clock": "3:43",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on PHI-A.Brown, False Start, 5 yards, enforced at PHI 44 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T19:19:35Z",
+    "period": 3,
+    "clock": "3:43",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep middle to A.Brown."
+  },
+  {
+    "wallclock": "2025-10-05T19:20:22Z",
+    "period": 3,
+    "clock": "3:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hufanga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete short left to W.Shipley (T.Hufanga)."
+  },
+  {
+    "wallclock": "2025-10-05T19:21:07Z",
+    "period": 3,
+    "clock": "3:32",
+    "play_type": "Sack",
+    "yards": -11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at PHI 28 for -11 yards (N.Bonitto)."
+  },
+  {
+    "wallclock": "2025-10-05T19:21:51Z",
+    "period": 3,
+    "clock": "2:48",
+    "play_type": "Punt",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Dillon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 52 yards to DEN 20, Center-C.Adomitis. M.Mims ran ob at DEN 36 for 16 yards (A.Dillon)."
+  },
+  {
+    "wallclock": "2025-10-05T19:22:53Z",
+    "period": 3,
+    "clock": "2:38",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to E.Engram pushed ob at DEN 43 for 7 yards (J.Campbell)."
+  },
+  {
+    "wallclock": "2025-10-05T19:23:31Z",
+    "period": 3,
+    "clock": "2:04",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins left end pushed ob at DEN 48 for 5 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-05T19:24:11Z",
+    "period": 3,
+    "clock": "1:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass incomplete deep right to M.Mims."
+  },
+  {
+    "wallclock": "2025-10-05T19:24:50Z",
+    "period": 3,
+    "clock": "1:24",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Harvey right end to PHI 44 for 8 yards (J.Campbell, A.Mukuba)."
+  },
+  {
+    "wallclock": "2025-10-05T19:25:32Z",
+    "period": 3,
+    "clock": "0:44",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass short right to C.Sutton to PHI 38 for 6 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-10-05T19:26:09Z",
+    "period": 3,
+    "clock": "0:07",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short left to C.Sutton to PHI 32 for 6 yards (C.DeJean)."
+  },
+  {
+    "wallclock": "2025-10-05T19:26:09Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-10-05T19:29:10Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ojulari",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins right tackle to PHI 19 for 13 yards (A.Ojulari; A.Mukuba)."
+  },
+  {
+    "wallclock": "2025-10-05T19:29:46Z",
+    "period": 4,
+    "clock": "14:23",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short left to T.Franklin ran ob at PHI 9 for 10 yards (A.Mukuba)."
+  },
+  {
+    "wallclock": "2025-10-05T19:30:25Z",
+    "period": 4,
+    "clock": "13:49",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.McGlinchey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Dobbins right tackle to PHI 4 for 5 yards (Z.Smith; J.Carter). DEN-M.McGlinchey was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-05T19:31:16Z",
+    "period": 4,
+    "clock": "13:31",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:31."
+  },
+  {
+    "wallclock": "2025-10-05T19:33:44Z",
+    "period": 4,
+    "clock": "13:20",
+    "play_type": "Pass Incompletion",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass incomplete short right to C.Sutton.PENALTY on PHI-Q.Mitchell, Defensive Holding, 2 yards, enforced at PHI 4 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T19:34:36Z",
+    "period": 4,
+    "clock": "13:11",
+    "play_type": "Rushing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "J.Dobbins right guard for 2 yards, TOUCHDOWN. W.Lutz extra point is GOOD, Center-M.Fraboni, Holder-J.Crawshaw."
+  },
+  {
+    "wallclock": "2025-10-05T19:36:45Z",
+    "period": 4,
+    "clock": "13:11",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bigsby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Key",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Lutz kicks 63 yards from DEN 35 to PHI 2. T.Bigsby to PHI 28 for 26 yards (D.Key)."
+  },
+  {
+    "wallclock": "2025-10-05T19:37:30Z",
+    "period": 4,
+    "clock": "13:06",
+    "play_type": "Rush",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Toth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Barkley left guard to PHI 35 for 7 yards (B.Jones).PENALTY on PHI-B.Toth, Offensive Holding, 10 yards, enforced at PHI 28 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T19:38:25Z",
+    "period": 4,
+    "clock": "12:42",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillian",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Smith to PHI 25 for 7 yards (J.McMillian)."
+  },
+  {
+    "wallclock": "2025-10-05T19:38:56Z",
+    "period": 4,
+    "clock": "12:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass incomplete deep left to J.Dotson."
+  },
+  {
+    "wallclock": "2025-10-05T19:39:46Z",
+    "period": 4,
+    "clock": "12:02",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.McMillian",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at PHI 22 for -3 yards (J.McMillian)."
+  },
+  {
+    "wallclock": "2025-10-05T19:40:27Z",
+    "period": 4,
+    "clock": "11:22",
+    "play_type": "Punt",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mims",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 49 yards to DEN 29, Center-C.Adomitis. M.Mims to DEN 28 for -1 yards (C.Latu)."
+  },
+  {
+    "wallclock": "2025-10-05T19:41:03Z",
+    "period": 4,
+    "clock": "11:08",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:08."
+  },
+  {
+    "wallclock": "2025-10-05T19:43:40Z",
+    "period": 4,
+    "clock": "11:08",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.McGlinchey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass deep left to E.Engram to DEN 46 for 18 yards (K.Ringo). ** Injury Update: DEN-M.McGlinchey has returned to the game."
+  },
+  {
+    "wallclock": "2025-10-05T19:44:12Z",
+    "period": 4,
+    "clock": "10:36",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Nix pass short left to C.Sutton to PHI 40 for 14 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-10-05T19:44:49Z",
+    "period": 4,
+    "clock": "9:59",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Ringo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Harvey right end pushed ob at PHI 35 for 5 yards (K.Ringo)."
+  },
+  {
+    "wallclock": "2025-10-05T19:45:35Z",
+    "period": 4,
+    "clock": "9:18",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins left guard to PHI 35 for no gain (A.Mukuba)."
+  },
+  {
+    "wallclock": "2025-10-05T19:46:13Z",
+    "period": 4,
+    "clock": "8:40",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Bryant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to E.Engram ran ob at PHI 31 for 4 yards [Z.Smith].PENALTY on DEN-P.Bryant, Offensive Pass Interference, 10 yards, enforced at PHI 35 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T19:47:26Z",
+    "period": 4,
+    "clock": "8:17",
+    "play_type": "Pass Reception",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to C.Sutton to PHI 11 for 34 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-05T19:48:00Z",
+    "period": 4,
+    "clock": "7:36",
+    "play_type": "Passing Touchdown",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Engram",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle) B.Nix pass short middle to E.Engram for 11 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. B.Nix pass to T.Franklin is complete. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": "2025-10-05T19:50:39Z",
+    "period": 4,
+    "clock": "7:36",
+    "play_type": "Kickoff",
+    "yards": 37,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Badie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Lutz kicks 59 yards from DEN 35 to PHI 6. W.Shipley ran ob at PHI 43 for 37 yards (T.Badie)."
+  },
+  {
+    "wallclock": "2025-10-05T19:51:31Z",
+    "period": 4,
+    "clock": "7:29",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Singleton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Smith pushed ob at DEN 48 for 9 yards (A.Singleton)."
+  },
+  {
+    "wallclock": "2025-10-05T19:51:59Z",
+    "period": 4,
+    "clock": "7:05",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Steen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short right to D.Smith pushed ob at DEN 40 for 8 yards (R.Moss).PENALTY on PHI-T.Steen, Ineligible Downfield Pass, 5 yards, enforced at DEN 48 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T19:53:08Z",
+    "period": 4,
+    "clock": "6:52",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Barkley right guard to PHI 47 for no gain (D.Jones)."
+  },
+  {
+    "wallclock": "2025-10-05T19:53:51Z",
+    "period": 4,
+    "clock": "6:08",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass short left to D.Smith to PHI 49 for 2 yards (N.Bonitto)."
+  },
+  {
+    "wallclock": "2025-10-05T19:54:36Z",
+    "period": 4,
+    "clock": "5:23",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Moss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass deep left to D.Smith to DEN 21 for 30 yards (R.Moss).PENALTY on PHI-S.Barkley, Illegal Shift, 4 yards, enforced at PHI 49 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T19:55:41Z",
+    "period": 4,
+    "clock": "5:13",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mann",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Adomitis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Dillon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mann punts 23 yards to DEN 32, Center-C.Adomitis, downed by PHI-A.Dillon."
+  },
+  {
+    "wallclock": "2025-10-05T19:56:41Z",
+    "period": 4,
+    "clock": "5:00",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Trautman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.DeJean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass short left to A.Trautman to DEN 43 for 11 yards (Z.Baun; C.DeJean)."
+  },
+  {
+    "wallclock": "2025-10-05T19:57:25Z",
+    "period": 4,
+    "clock": "4:17",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins right end to DEN 47 for 4 yards (A.Mukuba)."
+  },
+  {
+    "wallclock": "2025-10-05T19:58:08Z",
+    "period": 4,
+    "clock": "3:34",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hunt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass incomplete short right [J.Hunt]."
+  },
+  {
+    "wallclock": "2025-10-05T20:00:06Z",
+    "period": 4,
+    "clock": "3:28",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short right to C.Sutton to PHI 37 for 16 yards (Q.Mitchell)."
+  },
+  {
+    "wallclock": "2025-10-05T20:00:51Z",
+    "period": 4,
+    "clock": "2:39",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Palczewski",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Palczewski reported in as eligible.  PENALTY on DEN, Delay of Game, 5 yards, enforced at PHI 37 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T20:01:35Z",
+    "period": 4,
+    "clock": "2:39",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Palczewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Uche",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Palczewski reported in as eligible.  J.Dobbins right tackle to PHI 41 for 1 yard (J.Uche)."
+  },
+  {
+    "wallclock": "2025-10-05T20:02:00Z",
+    "period": 4,
+    "clock": "2:34",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by PHI at 02:34."
+  },
+  {
+    "wallclock": "2025-10-05T20:03:41Z",
+    "period": 4,
+    "clock": "2:34",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Sutton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Nix pass short middle to C.Sutton to PHI 29 for 12 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-05T20:04:03Z",
+    "period": 4,
+    "clock": "2:27",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by PHI at 02:27."
+  },
+  {
+    "wallclock": "2025-10-05T20:04:46Z",
+    "period": 4,
+    "clock": "2:27",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Harvey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Mukuba",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Nix pass short right to R.Harvey to PHI 28 for 1 yard (A.Mukuba).PENALTY on PHI-Z.Baun, Unnecessary Roughness, 14 yards, enforced at PHI 28."
+  },
+  {
+    "wallclock": "2025-10-05T20:06:33Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Palczewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Carter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Palczewski reported in as eligible.  J.Dobbins right tackle to PHI 13 for 1 yard (Z.Baun; J.Carter). PHI-B.Young was injured during the play."
+  },
+  {
+    "wallclock": "2025-10-05T20:07:00Z",
+    "period": 4,
+    "clock": "2:16",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by PHI at 02:16."
+  },
+  {
+    "wallclock": "2025-10-05T20:07:46Z",
+    "period": 4,
+    "clock": "2:16",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by DEN at 02:16."
+  },
+  {
+    "wallclock": "2025-10-05T20:08:56Z",
+    "period": 4,
+    "clock": "2:16",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Dobbins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Ojomo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Dobbins right guard to PHI 12 for 1 yard (M.Ojomo)."
+  },
+  {
+    "wallclock": "2025-10-05T20:09:19Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-10-05T20:12:18Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Palczewski",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Nix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Baun",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) A.Palczewski reported in as eligible.  B.Nix sacked at PHI 13 for -1 yards (Z.Baun)."
+  },
+  {
+    "wallclock": "2025-10-05T20:13:11Z",
+    "period": 4,
+    "clock": "1:14",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by DEN at 01:14."
+  },
+  {
+    "wallclock": "2025-10-05T20:14:01Z",
+    "period": 4,
+    "clock": "1:14",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Young",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Powers",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Field Goal formation) ** Injury Update: PHI-B.Young has returned to the game.  PENALTY on DEN-B.Powers, False Start, 5 yards, enforced at PHI 13 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T20:14:47Z",
+    "period": 4,
+    "clock": "1:11",
+    "play_type": "Field Goal Good",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fraboni",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Crawshaw",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "W.Lutz 36 yard field goal is GOOD, Center-M.Fraboni, Holder-J.Crawshaw."
+  },
+  {
+    "wallclock": "2025-10-05T20:16:15Z",
+    "period": 4,
+    "clock": "1:11",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Lutz",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Shipley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Sherfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "W.Lutz kicks 65 yards from DEN 35 to PHI 0. W.Shipley to PHI 26 for 26 yards (T.Sherfield)."
+  },
+  {
+    "wallclock": "2025-10-05T20:17:00Z",
+    "period": 4,
+    "clock": "1:06",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Bonitto",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts sacked at PHI 22 for -4 yards (N.Bonitto)."
+  },
+  {
+    "wallclock": "2025-10-05T20:17:19Z",
+    "period": 4,
+    "clock": "0:47",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Barkley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Barron",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass short middle to S.Barkley to PHI 29 for 7 yards (J.Barron)."
+  },
+  {
+    "wallclock": "2025-10-05T20:17:40Z",
+    "period": 4,
+    "clock": "0:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Barron",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Hurts pass incomplete short middle to D.Goedert (J.Barron)."
+  },
+  {
+    "wallclock": "2025-10-05T20:18:22Z",
+    "period": 4,
+    "clock": "0:21",
+    "play_type": "Pass Incompletion",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Skinner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep right to D.Goedert.PENALTY on DEN-J.Skinner, Defensive Pass Interference, 18 yards, enforced at PHI 29 - No Play."
+  },
+  {
+    "wallclock": "2025-10-05T20:19:21Z",
+    "period": 4,
+    "clock": "0:15",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dotson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass deep right to J.Dotson ran ob at DEN 29 for 24 yards (P.Surtain)."
+  },
+  {
+    "wallclock": "2025-10-05T20:20:08Z",
+    "period": 4,
+    "clock": "0:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Goedert",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep right to D.Goedert."
+  },
+  {
+    "wallclock": "2025-10-05T20:21:18Z",
+    "period": 4,
+    "clock": "0:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Hurts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Key",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Surtain",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Hurts pass incomplete deep right (D.Key, P.Surtain)."
+  },
+  {
+    "wallclock": "2025-10-05T20:21:18Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

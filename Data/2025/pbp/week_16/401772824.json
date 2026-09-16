@@ -1,0 +1,4353 @@
+[
+  {
+    "wallclock": "2025-12-23T01:17:06Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Owen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Gifford",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sigle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 63 yards from SF 35 to IND 2. C.Owen to IND 28 for 26 yards (L.Gifford; M.Sigle)."
+  },
+  {
+    "wallclock": "2025-12-23T01:17:54Z",
+    "period": 1,
+    "clock": "14:54",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass incomplete deep right to M.Pittman."
+  },
+  {
+    "wallclock": "2025-12-23T01:18:37Z",
+    "period": 1,
+    "clock": "14:49",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Bortolini",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on IND-T.Bortolini, False Start, 5 yards, enforced at IND 28 - No Play."
+  },
+  {
+    "wallclock": "2025-12-23T01:19:18Z",
+    "period": 1,
+    "clock": "14:49",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bortolini",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to IND 30 for 7 yards (B.Huff; J.Brown). IND-T.Bortolini was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-23T01:20:06Z",
+    "period": 1,
+    "clock": "14:34",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:34."
+  },
+  {
+    "wallclock": "2025-12-23T01:22:48Z",
+    "period": 1,
+    "clock": "14:14",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short middle to J.Taylor to IND 49 for 19 yards (M.Mustapha)."
+  },
+  {
+    "wallclock": "2025-12-23T01:23:31Z",
+    "period": 1,
+    "clock": "13:32",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) P.Rivers pass short left to J.Downs ran ob at SF 33 for 18 yards (D.Luter)."
+  },
+  {
+    "wallclock": "2025-12-23T01:24:10Z",
+    "period": 1,
+    "clock": "12:55",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Taylor up the middle to SF 31 for 2 yards (A.Collins; J.Brown)."
+  },
+  {
+    "wallclock": "2025-12-23T01:24:47Z",
+    "period": 1,
+    "clock": "12:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) P.Rivers pass incomplete deep left to T.Warren (U.Stout, D.Luter)."
+  },
+  {
+    "wallclock": "2025-12-23T01:25:34Z",
+    "period": 1,
+    "clock": "12:12",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Travis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short left to M.Pittman pushed ob at SF 17 for 14 yards (U.Stout).PENALTY on IND-J.Travis, Illegal Formation, 5 yards, enforced at SF 31 - No Play."
+  },
+  {
+    "wallclock": "2025-12-23T01:26:40Z",
+    "period": 1,
+    "clock": "11:45",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short right to J.Downs to SF 23 for 13 yards (U.Stout)."
+  },
+  {
+    "wallclock": "2025-12-23T01:27:11Z",
+    "period": 1,
+    "clock": "11:14",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ferrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) P.Rivers pass short left to T.Warren to SF 20 for 3 yards (U.Stout; C.Ferrell)."
+  },
+  {
+    "wallclock": "2025-12-23T01:27:49Z",
+    "period": 1,
+    "clock": "10:31",
+    "play_type": "Passing Touchdown",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ferrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) P.Rivers pass deep middle to A.Pierce for 20 yards, TOUCHDOWN.Penalty on SF-C.Ferrell, Defensive Offside, declined. B.Grupe extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-12-23T01:28:48Z",
+    "period": 1,
+    "clock": "10:31",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:31."
+  },
+  {
+    "wallclock": "2025-12-23T01:31:51Z",
+    "period": 1,
+    "clock": "10:31",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Odum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ajiake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 58 yards from IND 35 to SF 7. B.Robinson to SF 31 for 24 yards (G.Odum; A.Ajiake)."
+  },
+  {
+    "wallclock": "2025-12-23T01:32:37Z",
+    "period": 1,
+    "clock": "10:26",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey up the middle to SF 35 for 4 yards (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-12-23T01:33:10Z",
+    "period": 1,
+    "clock": "9:53",
+    "play_type": "Pass Reception",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Kittle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass deep middle to G.Kittle to IND 39 for 26 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-12-23T01:33:48Z",
+    "period": 1,
+    "clock": "9:15",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass short middle to C.McCaffrey to IND 33 for 6 yards (G.Pratt; Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-12-23T01:34:28Z",
+    "period": 1,
+    "clock": "8:35",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey right tackle to IND 24 for 9 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-12-23T01:35:03Z",
+    "period": 1,
+    "clock": "8:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey right end pushed ob at IND 22 for 2 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-12-23T01:35:46Z",
+    "period": 1,
+    "clock": "7:14",
+    "play_type": "Passing Touchdown",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Purdy pass deep middle to D.Robinson for 22 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-23T01:36:39Z",
+    "period": 1,
+    "clock": "7:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:14."
+  },
+  {
+    "wallclock": "2025-12-23T01:39:24Z",
+    "period": 1,
+    "clock": "7:14",
+    "play_type": "Kickoff",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Abdullah",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 56 yards from SF 35 to IND 9. A.Abdullah to IND 27 for 18 yards (J.Brown). FUMBLES (J.Brown), RECOVERED by SF-J.Tonges at IND 26."
+  },
+  {
+    "wallclock": "2025-12-23T01:40:28Z",
+    "period": 1,
+    "clock": "7:08",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Kittle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short left to G.Kittle to IND 14 for 12 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-12-23T01:41:07Z",
+    "period": 1,
+    "clock": "6:29",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Ebukam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left end to IND 9 for 5 yards (S.Ebukam)."
+  },
+  {
+    "wallclock": "2025-12-23T01:41:46Z",
+    "period": 1,
+    "clock": "5:51",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey left end pushed ob at IND 3 for 6 yards (N.Cross)."
+  },
+  {
+    "wallclock": "2025-12-23T01:42:28Z",
+    "period": 1,
+    "clock": "5:11",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Gallimore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left guard to IND 2 for 1 yard (N.Gallimore)."
+  },
+  {
+    "wallclock": "2025-12-23T01:43:08Z",
+    "period": 1,
+    "clock": "4:37",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by SF at 04:37."
+  },
+  {
+    "wallclock": "2025-12-23T01:44:02Z",
+    "period": 1,
+    "clock": "4:33",
+    "play_type": "Passing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Purdy pass short right to C.McCaffrey for 2 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-23T01:44:51Z",
+    "period": 1,
+    "clock": "4:33",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:33."
+  },
+  {
+    "wallclock": "2025-12-23T01:47:34Z",
+    "period": 1,
+    "clock": "4:33",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Owen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 61 yards from SF 35 to IND 4. C.Owen ran ob at IND 34 for 30 yards (J.Brown)."
+  },
+  {
+    "wallclock": "2025-12-23T01:48:32Z",
+    "period": 1,
+    "clock": "4:28",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Gifford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short right to J.Downs to IND 42 for 8 yards (M.Mustapha; L.Gifford)."
+  },
+  {
+    "wallclock": "2025-12-23T01:49:12Z",
+    "period": 1,
+    "clock": "3:47",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to IND 47 for 5 yards (U.Stout; K.Davis)."
+  },
+  {
+    "wallclock": "2025-12-23T01:49:48Z",
+    "period": 1,
+    "clock": "3:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) P.Rivers pass incomplete short right to J.Downs."
+  },
+  {
+    "wallclock": "2025-12-23T01:50:30Z",
+    "period": 1,
+    "clock": "3:07",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ogletree",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short middle to A.Ogletree to SF 42 for 11 yards (D.Winters; J.Brown)."
+  },
+  {
+    "wallclock": "2025-12-23T01:51:12Z",
+    "period": 1,
+    "clock": "2:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ogletree",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) P.Rivers pass incomplete deep left to A.Ogletree."
+  },
+  {
+    "wallclock": "2025-12-23T01:51:54Z",
+    "period": 1,
+    "clock": "2:20",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass deep right to A.Pierce to SF 25 for 17 yards (D.Luter)."
+  },
+  {
+    "wallclock": "2025-12-23T01:52:34Z",
+    "period": 1,
+    "clock": "1:40",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Downs left end to SF 22 for 3 yards (U.Stout)."
+  },
+  {
+    "wallclock": "2025-12-23T01:53:16Z",
+    "period": 1,
+    "clock": "0:58",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short left to J.Downs pushed ob at SF 10 for 12 yards (B.Huff)."
+  },
+  {
+    "wallclock": "2025-12-23T01:53:54Z",
+    "period": 1,
+    "clock": "0:24",
+    "play_type": "Rush",
+    "yards": -18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tucker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Taylor right guard to SF 5 for 5 yards (U.Stout; M.Mustapha).PENALTY on IND-D.Tucker, Offensive Holding, 10 yards, enforced at SF 8."
+  },
+  {
+    "wallclock": "2025-12-23T01:53:54Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-23T01:58:01Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass incomplete short middle to T.Warren (K.Davis)."
+  },
+  {
+    "wallclock": "2025-12-23T01:58:38Z",
+    "period": 2,
+    "clock": "14:55",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor right tackle to SF 16 for 2 yards (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-23T01:59:15Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Passing Touchdown",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) P.Rivers pass deep middle to A.Pierce for 16 yards, TOUCHDOWN.Penalty on SF-D.Luter, Defensive Pass Interference, declined. B.Grupe extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-12-23T02:00:15Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:15."
+  },
+  {
+    "wallclock": "2025-12-23T02:03:00Z",
+    "period": 2,
+    "clock": "14:15",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Olubi",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tuimoloau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 62 yards from IND 35 to SF 3. S.Moore pushed ob at SF 31 for 28 yards (S.Olubi). IND-J.Tuimoloau was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-23T02:03:44Z",
+    "period": 2,
+    "clock": "14:07",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:07."
+  },
+  {
+    "wallclock": "2025-12-23T02:06:09Z",
+    "period": 2,
+    "clock": "14:07",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey up the middle to SF 43 for 12 yards (N.Cross; C.Bynum)."
+  },
+  {
+    "wallclock": "2025-12-23T02:06:48Z",
+    "period": 2,
+    "clock": "13:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short middle to J.Jennings."
+  },
+  {
+    "wallclock": "2025-12-23T02:07:24Z",
+    "period": 2,
+    "clock": "13:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass short right to K.Bourne to IND 45 for 12 yards (M.Blackmon).Indianapolis challenged the pass completion ruling, and the play was REVERSED.B.Purdy pass incomplete short right to K.Bourne (M.Blackmon)."
+  },
+  {
+    "wallclock": "2025-12-23T02:12:20Z",
+    "period": 2,
+    "clock": "13:20",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy scrambles up the middle to IND 48 for 9 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-12-23T02:13:00Z",
+    "period": 2,
+    "clock": "12:39",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy up the middle to IND 46 for 2 yards (D.Buckner)."
+  },
+  {
+    "wallclock": "2025-12-23T02:13:40Z",
+    "period": 2,
+    "clock": "12:00",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left tackle to IND 28 for 18 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-12-23T02:14:03Z",
+    "period": 2,
+    "clock": "11:36",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.McCaffrey up the middle to IND 27 for 1 yard (D.Buckner)."
+  },
+  {
+    "wallclock": "2025-12-23T02:14:41Z",
+    "period": 2,
+    "clock": "10:58",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short left to C.McCaffrey to IND 17 for 10 yards (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-12-23T02:15:21Z",
+    "period": 2,
+    "clock": "10:18",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson right guard to IND 11 for 6 yards (L.Latu)."
+  },
+  {
+    "wallclock": "2025-12-23T02:15:57Z",
+    "period": 2,
+    "clock": "9:36",
+    "play_type": "Passing Touchdown",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Kittle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Purdy pass short right to G.Kittle for 11 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-23T02:16:51Z",
+    "period": 2,
+    "clock": "9:36",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:36."
+  },
+  {
+    "wallclock": "2025-12-23T02:19:45Z",
+    "period": 2,
+    "clock": "9:36",
+    "play_type": "Kickoff",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Goodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Odum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 66 yards from SF 35 to IND -1. T.Goodson to IND 33 for 34 yards (J.Tonges).PENALTY on IND-G.Odum, Offensive Holding, 10 yards, enforced at IND 30."
+  },
+  {
+    "wallclock": "2025-12-23T02:21:01Z",
+    "period": 2,
+    "clock": "9:30",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short right to J.Taylor to IND 26 for 6 yards (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-23T02:21:47Z",
+    "period": 2,
+    "clock": "8:45",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.West",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers sacked at IND 18 for -8 yards (C.West)."
+  },
+  {
+    "wallclock": "2025-12-23T02:22:31Z",
+    "period": 2,
+    "clock": "8:00",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short left to M.Pittman to IND 28 for 10 yards (K.White)."
+  },
+  {
+    "wallclock": "2025-12-23T02:23:16Z",
+    "period": 2,
+    "clock": "7:16",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Sanchez punts 54 yards to SF 18, Center-L.Rhodes, fair catch by S.Moore."
+  },
+  {
+    "wallclock": "2025-12-23T02:23:40Z",
+    "period": 2,
+    "clock": "7:09",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:09."
+  },
+  {
+    "wallclock": "2025-12-23T02:26:17Z",
+    "period": 2,
+    "clock": "7:09",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Farrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Farrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy sacked at SF 10 for -8 yards (L.Latu). FUMBLES (L.Latu) [L.Latu], recovered by SF-L.Farrell at SF 9. L.Farrell to SF 21 for 12 yards (E.Johnson)."
+  },
+  {
+    "wallclock": "2025-12-23T02:27:03Z",
+    "period": 2,
+    "clock": "6:23",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete deep left to C.McCaffrey."
+  },
+  {
+    "wallclock": "2025-12-23T02:27:43Z",
+    "period": 2,
+    "clock": "6:18",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Kittle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short right to G.Kittle pushed ob at SF 33 for 12 yards (N.Cross).Penalty on IND-J.Edwards, Illegal Use of Hands, declined."
+  },
+  {
+    "wallclock": "2025-12-23T02:28:59Z",
+    "period": 2,
+    "clock": "6:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left end to SF 36 for 3 yards (D.Buckner)."
+  },
+  {
+    "wallclock": "2025-12-23T02:29:25Z",
+    "period": 2,
+    "clock": "5:33",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Purdy pass deep left to S.Moore to IND 41 for 23 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-12-23T02:30:05Z",
+    "period": 2,
+    "clock": "4:54",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right end to IND 39 for 2 yards (K.Moore; Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-12-23T02:30:42Z",
+    "period": 2,
+    "clock": "4:16",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Kittle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Ebukam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short middle to G.Kittle to IND 22 for 17 yards (S.Ebukam)."
+  },
+  {
+    "wallclock": "2025-12-23T02:31:22Z",
+    "period": 2,
+    "clock": "3:36",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short right to K.Bourne pushed ob at IND 11 for 11 yards (C.Mitchell)."
+  },
+  {
+    "wallclock": "2025-12-23T02:32:05Z",
+    "period": 2,
+    "clock": "2:55",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey up the middle to IND 6 for 5 yards (D.Buckner)."
+  },
+  {
+    "wallclock": "2025-12-23T02:32:43Z",
+    "period": 2,
+    "clock": "2:17",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Mitchell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Lewis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short right to C.McCaffrey to IND 7 for -1 yards (C.Mitchell, T.Lewis)."
+  },
+  {
+    "wallclock": "2025-12-23T02:33:05Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-23T02:35:51Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Kittle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short left to G.Kittle (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-23T02:36:31Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Field Goal Good",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " E.Pineiro 25 yard field goal is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-23T02:37:57Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the IND 35."
+  },
+  {
+    "wallclock": "2025-12-23T02:38:49Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass incomplete deep right to J.Downs."
+  },
+  {
+    "wallclock": "2025-12-23T02:39:28Z",
+    "period": 2,
+    "clock": "1:46",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to IND 38 for 3 yards (T.Bethune; K.White)."
+  },
+  {
+    "wallclock": "2025-12-23T02:40:09Z",
+    "period": 2,
+    "clock": "1:04",
+    "play_type": "Penalty",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Ferrell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass incomplete deep left to A.Pierce [C.Ferrell].PENALTY on SF-D.Luter, Defensive Pass Interference, 21 yards, enforced at IND 38 - No Play."
+  },
+  {
+    "wallclock": "2025-12-23T02:41:16Z",
+    "period": 2,
+    "clock": "0:59",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short right to J.Downs pushed ob at SF 27 for 14 yards (U.Stout)."
+  },
+  {
+    "wallclock": "2025-12-23T02:42:06Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Okuayinonu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right guard to SF 24 for 3 yards (M.Mustapha; S.Okuayinonu)."
+  },
+  {
+    "wallclock": "2025-12-23T02:42:37Z",
+    "period": 2,
+    "clock": "0:32",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Goncalves",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) PENALTY on IND-M.Goncalves, False Start, 5 yards, enforced at SF 24 - No Play."
+  },
+  {
+    "wallclock": "2025-12-23T02:42:48Z",
+    "period": 2,
+    "clock": "0:32",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by IND at 00:32."
+  },
+  {
+    "wallclock": "2025-12-23T02:43:30Z",
+    "period": 2,
+    "clock": "0:32",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short right to J.Taylor to SF 21 for 8 yards (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-23T02:43:44Z",
+    "period": 2,
+    "clock": "0:25",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by IND at 00:25."
+  },
+  {
+    "wallclock": "2025-12-23T02:44:31Z",
+    "period": 2,
+    "clock": "0:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass incomplete deep right to T.Warren."
+  },
+  {
+    "wallclock": "2025-12-23T02:45:07Z",
+    "period": 2,
+    "clock": "0:17",
+    "play_type": "Field Goal Good",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "B.Grupe 39 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-12-23T02:46:48Z",
+    "period": 2,
+    "clock": "0:17",
+    "play_type": "Kickoff",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Odum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 61 yards from IND 35 to SF 4. S.Moore to SF 40 for 36 yards (G.Odum)."
+  },
+  {
+    "wallclock": "2025-12-23T02:47:40Z",
+    "period": 2,
+    "clock": "0:11",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short left to K.Bourne ran ob at IND 46 for 14 yards."
+  },
+  {
+    "wallclock": "2025-12-23T02:48:29Z",
+    "period": 2,
+    "clock": "0:03",
+    "play_type": "Field Goal Missed",
+    "yards": 64,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro 64 yard field goal is No Good, Hit Crossbar, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-23T02:48:29Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-23T03:03:15Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Goodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 60 yards from IND 35 to SF 5. B.Robinson to SF 36 for 31 yards (T.Goodson)."
+  },
+  {
+    "wallclock": "2025-12-23T03:04:05Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Kittle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short middle to G.Kittle to IND 49 for 15 yards (M.Blackmon)."
+  },
+  {
+    "wallclock": "2025-12-23T03:04:45Z",
+    "period": 3,
+    "clock": "14:14",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey up the middle to IND 48 for 1 yard (N.Cross)."
+  },
+  {
+    "wallclock": "2025-12-23T03:05:07Z",
+    "period": 3,
+    "clock": "13:52",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) B.Purdy pass short left to D.Robinson to IND 47 for 1 yard (K.Moore)."
+  },
+  {
+    "wallclock": "2025-12-23T03:05:50Z",
+    "period": 3,
+    "clock": "13:09",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short right to J.Jennings pushed ob at IND 26 for 21 yards (M.Blackmon)."
+  },
+  {
+    "wallclock": "2025-12-23T03:06:31Z",
+    "period": 3,
+    "clock": "12:30",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Kittle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass short left to G.Kittle to IND 4 for 22 yards (C.Bynum)."
+  },
+  {
+    "wallclock": "2025-12-23T03:07:13Z",
+    "period": 3,
+    "clock": "11:49",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Gallimore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left tackle to IND 3 for 1 yard (N.Gallimore)."
+  },
+  {
+    "wallclock": "2025-12-23T03:07:51Z",
+    "period": 3,
+    "clock": "11:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-23T03:08:31Z",
+    "period": 3,
+    "clock": "10:58",
+    "play_type": "Passing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Purdy pass short right to J.Jennings for 3 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-23T03:09:26Z",
+    "period": 3,
+    "clock": "10:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:58."
+  },
+  {
+    "wallclock": "2025-12-23T03:12:11Z",
+    "period": 3,
+    "clock": "10:58",
+    "play_type": "Kickoff",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Owen",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 63 yards from SF 35 to IND 2. C.Owen to IND 35 for 33 yards (J.Brown)."
+  },
+  {
+    "wallclock": "2025-12-23T03:13:05Z",
+    "period": 3,
+    "clock": "10:53",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right guard to IND 35 for no gain (T.Bethune; K.Davis).PENALTY on SF-D.Lenoir, Unnecessary Roughness, 15 yards, enforced at IND 35."
+  },
+  {
+    "wallclock": "2025-12-23T03:14:22Z",
+    "period": 3,
+    "clock": "10:25",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to SF 49 for 1 yard (K.Davis; T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-23T03:15:01Z",
+    "period": 3,
+    "clock": "9:46",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short middle to M.Pittman to SF 35 for 14 yards (M.Mustapha).San Francisco challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-12-23T03:18:50Z",
+    "period": 3,
+    "clock": "9:13",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Okuayinonu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Taylor right tackle to SF 33 for 2 yards (S.Okuayinonu)."
+  },
+  {
+    "wallclock": "2025-12-23T03:19:35Z",
+    "period": 3,
+    "clock": "8:29",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass incomplete short middle to T.Warren (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-23T03:20:19Z",
+    "period": 3,
+    "clock": "8:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass incomplete short middle to J.Downs (U.Stout) [B.Huff]."
+  },
+  {
+    "wallclock": "2025-12-23T03:21:10Z",
+    "period": 3,
+    "clock": "8:16",
+    "play_type": "Field Goal Good",
+    "yards": 51,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "B.Grupe 51 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-12-23T03:21:26Z",
+    "period": 3,
+    "clock": "8:16",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:16."
+  },
+  {
+    "wallclock": "2025-12-23T03:24:11Z",
+    "period": 3,
+    "clock": "8:16",
+    "play_type": "Kickoff",
+    "yards": 31,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Abdullah",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 64 yards from IND 35 to SF 1. S.Moore to SF 32 for 31 yards (A.Abdullah)."
+  },
+  {
+    "wallclock": "2025-12-23T03:24:59Z",
+    "period": 3,
+    "clock": "8:10",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Ebukam",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right tackle to SF 39 for 7 yards (S.Ebukam)."
+  },
+  {
+    "wallclock": "2025-12-23T03:25:34Z",
+    "period": 3,
+    "clock": "7:35",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right guard to SF 48 for 9 yards (N.Cross; C.Bynum)."
+  },
+  {
+    "wallclock": "2025-12-23T03:26:12Z",
+    "period": 3,
+    "clock": "6:58",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass deep middle to J.Jennings to IND 33 for 19 yards (J.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-23T03:26:58Z",
+    "period": 3,
+    "clock": "6:12",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Ebukam",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson right tackle to IND 22 for 11 yards (S.Ebukam; J.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-23T03:27:36Z",
+    "period": 3,
+    "clock": "5:34",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Cross",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right guard to IND 21 for 1 yard (N.Cross; G.Pratt)."
+  },
+  {
+    "wallclock": "2025-12-23T03:28:18Z",
+    "period": 3,
+    "clock": "4:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short right to C.McCaffrey."
+  },
+  {
+    "wallclock": "2025-12-23T03:28:59Z",
+    "period": 3,
+    "clock": "4:46",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short left to K.Bourne to IND 19 for 2 yards (K.Moore)."
+  },
+  {
+    "wallclock": "2025-12-23T03:29:39Z",
+    "period": 3,
+    "clock": "4:02",
+    "play_type": "Field Goal Good",
+    "yards": 38,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " E.Pineiro 38 yard field goal is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-23T03:29:53Z",
+    "period": 3,
+    "clock": "4:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:02."
+  },
+  {
+    "wallclock": "2025-12-23T03:32:38Z",
+    "period": 3,
+    "clock": "4:02",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the IND 35."
+  },
+  {
+    "wallclock": "2025-12-23T03:33:21Z",
+    "period": 3,
+    "clock": "4:02",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to IND 38 for 3 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-12-23T03:34:01Z",
+    "period": 3,
+    "clock": "3:23",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor right tackle to IND 43 for 5 yards (K.White; T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-23T03:34:44Z",
+    "period": 3,
+    "clock": "2:39",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Abdullah",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short right to A.Abdullah to IND 47 for 4 yards (D.Lenoir)."
+  },
+  {
+    "wallclock": "2025-12-23T03:35:23Z",
+    "period": 3,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Alie-Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short middle to M.Alie-Cox to SF 45 for 8 yards (J.Brown; T.Bethune). SF-T.Bethune was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-23T03:36:29Z",
+    "period": 3,
+    "clock": "1:45",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:45."
+  },
+  {
+    "wallclock": "2025-12-23T03:37:05Z",
+    "period": 3,
+    "clock": "1:33",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short left to M.Pittman to SF 46 for -1 yards (J.Brown)."
+  },
+  {
+    "wallclock": "2025-12-23T03:37:45Z",
+    "period": 3,
+    "clock": "0:53",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Taylor up the middle to SF 43 for 3 yards (J.Brown)."
+  },
+  {
+    "wallclock": "2025-12-23T03:38:29Z",
+    "period": 3,
+    "clock": "0:09",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "L.Tenuta",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "L.Tenuta reported in as eligible.  J.Taylor left guard to SF 42 for 1 yard (M.Mustapha)."
+  },
+  {
+    "wallclock": "2025-12-23T03:38:29Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-23T03:41:40Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short left to T.Warren ran ob at SF 23 for 19 yards (D.Luter) [M.Mustapha]."
+  },
+  {
+    "wallclock": "2025-12-23T03:42:22Z",
+    "period": 4,
+    "clock": "14:34",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Kendricks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) P.Rivers pass short left to T.Warren to SF 15 for 8 yards (E.Kendricks; D.Winters)."
+  },
+  {
+    "wallclock": "2025-12-23T03:42:48Z",
+    "period": 4,
+    "clock": "14:08",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) J.Taylor left tackle to SF 9 for 6 yards (D.Luter)."
+  },
+  {
+    "wallclock": "2025-12-23T03:43:28Z",
+    "period": 4,
+    "clock": "13:28",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Alie-Cox",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short right to M.Alie-Cox to SF 1 for 8 yards (M.Mustapha; D.Lenoir)."
+  },
+  {
+    "wallclock": "2025-12-23T03:44:11Z",
+    "period": 4,
+    "clock": "12:41",
+    "play_type": "Rushing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) J.Taylor up the middle for 1 yard, TOUCHDOWN. B.Grupe extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+  },
+  {
+    "wallclock": "2025-12-23T03:45:04Z",
+    "period": 4,
+    "clock": "12:41",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:41."
+  },
+  {
+    "wallclock": "2025-12-23T03:47:52Z",
+    "period": 4,
+    "clock": "12:41",
+    "play_type": "Kickoff",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Grupe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Odum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Grupe kicks 52 yards from IND 35 to SF 13. S.Moore to SF 30 for 17 yards (G.Odum)."
+  },
+  {
+    "wallclock": "2025-12-23T03:48:43Z",
+    "period": 4,
+    "clock": "12:35",
+    "play_type": "Pass Reception",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Blackmon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short left to J.Jennings to SF 47 for 17 yards (M.Blackmon)."
+  },
+  {
+    "wallclock": "2025-12-23T03:49:21Z",
+    "period": 4,
+    "clock": "11:57",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey up the middle to IND 48 for 5 yards (C.Mitchell)."
+  },
+  {
+    "wallclock": "2025-12-23T03:49:56Z",
+    "period": 4,
+    "clock": "11:22",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Gallimore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey right end pushed ob at IND 44 for 4 yards (N.Gallimore)."
+  },
+  {
+    "wallclock": "2025-12-23T03:50:35Z",
+    "period": 4,
+    "clock": "10:45",
+    "play_type": "Rush",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Mitchell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left tackle pushed ob at IND 20 for 24 yards (C.Mitchell)."
+  },
+  {
+    "wallclock": "2025-12-23T03:51:20Z",
+    "period": 4,
+    "clock": "10:03",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson up the middle to IND 19 for 1 yard (G.Stewart; K.Paye)."
+  },
+  {
+    "wallclock": "2025-12-23T03:52:11Z",
+    "period": 4,
+    "clock": "9:18",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by SF at 09:18."
+  },
+  {
+    "wallclock": "2025-12-23T03:53:21Z",
+    "period": 4,
+    "clock": "9:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Pratt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short left to B.Robinson (G.Pratt)."
+  },
+  {
+    "wallclock": "2025-12-23T03:54:04Z",
+    "period": 4,
+    "clock": "9:14",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short middle to J.Jennings to IND 8 for 11 yards (J.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-23T03:54:45Z",
+    "period": 4,
+    "clock": "8:33",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Latu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Buckner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey up the middle to IND 9 for -1 yards (L.Latu, D.Buckner)."
+  },
+  {
+    "wallclock": "2025-12-23T03:55:27Z",
+    "period": 4,
+    "clock": "7:51",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short right to J.Tonges (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-12-23T03:56:16Z",
+    "period": 4,
+    "clock": "7:37",
+    "play_type": "Passing Touchdown",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Purdy pass short left to C.McCaffrey for 9 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-23T03:57:08Z",
+    "period": 4,
+    "clock": "7:37",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:37."
+  },
+  {
+    "wallclock": "2025-12-23T04:00:03Z",
+    "period": 4,
+    "clock": "7:37",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Goodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Apple",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Olubi",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 64 yards from SF 35 to IND 1. T.Goodson to SF 41 for 58 yards (E.Apple).PENALTY on IND-S.Olubi, Offensive Holding, 10 yards, enforced at IND 30.Penalty on IND-B.Johnson, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-12-23T04:01:31Z",
+    "period": 4,
+    "clock": "7:29",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pinter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers sacked at IND 13 for -7 yards (A.Collins). FUMBLES (A.Collins), recovered by IND-D.Pinter at IND 5. ** Injury Update: IND-D.Tucker has returned to the game. ** Injury Update: SF-T.Bethune has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-23T04:02:19Z",
+    "period": 4,
+    "clock": "6:42",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass incomplete short right to T.Warren (D.Winters)."
+  },
+  {
+    "wallclock": "2025-12-23T04:03:00Z",
+    "period": 4,
+    "clock": "6:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Downs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.White",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass incomplete deep left to J.Downs [K.White]."
+  },
+  {
+    "wallclock": "2025-12-23T04:03:42Z",
+    "period": 4,
+    "clock": "6:32",
+    "play_type": "Punt",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Sanchez",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Rhodes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ajiake",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Sanchez punts 47 yards to SF 48, Center-L.Rhodes. S.Moore to IND 44 for 8 yards (L.Rhodes; A.Ajiake)."
+  },
+  {
+    "wallclock": "2025-12-23T04:04:22Z",
+    "period": 4,
+    "clock": "6:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:20."
+  },
+  {
+    "wallclock": "2025-12-23T04:05:06Z",
+    "period": 4,
+    "clock": "6:20",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Franklin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right tackle to IND 43 for 1 yard (Z.Franklin)."
+  },
+  {
+    "wallclock": "2025-12-23T04:05:46Z",
+    "period": 4,
+    "clock": "5:40",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Stewart",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short middle to C.McCaffrey to IND 40 for 3 yards (G.Stewart)."
+  },
+  {
+    "wallclock": "2025-12-23T04:06:28Z",
+    "period": 4,
+    "clock": "4:58",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short right to J.Tonges ran ob at IND 33 for 7 yards."
+  },
+  {
+    "wallclock": "2025-12-23T04:07:07Z",
+    "period": 4,
+    "clock": "4:52",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Paye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left end to IND 34 for -1 yards (K.Paye)."
+  },
+  {
+    "wallclock": "2025-12-23T04:07:22Z",
+    "period": 4,
+    "clock": "4:47",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by IND at 04:47."
+  },
+  {
+    "wallclock": "2025-12-23T04:08:14Z",
+    "period": 4,
+    "clock": "4:47",
+    "play_type": "Pass Interception Return",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Bynum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass short middle intended for K.Bourne INTERCEPTED by C.Bynum at IND 21. C.Bynum to IND 29 for 8 yards (J.Tonges)."
+  },
+  {
+    "wallclock": "2025-12-23T04:09:13Z",
+    "period": 4,
+    "clock": "4:37",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Pittman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) P.Rivers pass short right to M.Pittman to IND 38 for 9 yards (D.Luter)."
+  },
+  {
+    "wallclock": "2025-12-23T04:09:38Z",
+    "period": 4,
+    "clock": "4:13",
+    "play_type": "Pass Reception",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Pierce",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) P.Rivers pass deep right to A.Pierce to SF 29 for 33 yards (D.Lenoir)."
+  },
+  {
+    "wallclock": "2025-12-23T04:10:13Z",
+    "period": 4,
+    "clock": "3:26",
+    "play_type": "Interception Return Touchdown",
+    "yards": 74,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Rivers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Warren",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) P.Rivers pass short middle intended for T.Warren INTERCEPTED by D.Winters at SF 26. D.Winters for 74 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-23T04:12:31Z",
+    "period": 4,
+    "clock": "3:26",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the IND 35."
+  },
+  {
+    "wallclock": "2025-12-23T04:13:24Z",
+    "period": 4,
+    "clock": "3:26",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Goodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Okuayinonu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Goodson right end to IND 41 for 6 yards (S.Okuayinonu; M.Mustapha)."
+  },
+  {
+    "wallclock": "2025-12-23T04:14:04Z",
+    "period": 4,
+    "clock": "2:46",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Goodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Goodson right end to IND 44 for 3 yards (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-23T04:14:45Z",
+    "period": 4,
+    "clock": "2:05",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Goodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Kendricks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Goodson left end to IND 44 for no gain (D.Luter; E.Kendricks)."
+  },
+  {
+    "wallclock": "2025-12-23T04:14:59Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-23T04:17:57Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Leonard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Owen",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Leonard pass incomplete short left to C.Owen."
+  },
+  {
+    "wallclock": "2025-12-23T04:18:38Z",
+    "period": 4,
+    "clock": "1:56",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones kneels to IND 44 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-23T04:19:19Z",
+    "period": 4,
+    "clock": "1:15",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones kneels to IND 45 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-23T04:19:57Z",
+    "period": 4,
+    "clock": "0:37",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Jones kneels to IND 46 for -1 yards."
+  },
+  {
+    "wallclock": "2025-12-23T04:19:57Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

@@ -1,0 +1,4568 @@
+[
+  {
+    "wallclock": "2025-12-29T01:23:26Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tryon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 66 yards from CHI 35 to SF -1. S.Moore to SF 24 for 25 yards (J.Tryon)."
+  },
+  {
+    "wallclock": "2025-12-29T01:24:10Z",
+    "period": 1,
+    "clock": "14:45",
+    "play_type": "Interception Return Touchdown",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Purdy pass short right intended for J.Jennings INTERCEPTED by T.Edwards (J.Johnson) at SF 34. T.Edwards for 34 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-12-29T01:26:34Z",
+    "period": 1,
+    "clock": "14:45",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 65 yards from CHI 35 to end zone, Touchback to the SF 35."
+  },
+  {
+    "wallclock": "2025-12-29T01:27:16Z",
+    "period": 1,
+    "clock": "14:45",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass incomplete short right to R.Pearsall."
+  },
+  {
+    "wallclock": "2025-12-29T01:27:58Z",
+    "period": 1,
+    "clock": "14:40",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right end to SF 38 for 3 yards (C.Gardner-Johnson; T.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-29T01:28:36Z",
+    "period": 1,
+    "clock": "14:02",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short middle to J.Tonges to CHI 44 for 18 yards (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-12-29T01:29:10Z",
+    "period": 1,
+    "clock": "13:28",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right tackle to CHI 35 for 9 yards (T.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-29T01:29:50Z",
+    "period": 1,
+    "clock": "12:47",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Jarrett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " C.McCaffrey left guard to CHI 34 for 1 yard (G.Jarrett; G.Dexter)."
+  },
+  {
+    "wallclock": "2025-12-29T01:30:35Z",
+    "period": 1,
+    "clock": "12:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass incomplete short middle to C.McCaffrey (A.Booker)."
+  },
+  {
+    "wallclock": "2025-12-29T01:31:13Z",
+    "period": 1,
+    "clock": "11:59",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short right to J.Tonges to CHI 26 for 8 yards (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-12-29T01:31:52Z",
+    "period": 1,
+    "clock": "11:20",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass deep middle to D.Robinson to CHI 1 for 25 yards (N.Wright).Penalty on CHI-J.Johnson, Defensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-12-29T01:32:38Z",
+    "period": 1,
+    "clock": "10:57",
+    "play_type": "Passing Touchdown",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Purdy pass short left to J.Tonges for 1 yard, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-29T01:33:27Z",
+    "period": 1,
+    "clock": "10:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:57."
+  },
+  {
+    "wallclock": "2025-12-29T01:36:41Z",
+    "period": 1,
+    "clock": "10:57",
+    "play_type": "Kickoff",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Blackwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Gifford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 66 yards from SF 35 to CHI -1. J.Blackwell to CHI 29 for 30 yards (L.Gifford)."
+  },
+  {
+    "wallclock": "2025-12-29T01:37:26Z",
+    "period": 1,
+    "clock": "10:52",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kmet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short middle to C.Kmet to CHI 36 for 7 yards (T.Bethune) [J.Elliott]."
+  },
+  {
+    "wallclock": "2025-12-29T01:37:58Z",
+    "period": 1,
+    "clock": "10:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benedet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Elliott",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Benedet reported in as eligible.  C.Williams pass incomplete short middle to D.Swift (J.Elliott)."
+  },
+  {
+    "wallclock": "2025-12-29T01:38:40Z",
+    "period": 1,
+    "clock": "10:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass incomplete short right to J.Walker (M.Mustapha)."
+  },
+  {
+    "wallclock": "2025-12-29T01:39:50Z",
+    "period": 1,
+    "clock": "10:07",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Taylor punts 64 yards to end zone, Center-S.Daly, Touchback."
+  },
+  {
+    "wallclock": "2025-12-29T01:40:08Z",
+    "period": 1,
+    "clock": "9:59",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:59."
+  },
+  {
+    "wallclock": "2025-12-29T01:42:56Z",
+    "period": 1,
+    "clock": "9:59",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short middle to J.Tonges to SF 31 for 11 yards (T.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-29T01:43:31Z",
+    "period": 1,
+    "clock": "9:24",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) C.McCaffrey right end to SF 31 for no gain (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-12-29T01:44:14Z",
+    "period": 1,
+    "clock": "8:41",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tryon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy scrambles right tackle to SF 35 for 4 yards (J.Tryon)."
+  },
+  {
+    "wallclock": "2025-12-29T01:45:00Z",
+    "period": 1,
+    "clock": "7:56",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short left to J.Tonges (A.Booker)."
+  },
+  {
+    "wallclock": "2025-12-29T01:45:40Z",
+    "period": 1,
+    "clock": "7:52",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Morstead punts 49 yards to CHI 16, Center-J.Weeks, fair catch by D.Duvernay."
+  },
+  {
+    "wallclock": "2025-12-29T01:46:00Z",
+    "period": 1,
+    "clock": "7:44",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:44."
+  },
+  {
+    "wallclock": "2025-12-29T01:48:46Z",
+    "period": 1,
+    "clock": "7:44",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Gifford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Monangai left guard to CHI 18 for 2 yards (L.Gifford)."
+  },
+  {
+    "wallclock": "2025-12-29T01:49:27Z",
+    "period": 1,
+    "clock": "7:03",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Monangai right guard to CHI 22 for 4 yards (B.Huff; K.Davis)."
+  },
+  {
+    "wallclock": "2025-12-29T01:50:02Z",
+    "period": 1,
+    "clock": "6:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short left to D.Moore (J.Brown)."
+  },
+  {
+    "wallclock": "2025-12-29T01:50:38Z",
+    "period": 1,
+    "clock": "6:24",
+    "play_type": "Punt",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Blackwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Homer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Taylor punts 55 yards to SF 23, Center-S.Daly. S.Moore to SF 34 for 11 yards (J.Blackwell; T.Homer)."
+  },
+  {
+    "wallclock": "2025-12-29T01:51:32Z",
+    "period": 1,
+    "clock": "6:13",
+    "play_type": "Rush",
+    "yards": 41,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Billings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left guard to CHI 25 for 41 yards (A.Billings; J.Brisker). CHI-N.Wright was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-29T01:53:02Z",
+    "period": 1,
+    "clock": "5:36",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Byard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right guard to CHI 10 for 15 yards (J.Brisker; K.Byard)."
+  },
+  {
+    "wallclock": "2025-12-29T01:53:40Z",
+    "period": 1,
+    "clock": "4:52",
+    "play_type": "Rushing Touchdown",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Purdy scrambles left end for 10 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-29T01:54:39Z",
+    "period": 1,
+    "clock": "4:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:52."
+  },
+  {
+    "wallclock": "2025-12-29T01:57:53Z",
+    "period": 1,
+    "clock": "4:52",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Blackwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Willis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Neal",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 67 yards from SF 35 to CHI -2. J.Blackwell to CHI 23 for 25 yards (B.Willis; S.Neal)."
+  },
+  {
+    "wallclock": "2025-12-29T01:58:40Z",
+    "period": 1,
+    "clock": "4:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass incomplete short left to C.Loveland (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-29T01:59:23Z",
+    "period": 1,
+    "clock": "4:42",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short left to L.Burden ran ob at CHI 33 for 10 yards (D.Luter)."
+  },
+  {
+    "wallclock": "2025-12-29T02:00:02Z",
+    "period": 1,
+    "clock": "4:04",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift right end to CHI 41 for 8 yards (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-29T02:00:40Z",
+    "period": 1,
+    "clock": "3:26",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kmet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short left to C.Kmet to 50 for 9 yards (T.Bethune).PENALTY on SF-T.Bethune, Low Block, 15 yards, enforced at 50."
+  },
+  {
+    "wallclock": "2025-12-29T02:01:50Z",
+    "period": 1,
+    "clock": "2:58",
+    "play_type": "Passing Touchdown",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) C.Williams pass deep middle to L.Burden for 35 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor.PENALTY on SF-A.Collins, Leverage, 15 yards, enforced between downs."
+  },
+  {
+    "wallclock": "2025-12-29T02:03:33Z",
+    "period": 1,
+    "clock": "2:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:58."
+  },
+  {
+    "wallclock": "2025-12-29T02:06:29Z",
+    "period": 1,
+    "clock": "2:58",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 35 yards from 50 to SF 15, out of bounds.PENALTY on CHI-C.Santos, Kickoff Out of Bounds, placed at SF 25."
+  },
+  {
+    "wallclock": "2025-12-29T02:07:19Z",
+    "period": 1,
+    "clock": "2:58",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short left to R.Pearsall. ** Injury Update: CHI-N.Wright has returned to the game."
+  },
+  {
+    "wallclock": "2025-12-29T02:07:59Z",
+    "period": 1,
+    "clock": "2:54",
+    "play_type": "Pass Reception",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass deep left to R.Pearsall to CHI 45 for 30 yards (T.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-29T02:08:40Z",
+    "period": 1,
+    "clock": "2:13",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right tackle to CHI 38 for 7 yards (T.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-29T02:09:14Z",
+    "period": 1,
+    "clock": "1:38",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Booker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " C.McCaffrey right tackle to CHI 37 for 1 yard (A.Booker; J.Johnson)."
+  },
+  {
+    "wallclock": "2025-12-29T02:10:16Z",
+    "period": 1,
+    "clock": "1:21",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy right end to CHI 33 for 4 yards (M.Sweat)."
+  },
+  {
+    "wallclock": "2025-12-29T02:10:53Z",
+    "period": 1,
+    "clock": "0:45",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Billings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left end to CHI 34 for -1 yards (A.Billings, N.Sewell)."
+  },
+  {
+    "wallclock": "2025-12-29T02:10:53Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-12-29T02:14:37Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass short right to R.Pearsall to CHI 21 for 13 yards (J.Johnson)."
+  },
+  {
+    "wallclock": "2025-12-29T02:15:10Z",
+    "period": 2,
+    "clock": "14:28",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left guard to CHI 5 for 16 yards (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-12-29T02:15:49Z",
+    "period": 2,
+    "clock": "13:44",
+    "play_type": "Rushing Touchdown",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "C.McCaffrey right end for 5 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-29T02:16:40Z",
+    "period": 2,
+    "clock": "13:44",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:44."
+  },
+  {
+    "wallclock": "2025-12-29T02:19:55Z",
+    "period": 2,
+    "clock": "13:44",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the CHI 35."
+  },
+  {
+    "wallclock": "2025-12-29T02:20:44Z",
+    "period": 2,
+    "clock": "13:44",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Monangai right tackle to SF 47 for 18 yards (J.Brown)."
+  },
+  {
+    "wallclock": "2025-12-29T02:21:18Z",
+    "period": 2,
+    "clock": "13:11",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) C.Williams pass short left to K.Monangai to SF 36 for 11 yards (U.Stout)."
+  },
+  {
+    "wallclock": "2025-12-29T02:22:01Z",
+    "period": 2,
+    "clock": "12:20",
+    "play_type": "Passing Touchdown",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benedet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "T.Benedet reported in as eligible.  C.Williams pass deep right to C.Loveland for 36 yards, TOUCHDOWN.Penalty on SF-K.Davis, Defensive Offside, declined. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-12-29T02:24:28Z",
+    "period": 2,
+    "clock": "12:20",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Homer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Hardy",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 58 yards from CHI 35 to SF 7. S.Moore to SF 28 for 21 yards (T.Homer; D.Hardy)."
+  },
+  {
+    "wallclock": "2025-12-29T02:25:16Z",
+    "period": 2,
+    "clock": "12:13",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Billings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey up the middle to SF 32 for 4 yards (A.Billings; G.Dexter)."
+  },
+  {
+    "wallclock": "2025-12-29T02:25:54Z",
+    "period": 2,
+    "clock": "11:36",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short middle to J.Tonges to SF 42 for 10 yards (J.Brisker)."
+  },
+  {
+    "wallclock": "2025-12-29T02:26:30Z",
+    "period": 2,
+    "clock": "11:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tryon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right guard to SF 45 for 3 yards (C.Gardner-Johnson; J.Tryon)."
+  },
+  {
+    "wallclock": "2025-12-29T02:27:08Z",
+    "period": 2,
+    "clock": "10:21",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tryon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " S.Moore left end to CHI 45 for 10 yards (J.Tryon)."
+  },
+  {
+    "wallclock": "2025-12-29T02:27:49Z",
+    "period": 2,
+    "clock": "9:41",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Purdy sacked at SF 48 for -7 yards (A.Booker)."
+  },
+  {
+    "wallclock": "2025-12-29T02:28:33Z",
+    "period": 2,
+    "clock": "8:57",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short middle to C.McCaffrey to CHI 38 for 14 yards (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-12-29T02:29:32Z",
+    "period": 2,
+    "clock": "8:12",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by SF at 08:12."
+  },
+  {
+    "wallclock": "2025-12-29T02:30:26Z",
+    "period": 2,
+    "clock": "8:12",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short left to J.Tonges (J.Brisker)."
+  },
+  {
+    "wallclock": "2025-12-29T02:31:10Z",
+    "period": 2,
+    "clock": "8:07",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Purdy pass short middle to R.Pearsall to CHI 24 for 14 yards (N.Wright)."
+  },
+  {
+    "wallclock": "2025-12-29T02:31:46Z",
+    "period": 2,
+    "clock": "7:31",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right tackle to CHI 20 for 4 yards (M.Sweat)."
+  },
+  {
+    "wallclock": "2025-12-29T02:32:27Z",
+    "period": 2,
+    "clock": "6:50",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Booker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to CHI 16 for 4 yards (A.Booker; T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-12-29T02:33:06Z",
+    "period": 2,
+    "clock": "6:11",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey right guard to CHI 9 for 7 yards (G.Dexter; J.Brisker)."
+  },
+  {
+    "wallclock": "2025-12-29T02:33:43Z",
+    "period": 2,
+    "clock": "5:34",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tryon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right end to CHI 11 for -2 yards (J.Tryon)."
+  },
+  {
+    "wallclock": "2025-12-29T02:34:21Z",
+    "period": 2,
+    "clock": "4:56",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Purdy pass short left to J.Jennings to CHI 7 for 4 yards (N.Wright)."
+  },
+  {
+    "wallclock": "2025-12-29T02:34:56Z",
+    "period": 2,
+    "clock": "4:21",
+    "play_type": "Penalty",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brendel",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short right intended for R.Pearsall INTERCEPTED by C.Gardner-Johnson at CHI -3. C.Gardner-Johnson to CHI 8 for 11 yards (J.Brendel).PENALTY on CHI-C.Gardner-Johnson, Illegal Use of Hands, 4 yards, enforced at CHI 7 - No Play."
+  },
+  {
+    "wallclock": "2025-12-29T02:36:07Z",
+    "period": 2,
+    "clock": "4:12",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left guard to CHI 3 for no gain (J.Brisker; T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-12-29T02:36:55Z",
+    "period": 2,
+    "clock": "3:27",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by SF at 03:27."
+  },
+  {
+    "wallclock": "2025-12-29T02:37:54Z",
+    "period": 2,
+    "clock": "3:23",
+    "play_type": "Rushing Touchdown",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Purdy left end for 3 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-29T02:38:39Z",
+    "period": 2,
+    "clock": "3:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:23."
+  },
+  {
+    "wallclock": "2025-12-29T02:41:42Z",
+    "period": 2,
+    "clock": "3:23",
+    "play_type": "Kickoff",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pinnock",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Homer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 64 yards from SF 35 to CHI 1. D.Duvernay pushed ob at CHI 31 for 30 yards (J.Pinnock).PENALTY on CHI-T.Homer, Offensive Holding, 10 yards, enforced at CHI 30."
+  },
+  {
+    "wallclock": "2025-12-29T02:42:34Z",
+    "period": 2,
+    "clock": "3:18",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " C.Williams scrambles right end ran ob at CHI 22 for 2 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-12-29T02:43:16Z",
+    "period": 2,
+    "clock": "2:39",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Swift right tackle to CHI 31 for 9 yards (B.Huff; T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-29T02:43:58Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-29T02:47:00Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Swift right tackle to CHI 34 for 3 yards (K.White; A.Collins)."
+  },
+  {
+    "wallclock": "2025-12-29T02:47:32Z",
+    "period": 2,
+    "clock": "1:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete deep right to C.Loveland."
+  },
+  {
+    "wallclock": "2025-12-29T02:48:18Z",
+    "period": 2,
+    "clock": "1:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Okuayinonu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete deep right [S.Okuayinonu]."
+  },
+  {
+    "wallclock": "2025-12-29T02:48:56Z",
+    "period": 2,
+    "clock": "1:15",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Taylor punts 57 yards to SF 9, Center-S.Daly. S.Moore to SF 9 for no gain (J.Jones)."
+  },
+  {
+    "wallclock": "2025-12-29T02:49:39Z",
+    "period": 2,
+    "clock": "1:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:06."
+  },
+  {
+    "wallclock": "2025-12-29T02:52:03Z",
+    "period": 2,
+    "clock": "1:06",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy scrambles right end to SF 11 for 2 yards (M.Sweat)."
+  },
+  {
+    "wallclock": "2025-12-29T02:52:24Z",
+    "period": 2,
+    "clock": "0:57",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CHI at 00:57."
+  },
+  {
+    "wallclock": "2025-12-29T02:53:13Z",
+    "period": 2,
+    "clock": "0:57",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) C.McCaffrey up the middle to SF 17 for 6 yards (T.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-29T02:53:28Z",
+    "period": 2,
+    "clock": "0:52",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CHI at 00:52."
+  },
+  {
+    "wallclock": "2025-12-29T02:54:22Z",
+    "period": 2,
+    "clock": "0:52",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short middle to J.Tonges to SF 22 for 5 yards (J.Brisker; T.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-29T02:54:40Z",
+    "period": 2,
+    "clock": "0:34",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Purdy pass short middle to D.Robinson to SF 27 for 5 yards (C.Gardner-Johnson)."
+  },
+  {
+    "wallclock": "2025-12-29T02:54:55Z",
+    "period": 2,
+    "clock": "0:19",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Jarrett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Purdy pass short left to C.McCaffrey to SF 33 for 6 yards (G.Jarrett; C.Gardner-Johnson)."
+  },
+  {
+    "wallclock": "2025-12-29T02:55:13Z",
+    "period": 2,
+    "clock": "0:12",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by SF at 00:12."
+  },
+  {
+    "wallclock": "2025-12-29T02:56:03Z",
+    "period": 2,
+    "clock": "0:12",
+    "play_type": "Rush",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Hicks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Byard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.McCaffrey up the middle to 50 for 17 yards (E.Hicks; K.Byard)."
+  },
+  {
+    "wallclock": "2025-12-29T02:56:03Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-12-29T03:10:24Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the CHI 35."
+  },
+  {
+    "wallclock": "2025-12-29T03:11:13Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Smythe",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short left to D.Smythe pushed ob at CHI 46 for 11 yards (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-29T03:11:53Z",
+    "period": 3,
+    "clock": "14:23",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short middle to D.Moore to SF 47 for 7 yards (M.Mustapha)."
+  },
+  {
+    "wallclock": "2025-12-29T03:12:24Z",
+    "period": 3,
+    "clock": "13:52",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Monangai up the middle to SF 42 for 5 yards (U.Stout)."
+  },
+  {
+    "wallclock": "2025-12-29T03:13:02Z",
+    "period": 3,
+    "clock": "13:13",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Okuayinonu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Monangai right tackle to SF 44 for -2 yards (S.Okuayinonu)."
+  },
+  {
+    "wallclock": "2025-12-29T03:13:39Z",
+    "period": 3,
+    "clock": "12:36",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to L.Burden to SF 46 for -2 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-12-29T03:14:20Z",
+    "period": 3,
+    "clock": "11:56",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass deep right to J.Walker pushed ob at SF 27 for 19 yards (M.Mustapha)."
+  },
+  {
+    "wallclock": "2025-12-29T03:15:01Z",
+    "period": 3,
+    "clock": "11:17",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pinnock",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short left to L.Burden to SF 3 for 24 yards (D.Luter; J.Pinnock)."
+  },
+  {
+    "wallclock": "2025-12-29T03:15:39Z",
+    "period": 3,
+    "clock": "10:38",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Monangai right tackle to SF 2 for 1 yard (T.Bethune; A.Collins)."
+  },
+  {
+    "wallclock": "2025-12-29T03:16:19Z",
+    "period": 3,
+    "clock": "9:58",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short middle to D.Moore."
+  },
+  {
+    "wallclock": "2025-12-29T03:16:59Z",
+    "period": 3,
+    "clock": "9:51",
+    "play_type": "Rushing Touchdown",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "D.Swift right end for 2 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-12-29T03:17:50Z",
+    "period": 3,
+    "clock": "9:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:51."
+  },
+  {
+    "wallclock": "2025-12-29T03:20:51Z",
+    "period": 3,
+    "clock": "9:51",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 65 yards from CHI 35 to end zone, Touchback to the SF 35."
+  },
+  {
+    "wallclock": "2025-12-29T03:21:37Z",
+    "period": 3,
+    "clock": "9:51",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Bourne",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass deep left to K.Bourne to CHI 40 for 25 yards (C.Gardner-Johnson)."
+  },
+  {
+    "wallclock": "2025-12-29T03:22:14Z",
+    "period": 3,
+    "clock": "9:14",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left guard to CHI 36 for 4 yards (M.Sweat)."
+  },
+  {
+    "wallclock": "2025-12-29T03:22:44Z",
+    "period": 3,
+    "clock": "8:45",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey left end to CHI 30 for 6 yards (N.Wright)."
+  },
+  {
+    "wallclock": "2025-12-29T03:23:23Z",
+    "period": 3,
+    "clock": "8:05",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Juszczyk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Sewell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass short right to K.Juszczyk to CHI 22 for 8 yards (J.Brisker). CHI-N.Sewell was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-29T03:23:57Z",
+    "period": 3,
+    "clock": "7:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:51."
+  },
+  {
+    "wallclock": "2025-12-29T03:26:49Z",
+    "period": 3,
+    "clock": "7:37",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right guard to CHI 17 for 5 yards (G.Dexter)."
+  },
+  {
+    "wallclock": "2025-12-29T03:27:33Z",
+    "period": 3,
+    "clock": "6:54",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Booker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Purdy pass short left to J.Tonges to CHI 12 for 5 yards (T.Edwards).\nPENALTY on CHI-A.Booker, Defensive Offside, 5 yards, enforced at CHI 17 - No Play."
+  },
+  {
+    "wallclock": "2025-12-29T03:28:32Z",
+    "period": 3,
+    "clock": "6:32",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right guard to CHI 12 for no gain (G.Dexter)."
+  },
+  {
+    "wallclock": "2025-12-29T03:29:12Z",
+    "period": 3,
+    "clock": "5:52",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short left to B.Robinson to CHI 6 for 6 yards (N.Wright; T.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-29T03:30:01Z",
+    "period": 3,
+    "clock": "4:52",
+    "play_type": "Passing Touchdown",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Juszczyk",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Purdy pass short left to K.Juszczyk for 6 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-29T03:30:59Z",
+    "period": 3,
+    "clock": "4:52",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:52."
+  },
+  {
+    "wallclock": "2025-12-29T03:34:14Z",
+    "period": 3,
+    "clock": "4:52",
+    "play_type": "Kickoff",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Blackwell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sigle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 63 yards from SF 35 to CHI 2. J.Blackwell to CHI 20 for 18 yards (M.Sigle)."
+  },
+  {
+    "wallclock": "2025-12-29T03:35:00Z",
+    "period": 3,
+    "clock": "4:47",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Gross-Matos",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift up the middle to CHI 25 for 5 yards (J.Brown; Y.Gross-Matos)."
+  },
+  {
+    "wallclock": "2025-12-29T03:35:30Z",
+    "period": 3,
+    "clock": "4:16",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short middle to D.Swift to CHI 35 for 10 yards (T.Bethune; U.Stout)."
+  },
+  {
+    "wallclock": "2025-12-29T03:36:08Z",
+    "period": 3,
+    "clock": "3:39",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.West",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Swift right tackle to CHI 37 for 2 yards (C.West)."
+  },
+  {
+    "wallclock": "2025-12-29T03:36:42Z",
+    "period": 3,
+    "clock": "3:05",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Moore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short right to D.Moore."
+  },
+  {
+    "wallclock": "2025-12-29T03:37:22Z",
+    "period": 3,
+    "clock": "3:02",
+    "play_type": "Pass Reception",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "U.Stout",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) C.Williams pass deep left to L.Burden to SF 36 for 27 yards (U.Stout).\nPenalty on SF-B.Huff, Defensive Offside, declined."
+  },
+  {
+    "wallclock": "2025-12-29T03:38:17Z",
+    "period": 3,
+    "clock": "2:33",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Huff",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift right guard to SF 38 for -2 yards (T.Bethune, B.Huff)."
+  },
+  {
+    "wallclock": "2025-12-29T03:38:52Z",
+    "period": 3,
+    "clock": "1:58",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short left to J.Walker ran ob at SF 27 for 11 yards."
+  },
+  {
+    "wallclock": "2025-12-29T03:39:31Z",
+    "period": 3,
+    "clock": "1:23",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Trapilo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Swift left end to SF 27 for no gain (D.Luter).PENALTY on CHI-O.Trapilo, Offensive Holding, 10 yards, enforced at SF 27 - No Play."
+  },
+  {
+    "wallclock": "2025-12-29T03:40:31Z",
+    "period": 3,
+    "clock": "1:03",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams scrambles left end to SF 31 for 6 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-12-29T03:41:19Z",
+    "period": 3,
+    "clock": "0:16",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Luter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short middle to C.Loveland to SF 22 for 9 yards (D.Luter)."
+  },
+  {
+    "wallclock": "2025-12-29T03:41:19Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-12-29T03:44:28Z",
+    "period": 4,
+    "clock": "14:54",
+    "play_type": "Rushing Touchdown",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Hardy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) D.Hardy reported in as eligible.  D.Swift right guard for 22 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-12-29T03:46:39Z",
+    "period": 4,
+    "clock": "14:54",
+    "play_type": "Kickoff",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jackson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 63 yards from CHI 35 to SF 2. S.Moore to SF 31 for 29 yards (D.Jackson)."
+  },
+  {
+    "wallclock": "2025-12-29T03:47:22Z",
+    "period": 4,
+    "clock": "14:48",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass short left to R.Pearsall ran ob at SF 39 for 8 yards (N.Wright)."
+  },
+  {
+    "wallclock": "2025-12-29T03:47:59Z",
+    "period": 4,
+    "clock": "14:13",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Puni",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right guard to SF 44 for 5 yards (D.Robinson; T.Edwards).PENALTY on SF-D.Puni, Offensive Holding, 10 yards, enforced at SF 39 - No Play."
+  },
+  {
+    "wallclock": "2025-12-29T03:48:53Z",
+    "period": 4,
+    "clock": "13:48",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy scrambles left tackle pushed ob at SF 34 for 5 yards (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-12-29T03:49:36Z",
+    "period": 4,
+    "clock": "13:07",
+    "play_type": "Pass Reception",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Wright",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass deep middle to R.Pearsall to CHI 46 for 20 yards (N.Wright)."
+  },
+  {
+    "wallclock": "2025-12-29T03:50:22Z",
+    "period": 4,
+    "clock": "12:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Pearsall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) B.Purdy pass incomplete deep right to R.Pearsall."
+  },
+  {
+    "wallclock": "2025-12-29T03:50:57Z",
+    "period": 4,
+    "clock": "12:16",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson right guard to CHI 43 for 3 yards (G.Dexter)."
+  },
+  {
+    "wallclock": "2025-12-29T03:51:40Z",
+    "period": 4,
+    "clock": "11:33",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short left to J.Jennings."
+  },
+  {
+    "wallclock": "2025-12-29T03:52:23Z",
+    "period": 4,
+    "clock": "11:30",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Morstead punts 32 yards to CHI 11, Center-J.Weeks, fair catch by D.Duvernay."
+  },
+  {
+    "wallclock": "2025-12-29T03:52:47Z",
+    "period": 4,
+    "clock": "11:23",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:23."
+  },
+  {
+    "wallclock": "2025-12-29T03:55:26Z",
+    "period": 4,
+    "clock": "11:23",
+    "play_type": "Pass Reception",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to L.Burden to CHI 36 for 25 yards (J.Brown; D.Lenoir)."
+  },
+  {
+    "wallclock": "2025-12-29T03:56:08Z",
+    "period": 4,
+    "clock": "10:41",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pinnock",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " C.Williams scrambles left end pushed ob at CHI 39 for 3 yards (J.Pinnock)."
+  },
+  {
+    "wallclock": "2025-12-29T03:56:50Z",
+    "period": 4,
+    "clock": "10:02",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) K.Monangai left end to CHI 45 for 6 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-12-29T03:57:30Z",
+    "period": 4,
+    "clock": "9:21",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams up the middle to CHI 48 for 3 yards (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-29T03:58:10Z",
+    "period": 4,
+    "clock": "8:42",
+    "play_type": "Pass Reception",
+    "yards": 32,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Gifford",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass deep left to C.Loveland to SF 20 for 32 yards (L.Gifford)."
+  },
+  {
+    "wallclock": "2025-12-29T03:58:56Z",
+    "period": 4,
+    "clock": "7:55",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on CHI, Delay of Game, 5 yards, enforced at SF 20 - No Play."
+  },
+  {
+    "wallclock": "2025-12-29T03:59:46Z",
+    "period": 4,
+    "clock": "7:55",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Benedet",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mustapha",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Benedet reported in as eligible.  K.Monangai right guard to SF 21 for 4 yards (T.Bethune; M.Mustapha)."
+  },
+  {
+    "wallclock": "2025-12-29T04:00:27Z",
+    "period": 4,
+    "clock": "7:14",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) C.Williams pass short left to K.Monangai pushed ob at SF 20 for 1 yard (D.Winters).\nPENALTY on SF-T.Bethune, Unnecessary Roughness, 10 yards, enforced at SF 20."
+  },
+  {
+    "wallclock": "2025-12-29T04:01:37Z",
+    "period": 4,
+    "clock": "6:52",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " C.Williams pass short right to C.Loveland to SF 8 for 2 yards (D.Lenoir)."
+  },
+  {
+    "wallclock": "2025-12-29T04:02:13Z",
+    "period": 4,
+    "clock": "6:15",
+    "play_type": "Pass Reception",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Williams pass short middle to K.Monangai to SF 11 for -3 yards (K.Davis)."
+  },
+  {
+    "wallclock": "2025-12-29T04:02:56Z",
+    "period": 4,
+    "clock": "5:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Monangai",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) C.Williams pass incomplete short left to K.Monangai."
+  },
+  {
+    "wallclock": "2025-12-29T04:03:39Z",
+    "period": 4,
+    "clock": "5:22",
+    "play_type": "Field Goal Good",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Daly",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Santos 29 yard field goal is GOOD, Center-S.Daly, Holder-T.Taylor."
+  },
+  {
+    "wallclock": "2025-12-29T04:03:47Z",
+    "period": 4,
+    "clock": "5:22",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 05:22."
+  },
+  {
+    "wallclock": "2025-12-29T04:06:52Z",
+    "period": 4,
+    "clock": "5:22",
+    "play_type": "Kickoff",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Santos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Moore",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Hicks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Santos kicks 60 yards from CHI 35 to SF 5. S.Moore MUFFS catch, and recovers at SF 8. S.Moore to SF 25 for 17 yards (E.Hicks)."
+  },
+  {
+    "wallclock": "2025-12-29T04:07:31Z",
+    "period": 4,
+    "clock": "5:17",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brisker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McCaffrey right tackle to SF 29 for 4 yards (J.Brisker)."
+  },
+  {
+    "wallclock": "2025-12-29T04:08:12Z",
+    "period": 4,
+    "clock": "4:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Gardner-Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short middle to C.McCaffrey (C.Gardner-Johnson)."
+  },
+  {
+    "wallclock": "2025-12-29T04:08:55Z",
+    "period": 4,
+    "clock": "4:32",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edwards",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass short right to J.Tonges to SF 36 for 7 yards (T.Edwards)."
+  },
+  {
+    "wallclock": "2025-12-29T04:09:30Z",
+    "period": 4,
+    "clock": "3:57",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Edmunds",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass short middle to C.McCaffrey to SF 39 for 3 yards (T.Edmunds)."
+  },
+  {
+    "wallclock": "2025-12-29T04:10:08Z",
+    "period": 4,
+    "clock": "3:18",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Tonges",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Purdy pass incomplete short right to J.Tonges.PENALTY on CHI-G.Dexter, Illegal Use of Hands, 5 yards, enforced at SF 39 - No Play."
+  },
+  {
+    "wallclock": "2025-12-29T04:11:04Z",
+    "period": 4,
+    "clock": "3:14",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McCaffrey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Sweat",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dexter",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Purdy pass short right to C.McCaffrey pushed ob at CHI 38 for 18 yards (M.Sweat; G.Dexter)."
+  },
+  {
+    "wallclock": "2025-12-29T04:11:49Z",
+    "period": 4,
+    "clock": "3:04",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Jarrett",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to CHI 38 for no gain (G.Jarrett; D.Robinson)."
+  },
+  {
+    "wallclock": "2025-12-29T04:12:30Z",
+    "period": 4,
+    "clock": "2:15",
+    "play_type": "Passing Touchdown",
+    "yards": 38,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Purdy",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Weeks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Morstead",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Purdy pass deep middle to J.Jennings for 38 yards, TOUCHDOWN. E.Pineiro extra point is GOOD, Center-J.Weeks, Holder-T.Morstead."
+  },
+  {
+    "wallclock": "2025-12-29T04:13:40Z",
+    "period": 4,
+    "clock": "2:15",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:15."
+  },
+  {
+    "wallclock": "2025-12-29T04:16:51Z",
+    "period": 4,
+    "clock": "2:15",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Pineiro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the CHI 35."
+  },
+  {
+    "wallclock": "2025-12-29T04:17:38Z",
+    "period": 4,
+    "clock": "2:15",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Swift right guard to CHI 40 for 5 yards (K.Davis)."
+  },
+  {
+    "wallclock": "2025-12-29T04:17:59Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-12-29T04:20:55Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lucas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short right to D.Swift.PENALTY on SF-C.Lucas, Defensive Holding, 5 yards, enforced at CHI 40 - No Play."
+  },
+  {
+    "wallclock": "2025-12-29T04:21:53Z",
+    "period": 4,
+    "clock": "1:55",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Collins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short middle to C.Loveland (A.Collins)."
+  },
+  {
+    "wallclock": "2025-12-29T04:22:35Z",
+    "period": 4,
+    "clock": "1:51",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lucas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to D.Swift to SF 49 for 6 yards (C.Lucas)."
+  },
+  {
+    "wallclock": "2025-12-29T04:23:08Z",
+    "period": 4,
+    "clock": "1:24",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by SF at 01:24."
+  },
+  {
+    "wallclock": "2025-12-29T04:24:15Z",
+    "period": 4,
+    "clock": "1:24",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams scrambles left end pushed ob at SF 45 for 4 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-12-29T04:25:01Z",
+    "period": 4,
+    "clock": "1:17",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short right to C.Loveland."
+  },
+  {
+    "wallclock": "2025-12-29T04:25:37Z",
+    "period": 4,
+    "clock": "1:13",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Kmet",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete deep left to C.Kmet."
+  },
+  {
+    "wallclock": "2025-12-29T04:26:18Z",
+    "period": 4,
+    "clock": "1:09",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to L.Burden to SF 31 for 14 yards (D.Lenoir)."
+  },
+  {
+    "wallclock": "2025-12-29T04:26:43Z",
+    "period": 4,
+    "clock": "0:45",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Bethune",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) C.Williams pass short left to L.Burden to SF 26 for 5 yards (T.Bethune)."
+  },
+  {
+    "wallclock": "2025-12-29T04:27:03Z",
+    "period": 4,
+    "clock": "0:40",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by CHI at 00:40."
+  },
+  {
+    "wallclock": "2025-12-29T04:27:54Z",
+    "period": 4,
+    "clock": "0:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Duvernay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short right to D.Duvernay."
+  },
+  {
+    "wallclock": "2025-12-29T04:28:38Z",
+    "period": 4,
+    "clock": "0:36",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short right to L.Burden."
+  },
+  {
+    "wallclock": "2025-12-29T04:29:19Z",
+    "period": 4,
+    "clock": "0:33",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by CHI at 00:33."
+  },
+  {
+    "wallclock": "2025-12-29T04:30:29Z",
+    "period": 4,
+    "clock": "0:33",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Winters",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to C.Loveland to SF 13 for 13 yards (D.Winters)."
+  },
+  {
+    "wallclock": "2025-12-29T04:30:59Z",
+    "period": 4,
+    "clock": "0:26",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by CHI at 00:26."
+  },
+  {
+    "wallclock": "2025-12-29T04:31:40Z",
+    "period": 4,
+    "clock": "0:26",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-12-29T04:32:21Z",
+    "period": 4,
+    "clock": "0:21",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Loveland",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Swift",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Lenoir",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brown",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass short right to C.Loveland to SF 11 for 2 yards. Lateral to D.Swift to SF 2 for 9 yards (D.Lenoir; J.Brown)."
+  },
+  {
+    "wallclock": "2025-12-29T04:32:36Z",
+    "period": 4,
+    "clock": "0:05",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle) C.Williams spiked the ball to stop the clock."
+  },
+  {
+    "wallclock": "2025-12-29T04:33:16Z",
+    "period": 4,
+    "clock": "0:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Gross-Matos",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Burden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) C.Williams pass incomplete short left to J.Walker [Y.Gross-Matos]. CHI-L.Burden was injured during the play."
+  },
+  {
+    "wallclock": "2025-12-29T04:33:16Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

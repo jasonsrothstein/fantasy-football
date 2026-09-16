@@ -1,0 +1,4160 @@
+[
+  {
+    "wallclock": "2025-09-14T17:02:53Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 26,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 59 yards from MIA 35 to NE 6. A.Gibson to NE 32 for 26 yards (D.Trader)."
+  },
+  {
+    "wallclock": "2025-09-14T17:03:35Z",
+    "period": 1,
+    "clock": "14:56",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson left tackle to NE 35 for 3 yards (Z.Sieler; Ja.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-14T17:04:14Z",
+    "period": 1,
+    "clock": "14:17",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson up the middle to NE 41 for 6 yards (B.Chubb; Z.Sieler)."
+  },
+  {
+    "wallclock": "2025-09-14T17:04:49Z",
+    "period": 1,
+    "clock": "13:41",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Stevenson left tackle to 50 for 9 yards (I.Melifonwu, M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-09-14T17:05:27Z",
+    "period": 1,
+    "clock": "13:03",
+    "play_type": "Sack",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye sacked at NE 47 for -3 yards (B.Chubb)."
+  },
+  {
+    "wallclock": "2025-09-14T17:06:11Z",
+    "period": 1,
+    "clock": "12:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Henry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short left to H.Henry (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-09-14T17:06:52Z",
+    "period": 1,
+    "clock": "12:16",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short middle to R.Stevenson to MIA 43 for 10 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-09-14T17:07:38Z",
+    "period": 1,
+    "clock": "11:30",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short middle to S.Diggs to MIA 33 for 10 yards (Ja.Phillips; I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-09-14T17:08:23Z",
+    "period": 1,
+    "clock": "10:46",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooper",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass deep left to A.Hooper to MIA 11 for 22 yards."
+  },
+  {
+    "wallclock": "2025-09-14T17:09:02Z",
+    "period": 1,
+    "clock": "10:10",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson right guard to MIA 8 for 3 yards (M.Butler)."
+  },
+  {
+    "wallclock": "2025-09-14T17:09:38Z",
+    "period": 1,
+    "clock": "9:29",
+    "play_type": "Passing Touchdown",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hollins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "D.Maye pass short right to M.Hollins for 8 yards, TOUCHDOWN. A.Borregales extra point is No Good, Hit Right Upright, Center-J.Ashby, Holder-B.Baringer."
+  },
+  {
+    "wallclock": "2025-09-14T17:11:21Z",
+    "period": 1,
+    "clock": "9:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:29."
+  },
+  {
+    "wallclock": "2025-09-14T17:13:45Z",
+    "period": 1,
+    "clock": "9:29",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Eskridge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 64 yards from NE 35 to MIA 1. D.Eskridge to MIA 25 for 24 yards (C.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-14T17:14:36Z",
+    "period": 1,
+    "clock": "9:22",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left guard to MIA 32 for 7 yards (K.Dugger)."
+  },
+  {
+    "wallclock": "2025-09-14T17:15:01Z",
+    "period": 1,
+    "clock": "8:56",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Achane left end to MIA 30 for -2 yards (M.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T17:15:42Z",
+    "period": 1,
+    "clock": "8:16",
+    "play_type": "Penalty",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Chaisson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short middle intended for T.Hill INTERCEPTED by J.Hawkins at MIA 41. J.Hawkins to MIA 39 for 2 yards (J.Hill).Penalty on NE-K.Chaisson, Defensive Offside, offsetting, enforced at MIA 30 - No Play.Penalty on MIA-K.Smith, Offensive Holding, offsetting."
+  },
+  {
+    "wallclock": "2025-09-14T17:16:58Z",
+    "period": 1,
+    "clock": "8:08",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short middle to D.Achane (R.Spillane)."
+  },
+  {
+    "wallclock": "2025-09-14T17:17:26Z",
+    "period": 1,
+    "clock": "8:04",
+    "play_type": "Punt",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 48 yards to NE 22, Center-J.Cardona. M.Jones to NE 30 for 8 yards (E.Campbell)."
+  },
+  {
+    "wallclock": "2025-09-14T17:18:00Z",
+    "period": 1,
+    "clock": "7:54",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:54."
+  },
+  {
+    "wallclock": "2025-09-14T17:20:35Z",
+    "period": 1,
+    "clock": "7:54",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson left guard to NE 33 for 3 yards (J.Brooks; B.Chubb)."
+  },
+  {
+    "wallclock": "2025-09-14T17:21:12Z",
+    "period": 1,
+    "clock": "7:16",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "W.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on NE-W.Campbell, False Start, 5 yards, enforced at NE 33 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:21:50Z",
+    "period": 1,
+    "clock": "7:07",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short middle to S.Diggs to NE 36 for 8 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-09-14T17:22:34Z",
+    "period": 1,
+    "clock": "6:22",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to T.Henderson to MIA 49 for 15 yards (M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-09-14T17:23:14Z",
+    "period": 1,
+    "clock": "5:43",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Judon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson left tackle to MIA 47 for 2 yards (Jo.Phillips; M.Judon)."
+  },
+  {
+    "wallclock": "2025-09-14T17:23:54Z",
+    "period": 1,
+    "clock": "5:03",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson up the middle to MIA 45 for 2 yards (Jo.Phillips; M.Butler)."
+  },
+  {
+    "wallclock": "2025-09-14T17:24:36Z",
+    "period": 1,
+    "clock": "4:20",
+    "play_type": "Rush",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye scrambles left guard pushed ob at MIA 32 for 13 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-09-14T17:25:20Z",
+    "period": 1,
+    "clock": "3:43",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye scrambles right end ran ob at MIA 26 for 6 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T17:26:01Z",
+    "period": 1,
+    "clock": "3:06",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Henderson up the middle to MIA 20 for 6 yards (M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-09-14T17:26:46Z",
+    "period": 1,
+    "clock": "2:22",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Henderson right tackle to MIA 18 for 2 yards (C.Robinson)."
+  },
+  {
+    "wallclock": "2025-09-14T17:27:29Z",
+    "period": 1,
+    "clock": "1:38",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Butler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson right tackle to MIA 16 for 2 yards (J.Brooks; M.Butler)."
+  },
+  {
+    "wallclock": "2025-09-14T17:28:13Z",
+    "period": 1,
+    "clock": "0:49",
+    "play_type": "Passing Touchdown",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Boutte",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) D.Maye pass deep left to K.Boutte for 16 yards, TOUCHDOWN. A.Borregales extra point is No Good, Wide Right, Center-J.Ashby, Holder-B.Baringer."
+  },
+  {
+    "wallclock": "2025-09-14T17:29:49Z",
+    "period": 1,
+    "clock": "0:49",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:49."
+  },
+  {
+    "wallclock": "2025-09-14T17:32:28Z",
+    "period": 1,
+    "clock": "0:49",
+    "play_type": "Kickoff",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Eskridge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Schooler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettus",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Britt",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 65 yards from NE 35 to MIA 0. D.Eskridge to MIA 27 for 27 yards (B.Schooler; D.Pettus).PENALTY on MIA-K.Britt, Offensive Holding, 10 yards, enforced at MIA 27."
+  },
+  {
+    "wallclock": "2025-09-14T17:33:49Z",
+    "period": 1,
+    "clock": "0:44",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Chaisson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Chaisson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to D.Achane to MIA 26 for 9 yards (K.Chaisson; K.Dugger).Penalty on NE-K.Chaisson, Defensive Offside, declined."
+  },
+  {
+    "wallclock": "2025-09-14T17:34:43Z",
+    "period": 1,
+    "clock": "0:17",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ingold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to A.Ingold to MIA 30 for 4 yards (K.Dugger)."
+  },
+  {
+    "wallclock": "2025-09-14T17:34:43Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-14T17:38:08Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right end to MIA 39 for 9 yards (J.Hawkins)."
+  },
+  {
+    "wallclock": "2025-09-14T17:38:50Z",
+    "period": 2,
+    "clock": "14:18",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass short right to T.Hill to NE 48 for 13 yards (C.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T17:39:34Z",
+    "period": 2,
+    "clock": "13:36",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left end to NE 44 for 4 yards (R.Spillane)."
+  },
+  {
+    "wallclock": "2025-09-14T17:40:17Z",
+    "period": 2,
+    "clock": "12:54",
+    "play_type": "Rush",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Washington right end to NE 26 for 18 yards (J.Hawkins; C.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T17:41:01Z",
+    "period": 2,
+    "clock": "12:10",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ponder",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "O.Gordon up the middle to NE 18 for 8 yards (C.Elliss; E.Ponder)."
+  },
+  {
+    "wallclock": "2025-09-14T17:41:46Z",
+    "period": 2,
+    "clock": "11:19",
+    "play_type": "Passing Touchdown",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Tagovailoa pass deep left to J.Waddle for 18 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-09-14T17:42:56Z",
+    "period": 2,
+    "clock": "11:19",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:19."
+  },
+  {
+    "wallclock": "2025-09-14T17:45:29Z",
+    "period": 2,
+    "clock": "11:19",
+    "play_type": "Kickoff",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goode",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 59 yards from MIA 35 to NE 6. A.Gibson to NE 25 for 19 yards (C.Goode; M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-09-14T17:46:18Z",
+    "period": 2,
+    "clock": "11:14",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass short right to A.Hooper to NE 34 for 9 yards (T.Dodson; Ja.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-14T17:46:58Z",
+    "period": 2,
+    "clock": "10:36",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Hooper",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass short right to A.Hooper to NE 41 for 7 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-09-14T17:47:40Z",
+    "period": 2,
+    "clock": "9:54",
+    "play_type": "Rush",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson up the middle to MIA 38 for 21 yards (R.Douglas; W.Gay)."
+  },
+  {
+    "wallclock": "2025-09-14T17:48:25Z",
+    "period": 2,
+    "clock": "9:08",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye sacked at MIA 43 for -5 yards (C.Robinson)."
+  },
+  {
+    "wallclock": "2025-09-14T17:49:08Z",
+    "period": 2,
+    "clock": "8:25",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Henry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short middle to H.Henry to MIA 30 for 13 yards (D.Trader).PENALTY on NE-T.Henderson, Offensive Holding, 10 yards, enforced at MIA 43 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:50:22Z",
+    "period": 2,
+    "clock": "8:04",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Marshall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short right.PENALTY on MIA-J.Marshall, Illegal Contact, 5 yards, enforced at NE 47 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:51:29Z",
+    "period": 2,
+    "clock": "7:57",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson up the middle to MIA 43 for 5 yards (M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-09-14T17:52:07Z",
+    "period": 2,
+    "clock": "7:17",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Moses",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NE-M.Moses, False Start, 5 yards, enforced at MIA 43 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T17:52:50Z",
+    "period": 2,
+    "clock": "6:53",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to T.Henderson to MIA 33 for 15 yards (B.Chubb)."
+  },
+  {
+    "wallclock": "2025-09-14T17:53:34Z",
+    "period": 2,
+    "clock": "6:10",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Henry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass short right to H.Henry pushed ob at MIA 24 for 9 yards (D.Trader; R.Douglas)."
+  },
+  {
+    "wallclock": "2025-09-14T17:54:25Z",
+    "period": 2,
+    "clock": "5:33",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye up the middle to MIA 21 for 3 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-09-14T17:54:59Z",
+    "period": 2,
+    "clock": "4:50",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to R.Stevenson to MIA 21 for no gain (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-09-14T17:55:35Z",
+    "period": 2,
+    "clock": "4:14",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson up the middle to MIA 12 for 9 yards (M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-09-14T17:56:14Z",
+    "period": 2,
+    "clock": "3:34",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Grant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye up the middle to MIA 10 for 2 yards (K.Grant)."
+  },
+  {
+    "wallclock": "2025-09-14T17:56:59Z",
+    "period": 2,
+    "clock": "2:49",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson right tackle to MIA 8 for 2 yards (T.Dodson; J.Brooks)."
+  },
+  {
+    "wallclock": "2025-09-14T17:57:24Z",
+    "period": 2,
+    "clock": "2:44",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIA at 02:44."
+  },
+  {
+    "wallclock": "2025-09-14T17:58:20Z",
+    "period": 2,
+    "clock": "2:44",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye scrambles left end pushed ob at MIA 4 for 4 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-09-14T17:59:11Z",
+    "period": 2,
+    "clock": "2:03",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NE at 02:03."
+  },
+  {
+    "wallclock": "2025-09-14T18:00:11Z",
+    "period": 2,
+    "clock": "2:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Henry",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Grant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass incomplete short left to H.Henry (K.Grant)."
+  },
+  {
+    "wallclock": "2025-09-14T18:00:30Z",
+    "period": 2,
+    "clock": "1:59",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-14T18:03:16Z",
+    "period": 2,
+    "clock": "1:56",
+    "play_type": "Field Goal Good",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "A.Borregales 22 yard field goal is GOOD, Center-J.Ashby, Holder-B.Baringer."
+  },
+  {
+    "wallclock": "2025-09-14T18:04:26Z",
+    "period": 2,
+    "clock": "1:56",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Eskridge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 63 yards from NE 35 to MIA 2. D.Eskridge to MIA 23 for 21 yards (C.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-14T18:05:44Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 01:51."
+  },
+  {
+    "wallclock": "2025-09-14T18:07:32Z",
+    "period": 2,
+    "clock": "1:51",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass deep right to T.Hill ran ob at MIA 45 for 22 yards."
+  },
+  {
+    "wallclock": "2025-09-14T18:08:14Z",
+    "period": 2,
+    "clock": "1:44",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane up the middle to MIA 49 for 4 yards (M.Williams, H.Landry)."
+  },
+  {
+    "wallclock": "2025-09-14T18:08:36Z",
+    "period": 2,
+    "clock": "1:22",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Austin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Tagovailoa pass short left to J.Waddle to NE 46 for 5 yards (A.Austin)."
+  },
+  {
+    "wallclock": "2025-09-14T18:08:53Z",
+    "period": 2,
+    "clock": "1:06",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Tagovailoa pass short middle to D.Achane to NE 34 for 12 yards (C.Elliss, J.Hawkins)."
+  },
+  {
+    "wallclock": "2025-09-14T18:09:15Z",
+    "period": 2,
+    "clock": "1:00",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIA at 01:00."
+  },
+  {
+    "wallclock": "2025-09-14T18:11:52Z",
+    "period": 2,
+    "clock": "1:00",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to T.Hill to NE 29 for 5 yards (M.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T18:12:12Z",
+    "period": 2,
+    "clock": "0:33",
+    "play_type": "Passing Touchdown",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) T.Tagovailoa pass short middle to D.Achane for 29 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": null,
+    "period": 2,
+    "clock": "0:33",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NE at 00:33."
+  },
+  {
+    "wallclock": "2025-09-14T18:14:31Z",
+    "period": 2,
+    "clock": "0:33",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "P.Paul",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on MIA-P.Paul, False Start, 5 yards, enforced at NE 2 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T18:16:42Z",
+    "period": 2,
+    "clock": "0:33",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 59 yards from MIA 35 to NE 6. A.Gibson MUFFS catch, ball out of bounds at NE 4."
+  },
+  {
+    "wallclock": "2025-09-14T18:17:33Z",
+    "period": 2,
+    "clock": "0:31",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye kneels to NE 3 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-14T18:17:33Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-14T18:31:43Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 57 yards from NE 35 to MIA 8. M.Washington to MIA 29 for 21 yards (A.Jennings; C.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-14T18:32:30Z",
+    "period": 3,
+    "clock": "14:54",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right end to MIA 36 for 7 yards (J.Hawkins)."
+  },
+  {
+    "wallclock": "2025-09-14T18:33:10Z",
+    "period": 3,
+    "clock": "14:15",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Savaiinaea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass incomplete short right.PENALTY on MIA-J.Savaiinaea, Offensive Holding, 10 yards, enforced at MIA 36 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T18:34:06Z",
+    "period": 3,
+    "clock": "14:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short right to D.Achane.Penalty on MIA-A.Brewer, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-14T18:35:06Z",
+    "period": 3,
+    "clock": "14:07",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIA at 14:07."
+  },
+  {
+    "wallclock": "2025-09-14T18:36:00Z",
+    "period": 3,
+    "clock": "14:07",
+    "play_type": "Pass Reception",
+    "yards": 47,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass deep left to T.Hill to NE 27 for 47 yards (C.Woodson)."
+  },
+  {
+    "wallclock": "2025-09-14T18:36:48Z",
+    "period": 3,
+    "clock": "13:18",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jennings",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane right tackle to NE 26 for 1 yard (A.Jennings)."
+  },
+  {
+    "wallclock": "2025-09-14T18:37:30Z",
+    "period": 3,
+    "clock": "12:36",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short middle to M.Washington pushed ob at NE 24 for 2 yards (C.Davis; C.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-14T18:38:14Z",
+    "period": 3,
+    "clock": "11:53",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Austin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to M.Washington to NE 13 for 11 yards (J.Hawkins; A.Austin).PENALTY on MIA-M.Washington, Illegal Motion, 5 yards, enforced at NE 24 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T18:39:08Z",
+    "period": 3,
+    "clock": "11:27",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to D.Achane to NE 22 for 7 yards (M.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T18:39:49Z",
+    "period": 3,
+    "clock": "10:41",
+    "play_type": "Field Goal Good",
+    "yards": 40,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Patterson 40 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-09-14T18:40:14Z",
+    "period": 3,
+    "clock": "10:41",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:41."
+  },
+  {
+    "wallclock": "2025-09-14T18:42:49Z",
+    "period": 3,
+    "clock": "10:41",
+    "play_type": "Kickoff",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Britt",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goode",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Ponder",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 56 yards from MIA 35 to NE 9. A.Gibson to NE 35 for 26 yards (K.Britt, C.Goode).PENALTY on NE-E.Ponder, Illegal Block Above the Waist, 10 yards, enforced at NE 27."
+  },
+  {
+    "wallclock": "2025-09-14T18:44:05Z",
+    "period": 3,
+    "clock": "10:34",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson up the middle to NE 20 for 3 yards (Ja.Phillips; Jo.Phillips)."
+  },
+  {
+    "wallclock": "2025-09-14T18:44:40Z",
+    "period": 3,
+    "clock": "9:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass incomplete short left to S.Diggs."
+  },
+  {
+    "wallclock": "2025-09-14T18:45:25Z",
+    "period": 3,
+    "clock": "9:54",
+    "play_type": "Sack",
+    "yards": -11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye sacked at NE 9 for -11 yards (J.Brooks).Penalty on NE-T.Henderson, Offensive Holding, declined."
+  },
+  {
+    "wallclock": "2025-09-14T18:46:26Z",
+    "period": 3,
+    "clock": "9:41",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woods",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Baringer punts 55 yards to MIA 36, Center-J.Ashby. T.Hill ran ob at MIA 41 for 5 yards (C.Woods).PENALTY on NE-J.Hawkins, Offensive Holding, 5 yards, enforced at NE 9 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T18:48:27Z",
+    "period": 3,
+    "clock": "9:27",
+    "play_type": "Punt",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Baringer punts 71 yards to MIA 25, Center-J.Ashby. T.Hill to MIA 44 for 19 yards (M.Robinson)."
+  },
+  {
+    "wallclock": "2025-09-14T18:49:15Z",
+    "period": 3,
+    "clock": "9:13",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:13."
+  },
+  {
+    "wallclock": "2025-09-14T18:51:49Z",
+    "period": 3,
+    "clock": "9:13",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettus",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left end to MIA 44 for no gain (D.Pettus)."
+  },
+  {
+    "wallclock": "2025-09-14T18:52:30Z",
+    "period": 3,
+    "clock": "8:32",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass deep left to J.Waddle to NE 33 for 23 yards (C.Woodson).New England challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-09-14T18:56:45Z",
+    "period": 3,
+    "clock": "7:50",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Washington left end to NE 33 for no gain (C.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-14T18:57:11Z",
+    "period": 3,
+    "clock": "7:23",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Jennings",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Washington left tackle to NE 28 for 5 yards (A.Jennings, C.Woodson)."
+  },
+  {
+    "wallclock": "2025-09-14T18:57:52Z",
+    "period": 3,
+    "clock": "6:42",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to T.Hill pushed ob at NE 19 for 9 yards (M.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T18:58:26Z",
+    "period": 3,
+    "clock": "6:13",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Tagovailoa pass short right to M.Washington pushed ob at NE 3 for 16 yards (C.Woodson). NE-C.Woodson was injured during the play. PENALTY on MIA-A.Brewer, Offensive Holding, 10 yards, enforced at NE 19 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T18:59:20Z",
+    "period": 3,
+    "clock": "6:06",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:06."
+  },
+  {
+    "wallclock": "2025-09-14T19:01:53Z",
+    "period": 3,
+    "clock": "6:02",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to J.Waddle to NE 25 for 4 yards (M.Jones).PENALTY on NE-H.Landry, Defensive Offside, 5 yards, enforced at NE 29 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:02:41Z",
+    "period": 3,
+    "clock": "5:33",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to D.Achane to NE 24 for no gain (J.Gibbens)."
+  },
+  {
+    "wallclock": "2025-09-14T19:03:25Z",
+    "period": 3,
+    "clock": "4:49",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to D.Achane to NE 20 for 4 yards (C.Davis)."
+  },
+  {
+    "wallclock": "2025-09-14T19:04:09Z",
+    "period": 3,
+    "clock": "4:07",
+    "play_type": "Sack",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Chaisson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barmore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa sacked at NE 26 for -6 yards (K.Chaisson). NE-C.Barmore was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T19:05:13Z",
+    "period": 3,
+    "clock": "3:56",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 03:56."
+  },
+  {
+    "wallclock": "2025-09-14T19:07:49Z",
+    "period": 3,
+    "clock": "3:37",
+    "play_type": "Field Goal Good",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Patterson 44 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-09-14T19:08:56Z",
+    "period": 3,
+    "clock": "3:37",
+    "play_type": "Kickoff",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goode",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 56 yards from MIA 35 to NE 9. A.Gibson pushed ob at NE 34 for 25 yards (C.Goode).PENALTY on NE-T.Henderson, Offensive Holding, 10 yards, enforced at NE 27."
+  },
+  {
+    "wallclock": "2025-09-14T19:09:59Z",
+    "period": 3,
+    "clock": "3:31",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to S.Diggs to NE 25 for 8 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-09-14T19:10:29Z",
+    "period": 3,
+    "clock": "3:01",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson right guard to NE 26 for 1 yard (M.Fitzpatrick).PENALTY on NE-J.Wilson, Offensive Holding, 10 yards, enforced at NE 25 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:11:17Z",
+    "period": 3,
+    "clock": "2:37",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to R.Stevenson to NE 24 for 9 yards (M.Fitzpatrick; J.Brooks)."
+  },
+  {
+    "wallclock": "2025-09-14T19:12:04Z",
+    "period": 3,
+    "clock": "1:49",
+    "play_type": "Pass Reception",
+    "yards": 55,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass deep right to R.Stevenson to MIA 21 for 55 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-09-14T19:12:56Z",
+    "period": 3,
+    "clock": "0:57",
+    "play_type": "Rush",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Gibson up the middle to MIA 6 for 15 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-09-14T19:13:41Z",
+    "period": 3,
+    "clock": "0:06",
+    "play_type": "Rushing Touchdown",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) D.Maye scrambles right end for 6 yards, TOUCHDOWN.Penalty on MIA-T.Dodson, Defensive Holding, declined. TWO-POINT CONVERSION ATTEMPT. R.Stevenson rushes up the middle. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": "2025-09-14T19:16:20Z",
+    "period": 3,
+    "clock": "0:06",
+    "play_type": "Kickoff",
+    "yards": 27,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Gibbens",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 61 yards from NE 35 to MIA 4. M.Washington to MIA 31 for 27 yards (J.Gibbens). ** Injury Update: NE-C.Woodson has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-14T19:16:20Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-14T19:19:36Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane right guard to MIA 31 for no gain (C.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-14T19:20:18Z",
+    "period": 4,
+    "clock": "14:19",
+    "play_type": "Pass Reception",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to J.Waddle to MIA 46 for 15 yards (C.Woodson)."
+  },
+  {
+    "wallclock": "2025-09-14T19:21:02Z",
+    "period": 4,
+    "clock": "13:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short right to N.Westbrook-Ikhine."
+  },
+  {
+    "wallclock": "2025-09-14T19:21:46Z",
+    "period": 4,
+    "clock": "13:30",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Durden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right end to MIA 48 for 2 yards (C.Durden; J.Hawkins)."
+  },
+  {
+    "wallclock": "2025-09-14T19:22:33Z",
+    "period": 4,
+    "clock": "12:44",
+    "play_type": "Sack",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barmore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa sacked ob at MIA 47 for -1 yards (M.Williams). ** Injury Update: NE-C.Barmore has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-14T19:23:09Z",
+    "period": 4,
+    "clock": "12:16",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 40 yards to NE 13, Center-J.Cardona, downed by MIA-A.Davis."
+  },
+  {
+    "wallclock": "2025-09-14T19:23:46Z",
+    "period": 4,
+    "clock": "12:07",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:07."
+  },
+  {
+    "wallclock": "2025-09-14T19:26:21Z",
+    "period": 4,
+    "clock": "12:07",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Moses",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NE-M.Moses, False Start, 5 yards, enforced at NE 13 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:26:58Z",
+    "period": 4,
+    "clock": "12:07",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to D.Douglas to NE 16 for 8 yards (W.Gay; M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-09-14T19:27:39Z",
+    "period": 4,
+    "clock": "11:26",
+    "play_type": "Rush",
+    "yards": -6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) R.Stevenson right end to NE 10 for -6 yards (W.Gay)."
+  },
+  {
+    "wallclock": "2025-09-14T19:28:24Z",
+    "period": 4,
+    "clock": "10:41",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to R.Stevenson to NE 24 for 14 yards (B.Chubb)."
+  },
+  {
+    "wallclock": "2025-09-14T19:29:02Z",
+    "period": 4,
+    "clock": "10:03",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Henry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Henderson right tackle to NE 26 for 2 yards (J.Jones).PENALTY on NE-H.Henry, Illegal Shift, 5 yards, enforced at NE 24 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:29:58Z",
+    "period": 4,
+    "clock": "9:38",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Henderson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Grant",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Henderson up the middle to NE 21 for 2 yards (K.Grant; T.Dodson)."
+  },
+  {
+    "wallclock": "2025-09-14T19:30:39Z",
+    "period": 4,
+    "clock": "8:57",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Bradbury",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye Aborted. G.Bradbury FUMBLES at NE 17, recovered by NE-D.Maye at NE 8."
+  },
+  {
+    "wallclock": "2025-09-14T19:31:22Z",
+    "period": 4,
+    "clock": "8:14",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short left to A.Gibson to NE 9 for 1 yard (J.Brooks). MIA-C.Robinson was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T19:31:59Z",
+    "period": 4,
+    "clock": "7:55",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:55."
+  },
+  {
+    "wallclock": "2025-09-14T19:34:49Z",
+    "period": 4,
+    "clock": "7:18",
+    "play_type": "Punt Return Touchdown",
+    "yards": 74,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Baringer punts 65 yards to MIA 26, Center-J.Ashby. M.Washington for 74 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-09-14T19:36:39Z",
+    "period": 4,
+    "clock": "7:18",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:18."
+  },
+  {
+    "wallclock": "2025-09-14T19:39:10Z",
+    "period": 4,
+    "clock": "7:06",
+    "play_type": "Kickoff Return Touchdown",
+    "yards": 90,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Gibson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "R.Patterson kicks 55 yards from MIA 35 to NE 10. A.Gibson for 90 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer. ** Injury Update: MIA-C.Robinson has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-14T19:41:44Z",
+    "period": 4,
+    "clock": "7:06",
+    "play_type": "Kickoff",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Eskridge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Eskridge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Dugger",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 60 yards from NE 35 to MIA 5. D.Eskridge MUFFS catch, and recovers at MIA 5. D.Eskridge to MIA 13 for 8 yards (K.Dugger)."
+  },
+  {
+    "wallclock": "2025-09-14T19:42:38Z",
+    "period": 4,
+    "clock": "7:01",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass short left to N.Westbrook-Ikhine to MIA 24 for 11 yards (J.Hawkins)."
+  },
+  {
+    "wallclock": "2025-09-14T19:43:21Z",
+    "period": 4,
+    "clock": "6:17",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short middle to D.Achane to MIA 37 for 13 yards (H.Landry)."
+  },
+  {
+    "wallclock": "2025-09-14T19:44:05Z",
+    "period": 4,
+    "clock": "5:34",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barmore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane left guard to MIA 35 for -2 yards (C.Barmore)."
+  },
+  {
+    "wallclock": "2025-09-14T19:44:47Z",
+    "period": 4,
+    "clock": "4:51",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to O.Gordon to MIA 40 for 5 yards (C.Woodson; M.Jones) [H.Landry]."
+  },
+  {
+    "wallclock": "2025-09-14T19:45:35Z",
+    "period": 4,
+    "clock": "4:03",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Barmore",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short middle to N.Westbrook-Ikhine to MIA 47 for 7 yards (J.Hawkins) [C.Barmore]."
+  },
+  {
+    "wallclock": "2025-09-14T19:46:20Z",
+    "period": 4,
+    "clock": "3:18",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIA, Delay of Game, 5 yards, enforced at MIA 47 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:47:09Z",
+    "period": 4,
+    "clock": "3:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete deep right to T.Hill."
+  },
+  {
+    "wallclock": "2025-09-14T19:47:54Z",
+    "period": 4,
+    "clock": "3:14",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIA-O.Gordon, False Start, 5 yards, enforced at MIA 42 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:48:41Z",
+    "period": 4,
+    "clock": "3:14",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hawkins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to T.Hill ran ob at 50 for 13 yards (J.Hawkins)."
+  },
+  {
+    "wallclock": "2025-09-14T19:49:27Z",
+    "period": 4,
+    "clock": "3:07",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Landry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa sacked at MIA 48 for -2 yards (H.Landry)."
+  },
+  {
+    "wallclock": "2025-09-14T19:50:12Z",
+    "period": 4,
+    "clock": "2:21",
+    "play_type": "Pass Interception Return",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mapu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mapu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left intended for M.Washington INTERCEPTED by M.Mapu at NE 42. M.Mapu to MIA 38 for 20 yards (A.Brewer)."
+  },
+  {
+    "wallclock": "2025-09-14T19:51:16Z",
+    "period": 4,
+    "clock": "2:12",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Stevenson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Stevenson up the middle to MIA 36 for 2 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-09-14T19:51:38Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-14T19:54:26Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hollins",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye pass incomplete short right to M.Hollins."
+  },
+  {
+    "wallclock": "2025-09-14T19:55:08Z",
+    "period": 4,
+    "clock": "1:56",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Diggs",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Maye pass short right to S.Diggs to MIA 30 for 6 yards (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-09-14T19:55:26Z",
+    "period": 4,
+    "clock": "1:52",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIA at 01:52."
+  },
+  {
+    "wallclock": "2025-09-14T19:56:16Z",
+    "period": 4,
+    "clock": "1:52",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Moses",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NE-M.Moses, False Start, 5 yards, enforced at MIA 30 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T19:57:12Z",
+    "period": 4,
+    "clock": "1:47",
+    "play_type": "Field Goal Good",
+    "yards": 53,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Ashby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Baringer",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "A.Borregales 53 yard field goal is GOOD, Center-J.Ashby, Holder-B.Baringer."
+  },
+  {
+    "wallclock": "2025-09-14T19:58:39Z",
+    "period": 4,
+    "clock": "1:47",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Borregales",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "A.Borregales kicks 42 yards from NE 35 to MIA 23, short of landing zone.PENALTY on NE-A.Borregales, Kickoff Short of Landing Zone, placed at MIA 40."
+  },
+  {
+    "wallclock": "2025-09-14T19:59:32Z",
+    "period": 4,
+    "clock": "1:47",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Austin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to J.Waddle ran ob at MIA 47 for 7 yards (A.Austin)."
+  },
+  {
+    "wallclock": "2025-09-14T20:00:09Z",
+    "period": 4,
+    "clock": "1:42",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ingold",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) T.Tagovailoa pass short middle to A.Ingold to NE 44 for 9 yards (R.Spillane)."
+  },
+  {
+    "wallclock": "2025-09-14T20:00:36Z",
+    "period": 4,
+    "clock": "1:15",
+    "play_type": "Pass Reception",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Woodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Tagovailoa pass short left to D.Achane ran ob at NE 26 for 18 yards (C.Woodson)."
+  },
+  {
+    "wallclock": "2025-09-14T20:01:51Z",
+    "period": 4,
+    "clock": "1:09",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "A.Brewer",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIA-A.Brewer, False Start, 5 yards, enforced at NE 26 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T20:02:52Z",
+    "period": 4,
+    "clock": "1:09",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "PENALTY on MIA, Delay of Game, 5 yards, enforced at NE 31 - No Play."
+  },
+  {
+    "wallclock": "2025-09-14T20:03:27Z",
+    "period": 4,
+    "clock": "1:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Mapu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Tagovailoa pass incomplete deep left to J.Waddle. NE-M.Mapu was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-14T20:04:21Z",
+    "period": 4,
+    "clock": "1:04",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NE at 01:04."
+  },
+  {
+    "wallclock": "2025-09-14T20:05:17Z",
+    "period": 4,
+    "clock": "1:04",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Eskridge",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Austin",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass short left to D.Eskridge to NE 28 for 8 yards (A.Austin)."
+  },
+  {
+    "wallclock": "2025-09-14T20:05:40Z",
+    "period": 4,
+    "clock": "0:58",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by MIA at 00:58."
+  },
+  {
+    "wallclock": "2025-09-14T20:06:35Z",
+    "period": 4,
+    "clock": "0:58",
+    "play_type": "Sack",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Spillane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa sacked ob at NE 28 for 0 yards (R.Spillane)."
+  },
+  {
+    "wallclock": "2025-09-14T20:07:22Z",
+    "period": 4,
+    "clock": "0:53",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Williams",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) T.Tagovailoa sacked at NE 37 for -9 yards (M.Williams)."
+  },
+  {
+    "wallclock": "2025-09-14T20:08:18Z",
+    "period": 4,
+    "clock": "0:48",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Maye kneels to NE 36 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-14T20:08:40Z",
+    "period": 4,
+    "clock": "0:27",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Maye",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle) D.Maye kneels to NE 35 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-14T20:08:40Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

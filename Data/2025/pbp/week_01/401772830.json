@@ -1,0 +1,4463 @@
+[
+  {
+    "wallclock": "2025-09-07T17:02:59Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Miller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 59 yards from TB 35 to ATL 6. J.Agnew to ATL 35 for 29 yards (R.Miller)."
+  },
+  {
+    "wallclock": "2025-09-07T17:03:55Z",
+    "period": 1,
+    "clock": "14:54",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to B.Robinson to ATL 46 for 11 yards (Z.McCollum)."
+  },
+  {
+    "wallclock": "2025-09-07T17:04:39Z",
+    "period": 1,
+    "clock": "14:10",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left end to 50 for 4 yards (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-09-07T17:05:23Z",
+    "period": 1,
+    "clock": "13:14",
+    "play_type": "Passing Touchdown",
+    "yards": 50,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) M.Penix pass short right to B.Robinson for 50 yards, TOUCHDOWN. Y.Koo extra point is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-09-07T17:06:39Z",
+    "period": 1,
+    "clock": "13:14",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 13:14."
+  },
+  {
+    "wallclock": "2025-09-07T17:09:19Z",
+    "period": 1,
+    "clock": "13:14",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Y.Koo kicks 44 yards from ATL 35 to TB 21, short of landing zone.PENALTY on ATL-Y.Koo, Kickoff Short of Landing Zone, placed at TB 40."
+  },
+  {
+    "wallclock": "2025-09-07T17:10:34Z",
+    "period": 1,
+    "clock": "13:14",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-09-07T17:11:27Z",
+    "period": 1,
+    "clock": "13:09",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Irving right guard to TB 42 for 2 yards (Z.Harrison; A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-09-07T17:12:12Z",
+    "period": 1,
+    "clock": "12:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Shepard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep left to S.Shepard."
+  },
+  {
+    "wallclock": "2025-09-07T17:12:52Z",
+    "period": 1,
+    "clock": "12:21",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dixon punts 40 yards to ATL 18, Center-E.Deckers, downed by TB-K.Johnson."
+  },
+  {
+    "wallclock": "2025-09-07T17:13:27Z",
+    "period": 1,
+    "clock": "12:11",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 12:11."
+  },
+  {
+    "wallclock": "2025-09-07T17:15:59Z",
+    "period": 1,
+    "clock": "12:11",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson up the middle to ATL 24 for 6 yards (L.David; T.Smith).PENALTY on TB-H.Reddick, Defensive Offside, 5 yards, enforced at ATL 18 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T17:16:59Z",
+    "period": 1,
+    "clock": "11:52",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short right to Cas.Washington."
+  },
+  {
+    "wallclock": "2025-09-07T17:17:43Z",
+    "period": 1,
+    "clock": "11:46",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix FUMBLES (Aborted) at ATL 17, recovered by ATL-B.Robinson at ATL 19."
+  },
+  {
+    "wallclock": "2025-09-07T17:18:28Z",
+    "period": 1,
+    "clock": "10:59",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCloud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to R.McCloud to ATL 32 for 13 yards (Z.McCollum)."
+  },
+  {
+    "wallclock": "2025-09-07T17:19:17Z",
+    "period": 1,
+    "clock": "10:10",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to B.Robinson to ATL 38 for 6 yards (Z.McCollum)."
+  },
+  {
+    "wallclock": "2025-09-07T17:20:06Z",
+    "period": 1,
+    "clock": "9:23",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to Cas.Washington pushed ob at TB 43 for 19 yards (T.Smith) [Y.Diaby]."
+  },
+  {
+    "wallclock": "2025-09-07T17:20:55Z",
+    "period": 1,
+    "clock": "8:48",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier right end to TB 38 for 5 yards (V.Vea)."
+  },
+  {
+    "wallclock": "2025-09-07T17:21:39Z",
+    "period": 1,
+    "clock": "8:04",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier right guard to TB 39 for -1 yards (Y.Diaby, H.Reddick)."
+  },
+  {
+    "wallclock": "2025-09-07T17:22:25Z",
+    "period": 1,
+    "clock": "7:18",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to D.London to TB 41 for -2 yards (J.Parrish)."
+  },
+  {
+    "wallclock": "2025-09-07T17:23:09Z",
+    "period": 1,
+    "clock": "6:34",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 33 yards to TB 8, Center-L.McCullough, fair catch by K.Johnson."
+  },
+  {
+    "wallclock": "2025-09-07T17:23:43Z",
+    "period": 1,
+    "clock": "6:28",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:28."
+  },
+  {
+    "wallclock": "2025-09-07T17:26:12Z",
+    "period": 1,
+    "clock": "6:28",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left guard to TB 8 for no gain (D.Deablo; K.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-07T17:26:53Z",
+    "period": 1,
+    "clock": "5:47",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep right."
+  },
+  {
+    "wallclock": "2025-09-07T17:27:37Z",
+    "period": 1,
+    "clock": "5:40",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield scrambles up the middle to TB 13 for 5 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-07T17:28:18Z",
+    "period": 1,
+    "clock": "4:59",
+    "play_type": "Punt",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kieft",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dixon punts 61 yards to ATL 26, Center-E.Deckers. J.Agnew to ATL 38 for 12 yards (K.Kieft)."
+  },
+  {
+    "wallclock": "2025-09-07T17:29:01Z",
+    "period": 1,
+    "clock": "4:46",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:46."
+  },
+  {
+    "wallclock": "2025-09-07T17:31:21Z",
+    "period": 1,
+    "clock": "4:46",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end to ATL 40 for 2 yards (J.Parrish)."
+  },
+  {
+    "wallclock": "2025-09-07T17:32:04Z",
+    "period": 1,
+    "clock": "4:03",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Gaines",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to ATL 43 for 3 yards (G.Gaines; L.David)."
+  },
+  {
+    "wallclock": "2025-09-07T17:32:31Z",
+    "period": 1,
+    "clock": "3:37",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) M.Penix pass incomplete short right to D.London."
+  },
+  {
+    "wallclock": "2025-09-07T17:33:17Z",
+    "period": 1,
+    "clock": "3:33",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 48 yards to TB 9, Center-L.McCullough, out of bounds."
+  },
+  {
+    "wallclock": "2025-09-07T17:34:08Z",
+    "period": 1,
+    "clock": "3:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass incomplete deep left to E.Egbuka (X.Watts)."
+  },
+  {
+    "wallclock": "2025-09-07T17:34:52Z",
+    "period": 1,
+    "clock": "3:18",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Irving right end to TB 17 for 8 yards (J.Bates)."
+  },
+  {
+    "wallclock": "2025-09-07T17:35:36Z",
+    "period": 1,
+    "clock": "2:33",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Shepard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to S.Shepard to TB 27 for 10 yards (B.Bowman)."
+  },
+  {
+    "wallclock": "2025-09-07T17:36:18Z",
+    "period": 1,
+    "clock": "1:52",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left guard to TB 36 for 9 yards (X.Watts, M.Hughes)."
+  },
+  {
+    "wallclock": "2025-09-07T17:36:59Z",
+    "period": 1,
+    "clock": "1:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass incomplete deep middle to M.Evans (D.Deablo)."
+  },
+  {
+    "wallclock": "2025-09-07T17:37:40Z",
+    "period": 1,
+    "clock": "1:05",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left end to TB 36 for no gain (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-09-07T17:38:23Z",
+    "period": 1,
+    "clock": "0:22",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short right to M.Evans to TB 42 for 6 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-09-07T17:38:23Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-09-07T17:41:44Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "S.Tucker left end pushed ob at TB 49 for 7 yards (M.Hughes).PENALTY on ATL-J.Pearce, Defensive Offside, 5 yards, enforced at TB 42 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T17:42:47Z",
+    "period": 2,
+    "clock": "14:36",
+    "play_type": "Rush",
+    "yards": -18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Barton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving right end to ATL 42 for 11 yards (B.Bowman).PENALTY on TB-G.Barton, Offensive Holding, 10 yards, enforced at TB 49."
+  },
+  {
+    "wallclock": "2025-09-07T17:43:55Z",
+    "period": 2,
+    "clock": "14:06",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short middle to E.Egbuka to TB 48 for 9 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-09-07T17:44:36Z",
+    "period": 2,
+    "clock": "13:24",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) S.Tucker right end to 50 for 2 yards (B.Bowman)."
+  },
+  {
+    "wallclock": "2025-09-07T17:45:18Z",
+    "period": 2,
+    "clock": "12:42",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield scrambles right end pushed ob at ATL 45 for 5 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-07T17:45:49Z",
+    "period": 2,
+    "clock": "12:16",
+    "play_type": "Rush",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) R.White right guard to ATL 34 for 11 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-09-07T17:46:10Z",
+    "period": 2,
+    "clock": "11:54",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) R.White right tackle to ATL 31 for 3 yards (A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-09-07T17:46:53Z",
+    "period": 2,
+    "clock": "11:10",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Orhorhoro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left guard to ATL 30 for 1 yard (D.Deablo; R.Orhorhoro)."
+  },
+  {
+    "wallclock": "2025-09-07T17:47:39Z",
+    "period": 2,
+    "clock": "10:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right to M.Evans (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-09-07T17:48:22Z",
+    "period": 2,
+    "clock": "10:17",
+    "play_type": "Field Goal Good",
+    "yards": 48,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.McLaughlin 48 yard field goal is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-09-07T17:48:53Z",
+    "period": 2,
+    "clock": "10:17",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:17."
+  },
+  {
+    "wallclock": "2025-09-07T17:51:37Z",
+    "period": 2,
+    "clock": "10:17",
+    "play_type": "Kickoff",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Nelson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 57 yards from TB 35 to ATL 8. N.Brooks to ATL 29 for 21 yards (A.Nelson; J.Parrish)."
+  },
+  {
+    "wallclock": "2025-09-07T17:52:37Z",
+    "period": 2,
+    "clock": "10:10",
+    "play_type": "Penalty",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix sacked at ATL 15 for -14 yards (Y.Diaby).PENALTY on TB-J.Dean, Face Mask, 15 yards, enforced at ATL 29 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T17:53:49Z",
+    "period": 2,
+    "clock": "9:38",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to D.London (T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-07T17:54:34Z",
+    "period": 2,
+    "clock": "9:34",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to D.London to TB 47 for 9 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-07T17:55:01Z",
+    "period": 2,
+    "clock": "9:05",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) M.Penix pass incomplete deep right to D.London."
+  },
+  {
+    "wallclock": "2025-09-07T17:55:49Z",
+    "period": 2,
+    "clock": "9:03",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by ATL at 09:03."
+  },
+  {
+    "wallclock": "2025-09-07T17:56:50Z",
+    "period": 2,
+    "clock": "9:03",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to TB 47 for no gain (Y.Diaby)."
+  },
+  {
+    "wallclock": "2025-09-07T17:57:40Z",
+    "period": 2,
+    "clock": "8:57",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:57."
+  },
+  {
+    "wallclock": "2025-09-07T18:00:06Z",
+    "period": 2,
+    "clock": "8:57",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left end to ATL 49 for 3 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-09-07T18:00:48Z",
+    "period": 2,
+    "clock": "8:15",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short right to M.Evans ran ob at ATL 38 for 11 yards."
+  },
+  {
+    "wallclock": "2025-09-07T18:01:19Z",
+    "period": 2,
+    "clock": "7:48",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) B.Mayfield pass short left to M.Evans to ATL 30 for 8 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-09-07T18:02:01Z",
+    "period": 2,
+    "clock": "7:06",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short right to R.Miller (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-09-07T18:02:46Z",
+    "period": 2,
+    "clock": "6:53",
+    "play_type": "Passing Touchdown",
+    "yards": 30,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "B.Mayfield pass deep left to E.Egbuka for 30 yards, TOUCHDOWN. C.McLaughlin extra point is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-09-07T18:06:35Z",
+    "period": 2,
+    "clock": "6:53",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wisdom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 63 yards from TB 35 to ATL 2. J.Agnew to ATL 30 for 28 yards (R.Wisdom; D.Jones)."
+  },
+  {
+    "wallclock": "2025-09-07T18:07:41Z",
+    "period": 2,
+    "clock": "6:46",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by ATL at 06:46."
+  },
+  {
+    "wallclock": "2025-09-07T18:08:34Z",
+    "period": 2,
+    "clock": "6:46",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to K.Pitts pushed ob at ATL 42 for 12 yards (Z.McCollum)."
+  },
+  {
+    "wallclock": "2025-09-07T18:09:22Z",
+    "period": 2,
+    "clock": "6:02",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Braswell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to D.London to TB 46 for 12 yards (J.Dean).Penalty on TB-C.Braswell, Defensive Offside, declined."
+  },
+  {
+    "wallclock": "2025-09-07T18:10:10Z",
+    "period": 2,
+    "clock": "5:39",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Nelson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left guard to TB 44 for 2 yards (A.Nelson)."
+  },
+  {
+    "wallclock": "2025-09-07T18:10:58Z",
+    "period": 2,
+    "clock": "4:51",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to TB 43 for 1 yard (L.David; S.Dennis)."
+  },
+  {
+    "wallclock": "2025-09-07T18:11:44Z",
+    "period": 2,
+    "clock": "4:05",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to Cas.Washington to TB 36 for 7 yards (J.Dean)."
+  },
+  {
+    "wallclock": "2025-09-07T18:12:31Z",
+    "period": 2,
+    "clock": "3:18",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier right tackle to TB 31 for 5 yards (T.Smith; A.Winfield)."
+  },
+  {
+    "wallclock": "2025-09-07T18:13:10Z",
+    "period": 2,
+    "clock": "2:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to B.Robinson."
+  },
+  {
+    "wallclock": "2025-09-07T18:13:58Z",
+    "period": 2,
+    "clock": "2:36",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix scrambles up the middle to TB 27 for 4 yards (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-09-07T18:14:39Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-07T18:17:39Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.Hall",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier up the middle to TB 25 for 2 yards (L.Hall)."
+  },
+  {
+    "wallclock": "2025-09-07T18:18:22Z",
+    "period": 2,
+    "clock": "1:17",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to B.Robinson to TB 21 for 4 yards (Y.Diaby)."
+  },
+  {
+    "wallclock": "2025-09-07T18:18:45Z",
+    "period": 2,
+    "clock": "1:10",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TB at 01:10."
+  },
+  {
+    "wallclock": "2025-09-07T18:19:46Z",
+    "period": 2,
+    "clock": "1:10",
+    "play_type": "Pass Reception",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to D.London to TB 22 for -1 yards (L.David)."
+  },
+  {
+    "wallclock": "2025-09-07T18:20:12Z",
+    "period": 2,
+    "clock": "1:02",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TB at 01:02."
+  },
+  {
+    "wallclock": "2025-09-07T18:21:02Z",
+    "period": 2,
+    "clock": "1:02",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short middle to D.London."
+  },
+  {
+    "wallclock": "2025-09-07T18:21:50Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Field Goal Good",
+    "yards": 41,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "Y.Koo 41 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-09-07T18:23:11Z",
+    "period": 2,
+    "clock": "0:53",
+    "play_type": "Kickoff",
+    "yards": 18,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Franks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Y.Koo kicks 61 yards from ATL 35 to TB 4. S.Tucker to TB 22 for 18 yards (F.Franks)."
+  },
+  {
+    "wallclock": "2025-09-07T18:23:59Z",
+    "period": 2,
+    "clock": "0:48",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to E.Egbuka to TB 25 for 3 yards (M.Hughes; B.Bowman)."
+  },
+  {
+    "wallclock": "2025-09-07T18:24:17Z",
+    "period": 2,
+    "clock": "0:30",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass incomplete short left to C.Otton (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-07T18:25:00Z",
+    "period": 2,
+    "clock": "0:27",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield sacked at TB 17 for -8 yards (sack split by B.Bowman and D.Deablo)."
+  },
+  {
+    "wallclock": "2025-09-07T18:25:35Z",
+    "period": 2,
+    "clock": "0:20",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by ATL at 00:20."
+  },
+  {
+    "wallclock": "2025-09-07T18:26:07Z",
+    "period": 2,
+    "clock": "0:19",
+    "play_type": "Punt",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Agnew",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Durham",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullock",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dixon punts 62 yards to ATL 21, Center-E.Deckers. J.Agnew to ATL 38 for 17 yards (P.Durham; J.Bullock)."
+  },
+  {
+    "wallclock": "2025-09-07T18:27:12Z",
+    "period": 2,
+    "clock": "0:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep left to Cas.Washington."
+  },
+  {
+    "wallclock": "2025-09-07T18:27:59Z",
+    "period": 2,
+    "clock": "0:03",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Penix kneels to ATL 37 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-07T18:27:59Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-09-07T18:42:33Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Y.Koo kicks 65 yards from ATL 35 to end zone, Touchback to the TB 35."
+  },
+  {
+    "wallclock": "2025-09-07T18:43:23Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving right end to TB 37 for 2 yards (D.Deablo; J.Bates)."
+  },
+  {
+    "wallclock": "2025-09-07T18:44:04Z",
+    "period": 3,
+    "clock": "14:19",
+    "play_type": "Pass Reception",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Shepard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass deep right to S.Shepard to ATL 44 for 19 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-09-07T18:44:25Z",
+    "period": 3,
+    "clock": "13:59",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Hughes",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass incomplete short left to E.Egbuka (M.Hughes)."
+  },
+  {
+    "wallclock": "2025-09-07T18:45:01Z",
+    "period": 3,
+    "clock": "13:57",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short middle to M.Evans to ATL 30 for 14 yards (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-09-07T18:45:42Z",
+    "period": 3,
+    "clock": "13:17",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Orhorhoro",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving left tackle to ATL 28 for 2 yards (R.Orhorhoro; D.Deablo)."
+  },
+  {
+    "wallclock": "2025-09-07T18:46:26Z",
+    "period": 3,
+    "clock": "12:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to T.Johnson pushed ob at ATL 23 for 5 yards.Atlanta challenged the pass completion ruling, and the play was REVERSED.(Shotgun) B.Mayfield pass incomplete short left to T.Johnson."
+  },
+  {
+    "wallclock": "2025-09-07T18:47:07Z",
+    "period": 3,
+    "clock": "12:29",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by TB at 12:29."
+  },
+  {
+    "wallclock": "2025-09-07T18:50:51Z",
+    "period": 3,
+    "clock": "12:29",
+    "play_type": "Pass Reception",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.White",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short left to R.White to ATL 26 for 2 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-09-07T18:51:35Z",
+    "period": 3,
+    "clock": "11:46",
+    "play_type": "Field Goal Missed",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin 44 yard field goal is No Good, Wide Left, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-09-07T18:52:11Z",
+    "period": 3,
+    "clock": "11:42",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:42."
+  },
+  {
+    "wallclock": "2025-09-07T18:55:03Z",
+    "period": 3,
+    "clock": "11:42",
+    "play_type": "Rush",
+    "yards": -16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end to ATL 45 for 11 yards (A.Winfield; Z.McCollum).PENALTY on ATL-D.London, Offensive Holding, 10 yards, enforced at ATL 38."
+  },
+  {
+    "wallclock": "2025-09-07T18:56:09Z",
+    "period": 3,
+    "clock": "11:14",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to D.London pushed ob at ATL 32 for 4 yards (J.Dean)."
+  },
+  {
+    "wallclock": "2025-09-07T18:56:53Z",
+    "period": 3,
+    "clock": "10:34",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short middle to K.Pitts to ATL 44 for 12 yards (A.Winfield).PENALTY on ATL-K.Pitts, Illegal Shift, 5 yards, enforced at ATL 32 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T18:57:52Z",
+    "period": 3,
+    "clock": "10:07",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to D.London (J.Dean)."
+  },
+  {
+    "wallclock": "2025-09-07T18:58:38Z",
+    "period": 3,
+    "clock": "10:04",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCloud",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to R.McCloud."
+  },
+  {
+    "wallclock": "2025-09-07T18:59:24Z",
+    "period": 3,
+    "clock": "9:56",
+    "play_type": "Punt",
+    "yards": 54,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Pinion punts 59 yards to TB 14, Center-L.McCullough. K.Johnson to ATL 32 for 54 yards (B.Pinion)."
+  },
+  {
+    "wallclock": "2025-09-07T19:00:33Z",
+    "period": 3,
+    "clock": "9:39",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Harrison",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Irving right tackle to ATL 28 for 4 yards (Z.Harrison; J.Bates)."
+  },
+  {
+    "wallclock": "2025-09-07T19:01:14Z",
+    "period": 3,
+    "clock": "8:57",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Shepard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete short middle to S.Shepard (X.Watts)."
+  },
+  {
+    "wallclock": "2025-09-07T19:01:59Z",
+    "period": 3,
+    "clock": "8:52",
+    "play_type": "Rush",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield scrambles left end to ATL 8 for 20 yards (J.Walker)."
+  },
+  {
+    "wallclock": "2025-09-07T19:02:35Z",
+    "period": 3,
+    "clock": "8:17",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) B.Irving right tackle to ATL 9 for -1 yards (A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-09-07T19:03:19Z",
+    "period": 3,
+    "clock": "7:26",
+    "play_type": "Passing Touchdown",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Mayfield pass short right to B.Irving for 9 yards, TOUCHDOWN. C.McLaughlin extra point is GOOD, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-09-07T19:04:28Z",
+    "period": 3,
+    "clock": "7:26",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 07:26."
+  },
+  {
+    "wallclock": "2025-09-07T19:07:06Z",
+    "period": 3,
+    "clock": "7:26",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Miller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Wisdom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 61 yards from TB 35 to ATL 4. N.Brooks to ATL 29 for 25 yards (R.Miller; R.Wisdom)."
+  },
+  {
+    "wallclock": "2025-09-07T19:08:02Z",
+    "period": 3,
+    "clock": "7:19",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Diaby",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep left to K.Pitts [Y.Diaby]."
+  },
+  {
+    "wallclock": "2025-09-07T19:08:48Z",
+    "period": 3,
+    "clock": "7:13",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilkinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on ATL-E.Wilkinson, False Start, 5 yards, enforced at ATL 29 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T19:09:41Z",
+    "period": 3,
+    "clock": "7:13",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to D.London ran ob at ATL 36 for 12 yards (Z.McCollum)."
+  },
+  {
+    "wallclock": "2025-09-07T19:10:29Z",
+    "period": 3,
+    "clock": "6:29",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCloud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short middle to R.McCloud to 50 for 14 yards (T.Smith) [L.David]."
+  },
+  {
+    "wallclock": "2025-09-07T19:11:18Z",
+    "period": 3,
+    "clock": "5:41",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to D.London to TB 38 for 12 yards (J.Dean)."
+  },
+  {
+    "wallclock": "2025-09-07T19:12:07Z",
+    "period": 3,
+    "clock": "4:52",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Wilkinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on ATL-E.Wilkinson, False Start, 5 yards, enforced at TB 38 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T19:12:53Z",
+    "period": 3,
+    "clock": "4:29",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left guard to TB 39 for 4 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-07T19:13:29Z",
+    "period": 3,
+    "clock": "3:52",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to K.Pitts to TB 38 for 1 yard (T.Smith; L.David)."
+  },
+  {
+    "wallclock": "2025-09-07T19:14:06Z",
+    "period": 3,
+    "clock": "3:17",
+    "play_type": "Pass Reception",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to B.Robinson to TB 15 for 23 yards (S.Dennis; Z.McCollum)."
+  },
+  {
+    "wallclock": "2025-09-07T19:14:53Z",
+    "period": 3,
+    "clock": "2:29",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to TB 10 for 5 yards (A.Winfield)."
+  },
+  {
+    "wallclock": "2025-09-07T19:15:33Z",
+    "period": 3,
+    "clock": "1:49",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier right tackle to TB 9 for 1 yard (Z.McCollum; L.David)."
+  },
+  {
+    "wallclock": "2025-09-07T19:16:16Z",
+    "period": 3,
+    "clock": "1:06",
+    "play_type": "Sack",
+    "yards": -9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix sacked at TB 18 for -9 yards (H.Reddick)."
+  },
+  {
+    "wallclock": "2025-09-07T19:17:00Z",
+    "period": 3,
+    "clock": "0:20",
+    "play_type": "Field Goal Good",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "Y.Koo 36 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-09-07T19:17:25Z",
+    "period": 3,
+    "clock": "0:20",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 00:20."
+  },
+  {
+    "wallclock": "2025-09-07T19:19:53Z",
+    "period": 3,
+    "clock": "0:20",
+    "play_type": "Kickoff",
+    "yards": 28,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Y.Koo kicks 66 yards from ATL 35 to TB -1. S.Tucker to TB 27 for 28 yards (J.Walker)."
+  },
+  {
+    "wallclock": "2025-09-07T19:20:45Z",
+    "period": 3,
+    "clock": "0:14",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Terrell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving right tackle to TB 28 for 1 yard (A.Terrell)."
+  },
+  {
+    "wallclock": "2025-09-07T19:20:45Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-09-07T19:23:56Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep right to M.Evans."
+  },
+  {
+    "wallclock": "2025-09-07T19:24:42Z",
+    "period": 4,
+    "clock": "14:55",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield scrambles up the middle to TB 38 for 10 yards (J.Bates; A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-09-07T19:25:27Z",
+    "period": 4,
+    "clock": "14:10",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Egbuka right guard to TB 47 for 9 yards (J.Bates; K.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-07T19:26:09Z",
+    "period": 4,
+    "clock": "13:27",
+    "play_type": "Pass Reception",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Ebiketie",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short left to B.Irving to TB 47 for no gain (A.Ebiketie)."
+  },
+  {
+    "wallclock": "2025-09-07T19:26:51Z",
+    "period": 4,
+    "clock": "12:46",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bowman",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Walker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Irving right tackle to ATL 49 for 4 yards (B.Bowman; J.Walker)."
+  },
+  {
+    "wallclock": "2025-09-07T19:27:32Z",
+    "period": 4,
+    "clock": "12:05",
+    "play_type": "Pass Reception",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Deablo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Mayfield pass short right to B.Irving to TB 49 for -2 yards (D.Deablo)."
+  },
+  {
+    "wallclock": "2025-09-07T19:28:17Z",
+    "period": 4,
+    "clock": "11:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep right to C.Otton."
+  },
+  {
+    "wallclock": "2025-09-07T19:29:03Z",
+    "period": 4,
+    "clock": "11:15",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Shepard",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass incomplete deep right to S.Shepard."
+  },
+  {
+    "wallclock": "2025-09-07T19:29:44Z",
+    "period": 4,
+    "clock": "11:09",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCloud",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Dixon punts 42 yards to ATL 9, Center-E.Deckers, fair catch by R.McCloud."
+  },
+  {
+    "wallclock": "2025-09-07T19:30:09Z",
+    "period": 4,
+    "clock": "11:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:03."
+  },
+  {
+    "wallclock": "2025-09-07T19:32:57Z",
+    "period": 4,
+    "clock": "11:03",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left end to ATL 8 for -1 yards (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-09-07T19:33:43Z",
+    "period": 4,
+    "clock": "10:16",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to K.Pitts to ATL 13 for 5 yards (L.David; J.Parrish)."
+  },
+  {
+    "wallclock": "2025-09-07T19:34:31Z",
+    "period": 4,
+    "clock": "9:29",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to K.Pitts (T.Smith).Atlanta challenged the incomplete pass ruling, and the play was REVERSED.(Shotgun) M.Penix pass short middle to K.Pitts to ATL 23 for 10 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-07T19:39:00Z",
+    "period": 4,
+    "clock": "9:08",
+    "play_type": "Penalty",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCloud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep right to R.McCloud.PENALTY on TB-V.Vea, Roughing the Passer, 15 yards, enforced at ATL 23 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T19:40:13Z",
+    "period": 4,
+    "clock": "9:03",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) T.Allgeier left end to ATL 43 for 5 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-07T19:41:00Z",
+    "period": 4,
+    "clock": "8:17",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "H.Reddick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier right guard to ATL 45 for 2 yards (H.Reddick; S.Dennis)."
+  },
+  {
+    "wallclock": "2025-09-07T19:41:47Z",
+    "period": 4,
+    "clock": "7:30",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to Cas.Washington to TB 48 for 7 yards (J.Dean)."
+  },
+  {
+    "wallclock": "2025-09-07T19:42:35Z",
+    "period": 4,
+    "clock": "6:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCloud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to R.McCloud (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-09-07T19:43:21Z",
+    "period": 4,
+    "clock": "6:36",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Gaines",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to D.London to TB 39 for 9 yards (J.Dean).PENALTY on TB-G.Gaines, Roughing the Passer, 15 yards, enforced at TB 39."
+  },
+  {
+    "wallclock": "2025-09-07T19:44:30Z",
+    "period": 4,
+    "clock": "6:07",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right tackle to TB 24 for no gain (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-09-07T19:44:58Z",
+    "period": 4,
+    "clock": "5:39",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to K.Pitts to TB 11 for 13 yards (L.David)."
+  },
+  {
+    "wallclock": "2025-09-07T19:45:37Z",
+    "period": 4,
+    "clock": "5:01",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "V.Vea",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson left tackle to TB 5 for 6 yards (V.Vea; T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-07T19:46:20Z",
+    "period": 4,
+    "clock": "4:17",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Robinson right guard to TB 2 for 3 yards (A.Winfield; T.Smith). TB-Z.McCollum was injured during the play."
+  },
+  {
+    "wallclock": "2025-09-07T19:47:37Z",
+    "period": 4,
+    "clock": "4:02",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:02."
+  },
+  {
+    "wallclock": "2025-09-07T19:49:42Z",
+    "period": 4,
+    "clock": "3:42",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Allgeier",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Allgeier left end to TB 3 for -1 yards (S.Dennis, L.David)."
+  },
+  {
+    "wallclock": "2025-09-07T19:50:23Z",
+    "period": 4,
+    "clock": "3:01",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix scrambles left end to TB 2 for 1 yard (S.Dennis).The Replay Official reviewed the short of the line to gain ruling, and the play was REVERSED.(Shotgun) M.Penix scrambles left end to TB 1 for 2 yards (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-09-07T19:56:01Z",
+    "period": 4,
+    "clock": "2:43",
+    "play_type": "Rush",
+    "yards": -3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "B.Robinson left end to TB 4 for -3 yards (Z.McCollum). ** Injury Update: TB-Z.McCollum has returned to the game."
+  },
+  {
+    "wallclock": "2025-09-07T19:56:27Z",
+    "period": 4,
+    "clock": "2:35",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by TB at 02:35."
+  },
+  {
+    "wallclock": "2025-09-07T19:57:42Z",
+    "period": 4,
+    "clock": "2:35",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to D.London (J.Dean)."
+  },
+  {
+    "wallclock": "2025-09-07T19:58:27Z",
+    "period": 4,
+    "clock": "2:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.London",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete short left to D.London (J.Dean).Atlanta challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-09-07T20:01:54Z",
+    "period": 4,
+    "clock": "2:28",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by ATL at 02:28."
+  },
+  {
+    "wallclock": "2025-09-07T20:02:39Z",
+    "period": 4,
+    "clock": "2:28",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Lindstrom",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Dean",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) M.Penix pass incomplete short left to B.Robinson.\nPenalty on ATL-C.Lindstrom, Offensive Holding, offsetting, enforced at TB 4 - No Play.\nPenalty on TB-J.Dean, Defensive Holding, offsetting."
+  },
+  {
+    "wallclock": "2025-09-07T20:04:00Z",
+    "period": 4,
+    "clock": "2:17",
+    "play_type": "Rushing Touchdown",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) M.Penix scrambles up the middle for 4 yards, TOUCHDOWN. Y.Koo extra point is GOOD, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-09-07T20:06:54Z",
+    "period": 4,
+    "clock": "2:17",
+    "play_type": "Kickoff",
+    "yards": 35,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Tucker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Y.Koo kicks 63 yards from ATL 35 to TB 2. S.Tucker to TB 37 for 35 yards (Y.Koo)."
+  },
+  {
+    "wallclock": "2025-09-07T20:07:52Z",
+    "period": 4,
+    "clock": "2:10",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Evans",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "X.Watts",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short middle to M.Evans to TB 49 for 12 yards (X.Watts)."
+  },
+  {
+    "wallclock": "2025-09-07T20:08:22Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-09-07T20:11:06Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Irving",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bates",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short right to B.Irving to 50 for 1 yard (J.Bates)."
+  },
+  {
+    "wallclock": "2025-09-07T20:11:27Z",
+    "period": 4,
+    "clock": "1:38",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Otton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Pearce",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (No Huddle, Shotgun) B.Mayfield pass incomplete short right to C.Otton [J.Pearce]."
+  },
+  {
+    "wallclock": "2025-09-07T20:12:16Z",
+    "period": 4,
+    "clock": "1:32",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Shepard",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Elliss",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) B.Mayfield pass short middle to S.Shepard to ATL 40 for 10 yards (K.Elliss)."
+  },
+  {
+    "wallclock": "2025-09-07T20:12:39Z",
+    "period": 4,
+    "clock": "1:10",
+    "play_type": "Penalty",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Orhorhoro",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) B.Mayfield pass incomplete short left.PENALTY on ATL-R.Orhorhoro, Roughing the Passer, 15 yards, enforced at ATL 40 - No Play."
+  },
+  {
+    "wallclock": "2025-09-07T20:14:05Z",
+    "period": 4,
+    "clock": "0:59",
+    "play_type": "Passing Touchdown",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Egbuka",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Deckers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Dixon",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) B.Mayfield pass deep middle to E.Egbuka for 25 yards, TOUCHDOWN. C.McLaughlin extra point is No Good, Hit Left Upright, Center-E.Deckers, Holder-R.Dixon."
+  },
+  {
+    "wallclock": "2025-09-07T20:16:15Z",
+    "period": 4,
+    "clock": "0:59",
+    "play_type": "Kickoff",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.McLaughlin",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bullock",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Nelson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.McLaughlin kicks 63 yards from TB 35 to ATL 2. N.Brooks to ATL 24 for 22 yards (J.Bullock; A.Nelson).PENALTY on ATL-K.Hodge, Illegal Block Above the Waist, 10 yards, enforced at ATL 24."
+  },
+  {
+    "wallclock": "2025-09-07T20:17:29Z",
+    "period": 4,
+    "clock": "0:52",
+    "play_type": "Rush",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.McCollum",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " (Shotgun) M.Penix scrambles up the middle to ATL 26 for 12 yards (Z.McCollum)."
+  },
+  {
+    "wallclock": "2025-09-07T20:17:50Z",
+    "period": 4,
+    "clock": "0:43",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by ATL at 00:43."
+  },
+  {
+    "wallclock": "2025-09-07T20:18:33Z",
+    "period": 4,
+    "clock": "0:43",
+    "play_type": "Pass Reception",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.McCloud",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Smith",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to R.McCloud pushed ob at 50 for 24 yards (T.Smith)."
+  },
+  {
+    "wallclock": "2025-09-07T20:19:20Z",
+    "period": 4,
+    "clock": "0:36",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.David",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to K.Pitts to TB 36 for 14 yards (L.David)."
+  },
+  {
+    "wallclock": "2025-09-07T20:19:44Z",
+    "period": 4,
+    "clock": "0:27",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by ATL at 00:27."
+  },
+  {
+    "wallclock": "2025-09-07T20:20:30Z",
+    "period": 4,
+    "clock": "0:27",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "S.Dennis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short right to B.Robinson pushed ob at TB 30 for 6 yards (S.Dennis)."
+  },
+  {
+    "wallclock": "2025-09-07T20:20:30Z",
+    "period": 4,
+    "clock": "0:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) M.Penix spiked the ball to stop the clock."
+  },
+  {
+    "wallclock": "2025-09-07T20:22:40Z",
+    "period": 4,
+    "clock": "0:21",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Pitts",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Parrish",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass short left to K.Pitts ran ob at TB 26 for 4 yards (J.Parrish)."
+  },
+  {
+    "wallclock": "2025-09-07T20:23:27Z",
+    "period": 4,
+    "clock": "0:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Winfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep left to Cas.Washington (A.Winfield)."
+  },
+  {
+    "wallclock": "2025-09-07T20:24:15Z",
+    "period": 4,
+    "clock": "0:11",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Penix",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Hodge",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) M.Penix pass incomplete deep left to K.Hodge."
+  },
+  {
+    "wallclock": "2025-09-07T20:25:09Z",
+    "period": 4,
+    "clock": "0:06",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by TB at 00:06."
+  },
+  {
+    "wallclock": "2025-09-07T20:26:08Z",
+    "period": 4,
+    "clock": "0:06",
+    "play_type": "Field Goal Missed",
+    "yards": 44,
+    "athletes": [
+      {
+        "id": "",
+        "name": "Y.Koo",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "L.McCullough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Pinion",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " Y.Koo 44 yard field goal is No Good, Wide Right, Center-L.McCullough, Holder-B.Pinion."
+  },
+  {
+    "wallclock": "2025-09-07T20:27:04Z",
+    "period": 4,
+    "clock": "0:02",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "B.Mayfield",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " B.Mayfield kneels to TB 33 for -1 yards."
+  },
+  {
+    "wallclock": "2025-09-07T20:27:04Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]

@@ -1,0 +1,4431 @@
+[
+  {
+    "wallclock": "2025-11-30T18:03:05Z",
+    "period": 1,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Rumph",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 59 yards from NO 35 to MIA 6. M.Washington to MIA 31 for 25 yards (C.Rumph)."
+  },
+  {
+    "wallclock": "2025-11-30T18:03:44Z",
+    "period": 1,
+    "clock": "14:54",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right end to MIA 39 for 8 yards (D.Godchaux; J.Reid). NO-J.Reid was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-30T18:04:58Z",
+    "period": 1,
+    "clock": "14:23",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  J.Wright right guard to MIA 47 for 8 yards (J.Sanker; C.Jordan)."
+  },
+  {
+    "wallclock": "2025-11-30T18:05:38Z",
+    "period": 1,
+    "clock": "13:43",
+    "play_type": "Sack",
+    "yards": -8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  T.Tagovailoa sacked at MIA 39 for -8 yards (C.Jordan)."
+  },
+  {
+    "wallclock": "2025-11-30T18:06:23Z",
+    "period": 1,
+    "clock": "12:57",
+    "play_type": "Pass Reception",
+    "yards": 13,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Waller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to D.Waller to NO 48 for 13 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-11-30T18:07:05Z",
+    "period": 1,
+    "clock": "12:16",
+    "play_type": "Fumble Recovery (Own)",
+    "yards": 19,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Reid",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa to MIA 47 for -5 yards. FUMBLES, and recovers at MIA 47. T.Tagovailoa pass short middle to M.Washington to NO 29 for 19 yards (A.Taylor). ** Injury Update: NO-J.Reid has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-30T18:07:54Z",
+    "period": 1,
+    "clock": "11:19",
+    "play_type": "Rushing Touchdown",
+    "yards": 29,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "D.Achane right end for 29 yards, TOUCHDOWN. R.Patterson extra point is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-11-30T18:09:01Z",
+    "period": 1,
+    "clock": "11:19",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:19."
+  },
+  {
+    "wallclock": "2025-11-30T18:11:52Z",
+    "period": 1,
+    "clock": "11:19",
+    "play_type": "Kickoff",
+    "yards": 23,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Campbell",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Bonner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 61 yards from MIA 35 to NO 4. D.Pettis to NO 27 for 23 yards (E.Campbell; E.Bonner)."
+  },
+  {
+    "wallclock": "2025-11-30T18:12:36Z",
+    "period": 1,
+    "clock": "11:13",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to C.Olave to NO 31 for 4 yards (J.Jones; T.Dodson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:13:06Z",
+    "period": 1,
+    "clock": "10:42",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "M.Tipton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "M.Tipton left end to NO 30 for -1 yards (Z.Sieler, M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-11-30T18:13:50Z",
+    "period": 1,
+    "clock": "9:58",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Tipton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to M.Tipton to NO 35 for 5 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:14:40Z",
+    "period": 1,
+    "clock": "9:08",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 47 yards to MIA 18, Center-Z.Wood, fair catch by M.Washington."
+  },
+  {
+    "wallclock": "2025-11-30T18:15:14Z",
+    "period": 1,
+    "clock": "9:01",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:01."
+  },
+  {
+    "wallclock": "2025-11-30T18:17:49Z",
+    "period": 1,
+    "clock": "9:01",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane up the middle to MIA 20 for 2 yards (D.Godchaux)."
+  },
+  {
+    "wallclock": "2025-11-30T18:18:28Z",
+    "period": 1,
+    "clock": "8:22",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wilson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  T.Tagovailoa pass incomplete deep left to C.Wilson."
+  },
+  {
+    "wallclock": "2025-11-30T18:19:14Z",
+    "period": 1,
+    "clock": "8:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete deep left to J.Waddle."
+  },
+  {
+    "wallclock": "2025-11-30T18:19:47Z",
+    "period": 1,
+    "clock": "8:13",
+    "play_type": "Punt",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 53 yards to NO 27, Center-J.Cardona. D.Pettis to NO 34 for 7 yards (C.Johnson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:20:26Z",
+    "period": 1,
+    "clock": "8:03",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:03."
+  },
+  {
+    "wallclock": "2025-11-30T18:22:59Z",
+    "period": 1,
+    "clock": "8:03",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Judon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass short right to F.Moreau to NO 41 for 7 yards (Z.Sieler) [M.Judon]."
+  },
+  {
+    "wallclock": "2025-11-30T18:23:38Z",
+    "period": 1,
+    "clock": "7:24",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal left guard to NO 40 for -1 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T18:24:22Z",
+    "period": 1,
+    "clock": "6:40",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short left to J.Johnson (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:25:06Z",
+    "period": 1,
+    "clock": "6:37",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 60 yards to end zone, Center-Z.Wood, Touchback."
+  },
+  {
+    "wallclock": "2025-11-30T18:25:37Z",
+    "period": 1,
+    "clock": "6:29",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:29."
+  },
+  {
+    "wallclock": "2025-11-30T18:28:05Z",
+    "period": 1,
+    "clock": "6:29",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane right end to MIA 20 for no gain (D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-11-30T18:28:44Z",
+    "period": 1,
+    "clock": "5:49",
+    "play_type": "Pass Reception",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass short right to M.Washington to MIA 21 for 1 yard (N.Shepherd)."
+  },
+  {
+    "wallclock": "2025-11-30T18:28:44Z",
+    "period": 1,
+    "clock": "5:10",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIA, Offensive Too Many Men on Field, 5 yards, enforced at MIA 21 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T18:30:04Z",
+    "period": 1,
+    "clock": "4:53",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa sacked at MIA 12 for -4 yards (C.Jordan)."
+  },
+  {
+    "wallclock": "2025-11-30T18:30:39Z",
+    "period": 1,
+    "clock": "4:18",
+    "play_type": "Punt",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "E.Campbell",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 49 yards to NO 39, Center-J.Cardona. D.Pettis pushed ob at NO 44 for 5 yards (E.Campbell)."
+  },
+  {
+    "wallclock": "2025-11-30T18:31:58Z",
+    "period": 1,
+    "clock": "4:07",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal up the middle to NO 45 for 1 yard (D.Trader; J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T18:32:32Z",
+    "period": 1,
+    "clock": "3:33",
+    "play_type": "Sack",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Biggers",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough sacked at NO 40 for -5 yards (sack split by Z.Biggers and C.Robinson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:33:14Z",
+    "period": 1,
+    "clock": "2:51",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to J.Johnson to MIA 49 for 11 yards (D.Trader) [C.Robinson]."
+  },
+  {
+    "wallclock": "2025-11-30T18:33:57Z",
+    "period": 1,
+    "clock": "2:08",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 38 yards to MIA 11, Center-Z.Wood, fair catch by M.Washington."
+  },
+  {
+    "wallclock": "2025-11-30T18:34:24Z",
+    "period": 1,
+    "clock": "2:01",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 02:01."
+  },
+  {
+    "wallclock": "2025-11-30T18:36:50Z",
+    "period": 1,
+    "clock": "2:01",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Wilson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to C.Wilson ran ob at MIA 27 for 16 yards (T.Burgess; J.Sanker)."
+  },
+  {
+    "wallclock": "2025-11-30T18:37:29Z",
+    "period": 1,
+    "clock": "1:26",
+    "play_type": "Pass Reception",
+    "yards": 34,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Waller",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass deep left to D.Waller to NO 39 for 34 yards (J.Sanker)."
+  },
+  {
+    "wallclock": "2025-11-30T18:38:13Z",
+    "period": 1,
+    "clock": "0:42",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "O.Gordon up the middle to NO 30 for 9 yards (D.Davis; J.Sanker)."
+  },
+  {
+    "wallclock": "2025-11-30T18:38:51Z",
+    "period": 1,
+    "clock": "0:04",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane up the middle to NO 24 for 6 yards (D.Godchaux)."
+  },
+  {
+    "wallclock": "2025-11-30T18:38:51Z",
+    "period": 1,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 1"
+  },
+  {
+    "wallclock": "2025-11-30T18:41:45Z",
+    "period": 2,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane up the middle to NO 21 for 3 yards (C.Granderson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:42:22Z",
+    "period": 2,
+    "clock": "14:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete deep left to M.Washington (T.Burgess)."
+  },
+  {
+    "wallclock": "2025-11-30T18:43:06Z",
+    "period": 2,
+    "clock": "14:20",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Stalbird",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short left [I.Stalbird]."
+  },
+  {
+    "wallclock": "2025-11-30T18:43:50Z",
+    "period": 2,
+    "clock": "14:09",
+    "play_type": "Field Goal Good",
+    "yards": 39,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "R.Patterson 39 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-11-30T18:44:11Z",
+    "period": 2,
+    "clock": "14:09",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 14:09."
+  },
+  {
+    "wallclock": "2025-11-30T18:46:56Z",
+    "period": 2,
+    "clock": "14:09",
+    "play_type": "Kickoff",
+    "yards": 36,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Tipton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 63 yards from MIA 35 to NO 2. M.Tipton ran ob at NO 38 for 36 yards (R.Patterson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:47:44Z",
+    "period": 2,
+    "clock": "14:01",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to F.Moreau to NO 44 for 6 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T18:48:20Z",
+    "period": 2,
+    "clock": "13:24",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Hull up the middle to NO 49 for 5 yards (B.Chubb; T.Dodson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:48:48Z",
+    "period": 2,
+    "clock": "12:57",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) E.Hull up the middle to MIA 49 for 2 yards (J.Phillips; C.Robinson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:49:08Z",
+    "period": 2,
+    "clock": "12:37",
+    "play_type": "Sack Opp Fumble Recovery",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough sacked at NO 41 for -10 yards (M.Fitzpatrick). FUMBLES (M.Fitzpatrick) [M.Fitzpatrick], RECOVERED by MIA-Z.Sieler at NO 42. Z.Sieler to NO 37 for 5 yards (D.Vele)."
+  },
+  {
+    "wallclock": "2025-11-30T18:50:13Z",
+    "period": 2,
+    "clock": "12:31",
+    "play_type": "Pass Interception Return",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  T.Tagovailoa pass deep left intended for J.Waddle INTERCEPTED by K.McKinstry at NO -2. Touchback."
+  },
+  {
+    "wallclock": "2025-11-30T18:51:26Z",
+    "period": 2,
+    "clock": "12:24",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough right end to NO 20 for no gain (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-11-30T18:52:01Z",
+    "period": 2,
+    "clock": "11:49",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short right to J.Johnson (B.Jones)."
+  },
+  {
+    "wallclock": "2025-11-30T18:52:43Z",
+    "period": 2,
+    "clock": "11:46",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by MIA at 11:46."
+  },
+  {
+    "wallclock": "2025-11-30T18:53:33Z",
+    "period": 2,
+    "clock": "11:46",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "W.Gay",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short right to J.Johnson (W.Gay)."
+  },
+  {
+    "wallclock": "2025-11-30T18:54:19Z",
+    "period": 2,
+    "clock": "11:43",
+    "play_type": "Punt",
+    "yards": -15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 46 yards to MIA 34, Center-Z.Wood, downed by NO-M.Davis.PENALTY on NO-M.Davis, Kick Catch Interference, 15 yards, enforced at MIA 34."
+  },
+  {
+    "wallclock": "2025-11-30T18:56:35Z",
+    "period": 2,
+    "clock": "11:35",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 11:35."
+  },
+  {
+    "wallclock": "2025-11-30T18:58:18Z",
+    "period": 2,
+    "clock": "11:35",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Taylor",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  D.Achane right end to NO 42 for 9 yards (A.Taylor)."
+  },
+  {
+    "wallclock": "2025-11-30T18:59:00Z",
+    "period": 2,
+    "clock": "10:53",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) J.Wright left end pushed ob at NO 37 for 5 yards (D.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T18:59:41Z",
+    "period": 2,
+    "clock": "10:19",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left guard to NO 32 for 5 yards (N.Shepherd)."
+  },
+  {
+    "wallclock": "2025-11-30T19:00:20Z",
+    "period": 2,
+    "clock": "9:39",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  O.Gordon left tackle to NO 30 for 2 yards (C.Jordan; J.Howden)."
+  },
+  {
+    "wallclock": "2025-11-30T19:01:01Z",
+    "period": 2,
+    "clock": "8:59",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to J.Waddle pushed ob at NO 26 for 4 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-11-30T19:01:41Z",
+    "period": 2,
+    "clock": "8:24",
+    "play_type": "Rush",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right end to NO 10 for 16 yards (P.Werner; J.Howden)."
+  },
+  {
+    "wallclock": "2025-11-30T19:02:26Z",
+    "period": 2,
+    "clock": "7:39",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bresee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  D.Achane left end to NO 6 for 4 yards (B.Bresee)."
+  },
+  {
+    "wallclock": "2025-11-30T19:03:14Z",
+    "period": 2,
+    "clock": "6:54",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIA at 06:54."
+  },
+  {
+    "wallclock": "2025-11-30T19:04:18Z",
+    "period": 2,
+    "clock": "6:54",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  D.Achane left end to NO 7 for -1 yards (J.Howden)."
+  },
+  {
+    "wallclock": "2025-11-30T19:04:59Z",
+    "period": 2,
+    "clock": "6:13",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short right to D.Achane."
+  },
+  {
+    "wallclock": "2025-11-30T19:05:39Z",
+    "period": 2,
+    "clock": "6:07",
+    "play_type": "Field Goal Good",
+    "yards": 25,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " R.Patterson 25 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-11-30T19:06:18Z",
+    "period": 2,
+    "clock": "6:07",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:07."
+  },
+  {
+    "wallclock": "2025-11-30T19:08:36Z",
+    "period": 2,
+    "clock": "6:07",
+    "play_type": "Kickoff",
+    "yards": 24,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Trader",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 61 yards from MIA 35 to NO 4. D.Pettis to NO 28 for 24 yards (D.Trader)."
+  },
+  {
+    "wallclock": "2025-11-30T19:09:21Z",
+    "period": 2,
+    "clock": "6:00",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Sieler",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "E.Hull left end to NO 29 for 1 yard (R.Douglas; Z.Sieler)."
+  },
+  {
+    "wallclock": "2025-11-30T19:10:05Z",
+    "period": 2,
+    "clock": "5:17",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough scrambles up the middle to NO 31 for 2 yards (M.Fitzpatrick).PENALTY on MIA-R.Douglas, Illegal Contact, 5 yards, enforced at NO 31."
+  },
+  {
+    "wallclock": "2025-11-30T19:11:01Z",
+    "period": 2,
+    "clock": "4:55",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Tipton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass short right to M.Tipton to NO 41 for 5 yards (M.Fitzpatrick; J.Jones)."
+  },
+  {
+    "wallclock": "2025-11-30T19:11:30Z",
+    "period": 2,
+    "clock": "4:26",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Neal right tackle to NO 44 for 3 yards (J.Phillips; J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T19:12:08Z",
+    "period": 2,
+    "clock": "3:48",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal up the middle to NO 49 for 5 yards (I.Melifonwu; J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T19:13:07Z",
+    "period": 2,
+    "clock": "3:23",
+    "play_type": "Pass Reception",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass short right to T.Hill to MIA 46 for 5 yards (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-11-30T19:13:50Z",
+    "period": 2,
+    "clock": "2:41",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal right tackle to MIA 45 for 1 yard (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T19:14:38Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Two-minute warning",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-30T19:17:31Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Penalty",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on MIA-C.Robinson, Neutral Zone Infraction, 5 yards, enforced at MIA 45 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T19:18:17Z",
+    "period": 2,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough scrambles left guard to MIA 32 for 8 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-11-30T19:18:51Z",
+    "period": 2,
+    "clock": "1:27",
+    "play_type": "Rush",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal up the middle to MIA 24 for 8 yards (A.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T19:19:09Z",
+    "period": 2,
+    "clock": "1:21",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #1 by NO at 01:21."
+  },
+  {
+    "wallclock": "2025-11-30T19:20:05Z",
+    "period": 2,
+    "clock": "1:21",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Judon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Judon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete deep left to J.Johnson (M.Judon) [M.Judon]."
+  },
+  {
+    "wallclock": "2025-11-30T19:20:48Z",
+    "period": 2,
+    "clock": "1:16",
+    "play_type": "Pass Interception Return",
+    "yards": 38,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Radunz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short left intended for C.Olave INTERCEPTED by R.Douglas at MIA 20. R.Douglas to NO 42 for 38 yards (D.Radunz)."
+  },
+  {
+    "wallclock": "2025-11-30T19:21:55Z",
+    "period": 2,
+    "clock": "1:08",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane right end to NO 33 for 9 yards (D.Davis; K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-11-30T19:22:15Z",
+    "period": 2,
+    "clock": "1:01",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by MIA at 01:01."
+  },
+  {
+    "wallclock": "2025-11-30T19:23:00Z",
+    "period": 2,
+    "clock": "1:01",
+    "play_type": "Rush",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane left end to NO 35 for -2 yards (C.Young)."
+  },
+  {
+    "wallclock": "2025-11-30T19:23:32Z",
+    "period": 2,
+    "clock": "0:29",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short right to M.Washington to NO 29 for 6 yards (D.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T19:23:58Z",
+    "period": 2,
+    "clock": "0:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle) T.Tagovailoa spiked the ball to stop the clock."
+  },
+  {
+    "wallclock": "2025-11-30T19:24:36Z",
+    "period": 2,
+    "clock": "0:02",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NO at 00:02."
+  },
+  {
+    "wallclock": "2025-11-30T19:25:19Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "Field Goal Good",
+    "yards": 48,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " R.Patterson 48 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-11-30T19:25:19Z",
+    "period": 2,
+    "clock": "0:00",
+    "play_type": "End of Half",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 2"
+  },
+  {
+    "wallclock": "2025-11-30T19:39:28Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 65 yards from MIA 35 to end zone, Touchback to the NO 35."
+  },
+  {
+    "wallclock": "2025-11-30T19:40:15Z",
+    "period": 3,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal up the middle to NO 40 for 5 yards (R.Douglas; A.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T19:40:48Z",
+    "period": 3,
+    "clock": "14:27",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal left guard to NO 44 for 4 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T19:41:23Z",
+    "period": 3,
+    "clock": "13:52",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough up the middle to NO 46 for 2 yards (T.Dodson; J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T19:42:01Z",
+    "period": 3,
+    "clock": "13:14",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Grant",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal up the middle to NO 48 for 2 yards (I.Melifonwu; K.Grant)."
+  },
+  {
+    "wallclock": "2025-11-30T19:42:23Z",
+    "period": 3,
+    "clock": "12:52",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short left to D.Vele pushed ob at MIA 38 for 14 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-11-30T19:42:54Z",
+    "period": 3,
+    "clock": "12:25",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Neal up the middle to MIA 32 for 6 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T19:43:16Z",
+    "period": 3,
+    "clock": "12:04",
+    "play_type": "Rush",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Neal left end pushed ob at MIA 28 for 4 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-11-30T19:43:53Z",
+    "period": 3,
+    "clock": "11:30",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) E.Hull left guard to MIA 26 for 2 yards (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-11-30T19:44:31Z",
+    "period": 3,
+    "clock": "10:53",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to D.Vele pushed ob at MIA 12 for 14 yards (A.Davis).Miami challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-11-30T19:48:11Z",
+    "period": 3,
+    "clock": "10:45",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Radunz",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NO-D.Radunz, False Start, 5 yards, enforced at MIA 12 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T19:49:03Z",
+    "period": 3,
+    "clock": "10:40",
+    "play_type": "Passing Touchdown",
+    "yards": 17,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(Shotgun) T.Shough pass deep right to C.Olave for 17 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. T.Shough rushes right end. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": "2025-11-30T19:50:50Z",
+    "period": 3,
+    "clock": "10:40",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 10:40."
+  },
+  {
+    "wallclock": "2025-11-30T19:53:19Z",
+    "period": 3,
+    "clock": "10:40",
+    "play_type": "Kickoff",
+    "yards": 20,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 58 yards from NO 35 to MIA 7. M.Washington to MIA 27 for 20 yards (I.Yiadom)."
+  },
+  {
+    "wallclock": "2025-11-30T19:54:05Z",
+    "period": 3,
+    "clock": "10:35",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane left end to MIA 36 for 9 yards (T.Burgess)."
+  },
+  {
+    "wallclock": "2025-11-30T19:54:51Z",
+    "period": 3,
+    "clock": "9:49",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane right tackle to MIA 36 for no gain (D.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T19:55:30Z",
+    "period": 3,
+    "clock": "9:10",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Hill",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass incomplete short left to J.Hill."
+  },
+  {
+    "wallclock": "2025-11-30T19:56:09Z",
+    "period": 3,
+    "clock": "9:05",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " J.Bailey punts 54 yards to NO 10, Center-J.Cardona, fair catch by D.Pettis."
+  },
+  {
+    "wallclock": "2025-11-30T19:56:32Z",
+    "period": 3,
+    "clock": "8:58",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 08:58."
+  },
+  {
+    "wallclock": "2025-11-30T19:59:17Z",
+    "period": 3,
+    "clock": "8:58",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Neal right guard to NO 12 for 2 yards (J.Brooks; J.Phillips)."
+  },
+  {
+    "wallclock": "2025-11-30T19:59:53Z",
+    "period": 3,
+    "clock": "8:19",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "F.Moreau",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NO-F.Moreau, False Start, 5 yards, enforced at NO 12 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T20:00:38Z",
+    "period": 3,
+    "clock": "7:58",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to D.Vele to NO 21 for 14 yards (A.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T20:01:00Z",
+    "period": 3,
+    "clock": "7:36",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short middle to D.Vele to NO 33 for 12 yards (A.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T20:01:23Z",
+    "period": 3,
+    "clock": "7:12",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) D.Neal left guard to NO 34 for 1 yard (B.Chubb; I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-11-30T20:01:46Z",
+    "period": 3,
+    "clock": "6:49",
+    "play_type": "Pass Reception",
+    "yards": 11,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short right to J.Johnson to NO 45 for 11 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-11-30T20:02:11Z",
+    "period": 3,
+    "clock": "6:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-11-30T20:02:56Z",
+    "period": 3,
+    "clock": "6:19",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Banks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) PENALTY on NO-K.Banks, False Start, 5 yards, enforced at NO 45 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T20:03:44Z",
+    "period": 3,
+    "clock": "6:19",
+    "play_type": "Sack",
+    "yards": -2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough sacked at NO 38 for -2 yards (C.Robinson)."
+  },
+  {
+    "wallclock": "2025-11-30T20:04:25Z",
+    "period": 3,
+    "clock": "5:39",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short left to J.Johnson to NO 42 for 4 yards (M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-11-30T20:05:06Z",
+    "period": 3,
+    "clock": "4:57",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 54 yards to MIA 4, Center-Z.Wood, downed by NO-D.Stutsman."
+  },
+  {
+    "wallclock": "2025-11-30T20:05:37Z",
+    "period": 3,
+    "clock": "4:46",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 04:46."
+  },
+  {
+    "wallclock": "2025-11-30T20:08:04Z",
+    "period": 3,
+    "clock": "4:46",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Wright",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bresee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Brunskill reported in as eligible.  J.Wright up the middle to MIA 7 for 3 yards (B.Bresee; C.Granderson)."
+  },
+  {
+    "wallclock": "2025-11-30T20:08:44Z",
+    "period": 3,
+    "clock": "4:05",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa scrambles left end to MIA 10 for 3 yards (D.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T20:09:29Z",
+    "period": 3,
+    "clock": "3:20",
+    "play_type": "Pass Reception",
+    "yards": 21,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dulcich",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Stalbird",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short middle to G.Dulcich to MIA 31 for 21 yards (Q.Riley; I.Stalbird)."
+  },
+  {
+    "wallclock": "2025-11-30T20:10:05Z",
+    "period": 3,
+    "clock": "2:44",
+    "play_type": "Pass Reception",
+    "yards": 14,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to J.Waddle to MIA 45 for 14 yards (Q.Riley)."
+  },
+  {
+    "wallclock": "2025-11-30T20:10:49Z",
+    "period": 3,
+    "clock": "2:00",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Granderson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left guard to MIA 46 for 1 yard (D.Davis; C.Granderson)."
+  },
+  {
+    "wallclock": "2025-11-30T20:11:30Z",
+    "period": 3,
+    "clock": "1:19",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass short left to M.Washington pushed ob at 50 for 4 yards (P.Werner)."
+  },
+  {
+    "wallclock": "2025-11-30T20:12:13Z",
+    "period": 3,
+    "clock": "0:39",
+    "play_type": "Sack",
+    "yards": -7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bresee",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa sacked at MIA 43 for -7 yards (B.Bresee).Penalty on MIA, Illegal Formation, declined."
+  },
+  {
+    "wallclock": "2025-11-30T20:13:07Z",
+    "period": 3,
+    "clock": "0:22",
+    "play_type": "Punt",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Pettis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "J.Bailey punts 45 yards to NO 12, Center-J.Cardona, fair catch by D.Pettis."
+  },
+  {
+    "wallclock": "2025-11-30T20:14:02Z",
+    "period": 3,
+    "clock": "0:15",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Neal right tackle to NO 18 for 6 yards (T.Dodson; M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-11-30T20:14:02Z",
+    "period": 3,
+    "clock": "0:00",
+    "play_type": "End Period",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END QUARTER 3"
+  },
+  {
+    "wallclock": "2025-11-30T20:17:12Z",
+    "period": 4,
+    "clock": "15:00",
+    "play_type": "Rush",
+    "yards": 2,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Hill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Jones",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Phillips",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) Direct snap to T.Hill.  T.Hill up the middle to NO 20 for 2 yards (B.Jones; J.Phillips)."
+  },
+  {
+    "wallclock": "2025-11-30T20:17:53Z",
+    "period": 4,
+    "clock": "14:20",
+    "play_type": "Sack",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Chubb",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough sacked at NO 10 for -10 yards (B.Chubb)."
+  },
+  {
+    "wallclock": "2025-11-30T20:18:40Z",
+    "period": 4,
+    "clock": "13:33",
+    "play_type": "Punt",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Washington",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Yiadom",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "K.Kroeger punts 48 yards to MIA 42, Center-Z.Wood. M.Washington to MIA 47 for 5 yards (I.Yiadom)."
+  },
+  {
+    "wallclock": "2025-11-30T20:19:39Z",
+    "period": 4,
+    "clock": "13:24",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Q.Riley",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass incomplete short left to J.Waddle (Q.Riley).New Orleans challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+  },
+  {
+    "wallclock": "2025-11-30T20:22:25Z",
+    "period": 4,
+    "clock": "13:17",
+    "play_type": "Pass Reception",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Waddle",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Jordan",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass deep middle to J.Waddle to NO 31 for 22 yards (D.Davis) [C.Jordan]."
+  },
+  {
+    "wallclock": "2025-11-30T20:23:12Z",
+    "period": 4,
+    "clock": "12:31",
+    "play_type": "Rush",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Sanker",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane up the middle to NO 21 for 10 yards (J.Sanker; T.Burgess)."
+  },
+  {
+    "wallclock": "2025-11-30T20:23:54Z",
+    "period": 4,
+    "clock": "11:49",
+    "play_type": "Rush",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Stutsman",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) D.Achane left tackle to NO 12 for 9 yards (T.Burgess; D.Stutsman)."
+  },
+  {
+    "wallclock": "2025-11-30T20:24:36Z",
+    "period": 4,
+    "clock": "11:07",
+    "play_type": "Rush",
+    "yards": 1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane up the middle to NO 11 for 1 yard (T.Burgess)."
+  },
+  {
+    "wallclock": "2025-11-30T20:25:11Z",
+    "period": 4,
+    "clock": "10:32",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Waller",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short left to D.Waller."
+  },
+  {
+    "wallclock": "2025-11-30T20:25:58Z",
+    "period": 4,
+    "clock": "10:25",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-11-30T20:26:41Z",
+    "period": 4,
+    "clock": "10:22",
+    "play_type": "Sack",
+    "yards": -4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Young",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa sacked at NO 15 for -4 yards (C.Young)."
+  },
+  {
+    "wallclock": "2025-11-30T20:27:20Z",
+    "period": 4,
+    "clock": "9:39",
+    "play_type": "Field Goal Good",
+    "yards": 33,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Cardona",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Bailey",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": " R.Patterson 33 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey."
+  },
+  {
+    "wallclock": "2025-11-30T20:27:46Z",
+    "period": 4,
+    "clock": "9:39",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 09:39."
+  },
+  {
+    "wallclock": "2025-11-30T20:30:21Z",
+    "period": 4,
+    "clock": "9:39",
+    "play_type": "Kickoff",
+    "yards": 22,
+    "athletes": [
+      {
+        "id": "",
+        "name": "R.Patterson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Tipton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Westbrook-Ikhine",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "R.Patterson kicks 61 yards from MIA 35 to NO 4. M.Tipton to NO 26 for 22 yards (N.Westbrook-Ikhine)."
+  },
+  {
+    "wallclock": "2025-11-30T20:31:08Z",
+    "period": 4,
+    "clock": "9:31",
+    "play_type": "Pass Reception",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough pass short right to J.Johnson ran ob at NO 33 for 7 yards."
+  },
+  {
+    "wallclock": "2025-11-30T20:31:36Z",
+    "period": 4,
+    "clock": "9:07",
+    "play_type": "Rush",
+    "yards": 5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "E.Hull",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Judon",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) E.Hull up the middle to NO 38 for 5 yards (M.Judon)."
+  },
+  {
+    "wallclock": "2025-11-30T20:31:58Z",
+    "period": 4,
+    "clock": "8:45",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough scrambles left guard to NO 44 for 6 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-11-30T20:32:28Z",
+    "period": 4,
+    "clock": "8:16",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Goode",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass incomplete short right to C.Olave (C.Goode)."
+  },
+  {
+    "wallclock": "2025-11-30T20:33:10Z",
+    "period": 4,
+    "clock": "8:13",
+    "play_type": "Pass Reception",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Johnson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Melifonwu",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to J.Johnson to 50 for 6 yards (I.Melifonwu)."
+  },
+  {
+    "wallclock": "2025-11-30T20:33:35Z",
+    "period": 4,
+    "clock": "7:48",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Tipton",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short left to M.Tipton to MIA 40 for 10 yards (R.Douglas). MIA-M.Fitzpatrick was injured during the play."
+  },
+  {
+    "wallclock": "2025-11-30T20:35:32Z",
+    "period": 4,
+    "clock": "7:09",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short left."
+  },
+  {
+    "wallclock": "2025-11-30T20:36:09Z",
+    "period": 4,
+    "clock": "7:04",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to D.Neal to MIA 37 for 3 yards (J.Brooks; C.Robinson). ** Injury Update: MIA-M.Fitzpatrick has returned to the game."
+  },
+  {
+    "wallclock": "2025-11-30T20:36:55Z",
+    "period": 4,
+    "clock": "6:18",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Tipton",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass incomplete deep left to M.Tipton."
+  },
+  {
+    "wallclock": "2025-11-30T20:37:40Z",
+    "period": 4,
+    "clock": "6:08",
+    "play_type": "Field Goal Good",
+    "yards": 56,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "Z.Wood",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.Kroeger",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "FG",
+    "play_text": "C.Smyth 56 yard field goal is GOOD, Center-Z.Wood, Holder-K.Kroeger."
+  },
+  {
+    "wallclock": "2025-11-30T20:38:13Z",
+    "period": 4,
+    "clock": "6:08",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Official Timeout at 06:08."
+  },
+  {
+    "wallclock": "2025-11-30T20:40:50Z",
+    "period": 4,
+    "clock": "6:08",
+    "play_type": "Kickoff",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks 65 yards from NO 35 to end zone, Touchback to the MIA 35."
+  },
+  {
+    "wallclock": "2025-11-30T20:41:38Z",
+    "period": 4,
+    "clock": "6:08",
+    "play_type": "Rush",
+    "yards": 6,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Davis",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "P.Werner",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane up the middle to MIA 41 for 6 yards (D.Davis; P.Werner)."
+  },
+  {
+    "wallclock": "2025-11-30T20:42:22Z",
+    "period": 4,
+    "clock": "5:24",
+    "play_type": "Rush",
+    "yards": 7,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Howden",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  D.Achane right end to MIA 48 for 7 yards (J.Howden; T.Burgess)."
+  },
+  {
+    "wallclock": "2025-11-30T20:43:06Z",
+    "period": 4,
+    "clock": "4:40",
+    "play_type": "Pass Reception",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "G.Dulcich",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Burgess",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Tagovailoa pass short left to G.Dulcich to NO 49 for 3 yards (T.Burgess)."
+  },
+  {
+    "wallclock": "2025-11-30T20:43:49Z",
+    "period": 4,
+    "clock": "3:57",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Achane",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Godchaux",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "N.Shepherd",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Achane right tackle to NO 46 for 3 yards (D.Godchaux; N.Shepherd)."
+  },
+  {
+    "wallclock": "2025-11-30T20:44:32Z",
+    "period": 4,
+    "clock": "3:14",
+    "play_type": "Rush",
+    "yards": 3,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "B.Bresee",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "I.Stalbird",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Tagovailoa scrambles up the middle to NO 43 for 3 yards (B.Bresee; I.Stalbird)."
+  },
+  {
+    "wallclock": "2025-11-30T20:45:23Z",
+    "period": 4,
+    "clock": "3:05",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by NO at 03:05."
+  },
+  {
+    "wallclock": "2025-11-30T20:46:02Z",
+    "period": 4,
+    "clock": "3:05",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "D.Brunskill",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "O.Gordon",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "K.McKinstry",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "D.Brunskill reported in as eligible.  O.Gordon left guard to NO 44 for -1 yards (K.McKinstry)."
+  },
+  {
+    "wallclock": "2025-11-30T20:47:24Z",
+    "period": 4,
+    "clock": "3:03",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-11-30T20:48:07Z",
+    "period": 4,
+    "clock": "2:57",
+    "play_type": "Pass Reception",
+    "yards": 12,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "R.Douglas",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to D.Vele to MIA 43 for 12 yards (R.Douglas)."
+  },
+  {
+    "wallclock": "2025-11-30T20:48:26Z",
+    "period": 4,
+    "clock": "2:37",
+    "play_type": "Penalty",
+    "yards": -10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Fuaga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass incomplete short right to D.Vele.PENALTY on NO-T.Fuaga, Offensive Holding, 10 yards, enforced at MIA 43 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T20:49:31Z",
+    "period": 4,
+    "clock": "2:31",
+    "play_type": "Pass Reception",
+    "yards": 4,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short left to D.Vele to MIA 49 for 4 yards (M.Fitzpatrick)."
+  },
+  {
+    "wallclock": "2025-11-30T20:49:55Z",
+    "period": 4,
+    "clock": "2:07",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "A.Davis",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short middle to D.Neal to MIA 39 for 10 yards (A.Davis)."
+  },
+  {
+    "wallclock": "2025-11-30T20:50:12Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Official Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Two-Minute Warning"
+  },
+  {
+    "wallclock": "2025-11-30T20:52:58Z",
+    "period": 4,
+    "clock": "2:00",
+    "play_type": "Pass Reception",
+    "yards": 16,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short right to C.Olave to MIA 23 for 16 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-11-30T20:53:19Z",
+    "period": 4,
+    "clock": "1:38",
+    "play_type": "Pass Reception",
+    "yards": 8,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Brooks",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short right to D.Vele to MIA 15 for 8 yards (J.Brooks)."
+  },
+  {
+    "wallclock": "2025-11-30T20:53:35Z",
+    "period": 4,
+    "clock": "1:17",
+    "play_type": "Passing Touchdown",
+    "yards": 15,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "M.Fitzpatrick",
+        "role": null
+      }
+    ],
+    "is_scoring": true,
+    "scoring_type": "TD",
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short right to D.Vele for 15 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. T.Shough pass to D.Vele is intercepted. ATTEMPT FAILS. DEFENSIVE TWO-POINT ATTEMPT. M.Fitzpatrick intercepted the try attempt. ATTEMPT SUCCEEDS."
+  },
+  {
+    "wallclock": null,
+    "period": 4,
+    "clock": "1:17",
+    "play_type": "Penalty",
+    "yards": -5,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Fuaga",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " PENALTY on NO-T.Fuaga, False Start, 5 yards, enforced at MIA 2 - No Play."
+  },
+  {
+    "wallclock": "2025-11-30T20:57:35Z",
+    "period": 4,
+    "clock": "1:17",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #2 by MIA at 01:17."
+  },
+  {
+    "wallclock": "2025-11-30T20:58:32Z",
+    "period": 4,
+    "clock": "1:17",
+    "play_type": "Kickoff",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "C.Smyth",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Vele",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "C.Smyth kicks onside 10 yards from NO 35 to NO 45. RECOVERED by NO-D.Vele.The Replay Official reviewed the kick touched ruling, and the play was Upheld. The ruling on the field stands."
+  },
+  {
+    "wallclock": "2025-11-30T21:03:07Z",
+    "period": 4,
+    "clock": "1:15",
+    "play_type": "Pass Reception",
+    "yards": 10,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "J.Jones",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass short middle to C.Olave to MIA 45 for 10 yards (J.Jones)."
+  },
+  {
+    "wallclock": "2025-11-30T21:03:27Z",
+    "period": 4,
+    "clock": "1:02",
+    "play_type": "Pass Reception",
+    "yards": 9,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "D.Neal",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "T.Dodson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass short middle to D.Neal to MIA 36 for 9 yards (T.Dodson)."
+  },
+  {
+    "wallclock": "2025-11-30T21:03:44Z",
+    "period": 4,
+    "clock": "0:44",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Olave",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(No Huddle, Shotgun) T.Shough pass incomplete deep right to C.Olave."
+  },
+  {
+    "wallclock": "2025-11-30T21:04:28Z",
+    "period": 4,
+    "clock": "0:39",
+    "play_type": "Pass Incompletion",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "(Shotgun) T.Shough pass incomplete short right."
+  },
+  {
+    "wallclock": "2025-11-30T21:05:12Z",
+    "period": 4,
+    "clock": "0:35",
+    "play_type": "Rush",
+    "yards": 0,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Shough",
+        "role": null
+      },
+      {
+        "id": "",
+        "name": "C.Robinson",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "T.Shough up the middle to MIA 36 for no gain (C.Robinson)."
+  },
+  {
+    "wallclock": "2025-11-30T21:06:25Z",
+    "period": 4,
+    "clock": "0:29",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Tagovailoa kneels to MIA 34 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-30T21:06:54Z",
+    "period": 4,
+    "clock": "0:26",
+    "play_type": "Timeout",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "Timeout #3 by NO at 00:26."
+  },
+  {
+    "wallclock": "2025-11-30T21:07:23Z",
+    "period": 4,
+    "clock": "0:26",
+    "play_type": "Rush",
+    "yards": -1,
+    "athletes": [
+      {
+        "id": "",
+        "name": "T.Tagovailoa",
+        "role": null
+      }
+    ],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": " T.Tagovailoa kneels to MIA 33 for -1 yards."
+  },
+  {
+    "wallclock": "2025-11-30T21:07:23Z",
+    "period": 4,
+    "clock": "0:00",
+    "play_type": "End of Game",
+    "yards": 0,
+    "athletes": [],
+    "is_scoring": false,
+    "scoring_type": null,
+    "play_text": "END GAME"
+  }
+]
