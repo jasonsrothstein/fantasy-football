@@ -15,5 +15,10 @@ Data/*/nflverse/
 # Auth secrets — never commit cookies
 Scripts/auth/yahoo_cookies.txt
 
+# Office files
+*.pptx
+*.xlsx
+*.docx
+
 # macOS
 .DS_Store
