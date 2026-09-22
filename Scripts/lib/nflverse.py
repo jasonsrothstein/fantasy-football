@@ -203,6 +203,34 @@ def extract_fantasy_events(row: dict) -> list[dict]:
     raw_desc = _v(row, "desc", "") or ""
     _td_desc = re.sub(r'^\(\d+:\d+\)\s*', '', raw_desc).strip()
 
+    # Quarter and game clock for TD marker tooltips (e.g. Q3, "11:05")
+    _qtr = _v(row, "qtr")
+
+    # game_clock may be a polars Duration (timedelta) or a "MM:SS" string.
+    # Fall back to quarter_seconds_remaining if neither yields a readable value.
+    _game_clock = ""
+    _gc_raw = _v(row, "game_clock")
+    if _gc_raw is not None:
+        import datetime as _dt
+        if isinstance(_gc_raw, _dt.timedelta):
+            _total = int(_gc_raw.total_seconds())
+            _game_clock = f"{_total // 60}:{_total % 60:02d}"
+        elif isinstance(_gc_raw, str) and _gc_raw:
+            _game_clock = _gc_raw
+    if not _game_clock:
+        _qsr = _v(row, "quarter_seconds_remaining")
+        if _qsr is not None:
+            try:
+                _s = int(float(_qsr))
+                _game_clock = f"{_s // 60}:{_s % 60:02d}"
+            except (ValueError, TypeError):
+                pass
+
+    # Shared metadata dict attached to every TD event's extra payload
+    _td_meta: dict = {"_desc": _td_desc}
+    if _qtr is not None:  _td_meta["_quarter"]    = int(_qtr)
+    if _game_clock:       _td_meta["_game_clock"] = _game_clock
+
     evs: list[dict] = []
 
     # Pre-fetch player IDs for each role on this play
@@ -304,7 +332,7 @@ def extract_fantasy_events(row: dict) -> list[dict]:
         # Blocked PAT credits the defending team's block kick bonus
         if result == "blocked":
             evs.append(_def(defteam, "def_blocked_kick",
-                            extra={"_desc": _td_desc} if _td_desc else None))
+                            extra=_td_meta))
         return evs
 
     # ── Passing plays ─────────────────────────────────────────────────────────
@@ -332,7 +360,7 @@ def extract_fantasy_events(row: dict) -> list[dict]:
         # Touchdown
         if bool(_v(row, "pass_touchdown", 0)):
             dist_total = float(abs(rec_yds or pass_yds or 0))
-            _td_extra = {"_desc": _td_desc} if _td_desc else None
+            _td_extra = _td_meta
             evs.append(_ev(passer, "pass_td", 1, player_id=_pid_passer, extra=_td_extra))
             if dist_total >= 40:
                 evs.append(_ev(passer, "pass_td_40plus", 1, player_id=_pid_passer))
@@ -348,7 +376,7 @@ def extract_fantasy_events(row: dict) -> list[dict]:
             # If the interception was returned for a TD, credit defensive TD
             if bool(_v(row, "return_touchdown", 0)) and _v(row, "td_team") == defteam:
                 evs.append(_def(defteam, "def_td", off_player=passer or "",
-                                extra={"_desc": _td_desc} if _td_desc else None))
+                                extra=_td_meta))
 
     # ── Sack ─────────────────────────────────────────────────────────────────
     # The defense gets the sack credit; no passer stat change (yards already
@@ -381,7 +409,7 @@ def extract_fantasy_events(row: dict) -> list[dict]:
                            player_id=_pid_lat_rusher))
         if bool(_v(row, "rush_touchdown", 0)):
             dist_total = float(abs(rush_yds or 0))
-            _td_extra = {"_desc": _td_desc} if _td_desc else None
+            _td_extra = _td_meta
             evs.append(_ev(rusher, "rush_td", 1, player_id=_pid_rusher, extra=_td_extra))
             if dist_total >= 40:
                 evs.append(_ev(rusher, "rush_td_40plus", 1, player_id=_pid_rusher))
@@ -404,12 +432,12 @@ def extract_fantasy_events(row: dict) -> list[dict]:
             td_team = _v(row, "td_team", "")
             if td_team == defteam and bool(_v(row, "touchdown", 0)):
                 evs.append(_def(defteam, "def_td", off_player=fumbler or "",
-                                extra={"_desc": _td_desc} if _td_desc else None))
+                                extra=_td_meta))
         # Offensive fumble recovery returned for TD
         elif rec_team == posteam and bool(_v(row, "touchdown", 0)):
             rec_player = _v(row, "fumble_recovery_1_player_name")
             if rec_player:
-                _td_extra = {"_desc": _td_desc} if _td_desc else None
+                _td_extra = _td_meta
                 evs.append(_ev(rec_player, "off_fumble_ret_td", 1, player_id=_pid_fumrec,
                                extra=_td_extra))
 
@@ -424,13 +452,13 @@ def extract_fantasy_events(row: dict) -> list[dict]:
         td_team = _v(row, "td_team", "")
         # Return TD by the receiving/defending team (the common case)
         if returner and td_team == defteam:
-            _td_extra = {"_desc": _td_desc} if _td_desc else None
+            _td_extra = _td_meta
             evs.append(_ev(returner, "return_td", 1, nfl_team=defteam, player_id=_pid_returner,
                            extra=_td_extra))
             # Credit the DEF/ST unit — Yahoo awards 6 pts for a
             # kickoff or punt return TD regardless of the individual returner
             evs.append(_def(defteam, "def_return_td",
-                            extra={"_desc": _td_desc} if _td_desc else None))
+                            extra=_td_meta))
 
     # ── Safety ────────────────────────────────────────────────────────────────
     if bool(_v(row, "safety", 0)):

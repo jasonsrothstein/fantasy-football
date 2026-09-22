@@ -235,6 +235,13 @@ def build_week_timeline(season: int, week: int, scoring_rules: dict,
     if logos_path.exists():
         team_logos = _load(logos_path)
 
+    # Load optional custom team colors (Data/{season}/team_colors.json)
+    colors_path = data_root(season) / "team_colors.json"
+    team_colors: dict = {}
+    if colors_path.exists():
+        team_colors = _load(colors_path)
+        log.info("Loaded team colors from %s", colors_path)
+
     all_events, schedule = load_week_data(season, week, source)
 
     if not all_events:
@@ -573,7 +580,8 @@ def build_week_timeline(season: int, week: int, scoring_rules: dict,
                    player_name=f"DEF {def_nfl}")
             if stat in _TD_STATS:
                 td_events[def_tid].append(
-                    (wc_dt, f"DEF {def_nfl}", stat, ev.get("_desc", ""))
+                    (wc_dt, f"DEF {def_nfl}", stat, ev.get("_desc", ""),
+                     ev.get("_quarter"), ev.get("_game_clock", ""), gid)
                 )
             continue
 
@@ -640,7 +648,8 @@ def build_week_timeline(season: int, week: int, scoring_rules: dict,
         _accum(tid, gid, stat, value, wc_dt, player_name=player_name)
         if stat in _TD_STATS:
             td_events[tid].append(
-                (wc_dt, player_name, stat, ev.get("_desc", ""))
+                (wc_dt, player_name, stat, ev.get("_desc", ""),
+                 ev.get("_quarter"), ev.get("_game_clock", ""), gid)
             )
 
     if unmatched_names:
@@ -768,13 +777,31 @@ def build_week_timeline(season: int, week: int, scoring_rules: dict,
         """
         # ── Step 1: build intermediate list, keeping wallclock for merging ────
         raw = []
-        for wc_dt, display_name, stat, desc in td_events.get(tid, []):
+        for wc_dt, display_name, stat, desc, quarter, game_clock, game_id in td_events.get(tid, []):
             search_dt = wc_dt + timedelta(seconds=59)
             idx = bisect.bisect_right(_mg_sorted, search_dt) - 1
             idx = max(0, min(idx, len(_mg_sorted) - 1))
             y = pts_array[idx] if pts_array else 0.0
+
+            # Format ET time as "1:47pm"
+            et_dt    = wc_dt.astimezone(_ET)
+            et_time  = et_dt.strftime("%-I:%M%p").lower()   # "1:47pm"
+
+            # Format quarter as "Q3" (5 = OT)
+            if quarter is not None:
+                qtr_str = "OT" if int(quarter) >= 5 else f"Q{int(quarter)}"
+            else:
+                qtr_str = ""
+
+            # Parse game_id "2026_02_KC_BAL" → "KC @ BAL"
+            parts = (game_id or "").split("_")
+            game_label = f"{parts[2]} @ {parts[3]}" if len(parts) >= 4 else ""
+
             raw.append({"xi": idx, "y": y, "player": display_name,
-                        "stat": stat, "desc": desc, "_wc": wc_dt})
+                        "stat": stat, "desc": desc,
+                        "et_time": et_time, "game": game_label,
+                        "qtr": qtr_str, "game_clock": game_clock or "",
+                        "_wc": wc_dt})
 
         # ── Step 2: match each pass_td to a rec_td at the same wallclock ──────
         # (same wallclock = same play in nflverse data)
@@ -868,13 +895,29 @@ def build_week_timeline(season: int, week: int, scoring_rules: dict,
 
     standings = compute_standings(all_matchups, week, team_logos, season)
 
+    # Build week-by-week history so the history chart can plot all weeks 1..N.
+    # Add a `rank` field (1 = best) reflecting each week's sort order.
+    standings_history: dict = {}
+    for hist_wk in range(1, week + 1):
+        if not all_matchups.get(str(hist_wk)):
+            continue
+        try:
+            hist = compute_standings(all_matchups, hist_wk, team_logos, season)
+            for i, row in enumerate(hist):
+                row["rank"] = i + 1
+            standings_history[str(hist_wk)] = hist
+        except Exception as _he:
+            log.warning("  standings_history: could not compute week %d: %s", hist_wk, _he)
+
     return {
-        "week":         week,
-        "date_range":   date_range,
-        "times":        times_iso,
-        "vertical_idx": None,   # removed green-line feature; kept for schema compat
-        "matchups":     matchup_list,
-        "standings":    standings,
+        "week":              week,
+        "date_range":        date_range,
+        "times":             times_iso,
+        "vertical_idx":      None,
+        "matchups":          matchup_list,
+        "standings":         standings,
+        "standings_history": standings_history,
+        "team_colors":       team_colors,
     }
 
 
@@ -960,6 +1003,21 @@ def compute_standings(all_matchups: dict, through_week: int,
             if int(wk_str) <= through_week
         )
         t["bs"] = total if total > 0 else None
+
+    # Load manually-assigned Fingers points (same format as Pickles)
+    fingers_path = data_root(season) / "fingers.json"
+    fingers_raw: dict = {}
+    if fingers_path.exists():
+        fingers_raw = _load(fingers_path)
+        log.info("Loaded Fingers from %s", fingers_path)
+
+    for t in teams.values():
+        weekly = fingers_raw.get(t["team_name"], {})
+        total = sum(
+            v for wk_str, v in weekly.items()
+            if int(wk_str) <= through_week
+        )
+        t["fingers"] = total if total > 0 else None
 
     # Compute Power Ranking and round PF/PA
     # PR = (2 * PF) + (PF * win_pct) + (PF * median_win_pct)

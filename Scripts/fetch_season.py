@@ -113,13 +113,17 @@ def fetch_settings(oauth, game_key: str, league_id: str,
 def fetch_matchups(oauth, game_key: str, league_id: str,
                    season: int, weeks: list, skip: bool) -> dict:
     p = matchups_path(season)
-    if skip and p.exists():
-        log.info("Matchups: cached (%s)", p)
-        return _load(p)
+    # Load any already-cached weeks so we can merge rather than overwrite.
+    all_matchups = _load(p) if p.exists() else {}
 
-    log.info("Fetching matchup schedule for %d weeks …", len(weeks))
-    all_matchups = {}
-    for week in weeks:
+    weeks_to_fetch = [w for w in weeks if not (skip and str(w) in all_matchups)]
+
+    if not weeks_to_fetch:
+        log.info("Matchups: all weeks cached (%s)", p)
+        return all_matchups
+
+    log.info("Fetching matchup schedule for %d weeks …", len(weeks_to_fetch))
+    for week in weeks_to_fetch:
         matchups = yahoo.get_weekly_matchups(oauth, game_key, league_id, week)
         all_matchups[str(week)] = matchups
         log.info("  Week %2d: %d matchups", week, len(matchups))

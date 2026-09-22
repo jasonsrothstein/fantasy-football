@@ -452,9 +452,15 @@ _HTML = """\
     .week-intro p:last-child {{ margin-bottom: 0; }}
     .week-intro img {{
       max-width: 100%;
-      max-height: 400px;
       border-radius: 8px;
-      margin: 0.6rem 0;
+      margin: 0.75rem auto;
+      display: block;
+    }}
+    .commentary-body img {{
+      max-width: 100%;
+      border-radius: 8px;
+      margin: 0.75rem auto;
+      display: block;
     }}
     .week-intro blockquote.twitter-tweet {{ margin: 0.75rem 0; }}
     /* ── Commentary section ──────────────────────────────────────────── */
@@ -597,6 +603,57 @@ _HTML = """\
     }}
     .standings-table .team-name {{ font-weight: 500; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
     .standings-table .sort-active {{ font-weight: 700; color: #fff; }}
+    /* ── History chart ───────────────────────────────────────────────── */
+    .history-wrap {{
+      max-width: 1100px;
+      margin: 0 auto 2.5rem;
+    }}
+    .history-header {{
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 0.85rem;
+    }}
+    .history-header h2 {{
+      font-size: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      color: var(--text);
+      margin: 0;
+    }}
+    .history-play-btn {{
+      background: rgba(88,166,255,0.12);
+      border: 1px solid rgba(88,166,255,0.5);
+      color: rgba(88,166,255,0.9);
+      border-radius: 6px;
+      padding: 3px 12px;
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: background 0.15s, border-color 0.15s, color 0.15s;
+    }}
+    .history-play-btn:hover {{
+      background: rgba(88,166,255,0.25);
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }}
+    .history-chart-container {{
+      position: relative;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      height: 560px;
+    }}
+    #history-chart {{ width: 100%; height: 100%; }}
+    #history-logos {{ position: absolute; inset: 0; pointer-events: none; }}
+    #history-logos img {{
+      position: absolute;
+      width: 24px; height: 24px;
+      border-radius: 50%;
+      object-fit: cover;
+      transform: translate(-50%, -50%);
+      border: 2px solid var(--bg);
+    }}
     /* ── Matchup grid — single column ───────────────────────────────── */
     .grid {{
       display: grid;
@@ -729,6 +786,7 @@ _HTML = """\
   <div class="commentary-wrap" id="commentary-wrap"></div>
   <div class="tweets-wrap" id="tweets-wrap"></div>
   <div class="standings-wrap" id="standings-wrap"></div>
+  <div class="history-wrap" id="history-wrap"></div>
   <div style="max-width:1100px;margin:0 auto 0.85rem;"><h2 style="font-size:1.1rem;font-weight:700;letter-spacing:-0.01em;color:var(--text);">Matchups</h2></div>
   <div class="grid" id="grid"></div>
 
@@ -821,8 +879,9 @@ _HTML = """\
         {{ key: 'pf',     label: 'Points For',           sortable: true,  numeric: true  }},
         {{ key: 'pa',     label: 'Points Against',       sortable: true,  numeric: true  }},
         {{ key: 'pr',     label: 'Power Ranking',        sortable: true,  numeric: true  }},
-        {{ key: 'etew',   label: 'Every Team Every Week',sortable: true,  numeric: true  }},
-        {{ key: 'bs',     label: 'Pickles',              sortable: true,  numeric: true  }},
+        {{ key: 'etew',    label: 'ETEW',    sortable: true, numeric: true }},
+        {{ key: 'bs',      label: 'Pickles', sortable: true, numeric: true }},
+        {{ key: 'fingers', label: 'Fingers', sortable: true, numeric: true }},
       ];
 
       // Returns sort value for a row given a key, higher = "better"
@@ -910,6 +969,8 @@ _HTML = """\
                 clickCnt = 1;
               }}
               renderTable();
+              // Sync the history chart to the active column
+              if (window._updateHistoryChart) window._updateHistoryChart(sortKey);
             }});
           }} else {{
             th.style.cursor = 'default';
@@ -947,12 +1008,13 @@ _HTML = """\
           const etewVal = (row.etew_wins != null && row.etew_losses != null)
             ? row.etew_wins + '-' + row.etew_losses : '—';
           const dataCells = [
-            ['record', row.wins + '-' + row.losses],
-            ['pf',     row.pf.toFixed(2)],
-            ['pa',     row.pa.toFixed(2)],
-            ['pr',     row.pr != null ? row.pr.toFixed(2) : '—'],
-            ['etew',   etewVal],
-            ['bs',     row.bs != null ? row.bs : '—'],
+            ['record',  row.wins + '-' + row.losses],
+            ['pf',      row.pf.toFixed(2)],
+            ['pa',      row.pa.toFixed(2)],
+            ['pr',      row.pr != null ? row.pr.toFixed(2) : '—'],
+            ['etew',    etewVal],
+            ['bs',      row.bs      != null ? row.bs      : '—'],
+            ['fingers', row.fingers != null ? row.fingers : '—'],
           ];
           dataCells.forEach(([key, val]) => {{
             const td = tr.insertCell();
@@ -972,6 +1034,428 @@ _HTML = """\
       }}
 
       renderTable();
+    }})();
+
+    // ── Standings history chart ──────────────────────────────────────────────
+    (function() {{
+      const histData = DATA.standings_history;
+      if (!histData || !Object.keys(histData).length) return;
+
+      const weeks    = Object.keys(histData).map(Number).sort((a,b)=>a-b);
+      const maxWeek  = weeks[weeks.length - 1];
+
+      // Consistent team order from the first week's standings (already sorted)
+      const teamNames = (histData[String(weeks[0])] || []).map(r => r.team_name);
+
+      const PALETTE = [
+        '#58a6ff','#f78166','#3fb950','#d2a8ff','#ffa657','#79c0ff',
+        '#ff7b72','#56d364','#e3b341','#bc8cff','#ff9bce','#39d353',
+      ];
+      const customColors = DATA.team_colors || {{}};
+      const teamColor = {{}};
+      teamNames.forEach((n,i) => {{
+        teamColor[n] = customColors[n] || PALETTE[i % PALETTE.length];
+      }});
+
+      // cumulative=true → add a virtual (week-1, 0) origin and start anim from 0
+      const METRICS = {{
+        'record': {{ title:'Standings Over Time',      extract:r=>r.rank,          yTitle:'Rank (1 = Best)', invert:true,  cumulative:false }},
+        'pf':     {{ title:'Points For Over Time',     extract:r=>r.pf??0,         yTitle:'Points For',      invert:false, cumulative:true  }},
+        'pa':     {{ title:'Points Against Over Time', extract:r=>r.pa??0,         yTitle:'Points Against',  invert:false, cumulative:true  }},
+        'pr':     {{ title:'Power Ranking Over Time',  extract:r=>r.pr??0,         yTitle:'Power Ranking',   invert:false, cumulative:true  }},
+        'etew':   {{ title:'Every Team Every Week Over Time',           extract:r=>r.etew_wins??0,  yTitle:'ETEW Wins',       invert:false, cumulative:true  }},
+      }};
+      // Columns with no dedicated metric fall back to standings (rank)
+      const FALLBACK = new Set(['bs','fingers','team','rank']);
+
+      let currentMetric = 'record';
+      let animRAF_id    = null;
+      let animTimer_id  = null;
+      let animRunning   = false;
+      let zoomed        = false;
+
+      // ── Build HTML ──────────────────────────────────────────────────────
+      const wrap = document.getElementById('history-wrap');
+      wrap.innerHTML = `
+        <div class="history-header">
+          <h2 id="history-title">Standings Over Time</h2>
+          <button class="history-play-btn" id="history-play-btn">▶ Play</button>
+          <button class="history-play-btn" id="history-zoom-btn">⤢ Zoom</button>
+        </div>
+        <div class="history-chart-container">
+          <div id="history-chart"></div>
+          <div id="history-logos"></div>
+        </div>`;
+
+      const chartDiv = document.getElementById('history-chart');
+      const logosDiv = document.getElementById('history-logos');
+      const playBtn  = document.getElementById('history-play-btn');
+      const zoomBtn  = document.getElementById('history-zoom-btn');
+      const titleEl  = document.getElementById('history-title');
+
+      // ── Helpers ─────────────────────────────────────────────────────────
+      function getVal(name, wk) {{
+        // wk===null → virtual origin at y=0
+        if (wk === null) return 0;
+        const row = (histData[String(wk)] || []).find(r => r.team_name === name);
+        return row != null ? METRICS[currentMetric].extract(row) : null;
+      }}
+
+      // Compute a tight y-range from a flat array of values, with 8% padding.
+      function computeYRange(flatVals) {{
+        const valid = flatVals.filter(v => v != null && isFinite(v));
+        if (!valid.length) return null;
+        const mn = Math.min(...valid), mx = Math.max(...valid);
+        const pad = (mx - mn) * 0.08 || 1;
+        const m = METRICS[currentMetric];
+        return m.invert ? [mx + pad, mn - pad] : [mn - pad, mx + pad];
+      }}
+
+      // yRange / xRange: explicit [lo, hi] when zoomed, or null for full-scale.
+      function buildLayout(xMin, yRange, xRange) {{
+        const m = METRICS[currentMetric];
+        const xLo  = xRange ? xRange[0] : xMin;
+        const xHi  = xRange ? xRange[1] : maxWeek + 0.7;
+        const tickVals = weeks.filter(w => w >= Math.ceil(xLo) && w <= Math.ceil(xHi));
+        const yAxisExtra = yRange
+          ? {{ range: yRange, autorange: false }}
+          : {{ autorange: m.invert ? 'reversed' : true,
+               ...(currentMetric==='record' ? {{ dtick:1 }} : {{}}) }};
+        return {{
+          paper_bgcolor:'rgba(0,0,0,0)', plot_bgcolor:'rgba(0,0,0,0)',
+          margin:{{ t:10, b:48, l:56, r:16 }},
+          font:{{ color:'#8b949e', family:'Segoe UI,system-ui,sans-serif', size:11 }},
+          showlegend: false,
+          xaxis:{{ tickmode:'array', tickvals:tickVals, ticktext:tickVals.map(w=>'Week '+w),
+                   gridcolor:'#2d3a4f', linecolor:'#2d3a4f',
+                   range:[xLo, xHi] }},
+          yaxis:{{ gridcolor:'#2d3a4f', linecolor:'#2d3a4f',
+                   title:{{ text:m.yTitle, font:{{ size:11 }} }},
+                   ...yAxisExtra }},
+          hovermode:'closest',
+        }};
+      }}
+
+      // When zoomed, center x-axis on currentX by mirroring the origin:
+      // range = [originX, 2*currentX - originX]
+      function centeredXRange(originX, currentX) {{
+        const mirror = 2 * currentX - originX;
+        return [originX, mirror];
+      }}
+
+      // Ordinal suffix: 1→"1st", 2→"2nd", 3→"3rd", 4→"4th" …
+      function ordinal(n) {{
+        const i = Math.round(n);
+        const s = ['th','st','nd','rd'];
+        const v = i % 100;
+        return i + (s[(v-20)%10] || s[v] || s[0]);
+      }}
+
+      // Format a y-value for hover display given the current metric.
+      // For 'record' (rank) show ordinal place.
+      // For 'etew' show the W-L record pulled from histData (exact weeks only).
+      // weekEl is the sequence element (integer week or null) — null during animation.
+      function fmtY(y, teamName, weekEl) {{
+        if (currentMetric === 'record') {{
+          return ordinal(y);
+        }}
+        if (currentMetric === 'etew' && weekEl != null) {{
+          const row = (histData[String(weekEl)]||[]).find(r=>r.team_name===teamName);
+          if (row && row.etew_wins != null) {{
+            return row.etew_wins + '-' + row.etew_losses;
+          }}
+        }}
+        // Generic: show 2 decimal places
+        return Number(y).toFixed(2);
+      }}
+
+      function makeTrace(name, xs, ys, weekEls) {{
+        // weekEls[i] = the sequence element (int week or null) for xs[i]; used to
+        // look up exact ETEW records. If omitted, fall back to null for all points.
+        const wels = weekEls || xs.map(()=>null);
+        const cd   = ys.map((y, i) => fmtY(y, name, wels[i]));
+        return {{ x:xs, y:ys, mode:'lines+markers', name,
+                  line:{{ color:teamColor[name], width:2 }},
+                  marker:{{ color:teamColor[name], size:6 }},
+                  customdata: cd,
+                  hovertemplate:'<b>'+name+'</b><br>%{{customdata}}<extra></extra>' }};
+      }}
+
+      // Pre-create one <img> per team so animation only moves them (no DOM thrash)
+      const logoEls = {{}};
+      teamNames.forEach(name => {{
+        const img = document.createElement('img');
+        img.title = name;
+        img.style.display = 'none';
+        logosDiv.appendChild(img);
+        logoEls[name] = img;
+        // Seed logo src from first week that has it
+        for (const w of weeks) {{
+          const row = (histData[String(w)]||[]).find(r=>r.team_name===name);
+          if (row && row.logo) {{ img.src = row.logo; break; }}
+        }}
+      }});
+
+      // Move logos to data-coordinate endpoints. endpoints = {{name: {{x, y}}}}
+      function positionLogos(endpoints) {{
+        const fl = chartDiv._fullLayout;
+        if (!fl) return;
+        const xa = fl.xaxis, ya = fl.yaxis;
+        const cRect = chartDiv.getBoundingClientRect();
+        const pRect = logosDiv.parentElement.getBoundingClientRect();
+        teamNames.forEach(name => {{
+          const el = logoEls[name];
+          if (!el) return;
+          const ep = endpoints[name];
+          if (!ep) {{ el.style.display = 'none'; return; }}
+          try {{
+            const px = xa.l2p(ep.x) + xa._offset + (cRect.left - pRect.left);
+            const py = ya.l2p(ep.y) + ya._offset + (cRect.top  - pRect.top);
+            el.style.left    = px + 'px';
+            el.style.top     = py + 'px';
+            el.style.display = '';
+          }} catch(_) {{ el.style.display = 'none'; }}
+        }});
+      }}
+
+      // Compute endpoints from histData for a static week
+      function endpointsForWeek(upToWeek) {{
+        const m = METRICS[currentMetric];
+        const ep = {{}};
+        teamNames.forEach(name => {{
+          let lx=null, ly=null;
+          weeks.filter(w=>w<=upToWeek).forEach(w=>{{
+            const row=(histData[String(w)]||[]).find(r=>r.team_name===name);
+            if (row) {{ lx=w; ly=m.extract(row); }}
+          }});
+          if (lx!==null) ep[name]={{x:lx, y:ly}};
+        }});
+        return ep;
+      }}
+
+      // Static (non-animated) render of all weeks up to upToWeek
+      function render(upToWeek) {{
+        const m = METRICS[currentMetric];
+        titleEl.textContent = m.title;
+        const xMin = m.cumulative ? weeks[0]-1.2 : weeks[0]-0.5;
+        const traces = teamNames.map(name => {{
+          const xs=[], ys=[], wels=[];
+          if (m.cumulative) {{ xs.push(weeks[0]-1); ys.push(0); wels.push(null); }}
+          weeks.filter(w=>w<=upToWeek).forEach(w=>{{
+            const v=getVal(name,w);
+            if(v!=null){{xs.push(w);ys.push(v);wels.push(w);}}
+          }});
+          return makeTrace(name, xs, ys, wels);
+        }}).filter(t=>t.x.length>0);
+        // For zoom, use only each team's latest (most recent) value
+        let yRange = null, xRange = null;
+        if (zoomed) {{
+          const zoomY = [];
+          teamNames.forEach(name => {{
+            const latestWk = [...weeks].reverse().find(w => w <= upToWeek && getVal(name, w) != null);
+            if (latestWk != null) zoomY.push(getVal(name, latestWk));
+          }});
+          yRange = computeYRange(zoomY);
+          xRange = centeredXRange(xMin, upToWeek);
+        }}
+        Plotly.react(chartDiv, traces, buildLayout(xMin, yRange, xRange), {{responsive:true,displayModeBar:false}})
+          .then(()=>positionLogos(endpointsForWeek(upToWeek)));
+      }}
+
+      // ── Animation ───────────────────────────────────────────────────────
+      function stopAnim() {{
+        if (animRAF_id)   {{ cancelAnimationFrame(animRAF_id); animRAF_id=null; }}
+        if (animTimer_id) {{ clearTimeout(animTimer_id); animTimer_id=null; }}
+        animRunning = false;
+      }}
+
+      function startAnim() {{
+        stopAnim();
+        animRunning = true;
+        playBtn.textContent = '■ Stop';
+
+        const m       = METRICS[currentMetric];
+        const STEP_MS = 1500;   // ms per week-to-week transition
+        const PAUSE   = 300;    // ms pause between steps
+
+        // Animation sequence: for cumulative metrics prepend a null "origin week"
+        const seq = m.cumulative ? [null, ...weeks] : [...weeks];
+        // x-coordinate for a sequence element
+        const seqX = el => (el===null ? weeks[0]-1 : el);
+
+        let stepIdx = 1;  // animating from seq[stepIdx-1] → seq[stepIdx]
+
+        // ── Initial frame: show only the starting point ─────────────────
+        const xMin = m.cumulative ? weeks[0]-1.2 : weeks[0]-0.5;
+        titleEl.textContent = m.title;
+        const initTraces = teamNames.map(name => makeTrace(name,
+          [seqX(seq[0])],
+          [m.cumulative ? 0 : (getVal(name, seq[0]) ?? 0)],
+          [seq[0]]));
+        const initEndpoints = {{}};
+        teamNames.forEach(name => {{
+          initEndpoints[name] = {{
+            x: seqX(seq[0]),
+            y: m.cumulative ? 0 : (getVal(name, seq[0]) ?? 0),
+          }};
+        }});
+        // Pre-compute the full-season y-range so the axis is already sized
+        // for the final frame from the very first frame (full scope mode).
+        const allFinalY = seq.flatMap(el =>
+          teamNames.map(name => el===null ? 0 : (getVal(name,el)??0))
+        );
+        const fullYRange = computeYRange(allFinalY);
+
+        const initYRange = zoomed ? computeYRange(initTraces.flatMap(tr => tr.y))
+                                  : fullYRange;
+        Plotly.react(chartDiv, initTraces, buildLayout(xMin, initYRange),
+                     {{responsive:true, displayModeBar:false}})
+          .then(() => positionLogos(initEndpoints));
+
+        // Tip y-values for all teams at a sequence element (null = virtual origin).
+        function tipsAt(el) {{
+          return teamNames.map(name => el===null ? 0 : (getVal(name,el)??0));
+        }}
+
+        function runStep() {{
+          if (stepIdx >= seq.length || !animRunning) {{
+            animRunning = false;
+            playBtn.textContent = '↺ Replay';
+            // Re-render with proper customdata now that animation is done
+            // (the last frame used null weekEl for the tip, leaving decimals).
+            render(maxWeek);
+            return;
+          }}
+
+          const fromEl = seq[stepIdx-1];
+          const toEl   = seq[stepIdx];
+          const fromX  = seqX(fromEl);
+          const toX    = seqX(toEl);
+          const t0     = performance.now();
+
+          // Pre-compute axis ranges at both boundaries so we can lerp between
+          // them at a constant rate — avoids lurching when teams overtake each other.
+          const fromYRange = zoomed ? computeYRange(tipsAt(fromEl)) : null;
+          const toYRange   = zoomed ? computeYRange(tipsAt(toEl))   : null;
+          const fromXR     = zoomed ? centeredXRange(xMin, fromX)   : null;
+          const toXR       = zoomed ? centeredXRange(xMin, toX)     : null;
+
+          function lerpRange(a, b, t) {{
+            if (!a || !b) return a || b || null;
+            return [a[0] + t*(b[0]-a[0]), a[1] + t*(b[1]-a[1])];
+          }}
+
+          function frame(now) {{
+            if (!animRunning) return;
+            const t = Math.min((now - t0) / STEP_MS, 1);
+
+            // For each team: completed points + current interpolated tip
+            const newX=[], newY=[], newCD=[];
+            const liveEndpoints = {{}};
+            teamNames.forEach(name => {{
+              const xs=[], ys=[], wels=[];
+              // All completed waypoints (seq[0]..seq[stepIdx-1])
+              seq.slice(0, stepIdx).forEach(el => {{
+                xs.push(seqX(el));
+                ys.push(el===null ? 0 : (getVal(name,el)??0));
+                wels.push(el);
+              }});
+              // Animating tip — at t=1 (landed) use the real destination weekEl
+              // so hover labels are formatted correctly (e.g. ETEW shows "W-L").
+              const fv      = fromEl===null ? 0 : (getVal(name,fromEl)??0);
+              const tv      = toEl===null   ? 0 : (getVal(name,toEl)??fv);
+              const tipX    = fromX + t*(toX-fromX);
+              const tipY    = fv    + t*(tv-fv);
+              const tipWel  = (t >= 1) ? toEl : null;
+              xs.push(tipX); ys.push(tipY); wels.push(tipWel);
+              newX.push(xs); newY.push(ys);
+              // customdata: format each point with proper label
+              newCD.push(ys.map((y, i) => fmtY(y, name, wels[i])));
+              liveEndpoints[name] = {{ x:tipX, y:tipY }};
+            }});
+
+            if (zoomed) {{
+              // Linearly interpolate the pre-computed boundary ranges.
+              const yRange   = lerpRange(fromYRange, toYRange, t);
+              const xr       = lerpRange(fromXR,     toXR,     t);
+              const tickVals = weeks.filter(w => w >= Math.ceil(xr[0]) && w <= Math.ceil(xr[1]));
+              Plotly.update(chartDiv,
+                {{x: newX, y: newY, customdata: newCD}},
+                {{
+                  ...(yRange ? {{'yaxis.range': yRange, 'yaxis.autorange': false}} : {{}}),
+                  'xaxis.range':    xr,
+                  'xaxis.tickvals': tickVals,
+                  'xaxis.ticktext': tickVals.map(w => 'Week ' + w),
+                }}
+              );
+            }} else {{
+              // Keep y-axis locked to the pre-computed full-season range so
+              // it doesn't grow as more data is drawn in each frame.
+              Plotly.update(chartDiv,
+                {{x: newX, y: newY, customdata: newCD}},
+                fullYRange ? {{'yaxis.range': fullYRange, 'yaxis.autorange': false}} : {{}}
+              );
+            }}
+            positionLogos(liveEndpoints);
+
+            if (t < 1) {{
+              animRAF_id = requestAnimationFrame(frame);
+            }} else {{
+              stepIdx++;
+              animTimer_id = setTimeout(runStep, PAUSE);
+            }}
+          }}
+
+          animRAF_id = requestAnimationFrame(frame);
+        }}
+
+        animTimer_id = setTimeout(runStep, 150);
+      }}
+
+      // ── Controls ────────────────────────────────────────────────────────
+      playBtn.addEventListener('click', () => {{
+        if (animRunning) {{
+          stopAnim();
+          playBtn.textContent = '▶ Play';
+        }} else {{
+          startAnim();
+        }}
+      }});
+
+      // Sync zoom button visibility/label to the current metric.
+      function syncZoomBtn() {{
+        if (currentMetric === 'record') {{
+          zoomBtn.style.display = 'none';
+          // Reset zoom state when hiding so switching back to a metric
+          // doesn't start in a stale zoomed state.
+          zoomed = false;
+        }} else {{
+          zoomBtn.style.display = '';
+          zoomBtn.textContent = zoomed ? '↔ Full Scope' : 'Zoom to Fit';
+        }}
+      }}
+      syncZoomBtn();   // initialise on page load
+
+      zoomBtn.addEventListener('click', () => {{
+        zoomed = !zoomed;
+        zoomBtn.textContent = zoomed ? '↔ Full Scope' : 'Zoom to Fit';
+        if (!animRunning) render(maxWeek);
+        // If animating, the next frame will pick up the new zoomed value automatically
+      }});
+
+      // Called by standings table column-header clicks
+      window._updateHistoryChart = function(colKey) {{
+        stopAnim();
+        playBtn.textContent = '▶ Play';
+        // Pickles, Fingers, team-name sort → show standings (rank)
+        currentMetric = METRICS[colKey] ? colKey : 'record';
+        syncZoomBtn();
+        render(maxWeek);
+      }};
+
+      window.addEventListener('resize', () => positionLogos(endpointsForWeek(maxWeek)));
+
+      render(maxWeek);   // initial static render
     }})();
 
     // ── X-axis: sequential play indices (dead time compressed out) ─────────
@@ -1270,10 +1754,25 @@ _HTML = """\
     function tdText(td) {{
       const p = esc(td.player || '');
       // Strip jersey-number prefixes like "16-J.Goff" → "J.Goff".
-      // Match digits+dash only when followed by a capital letter (player name).
       const raw = (td.desc || '').replace(/\\d+-(?=[A-Z])/g, '');
       const d = wrapAt(esc(raw), 120);
-      return d ? '<b>' + p + '</b><br>' + d : '<b>' + p + '</b>';
+
+      // Header line: ET time + game + quarter/clock
+      let header = '';
+      const timePart  = td.et_time  || '';
+      const gamePart  = td.game     || '';
+      const qtrPart   = td.qtr      || '';
+      const clockPart = td.game_clock || '';
+      if (timePart)  header += timePart;
+      if (gamePart)  header += (header ? ' · ' : '') + gamePart;
+      const clockStr = [qtrPart, clockPart].filter(Boolean).join(' ');
+      if (clockStr)  header += (header ? ' · ' : '') + clockStr;
+
+      let html = '';
+      if (header) html += '<span style="color:#8b949e;font-size:0.75rem">' + esc(header) + '</span><br>';
+      html += '<b>' + p + '</b>';
+      if (d)      html += '<br>' + d;
+      return html;
     }}
 
     // Attach a native mousemove listener that shows #td-tip only when the
@@ -1321,11 +1820,20 @@ _HTML = """\
         if (closest) {{
           _tdTip.innerHTML = tdText(closest);
           _tdTip.style.display = 'block';
-          // Nudge tooltip so it stays inside the viewport
-          const tw = Math.min(520, window.innerWidth - e.clientX - 20);
-          _tdTip.style.maxWidth = tw + 'px';
-          _tdTip.style.left = (e.clientX + 14) + 'px';
-          _tdTip.style.top  = (e.clientY - 10) + 'px';
+          // Anchor to the bottom-right of the Plotly plot area (inside the
+          // chart-wrap div), so the tip never obscures the X-axis labels below.
+          // div is the chart-div; its parent is chart-wrap.
+          const plotRect = (div.parentElement || div).getBoundingClientRect();
+          const tipW = 340;
+          const tipH = _tdTip.offsetHeight;
+          // Use the Plotly y-axis bottom margin to find the true plot area bottom
+          const ya = div._fullLayout && div._fullLayout.yaxis;
+          const plotBottom = ya
+            ? plotRect.top + ya._offset + ya._length
+            : plotRect.bottom - 30;   // fallback: leave 30px for x-axis labels
+          _tdTip.style.maxWidth = tipW + 'px';
+          _tdTip.style.left = (plotRect.right - tipW - 12) + 'px';
+          _tdTip.style.top  = (plotBottom     - tipH - 8)  + 'px';
         }} else {{
           _tdTip.style.display = 'none';
         }}
@@ -1506,9 +2014,40 @@ def render_html(payload: dict, commentary: dict | None = None,
                 import markdown as _md
                 week_commentary_html = _md.markdown(md_text, extensions=["nl2br"])
             except ImportError:
-                # Fallback: split on blank lines → <p> tags
-                paras = [p.strip() for p in md_text.split("\n\n") if p.strip()]
-                week_commentary_html = "".join(f"<p>{p}</p>" for p in paras)
+                # Fallback: basic Markdown → HTML (handles images, bold, italic)
+                import re as _re
+                def _md_to_html(text: str) -> str:
+                    # Images: ![alt](url)
+                    text = _re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', r'<img src="\2" alt="\1">', text)
+                    # Links: [text](url)
+                    text = _re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', text)
+                    # Bold: **text**
+                    text = _re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+                    # Italic: *text*
+                    text = _re.sub(r'\*(.+?)\*', r'<em>\1</em>', text)
+                    # Bullet lists: lines starting with "- "
+                    lines = text.split("\n")
+                    out, in_list = [], False
+                    for line in lines:
+                        if line.startswith("- "):
+                            if not in_list: out.append("<ul>"); in_list = True
+                            out.append(f"<li>{line[2:].strip()}</li>")
+                        else:
+                            if in_list: out.append("</ul>"); in_list = False
+                            out.append(line)
+                    if in_list: out.append("</ul>")
+                    text = "\n".join(out)
+                    # Paragraphs: blank-line-separated blocks
+                    paras = [p.strip() for p in text.split("\n\n") if p.strip()]
+                    return "".join(
+                        p if p.startswith("<") else f"<p>{p}</p>"
+                        for p in paras
+                    )
+                week_commentary_html = _md_to_html(md_text)
+            # Embed any local images referenced in the markdown as base64 data URIs
+            week_commentary_html = embed_local_images(
+                week_commentary_html, commentary_md_path.parent
+            )
     payload["week_commentary_html"] = week_commentary_html
 
     # Load tweet URLs for this week
