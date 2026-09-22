@@ -4,7 +4,8 @@ __pycache__/
 *.pyo
 
 # Local HTML previews (generated output — committed version lives in docs/)
-week_*_matchups.html
+/week_*_matchups.html
+!docs/week_*_matchups.html
 
 # ESPN play-by-play cache (large, re-fetchable)
 Data/*/pbp/
