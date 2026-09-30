@@ -608,6 +608,106 @@ _HTML = """\
       max-width: 1100px;
       margin: 0 auto 2.5rem;
     }}
+    /* ── Player Leaderboard ──────────────────────────────────────────────── */
+    .leaderboard-wrap {{
+      max-width: 1100px;
+      margin: 0 auto 2.5rem;
+    }}
+    .leaderboard-wrap h2 {{
+      font-size: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      color: var(--text);
+      margin-bottom: 0.75rem;
+    }}
+    .lb-tabs {{
+      display: flex;
+      gap: 0.4rem;
+      margin-bottom: 0.75rem;
+      flex-wrap: wrap;
+    }}
+    .lb-tab {{
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: #8b949e;
+      border-radius: 6px;
+      padding: 0.3rem 0.85rem;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }}
+    .lb-tab:hover {{ background: #2d3a4f; color: var(--text); }}
+    .lb-tab.active {{
+      background: #1f6feb;
+      border-color: #1f6feb;
+      color: #fff;
+      font-weight: 600;
+    }}
+    .lb-chart-container {{
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.5rem;
+      height: 300px;
+      position: relative;
+    }}
+    #lb-chart {{ width: 100%; height: 100%; }}
+    #lb-logos {{
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      overflow: hidden;
+    }}
+    #lb-logos img {{
+      position: absolute;
+      width: 28px; height: 28px;
+      border-radius: 50%;
+      transform: translate(-50%, -50%);
+      object-fit: cover;
+      border: 2px solid #1a2332;
+    }}
+    .lb-controls {{
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 0.55rem;
+      flex-wrap: wrap;
+    }}
+    .lb-play-btn {{
+      background: #1f6feb;
+      border: none;
+      border-radius: 6px;
+      color: #fff;
+      font-size: 0.82rem;
+      font-weight: 600;
+      padding: 0.28rem 0.85rem;
+      cursor: pointer;
+      white-space: nowrap;
+    }}
+    .lb-play-btn:hover {{ background: #388bfd; }}
+    .lb-week-btns {{
+      display: flex;
+      gap: 0.3rem;
+      flex-wrap: wrap;
+    }}
+    .lb-wbtn {{
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: #8b949e;
+      border-radius: 5px;
+      padding: 0.2rem 0.55rem;
+      font-size: 0.78rem;
+      cursor: pointer;
+      transition: background 0.12s, color 0.12s;
+    }}
+    .lb-wbtn:hover {{ background: #2d3a4f; color: var(--text); }}
+    .lb-wbtn.active {{
+      background: #2d3a4f;
+      border-color: #58a6ff;
+      color: #58a6ff;
+      font-weight: 600;
+    }}
     .history-header {{
       display: flex;
       align-items: center;
@@ -787,6 +887,7 @@ _HTML = """\
   <div class="tweets-wrap" id="tweets-wrap"></div>
   <div class="standings-wrap" id="standings-wrap"></div>
   <div class="history-wrap" id="history-wrap"></div>
+  <div class="leaderboard-wrap" id="leaderboard-wrap"></div>
   <div style="max-width:1100px;margin:0 auto 0.85rem;"><h2 style="font-size:1.1rem;font-weight:700;letter-spacing:-0.01em;color:var(--text);">Matchups</h2></div>
   <div class="grid" id="grid"></div>
 
@@ -881,7 +982,6 @@ _HTML = """\
         {{ key: 'pr',     label: 'Power Ranking',        sortable: true,  numeric: true  }},
         {{ key: 'etew',    label: 'ETEW',    sortable: true, numeric: true }},
         {{ key: 'bs',      label: 'Pickles', sortable: true, numeric: true }},
-        {{ key: 'fingers', label: 'Fingers', sortable: true, numeric: true }},
       ];
 
       // Returns sort value for a row given a key, higher = "better"
@@ -1014,7 +1114,6 @@ _HTML = """\
             ['pr',      row.pr != null ? row.pr.toFixed(2) : '—'],
             ['etew',    etewVal],
             ['bs',      row.bs      != null ? row.bs      : '—'],
-            ['fingers', row.fingers != null ? row.fingers : '—'],
           ];
           dataCells.forEach(([key, val]) => {{
             const td = tr.insertCell();
@@ -1066,7 +1165,7 @@ _HTML = """\
         'etew':   {{ title:'Every Team Every Week Over Time',           extract:r=>r.etew_wins??0,  yTitle:'ETEW Wins',       invert:false, cumulative:true  }},
       }};
       // Columns with no dedicated metric fall back to standings (rank)
-      const FALLBACK = new Set(['bs','fingers','team','rank']);
+      const FALLBACK = new Set(['bs','team','rank']);
 
       let currentMetric = 'record';
       let animRAF_id    = null;
@@ -1259,7 +1358,28 @@ _HTML = """\
           xRange = centeredXRange(xMin, upToWeek);
         }}
         Plotly.react(chartDiv, traces, buildLayout(xMin, yRange, xRange), {{responsive:true,displayModeBar:false}})
-          .then(()=>positionLogos(endpointsForWeek(upToWeek)));
+          .then(() => {{
+            positionLogos(endpointsForWeek(upToWeek));
+            // Shift hover labels right by the logo radius so they never overlap the
+            // team logo circles. Use a MutationObserver so the shift applies every
+            // time Plotly repositions the label (not just on the initial hover event).
+            // Per-element _ourTransform guard prevents infinite mutation loops.
+            if (!render._hoverShiftDone) {{
+              render._hoverShiftDone = true;
+              new MutationObserver(function(muts) {{
+                muts.forEach(function(m) {{
+                  var g = m.target;
+                  if (!g.classList || !g.classList.contains('hovertext')) return;
+                  var t = g.getAttribute('transform') || '';
+                  if (t === g._ourTransform) return; // we set this — skip
+                  var mo = t.match(/translate\(\s*([+-]?[\d.]+)[,\s]+([+-]?[\d.]+)\s*\)/);
+                  if (!mo) return;
+                  g._ourTransform = 'translate(' + (parseFloat(mo[1]) + 12) + ',' + mo[2] + ')';
+                  g.setAttribute('transform', g._ourTransform);
+                }});
+              }}).observe(chartDiv, {{ subtree: true, attributeFilter: ['transform'] }});
+            }}
+          }});
       }}
 
       // ── Animation ───────────────────────────────────────────────────────
@@ -1447,7 +1567,7 @@ _HTML = """\
       window._updateHistoryChart = function(colKey) {{
         stopAnim();
         playBtn.textContent = '▶ Play';
-        // Pickles, Fingers, team-name sort → show standings (rank)
+        // Pickles, team-name sort → show standings (rank)
         currentMetric = METRICS[colKey] ? colKey : 'record';
         syncZoomBtn();
         render(maxWeek);
@@ -1562,10 +1682,70 @@ _HTML = """\
       return {{ xVals, hoverText, dayBoundaries, dayAnnotations }};
     }}
 
-    const {{ xVals, hoverText, dayBoundaries, dayAnnotations }} = buildXAxis(DATA.times);
+    // ── Per-matchup segment filtering ─────────────────────────────────────
+    // Returns an array of indices into DATA.times covering only the day windows
+    // (Thu / Sun / Sun Night / Mon) in which at least one of the two teams
+    // scored. Segments where both score arrays are flat are dropped entirely,
+    // compressing away windows that had no fantasy impact for this matchup.
+    const _SUN_NIGHT_MINS = 20 * 60 + 10;   // 8:10 pm ET in minutes-since-midnight
+    function activeIndicesFor(pts1, pts2) {{
+      const times = DATA.times;
+      if (!times || !times.length) return times.map((_, i) => i);
 
-    // ── layout factory (per-chart Y range) ────────────────────────────
-    function baseLayout(yMax) {{
+      const activeIdx = [];
+      let dayStart   = 0;
+      let currentDay = toET(new Date(times[0])).toDateString();
+
+      for (let i = 1; i <= times.length; i++) {{
+        const dayKey = i < times.length
+          ? toET(new Date(times[i])).toDateString()
+          : null;
+
+        if (dayKey !== currentDay) {{
+          const dayEnd = i - 1;
+          const dayNum = toET(new Date(times[dayStart])).getDay();
+
+          // Build sub-segments (Sunday is split at SNF boundary)
+          const subSegs = [];
+          if (dayNum === 0) {{
+            let snbIdx = -1;
+            for (let j = dayStart; j <= dayEnd; j++) {{
+              const et = toET(new Date(times[j]));
+              if (et.getHours() * 60 + et.getMinutes() >= _SUN_NIGHT_MINS) {{
+                snbIdx = j; break;
+              }}
+            }}
+            if (snbIdx > dayStart) {{
+              subSegs.push([dayStart, snbIdx - 1]);
+              subSegs.push([snbIdx,   dayEnd]);
+            }} else {{
+              subSegs.push([dayStart, dayEnd]);
+            }}
+          }} else {{
+            subSegs.push([dayStart, dayEnd]);
+          }}
+
+          subSegs.forEach(([s, e]) => {{
+            const v1 = [], v2 = [];
+            for (let j = s; j <= e; j++) {{
+              if (pts1[j] != null) v1.push(pts1[j]);
+              if (pts2[j] != null) v2.push(pts2[j]);
+            }}
+            const anyScore = v => v.length > 1 && Math.max(...v) > Math.min(...v);
+            if (anyScore(v1) || anyScore(v2)) {{
+              for (let j = s; j <= e; j++) activeIdx.push(j);
+            }}
+          }});
+
+          dayStart   = i;
+          currentDay = dayKey;
+        }}
+      }}
+      return activeIdx;
+    }}
+
+    // ── layout factory (per-chart Y range + per-chart axis labels) ─────
+    function baseLayout(yMax, dayBoundaries, dayAnnotations) {{
       const shapes = dayBoundaries.map(x => ({{
         type: 'line',
         x0: x, x1: x,
@@ -1587,10 +1767,7 @@ _HTML = """\
           type: 'linear',
           gridcolor: '#2d3a4f', linecolor: '#2d3a4f',
           zeroline: false,        // suppress the default line drawn at x=0
-          // Map every minute index → "Day HH:MMam/pm" so the unified-hover
-          // header shows the actual time instead of a raw integer.
-          tickvals: xVals,
-          ticktext: hoverText,
+          // tickvals/ticktext are set per-matchup by renderChart after this call.
           showticklabels: false,  // axis labels come from annotations
           showgrid: false,
         }},
@@ -1614,6 +1791,410 @@ _HTML = """\
       responsive: true,
       displayModeBar: false,   // hide the zoom/pan/reset toolbar entirely
     }};
+
+    // ── Player Leaderboard (bar-chart race) ──────────────────────────────────────
+    (function() {{
+      const LB        = DATA.player_leaderboard || {{}};
+      const POSITIONS = ['QB','RB','WR','TE','K','DEF'];
+      const TOP5      = 5;
+      const WEEKS     = DATA.standings_history
+        ? Object.keys(DATA.standings_history).map(Number).sort((a,b)=>a-b) : [];
+      const lbWrap = document.getElementById('leaderboard-wrap');
+      if (!lbWrap || !Object.keys(LB).length || !WEEKS.length) return;
+
+      const STEP_MS  = 2600;   // ms per week step
+      const PAUSE_MS = 400;    // ms to hold at each completed week
+      const OFF_Y   = 6.5;    // off-screen rank (below chart)
+      const BAR_W   = 0.60;   // bar height in rank units
+      const PALETTE = ['#58a6ff','#f78166','#3fb950','#d2a8ff','#ffa657',
+                        '#79c0ff','#ff7b72','#56d364','#bc8cff','#ffc680',
+                        '#39d353','#ff9492'];
+
+      let currentPos = POSITIONS[0];
+      let lbAnimReq  = null;
+      let lbShownWk  = WEEKS[WEEKS.length - 1];
+      let colorMap   = {{}};
+      let lbPlayed   = false;   // true once animation has run for currentPos
+
+      // ── HTML shell ───────────────────────────────────────────────────────
+      const h2 = document.createElement('h2');
+      h2.textContent = 'Player Leaderboards';
+      lbWrap.appendChild(h2);
+
+      const tabBar = document.createElement('div');
+      tabBar.className = 'lb-tabs';
+      lbWrap.appendChild(tabBar);
+
+      const chartWrap = document.createElement('div');
+      chartWrap.className = 'lb-chart-container';
+      chartWrap.innerHTML = '<div id="lb-chart"></div><div id="lb-logos"></div>';
+      lbWrap.appendChild(chartWrap);
+
+      const controlsRow = document.createElement('div');
+      controlsRow.className = 'lb-controls';
+      lbWrap.appendChild(controlsRow);
+
+      const playBtn = document.createElement('button');
+      playBtn.className = 'lb-play-btn';
+      playBtn.textContent = '\u25b6 Play';
+      controlsRow.appendChild(playBtn);
+
+      const weekBtnsWrap = document.createElement('div');
+      weekBtnsWrap.className = 'lb-week-btns';
+      controlsRow.appendChild(weekBtnsWrap);
+
+      const logosDiv = document.getElementById('lb-logos');
+      const chartDiv = document.getElementById('lb-chart');
+      const logoEls  = {{}};
+
+      // ── Helpers ───────────────────────────────────────────────────────────
+      function ord(n) {{
+        const s=['th','st','nd','rd'], v=n%100;
+        return n+(s[(v-20)%10]||s[v]||s[0]);
+      }}
+      function initialsURI(name) {{
+        const parts = (name||'').replace(/ DEF$/,'').split(/\\s+/);
+        const ini = parts.length >= 2
+          ? (parts[0][0]||'')+(parts[parts.length-1][0]||'')
+          : (parts[0]||'?').slice(0,2);
+        const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28">
+          <circle cx="14" cy="14" r="14" fill="#2d3a4f"/>
+          <text x="14" y="19" text-anchor="middle" font-family="sans-serif"
+                font-size="11" font-weight="bold" fill="#e6edf3">${{ini.toUpperCase()}}</text></svg>`;
+        return 'data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);
+      }}
+      function cumulAt(player, wk) {{
+        let tot = 0;
+        for (const w of WEEKS) {{
+          if (w > wk) break;
+          tot += (player.weeks[String(w)] || 0);
+        }}
+        return Math.round(tot * 100) / 100;
+      }}
+      function top5At(players, wk) {{
+        return [...players]
+          .map(p => ({{...p, _c: cumulAt(p, wk)}}))
+          .sort((a,b) => b._c - a._c)
+          .slice(0, TOP5);
+      }}
+      function easeInOut(t) {{
+        return t < 0.5 ? 2*t*t : -1+(4-2*t)*t;
+      }}
+      function rebuildColorMap() {{
+        colorMap = {{}};
+        (LB[currentPos] || []).forEach((p, i) => {{
+          colorMap[p.name] = PALETTE[i % PALETTE.length];
+        }});
+      }}
+
+      // ── Logo management ───────────────────────────────────────────────────
+      function ensureLogos(players) {{
+        Object.keys(logoEls).forEach(n => {{
+          if (!players.find(p => p.name === n)) {{ logoEls[n].remove(); delete logoEls[n]; }}
+        }});
+        players.forEach(p => {{
+          if (logoEls[p.name]) return;
+          const img = document.createElement('img');
+          img.style.display = 'none';
+          const fb = initialsURI(p.name);
+          if (p.photo_url) {{ img.src = p.photo_url; img.onerror = ()=>{{ img.src=fb; }}; }}
+          else img.src = fb;
+          logosDiv.appendChild(img);
+          logoEls[p.name] = img;
+        }});
+      }}
+      function positionLogosLB(endpoints) {{
+        const fl = chartDiv._fullLayout;
+        if (!fl) return;
+        const xa = fl.xaxis, ya = fl.yaxis;
+        const cR = chartDiv.getBoundingClientRect();
+        const pR = logosDiv.parentElement.getBoundingClientRect();
+        Object.values(logoEls).forEach(el => {{ el.style.display = 'none'; }});
+        Object.entries(endpoints).forEach(([name, {{x,y}}]) => {{
+          const el = logoEls[name];
+          if (!el) return;
+          try {{
+            const px = xa.l2p(x) + xa._offset + (cR.left - pR.left);
+            const py = ya.l2p(y) + ya._offset + (cR.top  - pR.top);
+            el.style.left = px + 'px';
+            el.style.top  = py + 'px';
+            // Fill circle background with the bar's own color
+            el.style.backgroundColor = colorMap[name] || PALETTE[0];
+            el.style.display = '';
+          }} catch(_) {{}}
+        }});
+      }}
+
+      // ── State: {{name: {{rank,pts}}}} for top-5 at wk ─────────────────────
+      function stateAt(players, wk) {{
+        const s = {{}};
+        top5At(players, wk).forEach((p,i) => {{
+          s[p.name] = {{rank:i+1, pts:cumulAt(p,wk)}};
+        }});
+        return s;
+      }}
+
+      // ── Build Plotly bar traces from {{name:{{rank,pts}}}} ─────────────────
+      function buildBarTraces(lerpState) {{
+        return Object.entries(lerpState).map(([name, {{rank,pts}}]) => {{
+          const color = colorMap[name] || PALETTE[0];
+          const ptsStr = pts >= 0.5 ? '  '+pts.toFixed(1) : '';
+          return {{
+            type:'bar', orientation:'h',
+            y:[rank], x:[pts], width:[BAR_W], base:[0],
+            text:[name+ptsStr],
+            textposition:'inside', insidetextanchor:'start',
+            textfont:{{color:'#fff',size:11,family:'Segoe UI,system-ui,sans-serif'}},
+            marker:{{color:color, opacity:0.88, line:{{color:'#0d1117',width:1}}}},
+            hovertemplate:'<b>'+name+'</b><br>'+
+              (rank<=TOP5+0.5 ? ord(Math.round(rank))+' place \u00b7 ' : '')+
+              pts.toFixed(1)+' pts<extra></extra>',
+            showlegend:false,
+            cliponaxis:true,
+          }};
+        }});
+      }}
+
+      // ── Bar chart layout ───────────────────────────────────────────────────
+      function barLayout(xMax) {{
+        return {{
+          paper_bgcolor:'rgba(0,0,0,0)', plot_bgcolor:'rgba(0,0,0,0)',
+          margin:{{t:6,b:36,l:8,r:8}},
+          font:{{color:'#8b949e',family:'Segoe UI,system-ui,sans-serif',size:11}},
+          showlegend:false, barmode:'overlay',
+          xaxis:{{
+            gridcolor:'#2d3a4f', linecolor:'#2d3a4f',
+            range:[0, xMax*1.15],
+            tickformat:'.0f',
+            title:{{text:'Cumulative Fantasy Points',font:{{size:10}}}},
+          }},
+          yaxis:{{
+            type:'linear', range:[TOP5+0.7, 0.3],
+            tickvals:[], showticklabels:false,
+            gridcolor:'rgba(0,0,0,0)', zeroline:false, fixedrange:true,
+          }},
+          hovermode:'closest',
+        }};
+      }}
+
+      // ── Week-button sync ──────────────────────────────────────────────────
+      function syncWkBtns(wk) {{
+        document.querySelectorAll('.lb-wbtn').forEach(b =>
+          b.classList.toggle('active', Number(b.dataset.week)===wk));
+      }}
+
+      // ── Static render ─────────────────────────────────────────────────────
+      function renderLB(upToWk) {{
+        if (lbAnimReq) {{ cancelAnimationFrame(lbAnimReq); lbAnimReq = null; }}
+        lbShownWk = upToWk;
+        const players = LB[currentPos] || [];
+        if (!players.length) {{ Plotly.purge(chartDiv); return; }}
+
+        rebuildColorMap();
+        ensureLogos(players);
+
+        const state  = stateAt(players, upToWk);
+        const maxPts = Math.max(...Object.values(state).map(s => s.pts), 1);
+        const traces = buildBarTraces(state);
+
+        Plotly.react(chartDiv, traces, barLayout(maxPts), {{responsive:true,displayModeBar:false}})
+          .then(() => {{
+            const ep = {{}};
+            Object.entries(state).forEach(([name, {{rank,pts}}]) => {{
+              ep[name] = {{x:pts, y:rank}};
+            }});
+            positionLogosLB(ep);
+            // Shift hover labels right by the player photo radius (14 px = half of 28 px).
+            if (!renderLB._hoverShiftDone) {{
+              renderLB._hoverShiftDone = true;
+              new MutationObserver(function(muts) {{
+                muts.forEach(function(m) {{
+                  var g = m.target;
+                  if (!g.classList || !g.classList.contains('hovertext')) return;
+                  var t = g.getAttribute('transform') || '';
+                  if (t === g._ourTransform) return; // we set this — skip
+                  var mo = t.match(/translate\(\s*([+-]?[\d.]+)[,\s]+([+-]?[\d.]+)\s*\)/);
+                  if (!mo) return;
+                  g._ourTransform = 'translate(' + (parseFloat(mo[1]) + 14) + ',' + mo[2] + ')';
+                  g.setAttribute('transform', g._ourTransform);
+                }});
+              }}).observe(chartDiv, {{ subtree: true, attributeFilter: ['transform'] }});
+            }}
+          }});
+
+        playBtn.textContent = (lbPlayed && upToWk >= WEEKS[WEEKS.length-1])
+          ? '\u21ba Replay' : '\u25b6 Play';
+        syncWkBtns(upToWk);
+      }}
+
+      // ── Animation ─────────────────────────────────────────────────────────
+      function startLBAnim() {{
+        if (lbAnimReq) {{ cancelAnimationFrame(lbAnimReq); lbAnimReq = null; }}
+        const players = LB[currentPos] || [];
+        if (!players.length) return;
+
+        rebuildColorMap();
+        ensureLogos(players);
+        playBtn.textContent = '\u25fc Stop';
+
+        const latestWk = WEEKS[WEEKS.length-1];
+
+        const playerMap = {{}};
+        players.forEach(p => {{ playerMap[p.name] = p; }});
+
+        const weekStates = {{}};
+        WEEKS.forEach(wk => {{ weekStates[wk] = stateAt(players, wk); }});
+
+        function buildStep(fromWk, toWk) {{
+          const from = weekStates[fromWk], to = weekStates[toWk];
+          const names = new Set([...Object.keys(from), ...Object.keys(to)]);
+          const ff={{}}, tf={{}};
+          names.forEach(n => {{
+            const p = playerMap[n];
+            ff[n] = from[n] || {{rank:OFF_Y, pts: p ? cumulAt(p,fromWk) : 0}};
+            tf[n] = to[n]   || {{rank:OFF_Y, pts: p ? cumulAt(p,toWk)   : 0}};
+          }});
+          return {{
+            ff, tf,
+            fromXMax: Math.max(...Object.values(from).map(s=>s.pts), 1),
+            toXMax:   Math.max(...Object.values(to).map(s=>s.pts),   1),
+          }};
+        }}
+
+        // Step 0: bars start at their correct Week-1 rank positions with 0 pts,
+        // then grow in-place to their Week-1 totals (no vertical movement).
+        const steps = [];
+        const s1 = weekStates[WEEKS[0]];
+        const s0from = {{}};
+        Object.entries(s1).forEach(([n, {{rank}}]) => {{ s0from[n] = {{rank, pts:0}}; }});
+        steps.push({{
+          ff: s0from, tf: s1,
+          fromXMax: Math.max(...Object.values(s1).map(s=>s.pts), 1),  // fixed at week-1 final
+          toXMax:   Math.max(...Object.values(s1).map(s=>s.pts), 1),
+        }});
+        for (let i = 0; i < WEEKS.length-1; i++) {{
+          steps.push(buildStep(WEEKS[i], WEEKS[i+1]));
+        }}
+
+        let stepIdx  = 0;
+        let stepStart = null;
+        let phase     = 'anim';   // start animating immediately (no initial pause)
+        let pauseUntil = 0;
+
+        // Show the initial state: bars in correct rank positions, pts = 0
+        Plotly.react(chartDiv, buildBarTraces(s0from), barLayout(steps[0].fromXMax),
+                     {{responsive:true,displayModeBar:false}})
+          .then(() => {{
+            positionLogosLB({{}});   // no pts yet, hide logos
+            syncWkBtns(WEEKS[0]);
+            lbAnimReq = requestAnimationFrame(frame);
+          }});
+
+        function frame(now) {{
+          // ── Pause phase: hold current state until pauseUntil ───────────
+          if (phase === 'pause') {{
+            if (now < pauseUntil) {{
+              lbAnimReq = requestAnimationFrame(frame);
+              return;
+            }}
+            phase = 'anim';
+            stepStart = null;
+          }}
+
+          // ── Anim phase ─────────────────────────────────────────────────
+          if (stepStart === null) stepStart = now;
+          const rawT = Math.min((now - stepStart) / STEP_MS, 1);
+          const te   = easeInOut(rawT);
+
+          const {{ff, tf, fromXMax, toXMax}} = steps[stepIdx];
+          const xMax = fromXMax + rawT * (toXMax - fromXMax);
+
+          const ls = {{}};
+          Object.keys(ff).forEach(name => {{
+            const f = ff[name], t2 = tf[name];
+            const lRank = f.rank + te   * (t2.rank - f.rank);
+            const lPts  = f.pts  + rawT * (t2.pts  - f.pts);
+            if (lRank <= TOP5 + 1.1) ls[name] = {{rank:lRank, pts:lPts}};
+          }});
+
+          const snapLS = Object.assign({{}}, ls);
+          const traces = buildBarTraces(ls);
+
+          Plotly.react(chartDiv, traces, barLayout(xMax), {{responsive:true,displayModeBar:false}})
+            .then(() => {{
+              const ep = {{}};
+              Object.entries(snapLS).forEach(([name,{{rank,pts}}]) => {{
+                if (rank <= TOP5+0.5) ep[name] = {{x:pts, y:rank}};
+              }});
+              positionLogosLB(ep);
+            }});
+
+          if (rawT < 1) {{
+            lbAnimReq = requestAnimationFrame(frame);
+          }} else {{
+            // Step done — pause at this week's completed result, then advance
+            stepIdx++;
+            if (stepIdx < steps.length) {{
+              // steps[i] completes at WEEKS[i]; after increment stepIdx-1 = completed step
+              syncWkBtns(WEEKS[stepIdx - 1]);
+              phase      = 'pause';
+              pauseUntil = now + PAUSE_MS;
+              lbAnimReq  = requestAnimationFrame(frame);
+            }} else {{
+              lbAnimReq = null;
+              lbPlayed  = true;
+              renderLB(latestWk);
+            }}
+          }}
+        }}
+      }}
+
+      // ── Position tabs ─────────────────────────────────────────────────────
+      POSITIONS.forEach(pos => {{
+        const btn = document.createElement('button');
+        btn.className = 'lb-tab'+(pos===currentPos?' active':'');
+        btn.textContent = pos;
+        btn.addEventListener('click', () => {{
+          document.querySelectorAll('.lb-tab').forEach(b=>b.classList.remove('active'));
+          btn.classList.add('active');
+          currentPos = pos;
+          lbPlayed   = false;
+          renderLB(WEEKS[WEEKS.length-1]);
+        }});
+        tabBar.appendChild(btn);
+      }});
+
+      playBtn.addEventListener('click', () => {{
+        if (lbAnimReq) {{
+          cancelAnimationFrame(lbAnimReq); lbAnimReq = null;
+          playBtn.textContent = '\u21ba Replay';
+        }} else {{
+          startLBAnim();
+        }}
+      }});
+
+      WEEKS.forEach(wk => {{
+        const btn = document.createElement('button');
+        btn.className = 'lb-wbtn';
+        btn.dataset.week = wk;
+        btn.textContent = 'Wk '+wk;
+        btn.addEventListener('click', () => renderLB(wk));
+        weekBtnsWrap.appendChild(btn);
+      }});
+
+      window.addEventListener('resize', () => {{
+        if (lbAnimReq) return;
+        const players = LB[currentPos] || [];
+        if (!players.length) return;
+        const state = stateAt(players, lbShownWk);
+        const ep = {{}};
+        Object.entries(state).forEach(([name,{{rank,pts}}]) => {{ ep[name]={{x:pts,y:rank}}; }});
+        positionLogosLB(ep);
+      }});
+
+      rebuildColorMap();
+      renderLB(WEEKS[WEEKS.length-1]);
+    }})();
 
     // ── build one card DOM element ─────────────────────────────────────────
     function buildCard(m, idx) {{
@@ -1675,12 +2256,38 @@ _HTML = """\
       const isT1Win  = m.winner === m.team1;
       const winName  = isT1Win ? m.team1  : m.team2;
       const loseName = isT1Win ? m.team2  : m.team1;
-      const winTDs   = isT1Win ? (m.td_markers1 || []) : (m.td_markers2 || []);
-      const loseTDs  = isT1Win ? (m.td_markers2 || []) : (m.td_markers1 || []);
+      const rawWinTDs  = isT1Win ? (m.td_markers1 || []) : (m.td_markers2 || []);
+      const rawLoseTDs = isT1Win ? (m.td_markers2 || []) : (m.td_markers1 || []);
+
+      // Filter to day windows where at least one team scored
+      const activeIdx     = activeIndicesFor(m.pts1, m.pts2);
+      const filteredTimes = activeIdx.map(i => DATA.times[i]);
+      const filteredPts1  = activeIdx.map(i => m.pts1[i]);
+      const filteredPts2  = activeIdx.map(i => m.pts2[i]);
+
+      // Build per-matchup x-axis from the filtered times
+      const {{ xVals: mXVals, hoverText: mHoverText,
+               dayBoundaries: mDayBound, dayAnnotations: mDayAnn }} =
+        buildXAxis(filteredTimes);
+
+      // Remap TD marker xi values from global time indices → new sequential indices
+      const idxToNew = new Map(activeIdx.map((origI, newI) => [origI, newI]));
+      function remapTDs(tds) {{
+        return tds.map(td => {{
+          const newXi = idxToNew.get(td.xi);
+          if (newXi == null) return null;
+          return Object.assign({{}}, td, {{ xi: newXi }});
+        }}).filter(Boolean);
+      }}
+      const winTDs  = remapTDs(rawWinTDs);
+      const loseTDs = remapTDs(rawLoseTDs);
+
+      const winY  = isT1Win ? filteredPts1 : filteredPts2;
+      const loseY = isT1Win ? filteredPts2 : filteredPts1;
 
       const trajMax = Math.max(
-        ...m.pts1.filter(v => v !== null),
-        ...m.pts2.filter(v => v !== null),
+        ...filteredPts1.filter(v => v !== null),
+        ...filteredPts2.filter(v => v !== null),
         0
       );
       const yMax = Math.max(Math.max(m.final1, m.final2), trajMax) + 20;
@@ -1709,17 +2316,20 @@ _HTML = """\
                       line: {{ color: '#0d1117', width: 1.5 }} }} }},
       ];
 
-      // Lock x-axis to the full data range so the grid doesn't collapse when
-      // traces are empty, and auto-size is suppressed during animation.
-      const layout = baseLayout(yMax);
-      layout.xaxis.range = [0, xVals.length - 1];
-      layout.xaxis.autorange = false;
-      layout.yaxis.autorange = false;
+      // Lock x-axis to the full (filtered) data range so the grid doesn't
+      // collapse when traces are empty, and autorange is suppressed during animation.
+      const layout = baseLayout(yMax, mDayBound, mDayAnn);
+      layout.xaxis.tickvals    = mXVals;
+      layout.xaxis.ticktext    = mHoverText;
+      layout.xaxis.range       = [0, mXVals.length - 1];
+      layout.xaxis.autorange   = false;
+      layout.yaxis.autorange   = false;
 
       Plotly.newPlot('c' + idx, traces, layout, plotConfig);
 
-      // Store per-chart metadata for the animation loop.
-      chartMeta[idx] = {{ yMax, winName, loseName, winTDs, loseTDs }};
+      // Store per-chart metadata (including filtered data) for the animation loop.
+      chartMeta[idx] = {{ yMax, winName, loseName, winTDs, loseTDs,
+                          xVals: mXVals, winY, loseY }};
 
       // Attach proximity-based hover for TD marker dots.
       setupTdHover(idx);
@@ -1852,8 +2462,9 @@ _HTML = """\
     const ANIM_DURATION = 10000;  // ms for a full left-to-right reveal
 
     function startAnim(idx) {{
-      const m = DATA.matchups[idx];
-      const {{ winTDs, loseTDs }} = chartMeta[idx];
+      // Pull filtered data stored by renderChart — xVals, winY, loseY are all
+      // already sliced to the active day windows for this matchup.
+      const {{ winTDs, loseTDs, xVals: mXVals, winY, loseY }} = chartMeta[idx];
 
       // Cancel any running animation for this chart
       if (animState[idx] && animState[idx].rafId) {{
@@ -1867,12 +2478,9 @@ _HTML = """\
       Plotly.restyle('c' + idx, {{ x: [[], []], y: [[], []] }}, [0, 1]);
       Plotly.restyle('c' + idx, {{ x: [[], []], y: [[], []], text: [[], []] }}, [2, 3]);
 
-      const isT1Win = m.winner === m.team1;
-      const winY    = isT1Win ? m.pts1 : m.pts2;
-      const loseY   = isT1Win ? m.pts2 : m.pts1;
-      const N       = xVals.length;
-      const state   = animState[idx];
-      const start   = performance.now();
+      const N     = mXVals.length;
+      const state = animState[idx];
+      const start = performance.now();
 
       function frame(now) {{
         const t = Math.min((now - start) / ANIM_DURATION, 1);
@@ -1880,8 +2488,8 @@ _HTML = """\
 
         // Update line traces
         Plotly.restyle('c' + idx, {{
-          x: [xVals.slice(0, n), xVals.slice(0, n)],
-          y: [winY.slice(0, n),  loseY.slice(0, n)],
+          x: [mXVals.slice(0, n), mXVals.slice(0, n)],
+          y: [winY.slice(0, n),   loseY.slice(0, n)],
         }}, [0, 1]);
 
         // Update TD marker traces: show only markers whose minute index < n
@@ -1898,8 +2506,8 @@ _HTML = """\
         }} else {{
           // Final frame: ensure complete data for all traces
           Plotly.restyle('c' + idx, {{
-            x: [xVals, xVals],
-            y: [winY,  loseY],
+            x: [mXVals, mXVals],
+            y: [winY,   loseY],
           }}, [0, 1]);
           Plotly.restyle('c' + idx, {{
             x:    [winTDs.map(td => td.xi),  loseTDs.map(td => td.xi)],

@@ -59,7 +59,7 @@ def _require_deps() -> None:
 
 
 def build_map(verbose: bool = False) -> dict[str, dict]:
-    """Return {gsis_id: {yahoo_id, name, position}} from nflreadpy."""
+    """Return {gsis_id: {yahoo_id, name, position, photo_url}} from nflreadpy."""
     import nflreadpy
     import polars as pl
     import warnings
@@ -72,6 +72,24 @@ def build_map(verbose: bool = False) -> dict[str, dict]:
     ff_with_gsis = ff.filter(pl.col("gsis_id").is_not_null())
     log.info("  %d rows with gsis_id (of %d total)", ff_with_gsis.height, ff.height)
 
+    # ── Load headshot URLs from load_players() ────────────────────────────
+    # nflreadpy.load_players() has a `headshot` column (NFL.com CDN) keyed by
+    # gsis_id — far more reliable than the Yahoo cutout CDN which changes
+    # date-prefix every season and isn't available for all players.
+    gsis_to_headshot: dict[str, str] = {}
+    try:
+        log.info("Loading player headshots from nflreadpy …")
+        pl_data = nflreadpy.load_players()
+        if "gsis_id" in pl_data.columns and "headshot" in pl_data.columns:
+            for row in pl_data.filter(pl.col("gsis_id").is_not_null()).iter_rows(named=True):
+                gsis = str(row["gsis_id"]).strip()
+                hs   = (row.get("headshot") or "").strip()
+                if gsis and hs:
+                    gsis_to_headshot[gsis] = hs
+        log.info("  %d gsis → headshot_url entries loaded", len(gsis_to_headshot))
+    except Exception as exc:
+        log.warning("Could not load player headshots: %s", exc)
+
     result: dict[str, dict] = {}
     for row in ff_with_gsis.iter_rows(named=True):
         gsis    = str(row["gsis_id"]).strip()
@@ -83,12 +101,19 @@ def build_map(verbose: bool = False) -> dict[str, dict]:
         if not gsis:
             continue
 
-        entry = {"yahoo_id": yahoo, "name": name, "position": pos, "team": team}
+        entry = {
+            "yahoo_id":  yahoo,
+            "name":      name,
+            "position":  pos,
+            "team":      team,
+            "photo_url": gsis_to_headshot.get(gsis, ""),
+        }
         result[gsis] = entry
 
         if verbose:
-            log.debug("  %s  %-30s  %3s  %-4s  yahoo=%s",
-                      gsis, name, pos, team, yahoo or "—")
+            log.debug("  %s  %-30s  %3s  %-4s  yahoo=%s  photo=%s",
+                      gsis, name, pos, team, yahoo or "—",
+                      "✓" if entry["photo_url"] else "—")
 
     return result
 

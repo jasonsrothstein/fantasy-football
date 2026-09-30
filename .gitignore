@@ -15,6 +15,7 @@ Data/*/nflverse/
 
 # Auth secrets — never commit cookies
 Scripts/auth/yahoo_cookies.txt
+Scripts/auth/oauth2yahoo.json
 
 # Office files
 *.pptx

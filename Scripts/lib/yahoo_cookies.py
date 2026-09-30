@@ -271,7 +271,7 @@ def get_roster(
         meta = p[0]
         status = p[1]
 
-        name, player_id, nfl_team = "", "", ""
+        name, player_id, nfl_team, image_url = "", "", "", ""
         for item in meta:
             if "player_id" in item:
                 player_id = str(item["player_id"])
@@ -279,6 +279,8 @@ def get_roster(
                 name = item["name"].get("full", "")
             if "editorial_team_abbr" in item:
                 nfl_team = item["editorial_team_abbr"].upper()
+            if "image_url" in item:
+                image_url = item["image_url"]
 
         roster_pos = status.get("selected_position", [{}])[1].get("position", "BN")
 
@@ -287,6 +289,7 @@ def get_roster(
             "position": roster_pos,
             "nfl_team": nfl_team,
             "player_id": player_id,
+            "image_url": image_url,
         }
         if roster_pos in BENCH_POSITIONS:
             bench.append(player)
@@ -330,3 +333,77 @@ def get_team_logos(session: YahooCookieSession, game_key: str, league_id: str) -
     except (KeyError, IndexError, TypeError) as exc:
         log.warning("Could not parse team logos: %s", exc)
     return logos
+
+
+def get_all_players(
+    session: "YahooCookieSession",
+    game_key: str,
+    league_id: str,
+    positions: list | None = None,
+) -> dict:
+    """
+    Fetch every player in the league's player universe (rostered + free agents).
+
+    Paginates Yahoo's 25-per-page endpoint until exhausted.
+    positions: list of Yahoo position codes to filter, e.g. ['QB','RB','WR','TE','K','DEF'].
+               Omit to fetch all positions (much slower).
+
+    Returns {yahoo_id (str): {name, position, nfl_team}}.
+    """
+    PAGE = 25
+    pos_part = (";position=" + "%2C".join(positions)) if positions else ""
+    base_url = f"{_BASE}/league/{game_key}.l.{league_id}/players"
+
+    all_players: dict = {}
+    start = 0
+
+    while True:
+        url = f"{base_url};count={PAGE};start={start}{pos_part}"
+        try:
+            data = session.get(url)
+            players_raw = data["fantasy_content"]["league"][1]["players"]
+        except (KeyError, IndexError, TypeError) as exc:
+            log.warning("get_all_players: unexpected response at start=%d — %s", start, exc)
+            break
+
+        count = int(players_raw.get("count", 0))
+        if count == 0:
+            break
+
+        for i in range(count):
+            try:
+                meta = players_raw[str(i)]["player"][0]
+                player_id = name = position = nfl_team = None
+                image_url = ""
+                for item in meta:
+                    if not isinstance(item, dict):
+                        continue
+                    if "player_id" in item and player_id is None:
+                        player_id = str(item["player_id"])
+                    if "name" in item:
+                        name = item["name"].get("full", "")
+                    if "display_position" in item:
+                        # Yahoo may return "WR,TE" for flex-eligible — take first
+                        position = item["display_position"].split(",")[0]
+                    if "editorial_team_abbr" in item:
+                        nfl_team = item["editorial_team_abbr"].upper()
+                    if "image_url" in item:
+                        image_url = item["image_url"]
+                if player_id and name:
+                    all_players[player_id] = {
+                        "name":      name,
+                        "position":  position or "",
+                        "nfl_team":  nfl_team or "",
+                        "image_url": image_url,
+                    }
+            except (KeyError, IndexError, TypeError):
+                continue
+
+        log.debug("  Fetched players start=%d, got %d (total so far: %d)",
+                  start, count, len(all_players))
+
+        if count < PAGE:
+            break
+        start += PAGE
+
+    return all_players

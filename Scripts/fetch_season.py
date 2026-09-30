@@ -195,6 +195,28 @@ def fetch_schedule_and_pbp(season: int, weeks: list, skip: bool) -> dict:
     return schedule
 
 
+def all_players_path(season: int) -> Path:
+    return data_root(season) / "yahoo_all_players.json"
+
+
+def fetch_all_players(oauth, game_key: str, league_id: str,
+                      season: int, skip: bool) -> dict:
+    """Fetch all Yahoo players (rostered + FA) across fantasy-relevant positions."""
+    p = all_players_path(season)
+    if skip and p.exists():
+        log.info("All players: cached (%s) — %d players", p, len(_load(p)))
+        return _load(p)
+
+    log.info("Fetching all Yahoo players (QB/RB/WR/TE/K/DEF) — may take ~15s …")
+    players = yahoo.get_all_players(
+        oauth, game_key, league_id,
+        positions=["QB", "RB", "WR", "TE", "K", "DEF"],
+    )
+    _save(p, players)
+    log.info("Saved %d players → %s", len(players), p)
+    return players
+
+
 # ─── Entry point ──────────────────────────────────────────────────────────────
 
 def main() -> None:
@@ -220,6 +242,9 @@ def main() -> None:
     ap.add_argument("--cookies", type=str,
                     default=str(_HERE / "auth" / "yahoo_cookies.txt"),
                     help="Path to yahoo_cookies.txt (browser session cookies)")
+    ap.add_argument("--fetch-players", action="store_true",
+                    help="Fetch all Yahoo players (rostered + free agents) and "
+                         "save to Data/{season}/yahoo_all_players.json")
     ap.add_argument("--no-yahoo", action="store_true",
                     help="Skip Yahoo fetching (only fetch ESPN data)")
     ap.add_argument("--no-espn",  action="store_true",
@@ -264,6 +289,10 @@ def main() -> None:
                  len(weeks), args.teams, len(weeks) * args.teams)
         fetch_rosters(oauth, game_key, args.league, args.season,
                       weeks, args.teams, skip)
+
+        if args.fetch_players:
+            fetch_all_players(oauth, game_key, args.league, args.season, skip)
+
         log.info("Yahoo fetch complete.")
 
     # ── ESPN data ─────────────────────────────────────────────────────────────
