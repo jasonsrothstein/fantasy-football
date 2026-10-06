@@ -359,7 +359,10 @@ def extract_fantasy_events(row: dict) -> list[dict]:
                            player_id=_pid_lat_receiver))
         # Touchdown
         if bool(_v(row, "pass_touchdown", 0)):
-            dist_total = float(abs(rec_yds or pass_yds or 0))
+            # Use passer's passing_yards first: it includes lateral yards
+            # (e.g. Purdy→Evans 2 yds, lateral to Samuel 80 yds → passing_yards=82).
+            # rec_yds only covers the initial receiver's yards to the catch point.
+            dist_total = float(abs(pass_yds or rec_yds or 0))
             _td_extra = _td_meta
             evs.append(_ev(passer, "pass_td", 1, player_id=_pid_passer, extra=_td_extra))
             if dist_total >= 40:

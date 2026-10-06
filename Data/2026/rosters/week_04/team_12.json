@@ -1,0 +1,113 @@
+{
+  "team_id": "12",
+  "team_name": "Tyrunt The Ball",
+  "starters": [
+    {
+      "name": "Dak Prescott",
+      "position": "QB",
+      "nfl_team": "DAL",
+      "player_id": "29369",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/7qieJGO_VZyuf0v74QNeEg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/29369.1.png"
+    },
+    {
+      "name": "Saquon Barkley",
+      "position": "RB",
+      "nfl_team": "PHI",
+      "player_id": "30972",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/VXOmjaMBllUqGug6vTs48A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08212026/30972.1.png"
+    },
+    {
+      "name": "Bucky Irving",
+      "position": "RB",
+      "nfl_team": "TB",
+      "player_id": "40993",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/m_qM8NCZ0Axr7R49oWPTwA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/40993.1.png"
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "position": "WR",
+      "nfl_team": "CIN",
+      "player_id": "33393",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/8DFQtQd4gJsvWGpzq0rbag--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/33393.1.png"
+    },
+    {
+      "name": "Carnell Tate",
+      "position": "WR",
+      "nfl_team": "TEN",
+      "player_id": "42626",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/k9TrMbXiaW_YxKds95cjag--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/42626.1.png"
+    },
+    {
+      "name": "Tyler Warren",
+      "position": "TE",
+      "nfl_team": "IND",
+      "player_id": "41799",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/AuBgYfyEoSIbVVTm9laKLQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/41799.1.png"
+    },
+    {
+      "name": "Daniel Jones",
+      "position": "Q/W/R/T",
+      "nfl_team": "IND",
+      "player_id": "31838",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/5W3_SkGD4wzKKz3D1FrFPQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/31838.1.png"
+    },
+    {
+      "name": "Evan McPherson",
+      "position": "K",
+      "nfl_team": "CIN",
+      "player_id": "33537",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/a.gGbSeP5d9HGqnqxc4e6A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/33537.1.png"
+    },
+    {
+      "name": "Vikings",
+      "position": "DEF",
+      "nfl_team": "MIN",
+      "player_id": "100016",
+      "image_url": "https://s.yimg.com/xe/ipt/50x50w.6.gif"
+    }
+  ],
+  "bench": [
+    {
+      "name": "Jalen Coker",
+      "position": "BN",
+      "nfl_team": "CAR",
+      "player_id": "41293",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/65k_7o4BvaoaSdVEIhckoQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41293.1.png"
+    },
+    {
+      "name": "Jaylen Warren",
+      "position": "BN",
+      "nfl_team": "PIT",
+      "player_id": "34447",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/aeLJ6CcF9iHNAnYV3xe0YA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/34447.1.png"
+    },
+    {
+      "name": "Mark Andrews",
+      "position": "BN",
+      "nfl_team": "BAL",
+      "player_id": "31056",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/esyGOZhIzn5kp7nExzw3Yg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/31056.1.png"
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "position": "BN",
+      "nfl_team": "TEN",
+      "player_id": "33998",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/yzOboZCDxSxe5MurJYRGmA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08252026/33998.1.png"
+    },
+    {
+      "name": "Rachaad White",
+      "position": "BN",
+      "nfl_team": "WAS",
+      "player_id": "34047",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/QeZuoLZbQeAXC43hGJWcPQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08252026/34047.1.png"
+    },
+    {
+      "name": "A.J. Brown",
+      "position": "IR",
+      "nfl_team": "NE",
+      "player_id": "31883",
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/Leb8ZAI2V3gAyK1JvopPMg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/31883.1.png"
+    }
+  ]
+}

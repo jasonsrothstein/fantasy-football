@@ -260,6 +260,120 @@ def render_commentary_html(text: str) -> str:
     return "\n".join(parts)
 
 
+# ── Regex constants for Markdown → HTML conversion ────────────────────────────
+_TWEET_URL_RE = re.compile(
+    r"^https?://(x|twitter)\.com/\S+/status/\d+\S*$", re.IGNORECASE
+)
+_IMG_BLOCK_RE = re.compile(r"^!\[([^\]]*)\]\(([^)]+)\)$")
+_HEADER_RE    = re.compile(r"^(#{1,6})\s+(.*)")
+
+
+def _apply_inline_md(text: str) -> str:
+    """Apply inline markdown: images, links, **bold**, *italic*."""
+    text = re.sub(r"!\[([^\]]*)\]\(([^)]+)\)",
+                  r'<img src="\2" alt="\1" class="md-img">', text)
+    text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)",
+                  r'<a href="\2" target="_blank" rel="noopener">\1</a>', text)
+    text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
+    text = re.sub(r"\*(.+?)\*",     r"<em>\1</em>",         text)
+    return text
+
+
+def render_md_as_html(text: str) -> tuple[str, bool]:
+    """Parse a Markdown string into HTML, embedding tweet URLs as Twitter blockquotes.
+
+    Bare tweet/X URLs on their own line (or within a paragraph) are converted
+    to ``<blockquote class="twitter-tweet">`` elements which the Twitter
+    widget.js script then renders as full embedded tweets.
+
+    Returns ``(html: str, needs_twitter: bool)``.
+
+    Supported syntax
+    ----------------
+    * Paragraphs separated by blank lines
+    * ``# Heading`` through ``###### Heading``
+    * ``![alt](src)``  — images (block or inline)
+    * ``[text](url)``  — links
+    * ``**bold**``, ``*italic*``
+    * Raw HTML blocks (lines starting with ``<``) passed through unchanged
+    * Bare tweet URL on its own line or as the only content of a paragraph →
+      embedded tweet widget
+    """
+    if not text or not text.strip():
+        return "", False
+
+    needs_twitter = False
+    raw_blocks = re.split(r"\n{2,}", text.strip())
+    parts: list[str] = []
+
+    for block in raw_blocks:
+        block = block.strip()
+        if not block:
+            continue
+
+        # ── Raw HTML passthrough ──────────────────────────────────────────
+        if block.startswith("<"):
+            if "twitter-tweet" in block:
+                needs_twitter = True
+            parts.append(block)
+            continue
+
+        lines = block.splitlines()
+
+        # ── Heading ───────────────────────────────────────────────────────
+        if _HEADER_RE.match(lines[0]):
+            m = _HEADER_RE.match(lines[0])
+            lvl  = min(len(m.group(1)), 6)
+            head = _apply_inline_md(m.group(2).strip())
+            parts.append(f"<h{lvl} class='md-h'>{head}</h{lvl}>")
+            # Any remaining lines in the block become a new paragraph
+            rest = "\n".join(lines[1:]).strip()
+            if rest:
+                raw_blocks.append(rest)
+            continue
+
+        # ── Standalone image block ────────────────────────────────────────
+        if len(lines) == 1 and _IMG_BLOCK_RE.match(lines[0]):
+            m = _IMG_BLOCK_RE.match(lines[0])
+            parts.append(
+                f'<img src="{m.group(2)}" alt="{m.group(1)}" class="md-img">'
+            )
+            continue
+
+        # ── Scan lines for inline tweet URLs ─────────────────────────────
+        # If any line in the block is a bare tweet URL, split them out so
+        # tweets are surrounded by paragraphs rather than embedded in them.
+        has_tweet_line = any(_TWEET_URL_RE.match(l.strip()) for l in lines)
+
+        if has_tweet_line:
+            buf: list[str] = []
+            for line in lines:
+                stripped = line.strip()
+                if _TWEET_URL_RE.match(stripped):
+                    if buf:
+                        para = _apply_inline_md("<br>".join(buf))
+                        parts.append(f"<p>{para}</p>")
+                        buf = []
+                    parts.append(
+                        f'<blockquote class="twitter-tweet" data-theme="dark">'
+                        f'<a href="{stripped}"></a></blockquote>'
+                    )
+                    needs_twitter = True
+                else:
+                    buf.append(line)
+            if buf:
+                para = _apply_inline_md("<br>".join(buf))
+                parts.append(f"<p>{para}</p>")
+            continue
+
+        # ── Plain paragraph ───────────────────────────────────────────────
+        inner = _apply_inline_md("\n".join(lines))
+        inner = inner.replace("\n", "<br>")
+        parts.append(f"<p>{inner}</p>")
+
+    return "\n".join(parts), needs_twitter
+
+
 def fetch_logo_as_data_uri(url: str) -> str:
     """Download a logo URL and return a base64 data URI, or '' on failure."""
     if not url:
@@ -463,7 +577,7 @@ _HTML = """\
       display: block;
     }}
     .week-intro blockquote.twitter-tweet {{ margin: 0.75rem 0; }}
-    /* ── Commentary section ──────────────────────────────────────────── */
+    /* ── Legacy commentary section (YAML-based, kept for backward compat) ─ */
     .commentary-wrap {{
       max-width: 1100px;
       margin: 0 auto 2.5rem;
@@ -490,7 +604,41 @@ _HTML = """\
     }}
     .commentary-body p:last-child {{ margin-bottom: 0; }}
     .commentary-body strong {{ color: #fff; }}
-    /* ── Tweets section ─────────────────────────────────────────────── */
+    /* ── Markdown commentary section (new .md-based) ─────────────────── */
+    .md-commentary {{
+      max-width: 600px;
+      margin: 0 auto 2.5rem;
+      padding: 0 1rem;
+    }}
+    .md-commentary p {{
+      color: var(--text);
+      line-height: 1.75;
+      font-size: 0.95rem;
+      margin: 0 0 1rem;
+    }}
+    .md-commentary p:last-child {{ margin-bottom: 0; }}
+    .md-commentary strong {{ color: #fff; }}
+    .md-commentary em {{ color: #cdd9e5; }}
+    .md-commentary h1.md-h, .md-commentary h2.md-h,
+    .md-commentary h3.md-h, .md-commentary h4.md-h {{
+      color: var(--text);
+      font-weight: 700;
+      margin: 1.5rem 0 0.5rem;
+      letter-spacing: -0.01em;
+    }}
+    .md-commentary h1.md-h {{ font-size: 1.25rem; }}
+    .md-commentary h2.md-h {{ font-size: 1.1rem; }}
+    .md-commentary h3.md-h {{ font-size: 1rem; }}
+    .md-commentary img.md-img {{
+      max-width: 100%;
+      border-radius: 10px;
+      margin: 0.75rem auto;
+      display: block;
+    }}
+    .md-commentary blockquote.twitter-tweet {{
+      margin: 0.5rem 0 1rem !important;
+    }}
+    /* ── Legacy tweets section (tweets JSON, kept for backward compat) ── */
     .tweets-wrap {{
       max-width: 1100px;
       margin: 0 auto 2.5rem;
@@ -883,6 +1031,7 @@ _HTML = """\
     <h1>Pickle Fingers Week {week}</h1>
     <p class="subtitle">{date_range}</p>
   </header>
+  <div class="md-commentary" id="md-commentary"></div>
   <div class="commentary-wrap" id="commentary-wrap"></div>
   <div class="tweets-wrap" id="tweets-wrap"></div>
   <div class="standings-wrap" id="standings-wrap"></div>
@@ -899,7 +1048,15 @@ _HTML = """\
     const C_WIN  = '#3fb950';   // green  – winner
     const C_LOSE = '#f85149';   // red    – loser
 
-    // ── Week intro block ───────────────────────────────────────────────────
+    // ── Markdown commentary (new .md-based, renders at top of page) ──────────
+    (function() {{
+      const html = DATA.md_commentary_html || '';
+      if (!html) return;
+      const wrap = document.getElementById('md-commentary');
+      wrap.innerHTML = html;
+    }})();
+
+    // ── Week intro block (legacy YAML commentary intro) ────────────────────
     if (DATA.intro_html) {{
       const introDiv = document.createElement('div');
       introDiv.className = 'week-intro';
@@ -1880,10 +2037,23 @@ _HTML = """\
       function easeInOut(t) {{
         return t < 0.5 ? 2*t*t : -1+(4-2*t)*t;
       }}
+      // NFL team primary colors — chosen for readability on a dark background.
+      // Very dark primaries (Raiders black, Bears navy, Browns brown, etc.)
+      // use the team's accent/secondary color instead.
+      const NFL_TEAM_COLORS = {{
+        ARI: '#97233F', ATL: '#A71930', BAL: '#241773', BUF: '#00338D',
+        CAR: '#0085CA', CHI: '#C83803', CIN: '#FB4F14', CLE: '#FF3C00',
+        DAL: '#003594', DEN: '#FB4F14', DET: '#0076B6', GB:  '#203731',
+        HOU: '#03202F', IND: '#002C5F', JAX: '#006778', KC:  '#E31837',
+        LAC: '#0080C6', LAR: '#003594', LV:  '#A5ACAF', MIA: '#008E97',
+        MIN: '#4F2683', NE:  '#002244', NO:  '#9F8958', NYG: '#0B2265',
+        NYJ: '#125740', PHI: '#004C54', PIT: '#FFB612', SEA: '#69BE28',
+        SF:  '#AA0000', TB:  '#D50A0A', TEN: '#4B92DB', WAS: '#5A1414',
+      }};
       function rebuildColorMap() {{
         colorMap = {{}};
         (LB[currentPos] || []).forEach((p, i) => {{
-          colorMap[p.name] = PALETTE[i % PALETTE.length];
+          colorMap[p.name] = NFL_TEAM_COLORS[p.nfl_team] || PALETTE[i % PALETTE.length];
         }});
       }}
 
@@ -1934,11 +2104,15 @@ _HTML = """\
         return s;
       }}
 
+      // ── Format a point total: trim trailing zeros but keep up to 2 decimals ─
+      // 93.46→"93.46"  45.50→"45.5"  45.00→"45"
+      function fmtPts(v) {{ return parseFloat(v.toFixed(2)).toString(); }}
+
       // ── Build Plotly bar traces from {{name:{{rank,pts}}}} ─────────────────
       function buildBarTraces(lerpState) {{
         return Object.entries(lerpState).map(([name, {{rank,pts}}]) => {{
           const color = colorMap[name] || PALETTE[0];
-          const ptsStr = pts >= 0.5 ? '  '+pts.toFixed(1) : '';
+          const ptsStr = pts >= 0.5 ? '  '+fmtPts(pts) : '';
           return {{
             type:'bar', orientation:'h',
             y:[rank], x:[pts], width:[BAR_W], base:[0],
@@ -1947,8 +2121,8 @@ _HTML = """\
             textfont:{{color:'#fff',size:11,family:'Segoe UI,system-ui,sans-serif'}},
             marker:{{color:color, opacity:0.88, line:{{color:'#0d1117',width:1}}}},
             hovertemplate:'<b>'+name+'</b><br>'+
-              (rank<=TOP5+0.5 ? ord(Math.round(rank))+' place \u00b7 ' : '')+
-              pts.toFixed(1)+' pts<extra></extra>',
+              (rank<=TOP5+0.5 ? currentPos+Math.round(rank)+' \u00b7 ' : '')+
+              fmtPts(pts)+' pts<extra></extra>',
             showlegend:false,
             cliponaxis:true,
           }};
@@ -2611,55 +2785,36 @@ def render_html(payload: dict, commentary: dict | None = None,
     payload["intro_html"] = intro_html
     payload["commentary"] = commentary_list
 
-    # Load week commentary markdown
+    # ── Load Markdown commentary (.md file — new unified format) ─────────────
+    # File: Data/{season}/commentary/week_{N:02d}.md
+    # Supports: prose text, # headings, **bold**, *italic*, ![alt](src) images,
+    # and bare tweet/X URLs on their own line → embedded tweet widgets.
     season = payload.get("season") or ""
-    commentary_md_path = Path(f"Data/{season}/commentary/week_{payload['week']:02d}.md") if season else None
+    md_path = (Path(f"Data/{season}/commentary/week_{payload['week']:02d}.md")
+               if season else None)
+    md_commentary_html = ""
+    md_needs_twitter   = False
+    if md_path and md_path.exists():
+        md_text = md_path.read_text(encoding="utf-8").strip()
+        if md_text:
+            md_commentary_html, md_needs_twitter = render_md_as_html(md_text)
+            # Embed any local image paths as base64 data URIs
+            md_commentary_html = embed_local_images(md_commentary_html, md_path.parent)
+    payload["md_commentary_html"] = md_commentary_html
+
+    # ── Load week commentary markdown (legacy separate-box style) ─────────────
+    commentary_md_path = Path(f"Data/{season}/commentary/week_{payload['week']:02d}_boxed.md") if season else None
     week_commentary_html = ""
     if commentary_md_path and commentary_md_path.exists():
-        md_text = commentary_md_path.read_text(encoding="utf-8").strip()
-        if md_text:
-            try:
-                import markdown as _md
-                week_commentary_html = _md.markdown(md_text, extensions=["nl2br"])
-            except ImportError:
-                # Fallback: basic Markdown → HTML (handles images, bold, italic)
-                import re as _re
-                def _md_to_html(text: str) -> str:
-                    # Images: ![alt](url)
-                    text = _re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', r'<img src="\2" alt="\1">', text)
-                    # Links: [text](url)
-                    text = _re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', text)
-                    # Bold: **text**
-                    text = _re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
-                    # Italic: *text*
-                    text = _re.sub(r'\*(.+?)\*', r'<em>\1</em>', text)
-                    # Bullet lists: lines starting with "- "
-                    lines = text.split("\n")
-                    out, in_list = [], False
-                    for line in lines:
-                        if line.startswith("- "):
-                            if not in_list: out.append("<ul>"); in_list = True
-                            out.append(f"<li>{line[2:].strip()}</li>")
-                        else:
-                            if in_list: out.append("</ul>"); in_list = False
-                            out.append(line)
-                    if in_list: out.append("</ul>")
-                    text = "\n".join(out)
-                    # Paragraphs: blank-line-separated blocks
-                    paras = [p.strip() for p in text.split("\n\n") if p.strip()]
-                    return "".join(
-                        p if p.startswith("<") else f"<p>{p}</p>"
-                        for p in paras
-                    )
-                week_commentary_html = _md_to_html(md_text)
-            # Embed any local images referenced in the markdown as base64 data URIs
-            week_commentary_html = embed_local_images(
-                week_commentary_html, commentary_md_path.parent
-            )
+        box_text = commentary_md_path.read_text(encoding="utf-8").strip()
+        if box_text:
+            week_commentary_html, _ = render_md_as_html(box_text)
+            week_commentary_html = embed_local_images(week_commentary_html, commentary_md_path.parent)
     payload["week_commentary_html"] = week_commentary_html
 
-    # Load tweet URLs for this week
-    tweets_path = Path(f"Data/{season}/tweets/week_{payload['week']:02d}.json") if season else None
+    # ── Load tweet URLs (legacy tweets JSON — still supported) ───────────────
+    tweets_path = (Path(f"Data/{season}/tweets/week_{payload['week']:02d}.json")
+                   if season else None)
     tweet_urls: list = []
     if tweets_path and tweets_path.exists():
         try:
@@ -2668,8 +2823,12 @@ def render_html(payload: dict, commentary: dict | None = None,
             pass
     payload["tweet_urls"] = tweet_urls
 
-    all_text = intro_html + "".join(commentary_list) + ("tweet" if tweet_urls else "")
-    payload["needs_twitter"] = "twitter-tweet" in all_text or bool(tweet_urls)
+    all_text = intro_html + "".join(commentary_list) + md_commentary_html + week_commentary_html
+    payload["needs_twitter"] = (
+        md_needs_twitter
+        or "twitter-tweet" in all_text
+        or bool(tweet_urls)
+    )
 
     # Sort matchups highest winning score → lowest for display order.
     payload["matchups"].sort(

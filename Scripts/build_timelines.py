@@ -274,17 +274,23 @@ def build_week_timeline(season: int, week: int, scoring_rules: dict,
     _gsis_to_yahoo:    dict[str, str | None] = {}   # gsis_id → yahoo_id (str or None)
     _gsis_to_photo:    dict[str, str]        = {}   # gsis_id → NFL.com headshot URL
     _yahoo_to_photo:   dict[str, str]        = {}   # yahoo_id → photo URL (built below)
+    _yahoo_to_pos:     dict[str, str]        = {}   # yahoo_id → canonical position (QB/RB/WR/TE/K)
     _yahoo_to_tid: dict[str, str] = {}              # yahoo_id → fantasy team_id (per week)
     if _id_map_path.exists():
         _raw_map = json.loads(_id_map_path.read_text())
         _gsis_to_yahoo = {k: v.get("yahoo_id") for k, v in _raw_map.items()}
+        # nflverse uses "PK" for placekicker; map to our fantasy "K"
+        _pos_remap = {"PK": "K"}
         for gsis, v in _raw_map.items():
             hs = v.get("photo_url", "")
+            yid = v.get("yahoo_id")
+            raw_pos = v.get("position", "")
             if hs:
                 _gsis_to_photo[gsis] = hs
-                yid = v.get("yahoo_id")
                 if yid:
                     _yahoo_to_photo[yid] = hs
+            if yid and raw_pos:
+                _yahoo_to_pos[yid] = _pos_remap.get(raw_pos, raw_pos)
     else:
         log.warning("player_id_map.json not found — run Scripts/build_player_id_map.py for best accuracy")
 
@@ -705,10 +711,15 @@ def build_week_timeline(season: int, week: int, scoring_rules: dict,
                  len(unmatched_names))
 
     # ── Defense points-allowed (game-level) ───────────────────────────────────
+    # Applies the pts-allowed tier bonus to team_events (matchup chart) AND
+    # all_def_pts (leaderboard) — both need it or DEF leaderboard totals will
+    # be missing the largest component of DEF scoring.
     _add_defense_pts_allowed(
         team_events, rosters, schedule,
         season, week, scoring_rules,
         last_wc_per_game=last_wc_per_game,
+        all_def_pts=all_def_pts,
+        all_def_stats=all_def_stats,
     )
 
     # ── Debug: verify team_events sum for _DEBUG_TID ──────────────────────────
@@ -975,6 +986,7 @@ def build_week_timeline(season: int, week: int, scoring_rules: dict,
             fa_pts_by_yahoo=dict(_agg_fa),
             all_yahoo_players=_all_yahoo_players,
             yahoo_to_photo=_yahoo_to_photo,
+            yahoo_to_pos=_yahoo_to_pos,
         )
         import json as _json
         scores_path.write_text(_json.dumps(existing_scores, ensure_ascii=False), encoding="utf-8")
@@ -1005,6 +1017,21 @@ _POSITIONS = ("QB", "RB", "WR", "TE", "K", "DEF")
 _TOP_N      = 10   # keep top-N per position (wider than 5 so top-5 can change)
 _PHOTO_URL  = "https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/{player_id}.1.png"
 
+# ESPN team logo CDN — reliable for all 32 NFL teams, no auth required.
+# Maps Yahoo/nflverse team abbreviations → ESPN's lowercase abbreviation
+# (most are identical; only WAS→wsh differs).
+_ESPN_LOGO  = "https://a.espncdn.com/i/teamlogos/nfl/500/{espn}.png"
+_TEAM_TO_ESPN: dict[str, str] = {
+    "ARI": "ari", "ATL": "atl", "BAL": "bal", "BUF": "buf",
+    "CAR": "car", "CHI": "chi", "CIN": "cin", "CLE": "cle",
+    "DAL": "dal", "DEN": "den", "DET": "det", "GB":  "gb",
+    "HOU": "hou", "IND": "ind", "JAX": "jax", "KC":  "kc",
+    "LAC": "lac", "LAR": "lar", "LV":  "lv",  "MIA": "mia",
+    "MIN": "min", "NE":  "ne",  "NO":  "no",  "NYG": "nyg",
+    "NYJ": "nyj", "PHI": "phi", "PIT": "pit", "SEA": "sea",
+    "SF":  "sf",  "TB":  "tb",  "TEN": "ten", "WAS": "wsh",
+}
+
 
 def collect_player_week_scores(
     week: int,
@@ -1015,6 +1042,7 @@ def collect_player_week_scores(
     fa_pts_by_yahoo: dict | None = None,
     all_yahoo_players: dict | None = None,
     yahoo_to_photo: dict | None = None,
+    yahoo_to_pos: dict | None = None,
 ) -> dict:
     """
     Derive per-player fantasy scores for `week` from the live player_pts dict.
@@ -1034,12 +1062,25 @@ def collect_player_week_scores(
     nfl_def_map:   dict = {}   # nfl_team_abbr → {player_id}
     name_map:      dict = {}   # lowercase_name → {position, player_id, nfl_team}
 
+    # Yahoo returns slot indicators (Q/W/R/T for OP flex, BN for bench, IR for
+    # injured reserve) instead of the player's real position.  Normalize them
+    # using the player_id_map crosswalk (yahoo_to_pos) so those players aren't
+    # silently dropped from the leaderboard.
+    _SLOT_INDICATORS = {"Q/W/R/T", "BN", "IR", "NA", "W/R/T", "W/R", "Q/W"}
+
     for roster in rosters.values():
         for p in list(roster.get("starters", [])) + list(roster.get("bench", [])):
             pname     = p.get("name", "").strip()
             pos       = p.get("position", "").upper()
             pid       = str(p.get("player_id", "") or "")
             nfl       = p.get("nfl_team", "").upper()
+            # Normalize Yahoo slot indicators to the player's real position.
+            # Q/W/R/T = OP flex slot, BN = bench, IR = injured reserve — none
+            # of these tell us the player's actual position.  Use the
+            # player_id_map crosswalk when available.
+            if pos in _SLOT_INDICATORS or pos not in _POSITIONS:
+                if pid and yahoo_to_pos and pid in yahoo_to_pos:
+                    pos = yahoo_to_pos[pid]
             # Prefer roster-stored image_url (from Yahoo API on re-fetch),
             # fall back to NFL.com headshot from player_id_map.json
             image_url = (p.get("image_url", "")
@@ -1053,17 +1094,43 @@ def collect_player_week_scores(
             elif pname:
                 name_map[pname.lower()] = info
 
-    # ── Aggregate player_pts: sum across all games, keep first tid seen ──────
-    player_data: dict = {}   # player_name → {"pts": float, "tid": str}
+    # ── Build per-team nflverse-abbrev → yahoo_id lookup ─────────────────────
+    # nflverse abbreviates names as "J.Love", "B.Purdy", etc. (first initial +
+    # "." + last name).  When two players on DIFFERENT fantasy teams share the
+    # same abbreviation (e.g. Jordan Love QB/GB and Jeremiyah Love RB/ARI both
+    # become "J.Love"), a flat player_data dict keyed only by pname would merge
+    # their points.  We instead key by (tid, pname) and use this per-team lookup
+    # to resolve each (tid, pname) to the correct Yahoo player ID.
+    def _nflverse_abbrev(full_name: str) -> str:
+        """'Jordan Love' → 'J.Love', 'Jaxon Smith-Njigba' → 'J.Smith-Njigba'."""
+        parts = full_name.strip().split(None, 1)
+        if len(parts) < 2:
+            return full_name
+        return parts[0][0].upper() + "." + parts[1]
+
+    tid_abbrev_to_yahoo: dict = {}   # tid → {"J.Love": yahoo_id, ...}
+    for _tid, _roster in rosters.items():
+        _lookup: dict = {}
+        for _p in list(_roster.get("starters", [])) + list(_roster.get("bench", [])):
+            _pname_full = _p.get("name", "").strip()
+            _pid = str(_p.get("player_id", "") or "")
+            if _pname_full and _pid:
+                _lookup[_nflverse_abbrev(_pname_full)] = _pid
+        tid_abbrev_to_yahoo[_tid] = _lookup
+
+    # ── Aggregate player_pts: sum per (tid, player_name) to prevent cross-team
+    #    name collisions (e.g. Jordan Love QB + Jeremiyah Love RB both = "J.Love")
+    player_data: dict = {}   # (tid, player_name) → {"pts": float, "tid": str}
     for (tid, gid, pname), pts in player_pts_dict.items():
-        if pname not in player_data:
-            player_data[pname] = {"pts": 0.0, "tid": tid}
-        player_data[pname]["pts"] = round(player_data[pname]["pts"] + pts, 4)
+        key = (tid, pname)
+        if key not in player_data:
+            player_data[key] = {"pts": 0.0, "tid": tid}
+        player_data[key]["pts"] = round(player_data[key]["pts"] + pts, 4)
 
 
     by_pos: dict = {p: [] for p in _POSITIONS}
 
-    for pname, data in player_data.items():
+    for (tid, pname), data in player_data.items():
         pts = data["pts"]
         if pts <= 0:
             continue
@@ -1082,11 +1149,17 @@ def collect_player_week_scores(
                 })
             continue
 
-        # ── Path 1: Yahoo ID lookup (most reliable) ───────────────────────
-        yahoo_id = player_yahoo_cache.get(pname)
+        # ── Path 1: Per-team roster lookup (handles same-abbrev collisions) ──
+        # e.g. "J.Love" on team_11 → Jordan Love (QB); on team_08 → Jerimiyah Love (RB)
+        yahoo_id = tid_abbrev_to_yahoo.get(tid, {}).get(pname)
         info = yahoo_to_info.get(yahoo_id) if yahoo_id else None
 
-        # ── Path 2: Exact name match ──────────────────────────────────────
+        # ── Path 2: Global Yahoo-ID cache (set by GSIS resolution in _resolve_tid)
+        if info is None:
+            yahoo_id = player_yahoo_cache.get(pname)
+            info = yahoo_to_info.get(yahoo_id) if yahoo_id else None
+
+        # ── Path 3: Exact full-name match ─────────────────────────────────
         if info is None:
             info = name_map.get(pname.lower())
 
@@ -1122,7 +1195,9 @@ def collect_player_week_scores(
                 "name":      _info.get("name", _yid),
                 "player_id": str(_yid),
                 "nfl_team":  _info.get("nfl_team", ""),
-                "image_url": _info.get("image_url", ""),
+                # all_yahoo_players has no image_url; fall back to player_id_map
+                "image_url": (_info.get("image_url", "")
+                              or (yahoo_to_photo or {}).get(str(_yid), "")),
                 "pts":       round(_pts, 2),
             })
 
@@ -1171,6 +1246,18 @@ def build_player_leaderboard(season: int, week: int) -> dict:
 
     raw = _load(scores_path)   # {week_str: {pos: [{name, player_id, nfl_team, pts}]}}
 
+    # Build a yahoo_id → photo_url lookup from player_id_map.json so we can
+    # fill in missing image_url values even when player_scores.json was written
+    # before photo lookups were added (stale data guard).
+    _id_map_path = Path(__file__).parent.parent / "Data" / "player_id_map.json"
+    _lb_yahoo_to_photo: dict[str, str] = {}
+    if _id_map_path.exists():
+        for v in _load(_id_map_path).values():
+            yid = v.get("yahoo_id")
+            hs  = v.get("photo_url", "")
+            if yid and hs:
+                _lb_yahoo_to_photo[str(yid)] = hs
+
     # Aggregate per player across all weeks up to `week`
     # by_pos_player[pos][name] = {player_id, nfl_team, weeks: {}, total}
     by_pos_player: dict = {}
@@ -1205,9 +1292,23 @@ def build_player_leaderboard(season: int, week: int) -> dict:
         players = sorted(by_pos_player[pos].values(), key=lambda x: -x["total"])
         top = players[:_TOP_N]
         for p in top:
-            # Use stored Yahoo image_url; fall back to template only if absent
-            if not p.get("image_url") and p["player_id"]:
-                p["image_url"] = _PHOTO_URL.format(player_id=p["player_id"])
+            # Photo resolution priority:
+            #  1. image_url stored in player_scores.json (set by collect_player_week_scores)
+            #  2. player_id_map.json lookup by Yahoo ID (NFL.com headshot — stale-data guard)
+            #  3. ESPN team logo for DEF units (no individual headshot exists)
+            #  4. Yahoo CDN template for individual players (last resort; may 404)
+            #  5. Initials fallback handled client-side via onerror
+            if not p.get("image_url"):
+                pid = p.get("player_id", "")
+                if pos == "DEF":
+                    team = (p.get("nfl_team") or
+                            p.get("name", "").replace(" DEF", "").strip()).upper()
+                    espn = _TEAM_TO_ESPN.get(team, team.lower())
+                    p["image_url"] = _ESPN_LOGO.format(espn=espn)
+                elif _lb_yahoo_to_photo.get(str(pid)):
+                    p["image_url"] = _lb_yahoo_to_photo[str(pid)]
+                elif pid:
+                    p["image_url"] = _PHOTO_URL.format(player_id=pid)
             p["photo_url"] = p.get("image_url", "")
         result[pos] = top
 
@@ -1361,10 +1462,17 @@ def _add_defense_pts_allowed(
     week: int,
     scoring_rules: dict,
     last_wc_per_game: Optional[dict] = None,
+    all_def_pts: Optional[dict] = None,
+    all_def_stats: Optional[dict] = None,
 ) -> None:
     """
-    For each team with a DEF starter, add the pts-allowed bonus at the game's
-    last play wallclock.
+    Add the pts-allowed tier bonus for every DEF unit that played this week.
+
+    team_events  – updated only for fantasy-started DEFs (drives matchup chart).
+    all_def_pts  – updated for ALL 32 DEFs regardless of roster status (drives
+                   the player leaderboard).  Pass the same all_def_pts dict
+                   used during play-by-play accumulation so the bonus merges
+                   with already-accumulated sack/INT/TD stats.
 
     last_wc_per_game  – {game_id: datetime} built from event timestamps.
                         When present (nflverse path) no PBP files are read.
@@ -1375,7 +1483,7 @@ def _add_defense_pts_allowed(
     points-allowed for the fantasy DEF (the DEF wasn't on the field).  We load
     the raw PBP to detect and subtract these plays.
     """
-    # Build: nfl_team_abbr → fantasy team_id
+    # Build: nfl_team_abbr → fantasy team_id  (started DEFs only)
     nfl_to_fantasy: dict = {}
     for tid, roster in rosters.items():
         for player in roster.get("starters", []):
@@ -1384,7 +1492,8 @@ def _add_defense_pts_allowed(
                 if nfl:
                     nfl_to_fantasy[nfl] = tid
 
-    if not nfl_to_fantasy:
+    # We still need to run for all_def_pts even when no fantasy DEFs are started
+    if not nfl_to_fantasy and not all_def_pts:
         return
 
     pbp_dir = data_root(season) / "pbp" / f"week_{week:02d}"
@@ -1403,8 +1512,10 @@ def _add_defense_pts_allowed(
         away_score = game_meta.get("away_score")
         gid        = game_meta["game_id"]
 
-        for nfl_abbr, ftid in nfl_to_fantasy.items():
-            if nfl_abbr not in (home, away):
+        # Process both teams in the game so all_def_pts gets the bonus for
+        # every DEF unit (started, benched, or free-agent).
+        for nfl_abbr in (home, away):
+            if not nfl_abbr:
                 continue
 
             opponent_pts = away_score if nfl_abbr == home else home_score
@@ -1450,7 +1561,24 @@ def _add_defense_pts_allowed(
 
             adj_opp_pts = max(0, int(opponent_pts) - excluded)
             bonus = pts_allowed_bonus(adj_opp_pts, scoring_rules)
-            team_events[ftid].append((last_wc_dt, bonus))
+
+            # Update team_events for fantasy-started DEFs (matchup chart)
+            ftid = nfl_to_fantasy.get(nfl_abbr)
+            if ftid is not None:
+                team_events[ftid].append((last_wc_dt, bonus))
+
+            # Update all_def_pts for ALL DEFs regardless of roster status
+            # (leaderboard tracks every team's DEF performance)
+            if all_def_pts is not None:
+                _adk = (gid, f"DEF {nfl_abbr}")
+                # Add pts_allowed bonus to the already-accumulated stat-based score
+                base = all_def_pts.get(_adk, 0.0)
+                all_def_pts[_adk] = round(base + bonus, 4)
+                # For DEFs with no play-by-play events yet (e.g. shut-out week
+                # where the only scoring is the pts-allowed tier), seed the entry
+                if _adk not in (all_def_stats or {}):
+                    all_def_pts.setdefault(_adk, bonus)
+
             log.debug("  DEF %s: opp=%d adj=%d pts → %+.1f bonus (10 base + tier)",
                       nfl_abbr, int(opponent_pts), adj_opp_pts, bonus)
 
