@@ -31,9 +31,11 @@ LEAGUE_RULES: dict = {
     "int_thrown":        -2.0,
     # 40+ yard passing TD: +1 bonus (separate event emitted by espn.py)
     "pass_td_40plus":     1.0,
-    # NOTE: rec_td_40plus and rush_td_40plus are intentionally 0.0 in league 656728.
-    # This was confirmed because JSN's total matched Yahoo exactly ONLY after removing
-    # the 2.0 bonus for his two 40+ yard receiving TDs (45-yd wk1, 82-yd wk2).
+    # NOTE: Both rush_td_40plus and rec_td_40plus are 2.0.
+    # rec_td_40plus uses AIR YARDS (not total receiving yards) as the 40-yd threshold so that
+    # YAC-heavy catches (e.g. JSN's 45-yd TD on a 4-yd pass) are correctly excluded.
+    # rush_td_40plus confirmed: Walker Wk1 60yd TD, Bijan Wk4 59yd TD.
+    # rec_td_40plus confirmed: league rule, air_yards threshold preserves JSN's exact Yahoo total.
     # Per-game yardage milestones (awarded once each if threshold crossed)
     "pass_yards_300":     1.0,
     "pass_yards_400":     1.0,
@@ -42,7 +44,7 @@ LEAGUE_RULES: dict = {
     # ── Rushing ──────────────────────────────────────────────────────────────
     "rush_yards":         0.1,    # 1 pt / 10 yds
     "rush_td":            6.0,
-    "rush_td_40plus":     0.0,    # NOT in this league (league 656728)
+    "rush_td_40plus":     2.0,    # +2 bonus for 40+ yard rushing TD (confirmed: Walker Wk1 60yd, Bijan Wk4 59yd)
     "rush_yards_100":     1.0,
     "rush_yards_150":     1.0,
     "rush_yards_200":     1.0,
@@ -51,7 +53,7 @@ LEAGUE_RULES: dict = {
     "receptions":         0.5,
     "rec_yards":          0.1,    # 1 pt / 10 yds
     "rec_td":             6.0,
-    "rec_td_40plus":      0.0,    # NOT in this league (league 656728)
+    "rec_td_40plus":      2.0,    # +2 bonus for 40+ yard receiving TD (air yards ≥ 40)
     "rec_yards_100":      1.0,
     "rec_yards_150":      1.0,
     "rec_yards_200":      1.0,

@@ -1101,12 +1101,24 @@ def collect_player_week_scores(
     # become "J.Love"), a flat player_data dict keyed only by pname would merge
     # their points.  We instead key by (tid, pname) and use this per-team lookup
     # to resolve each (tid, pname) to the correct Yahoo player ID.
+    # Common name suffixes that nflverse strips from abbreviated names.
+    # "Kenneth Walker III" → nflverse uses "K.Walker", not "K.Walker III"
+    _NAME_SUFFIXES = {"jr", "jr.", "sr", "sr.", "ii", "iii", "iv", "v"}
+
     def _nflverse_abbrev(full_name: str) -> str:
-        """'Jordan Love' → 'J.Love', 'Jaxon Smith-Njigba' → 'J.Smith-Njigba'."""
-        parts = full_name.strip().split(None, 1)
+        """Convert full roster name to nflverse abbreviated form.
+
+        'Jordan Love'       → 'J.Love'
+        'Kenneth Walker III'→ 'K.Walker'   (suffix stripped)
+        'J.K. Dobbins'      → 'J.K.Dobbins'
+        """
+        parts = full_name.strip().split()
+        # Drop trailing generational suffixes (III, Jr., Sr., II, IV…)
+        while parts and parts[-1].lower().rstrip(".") in _NAME_SUFFIXES:
+            parts.pop()
         if len(parts) < 2:
             return full_name
-        return parts[0][0].upper() + "." + parts[1]
+        return parts[0][0].upper() + "." + " ".join(parts[1:])
 
     tid_abbrev_to_yahoo: dict = {}   # tid → {"J.Love": yahoo_id, ...}
     for _tid, _roster in rosters.items():
@@ -1258,8 +1270,11 @@ def build_player_leaderboard(season: int, week: int) -> dict:
             if yid and hs:
                 _lb_yahoo_to_photo[str(yid)] = hs
 
-    # Aggregate per player across all weeks up to `week`
-    # by_pos_player[pos][name] = {player_id, nfl_team, weeks: {}, total}
+    # Aggregate per player across all weeks up to `week`.
+    # Key by player_id when available so that roster name variants
+    # (e.g. "Kenneth Walker" in week 1 vs "Kenneth Walker III" in weeks 2-4)
+    # are merged into the same record rather than treated as separate players.
+    # by_pos_player[pos][key] = {player_id, nfl_team, weeks: {}, total}
     by_pos_player: dict = {}
     for pos in _POSITIONS:
         by_pos_player[pos] = {}
@@ -1272,9 +1287,12 @@ def build_player_leaderboard(season: int, week: int) -> dict:
                 continue
             for p in players:
                 pname = p["name"]
-                rec = by_pos_player[pos].setdefault(pname, {
+                pid   = p.get("player_id", "") or ""
+                # Prefer player_id as the dedup key; fall back to name
+                key = pid if pid else pname
+                rec = by_pos_player[pos].setdefault(key, {
                     "name":      pname,
-                    "player_id": p.get("player_id", ""),
+                    "player_id": pid,
                     "nfl_team":  p.get("nfl_team",  ""),
                     "image_url": p.get("image_url",  ""),
                     "weeks":     {},
@@ -1283,6 +1301,10 @@ def build_player_leaderboard(season: int, week: int) -> dict:
                 pts = p.get("pts", 0.0)
                 rec["weeks"][wk_str] = pts
                 rec["total"] = round(rec["total"] + pts, 2)
+                # Always prefer the most recent non-empty name (handles the
+                # "Kenneth Walker" → "Kenneth Walker III" suffix variant)
+                if pname:
+                    rec["name"] = pname
                 # Keep the most recent non-empty image_url seen for this player
                 if p.get("image_url"):
                     rec["image_url"] = p["image_url"]

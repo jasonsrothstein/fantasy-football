@@ -362,6 +362,8 @@ def extract_fantasy_events(row: dict) -> list[dict]:
             # Use passer's passing_yards first: it includes lateral yards
             # (e.g. Purdy→Evans 2 yds, lateral to Samuel 80 yds → passing_yards=82).
             # rec_yds only covers the initial receiver's yards to the catch point.
+            # Both passer (pass_td_40plus) and receiver (rec_td_40plus) use this
+            # same total-yards threshold — confirmed by JSN's 45-yd and 82-yd TDs.
             dist_total = float(abs(pass_yds or rec_yds or 0))
             _td_extra = _td_meta
             evs.append(_ev(passer, "pass_td", 1, player_id=_pid_passer, extra=_td_extra))
