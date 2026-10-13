@@ -195,6 +195,24 @@ def fetch_schedule_and_pbp(season: int, weeks: list, skip: bool) -> dict:
     return schedule
 
 
+def draft_path(season: int) -> Path:
+    return data_root(season) / "draft.json"
+
+
+def fetch_draft(oauth, game_key: str, league_id: str, season: int, skip: bool) -> list:
+    """Fetch and cache the league's full draft order."""
+    p = draft_path(season)
+    if skip and p.exists():
+        log.info("Draft results: cached (%s) — %d picks", p, len(_load(p)))
+        return _load(p)
+
+    log.info("Fetching draft results …")
+    picks = yahoo.get_draft_results(oauth, game_key, league_id)
+    _save(p, picks)
+    log.info("Saved %d draft picks → %s", len(picks), p)
+    return picks
+
+
 def all_players_path(season: int) -> Path:
     return data_root(season) / "yahoo_all_players.json"
 
@@ -245,6 +263,9 @@ def main() -> None:
     ap.add_argument("--fetch-players", action="store_true",
                     help="Fetch all Yahoo players (rostered + free agents) and "
                          "save to Data/{season}/yahoo_all_players.json")
+    ap.add_argument("--fetch-draft", action="store_true",
+                    help="Fetch league draft results and save to "
+                         "Data/{season}/draft.json")
     ap.add_argument("--no-yahoo", action="store_true",
                     help="Skip Yahoo fetching (only fetch ESPN data)")
     ap.add_argument("--no-espn",  action="store_true",
@@ -292,6 +313,9 @@ def main() -> None:
 
         if args.fetch_players:
             fetch_all_players(oauth, game_key, args.league, args.season, skip)
+
+        if args.fetch_draft:
+            fetch_draft(oauth, game_key, args.league, args.season, skip)
 
         log.info("Yahoo fetch complete.")
 

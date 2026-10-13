@@ -893,6 +893,8 @@ _HTML = """\
       height: 560px;
     }}
     #history-chart {{ width: 100%; height: 100%; }}
+    /* Suppress Plotly's built-in hover label — replaced by a custom tooltip */
+    #history-chart .hovertext {{ display: none !important; }}
     #history-logos {{ position: absolute; inset: 0; pointer-events: none; }}
     #history-logos img {{
       position: absolute;
@@ -1006,6 +1008,145 @@ _HTML = """\
       body        {{ padding: 1rem 0.75rem 2rem; }}
       .play-btn   {{ width: 56px; height: 56px; font-size: 1.3rem; }}
     }}
+    /* ── Draft Analysis ──────────────────────────────────────────────────── */
+    .draft-analysis-wrap {{
+      max-width: 1100px;
+      margin: 0 auto 2.5rem;
+    }}
+    .da-section-head {{
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 0.85rem;
+      flex-wrap: wrap;
+    }}
+    .da-section-head h2 {{
+      font-size: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      color: var(--text);
+      margin: 0;
+    }}
+    .da-subtitle {{
+      font-size: 0.82rem;
+      color: var(--muted);
+      font-weight: 400;
+      margin-left: 0.25rem;
+    }}
+    .da-toggle {{
+      display: flex;
+      gap: 0;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+      margin-left: auto;
+    }}
+    .da-tbtn {{
+      background: transparent;
+      color: var(--muted);
+      border: none;
+      padding: 0.28rem 0.75rem;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }}
+    .da-tbtn:first-child {{ border-right: 1px solid var(--border); }}
+    .da-tbtn.active {{
+      background: var(--accent);
+      color: #0f1419;
+      font-weight: 600;
+    }}
+    .da-card {{
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.5rem 1.25rem;
+      margin-bottom: 1rem;
+    }}
+    .da-card-title {{
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 0.75rem;
+    }}
+    .da-pos-tabs {{
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.85rem;
+    }}
+    .da-pos-tab {{
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--muted);
+      padding: 0.2rem 0.6rem;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: background 0.12s, color 0.12s;
+    }}
+    .da-pos-tab.active, .da-pos-tab:hover {{
+      background: var(--border);
+      color: var(--text);
+    }}
+    .da-table {{
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }}
+    .da-table th {{
+      text-align: left;
+      color: var(--muted);
+      font-weight: 500;
+      padding: 0.35rem 0.6rem;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }}
+    .da-table th.num, .da-table td.num {{ text-align: right; }}
+    .da-table td {{
+      padding: 0.35rem 0.6rem;
+      color: var(--text);
+      border-bottom: 1px solid rgba(45,58,79,0.5);
+    }}
+    .da-table tbody tr:last-child td {{ border-bottom: none; }}
+    .da-table tbody tr:hover td {{ background: rgba(255,255,255,0.03); }}
+    .fpoe-pos {{ color: var(--green); font-weight: 600; }}
+    .fpoe-neg {{ color: #f85149; font-weight: 600; }}
+    .da-grade-row {{
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.45rem 0;
+      border-bottom: 1px solid rgba(45,58,79,0.5);
+    }}
+    .da-grade-row:last-child {{ border-bottom: none; }}
+    .da-grade-rank {{
+      font-size: 0.8rem;
+      color: var(--muted);
+      width: 1.5rem;
+      flex-shrink: 0;
+      text-align: center;
+    }}
+    .da-grade-name {{
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: var(--text);
+      flex: 1;
+    }}
+    .da-grade-total {{
+      font-size: 0.9rem;
+      font-weight: 600;
+      min-width: 4.5rem;
+      text-align: right;
+    }}
+    .da-grade-picks {{
+      font-size: 0.75rem;
+      color: var(--muted);
+      flex: 2;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }}
     /* Proximity-based TD marker tooltip (fixed, pointer-events: none) */
     #td-tip {{
       position: fixed;
@@ -1037,6 +1178,32 @@ _HTML = """\
   <div class="standings-wrap" id="standings-wrap"></div>
   <div class="history-wrap" id="history-wrap"></div>
   <div class="leaderboard-wrap" id="leaderboard-wrap"></div>
+  <!-- Draft Analysis (hidden until data is loaded) -->
+  <div id="draft-analysis-wrap" style="display:none;max-width:1100px;margin:0 auto 2.5rem;">
+    <div class="da-section-head">
+      <h2>Draft Analysis<span class="da-subtitle" id="da-subtitle"></span></h2>
+      <div class="da-toggle">
+        <button class="da-tbtn active" id="da-off-btn">Injuries Off</button>
+        <button class="da-tbtn" id="da-on-btn">Injuries On</button>
+      </div>
+    </div>
+    <!-- Scatter: FPOR vs Pick# -->
+    <div class="da-card">
+      <div class="da-card-title">Fantasy Points over Replacement (FPOR) by Draft Pick</div>
+      <div id="da-scatter" style="height:420px;"></div>
+    </div>
+    <!-- Position Rankings -->
+    <div class="da-card">
+      <div class="da-card-title">Best Value Draft Picks</div>
+      <div class="da-pos-tabs" id="da-pos-tabs"></div>
+      <div id="da-rankings"></div>
+    </div>
+    <!-- Team Draft Grades -->
+    <div class="da-card">
+      <div class="da-card-title">Team Draft Grades (Sum of FPOE)</div>
+      <div id="da-team-grades"></div>
+    </div>
+  </div>
   <div style="max-width:1100px;margin:0 auto 0.85rem;"><h2 style="font-size:1.1rem;font-weight:700;letter-spacing:-0.01em;color:var(--text);">Matchups</h2></div>
   <div class="grid" id="grid"></div>
 
@@ -1358,19 +1525,31 @@ _HTML = """\
       }}
 
       // Compute a tight y-range from a flat array of values, with 8% padding.
-      function computeYRange(flatVals) {{
+      // floorZero=true: pin the lower y bound to 0 (used in Full Scope mode,
+      // where cumulative metrics are never negative).
+      function computeYRange(flatVals, floorZero) {{
         const valid = flatVals.filter(v => v != null && isFinite(v));
         if (!valid.length) return null;
         const mn = Math.min(...valid), mx = Math.max(...valid);
         const pad = (mx - mn) * 0.08 || 1;
         const m = METRICS[currentMetric];
-        return m.invert ? [mx + pad, mn - pad] : [mn - pad, mx + pad];
+        const lo = (floorZero && !m.invert) ? 0 : mn - pad;
+        return m.invert ? [mx + pad, lo] : [lo, mx + pad];
       }}
+
+      // Right margin: just enough to show the 24px logos without clipping.
+      // The hover tooltip uses a custom fixed-position div (see below) so it
+      // floats freely outside the chart container and needs no reserved margin.
+      const _rightMargin = 36;
 
       // yRange / xRange: explicit [lo, hi] when zoomed, or null for full-scale.
       function buildLayout(xMin, yRange, xRange) {{
         const m = METRICS[currentMetric];
-        const xLo  = xRange ? xRange[0] : xMin;
+        // Full Scope: cumulative metrics have a virtual origin at x=0, so pin the
+        // left edge there.  Non-cumulative (standings) has no origin — pin to
+        // weeks[0] exactly so Week 1 aligns flush with the y-axis.
+        // Zoomed: always use the supplied xRange bounds.
+        const xLo  = xRange ? xRange[0] : (m.cumulative ? 0 : weeks[0]);
         const xHi  = xRange ? xRange[1] : maxWeek + 0.7;
         const tickVals = weeks.filter(w => w >= Math.ceil(xLo) && w <= Math.ceil(xHi));
         const yAxisExtra = yRange
@@ -1379,7 +1558,7 @@ _HTML = """\
                ...(currentMetric==='record' ? {{ dtick:1 }} : {{}}) }};
         return {{
           paper_bgcolor:'rgba(0,0,0,0)', plot_bgcolor:'rgba(0,0,0,0)',
-          margin:{{ t:10, b:48, l:56, r:16 }},
+          margin:{{ t:10, b:48, l:56, r:_rightMargin }},
           font:{{ color:'#8b949e', family:'Segoe UI,system-ui,sans-serif', size:11 }},
           showlegend: false,
           xaxis:{{ tickmode:'array', tickvals:tickVals, ticktext:tickVals.map(w=>'Week '+w),
@@ -1389,6 +1568,10 @@ _HTML = """\
                    title:{{ text:m.yTitle, font:{{ size:11 }} }},
                    ...yAxisExtra }},
           hovermode:'closest',
+          // Make Plotly's built-in hover label invisible; our custom tooltip
+          // (positioned fixed outside the chart) replaces it.
+          hoverlabel:{{ bgcolor:'rgba(0,0,0,0)', bordercolor:'rgba(0,0,0,0)',
+                        font:{{ color:'rgba(0,0,0,0)' }} }},
         }};
       }}
 
@@ -1503,9 +1686,10 @@ _HTML = """\
           }});
           return makeTrace(name, xs, ys, wels);
         }}).filter(t=>t.x.length>0);
-        // For zoom, use only each team's latest (most recent) value
+        // Compute axis ranges based on zoom state.
         let yRange = null, xRange = null;
         if (zoomed) {{
+          // Zoom to Fit: y range based on each team's latest value only.
           const zoomY = [];
           teamNames.forEach(name => {{
             const latestWk = [...weeks].reverse().find(w => w <= upToWeek && getVal(name, w) != null);
@@ -1513,6 +1697,17 @@ _HTML = """\
           }});
           yRange = computeYRange(zoomY);
           xRange = centeredXRange(xMin, upToWeek);
+        }} else {{
+          // Full Scope: pin y floor to 0 across all visible data (same policy as
+          // during animation so the axis doesn't jump when the animation ends).
+          const allY = m.cumulative ? [0] : [];
+          teamNames.forEach(name => {{
+            weeks.filter(w => w <= upToWeek).forEach(w => {{
+              const v = getVal(name, w);
+              if (v != null) allY.push(v);
+            }});
+          }});
+          yRange = computeYRange(allY, /*floorZero=*/true);
         }}
         Plotly.react(chartDiv, traces, buildLayout(xMin, yRange, xRange), {{responsive:true,displayModeBar:false}})
           .then(() => {{
@@ -1535,6 +1730,72 @@ _HTML = """\
                   g.setAttribute('transform', g._ourTransform);
                 }});
               }}).observe(chartDiv, {{ subtree: true, attributeFilter: ['transform'] }});
+
+              // ── Custom floating tooltip (position:fixed, outside chart container) ──
+              // Plotly's built-in label is invisible (set in buildLayout).
+              // This tooltip renders freely without being clipped by overflow:hidden.
+              const _tt = document.createElement('div');
+              _tt.style.cssText = [
+                'position:fixed', 'display:none', 'z-index:9999',
+                'background:transparent',
+                'border:1.5px solid transparent',
+                'border-radius:7px', 'padding:6px 12px',
+                'font:11px/1.6 \\'Segoe UI\\',system-ui,sans-serif',
+                'color:#e6edf3', 'pointer-events:none', 'white-space:nowrap',
+                'backdrop-filter:blur(4px)',
+              ].join(';');
+              document.body.appendChild(_tt);
+
+              function _esc(s) {{
+                return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+              }}
+
+              // Bold the hovered trace + dim the rest.  Direct SVG style manipulation
+              // avoids a Plotly re-render (which would reset hover state and thrash).
+              function _applyHoverStyle(hoveredIdx) {{
+                chartDiv.querySelectorAll('.scatterlayer .trace').forEach(function(g, i) {{
+                  const isHov = (i === hoveredIdx);
+                  g.style.opacity = isHov ? '1' : '0.3';
+                  var line = g.querySelector('.js-line');
+                  if (line) line.style.strokeWidth = isHov ? '3.5px' : '';
+                }});
+              }}
+              function _clearHoverStyle() {{
+                chartDiv.querySelectorAll('.scatterlayer .trace').forEach(function(g) {{
+                  g.style.opacity = '';
+                  var line = g.querySelector('.js-line');
+                  if (line) line.style.strokeWidth = '';
+                }});
+              }}
+
+              chartDiv.on('plotly_hover', function(data) {{
+                if (animRunning) {{ _tt.style.display='none'; return; }}
+                const pt    = data.points[0];
+                const name  = pt.data.name;
+                const cd    = pt.customdata;
+                const color = teamColor[name] || '#58a6ff';
+                // Tint tooltip with team color: colored border + lightly tinted bg.
+                _tt.style.borderColor  = color;
+                _tt.style.background   = color + '2a';  // ~16 % opacity fill
+                _tt.style.boxShadow    = '0 2px 10px ' + color + '55';
+                _tt.innerHTML = '<b style="color:' + color + '">' + _esc(name) +
+                                '</b><br><span style="color:#c9d1d9">' + _esc(cd) + '</span>';
+                _tt.style.display = 'block';
+                // Position to the right of the cursor; flip left if near viewport edge.
+                const ev = data.event;
+                const vw = window.innerWidth;
+                const ttW = _tt.offsetWidth;
+                const x = (ev.clientX + 14 + ttW <= vw)
+                           ? ev.clientX + 14
+                           : ev.clientX - 14 - ttW;
+                _tt.style.left = x + 'px';
+                _tt.style.top  = (ev.clientY - _tt.offsetHeight / 2) + 'px';
+                _applyHoverStyle(pt.curveNumber);
+              }});
+              chartDiv.on('plotly_unhover', function() {{
+                _tt.style.display = 'none';
+                if (!animRunning) _clearHoverStyle();
+              }});
             }}
           }});
       }}
@@ -1581,7 +1842,7 @@ _HTML = """\
         const allFinalY = seq.flatMap(el =>
           teamNames.map(name => el===null ? 0 : (getVal(name,el)??0))
         );
-        const fullYRange = computeYRange(allFinalY);
+        const fullYRange = computeYRange(allFinalY, /*floorZero=*/true);
 
         const initYRange = zoomed ? computeYRange(initTraces.flatMap(tr => tr.y))
                                   : fullYRange;
@@ -2702,6 +2963,366 @@ _HTML = """\
       renderChart(m, i);
     }});
 
+    // ── Draft Analysis ─────────────────────────────────────────────────────
+    (function() {{
+      const da = DATA.draft_analysis;
+      if (!da || !da.picks || da.picks.length === 0) return;
+
+      const wrap = document.getElementById('draft-analysis-wrap');
+      wrap.style.display = 'block';
+
+      document.getElementById('da-subtitle').textContent =
+        ' — through Week ' + da.through_week;
+
+      const POS_COLORS = {{
+        QB: '#58a6ff', RB: '#3fb950', WR: '#d2a8ff',
+        TE: '#ffa657', K:  '#ff7b72', DEF:'#8b949e',
+      }};
+      const POSITIONS = ['QB','RB','WR','TE','K','DEF'];
+      let currentMode = 'injuries_off';
+      let currentPos  = 'ALL';
+
+      // Fantasy team logos: team_id → base64 data-URI (pre-embedded in draft_analysis)
+      const teamLogoMap = da.team_logos || {{}};
+
+      // ── Injuries toggle ─────────────────────────────────────────────────
+      const offBtn = document.getElementById('da-off-btn');
+      const onBtn  = document.getElementById('da-on-btn');
+      offBtn.addEventListener('click', function() {{
+        if (currentMode === 'injuries_off') return;
+        currentMode = 'injuries_off';
+        offBtn.classList.add('active');
+        onBtn.classList.remove('active');
+        renderAll();
+      }});
+      onBtn.addEventListener('click', function() {{
+        if (currentMode === 'injuries_on') return;
+        currentMode = 'injuries_on';
+        onBtn.classList.add('active');
+        offBtn.classList.remove('active');
+        renderAll();
+      }});
+
+      // ── Helpers ─────────────────────────────────────────────────────────
+      function esc(s) {{
+        const d = document.createElement('div');
+        d.textContent = s;
+        return d.innerHTML;
+      }}
+      function fmtFpoe(v) {{
+        if (v == null) return '—';
+        return (v >= 0 ? '+' : '') + v.toFixed(2);
+      }}
+      // Format points: trim trailing zeros (93.46→"93.46", 45.5→"45.5", 45→"45")
+      function fmtN(v) {{ return parseFloat(v.toFixed(2)).toString(); }}
+      // Display name: drop first name, keep last + suffix ("Kenneth Walker III"→"Walker III")
+      function shortName(full) {{
+        const parts = (full || '').trim().split(/\s+/);
+        return parts.length > 1 ? parts.slice(1).join(' ') : full;
+      }}
+
+      // ── Scatter plot ────────────────────────────────────────────────────
+      function renderScatter() {{
+        const traceMap = {{}};
+        POSITIONS.forEach(p => {{
+          traceMap[p] = {{
+            x: [], y: [], text: [], customdata: [],
+            mode: 'markers',
+            name: p,
+            marker: {{ color: POS_COLORS[p] || '#8b949e', size: 8, opacity: 0.85 }},
+            hovertemplate:
+              '<b>%{{text}}</b><br>' +
+              'Pick %{{x}} · %{{customdata[0]}}<br>' +
+              'FPOR: %{{y:.2f}}<extra></extra>',
+            showlegend: true,
+          }};
+        }});
+
+        // Outlier annotation picks (|fpoe| > 1 std dev)
+        const std = da.trendline_std && da.trendline_std[currentMode];
+        const annotations = [];
+
+        da.picks.forEach(function(pick) {{
+          const md  = pick[currentMode];
+          if (!md) return;
+          const pos = pick.position || 'UNK';
+          const tr  = traceMap[pos];
+          if (!tr) return;
+          tr.x.push(pick.pick);
+          tr.y.push(md.fpor);
+          tr.text.push(pick.player_name);
+          tr.customdata.push([pick.team_name, md.fppg, md.fpoe]);
+
+          // Label outliers
+          if (std != null && md.fpoe != null && Math.abs(md.fpoe) > std) {{
+            annotations.push({{
+              x: pick.pick,
+              y: md.fpor,
+              text: shortName(pick.player_name),  // "Walker III", "Etienne Jr.", etc.
+              showarrow: false,
+              font: {{ size: 9, color: md.fpoe > 0 ? '#3fb950' : '#f85149' }},
+              xanchor: 'left',
+              xshift: 6,
+              yanchor: 'middle',
+            }});
+          }}
+        }});
+
+        const traces = POSITIONS
+          .filter(p => traceMap[p].x.length > 0)
+          .map(p => traceMap[p]);
+
+        // Exponential trendline
+        const params = da.trendline && da.trendline[currentMode];
+        if (params) {{
+          const maxPick = Math.max(...da.picks.map(p => p.pick));
+          const txVals  = Array.from({{length: maxPick}}, (_, i) => i + 1);
+          const tyVals  = txVals.map(x => params.a * Math.exp(-params.b * x) + params.c);
+          traces.push({{
+            x: txVals, y: tyVals,
+            mode: 'lines',
+            name: 'Trend',
+            line: {{ color: '#ffa657', width: 2, dash: 'dot' }},
+            hoverinfo: 'skip',
+            showlegend: true,
+          }});
+          // ±1 std dev band
+          if (std != null) {{
+            traces.push({{
+              x: [...txVals, ...txVals.slice().reverse()],
+              y: [...tyVals.map(v => v + std), ...tyVals.map(v => v - std).reverse()],
+              fill: 'toself',
+              fillcolor: 'rgba(255,166,87,0.08)',
+              line: {{ width: 0 }},
+              hoverinfo: 'skip',
+              showlegend: false,
+              name: '±1 SD',
+            }});
+          }}
+        }}
+
+        const layout = {{
+          paper_bgcolor: 'rgba(0,0,0,0)',
+          plot_bgcolor:  'rgba(0,0,0,0)',
+          margin: {{ t: 10, b: 48, l: 54, r: 16 }},
+          font:   {{ color: '#8b949e', family: 'Segoe UI,system-ui,sans-serif', size: 11 }},
+          showlegend: true,
+          legend: {{ orientation: 'h', x: 0, y: 1.04, font: {{ size: 10 }} }},
+          xaxis: {{
+            title: {{ text: 'Draft Pick', font: {{ size: 11 }} }},
+            gridcolor: '#2d3a4f', linecolor: '#2d3a4f',
+          }},
+          yaxis: {{
+            title: {{ text: 'FPOR', font: {{ size: 11 }} }},
+            gridcolor: '#2d3a4f', linecolor: '#2d3a4f',
+            zeroline: true, zerolinecolor: '#3a4a60', zerolinewidth: 1,
+          }},
+          hovermode: 'closest',
+          annotations: annotations,
+        }};
+
+        Plotly.react(
+          document.getElementById('da-scatter'),
+          traces, layout,
+          {{ responsive: true, displayModeBar: false }}
+        );
+      }}
+
+      // ── Position rankings table ─────────────────────────────────────────
+      function buildPosTabs() {{
+        const tabDiv = document.getElementById('da-pos-tabs');
+        tabDiv.innerHTML = '';
+        // "All" tab first
+        const allBtn = document.createElement('button');
+        allBtn.className = 'da-pos-tab' + (currentPos === 'ALL' ? ' active' : '');
+        allBtn.textContent = 'All';
+        allBtn.addEventListener('click', function() {{
+          currentPos = 'ALL';
+          document.querySelectorAll('.da-pos-tab').forEach(b => b.classList.remove('active'));
+          allBtn.classList.add('active');
+          renderRankings();
+        }});
+        tabDiv.appendChild(allBtn);
+        // Per-position tabs
+        POSITIONS.forEach(function(pos) {{
+          const hasPicks = da.picks.some(p => p.position === pos);
+          if (!hasPicks) return;
+          const btn = document.createElement('button');
+          btn.className = 'da-pos-tab' + (pos === currentPos ? ' active' : '');
+          btn.textContent = pos;
+          btn.style.borderColor = POS_COLORS[pos] || '';
+          btn.addEventListener('click', function() {{
+            currentPos = pos;
+            document.querySelectorAll('.da-pos-tab').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            renderRankings();
+          }});
+          tabDiv.appendChild(btn);
+        }});
+      }}
+
+      function renderRankings() {{
+        const container = document.getElementById('da-rankings');
+        const filtered = currentPos === 'ALL'
+          ? da.picks
+          : da.picks.filter(p => p.position === currentPos);
+
+        const pospicks = filtered
+          .map(p => ({{ ...p, _fpoe: (p[currentMode] || {{}}).fpoe }}))
+          .filter(p => p._fpoe != null)
+          .sort((a, b) => b._fpoe - a._fpoe)
+          .slice(0, currentPos === 'ALL' ? 15 : 10);
+
+        if (pospicks.length === 0) {{
+          container.innerHTML = '<p style="color:var(--muted);font-size:0.85rem">No data yet.</p>';
+          return;
+        }}
+
+        const showPos = currentPos === 'ALL';
+        // table-layout:auto + nowrap on fixed cols → browser sizes each column
+        // to its content; Player and Team columns get proportional remainder.
+        // Player and Drafted By: width:1% + nowrap → browser pins them to content
+        // width, no extra space added. #/Pos/FPOE/Pick have no explicit width, so
+        // they share the remaining table width equally.
+        const nPad = 'padding:0.35rem 1.1rem;';  // wider padding for narrow cols
+        let html = '<table class="da-table" style="table-layout:auto;width:100%"><thead><tr>' +
+          '<th style="white-space:nowrap;text-align:center;width:1%;' + nPad + '">#</th>' +
+          '<th style="white-space:nowrap">Player</th>' +
+          (showPos ? '<th style="white-space:nowrap;text-align:center;width:1%;' + nPad + '">Pos</th>' : '') +
+          '<th class="num" style="white-space:nowrap;text-align:center;width:1%;' + nPad + '">FPOE</th>' +
+          '<th class="num" style="white-space:nowrap;text-align:center;width:1%;' + nPad + '">Pick</th>' +
+          '<th style="white-space:nowrap">Drafted By</th>' +
+          '</tr></thead><tbody>';
+
+        pospicks.forEach(function(p, i) {{
+          const md   = p[currentMode] || {{}};
+          const fpoe = md.fpoe;
+          const cls  = fpoe >= 0 ? 'fpoe-pos' : 'fpoe-neg';
+          const posColor = POS_COLORS[p.position] || '#8b949e';
+          const posTag = showPos
+            ? '<td style="white-space:nowrap;text-align:center;' + nPad + '"><span style="background:' + posColor + '22;color:' + posColor +
+              ';border:1px solid ' + posColor + '55;border-radius:4px;' +
+              'padding:0.1rem 0.4rem;font-size:0.72rem;font-weight:600">' +
+              esc(p.position) + '</span></td>'
+            : '';
+
+          // Player photo: real headshot or NFL-team initials badge for DEF
+          const NFL_COLORS = {{
+            ARI:'#97233F',ATL:'#A71930',BAL:'#241773',BUF:'#00338D',CAR:'#0085CA',
+            CHI:'#C83803',CIN:'#FB4F14',CLE:'#FF3C00',DAL:'#003594',DEN:'#FB4F14',
+            DET:'#0076B6',GB:'#203731',HOU:'#03202F',IND:'#002C5F',JAX:'#006778',
+            KC:'#E31837',LAC:'#0080C6',LAR:'#003594',LV:'#A5ACAF',MIA:'#008E97',
+            MIN:'#4F2683',NE:'#002244',NO:'#9F8958',NYG:'#0B2265',NYJ:'#125740',
+            PHI:'#004C54',PIT:'#FFB612',SEA:'#69BE28',SF:'#AA0000',TB:'#D50A0A',
+            TEN:'#4B92DB',WAS:'#5A1414',WSH:'#5A1414',
+          }};
+          let photo;
+          if (p.photo_url) {{
+            photo = '<img src="' + p.photo_url + '" loading="lazy"' +
+              ' style="width:28px;height:28px;border-radius:50%;object-fit:cover;' +
+              'flex-shrink:0;vertical-align:middle;margin-right:0.5rem;background:#2d3a4f">';
+          }} else {{
+            // DEF or missing — show coloured NFL-team initials circle
+            const bgCol = NFL_COLORS[p.nfl_team] || '#2d3a4f';
+            const ini   = (p.nfl_team || '??').slice(0, 3);
+            photo = '<span style="display:inline-flex;align-items:center;justify-content:center;' +
+              'width:28px;height:28px;border-radius:50%;background:' + bgCol + ';' +
+              'flex-shrink:0;vertical-align:middle;margin-right:0.5rem;' +
+              'font-size:7px;font-weight:700;color:#fff;letter-spacing:-0.5px">' +
+              ini + '</span>';
+          }}
+
+          // Team logo + name (circular, matching leaderboard style)
+          const teamLogo = teamLogoMap[String(p.team_id)]
+            ? '<img src="' + teamLogoMap[String(p.team_id)] + '" style="width:22px;height:22px;' +
+              'border-radius:50%;object-fit:cover;vertical-align:middle;margin-right:0.4rem;flex-shrink:0">'
+            : '';
+
+          // Pick badge
+          const pickBadge = '<span style="font-weight:600;color:var(--text)">Rd&thinsp;' +
+            p.round + '</span><span style="color:var(--muted)"> · #' + p.pick + '</span>';
+
+          html += '<tr>' +
+            '<td style="color:var(--muted);font-size:0.8rem;white-space:nowrap;text-align:center;' + nPad + '">' + (i + 1) + '</td>' +
+            '<td style="white-space:nowrap">' +
+              photo +
+              '<span style="vertical-align:middle">' + esc(p.player_name) + '</span></td>' +
+            posTag +
+            '<td class="num ' + cls + '" style="white-space:nowrap;text-align:center;' + nPad + '">' + fmtFpoe(fpoe) + '</td>' +
+            '<td class="num" style="white-space:nowrap;text-align:center;' + nPad + '">' + pickBadge + '</td>' +
+            '<td style="white-space:nowrap">' + teamLogo +
+              '<span style="vertical-align:middle;font-size:0.85rem">' +
+              esc(p.team_name) + '</span></td>' +
+            '</tr>';
+        }});
+
+        html += '</tbody></table>';
+        container.innerHTML = html;
+      }}
+
+      // ── Team draft grades ───────────────────────────────────────────────
+      function renderTeamGrades() {{
+        const teamTotals = {{}};
+        da.picks.forEach(function(p) {{
+          const md   = p[currentMode] || {{}};
+          const fpoe = md.fpoe;
+          if (fpoe == null) return;
+          const tid = p.team_id;
+          if (!teamTotals[tid]) {{
+            teamTotals[tid] = {{
+              name: p.team_name,
+              total: 0,
+              picks: [],
+            }};
+          }}
+          teamTotals[tid].total += fpoe;
+          teamTotals[tid].picks.push({{
+            player: p.player_name,
+            pos:    p.position,
+            pick:   p.pick,
+            fpoe:   fpoe,
+          }});
+        }});
+
+        const sorted = Object.values(teamTotals).sort((a, b) => b.total - a.total);
+        const container = document.getElementById('da-team-grades');
+        let html = '';
+
+        sorted.forEach(function(team, i) {{
+          const totalCls = team.total >= 0 ? 'fpoe-pos' : 'fpoe-neg';
+          // Build compact pick list: top 5 by abs(fpoe) with sign
+          const topPicks = team.picks
+            .slice().sort((a, b) => Math.abs(b.fpoe) - Math.abs(a.fpoe))
+            .slice(0, 5)
+            .map(pk => {{
+              const cls = pk.fpoe >= 0 ? 'color:#3fb950' : 'color:#f85149';
+              return '<span style="' + cls + '">' + esc(shortName(pk.player)) +
+                     ' (' + fmtFpoe(pk.fpoe) + ')</span>';
+            }})
+            .join('  ');
+
+          html += '<div class="da-grade-row">' +
+            '<div class="da-grade-rank">' + (i + 1) + '</div>' +
+            '<div class="da-grade-name">' + esc(team.name) + '</div>' +
+            '<div class="da-grade-total ' + totalCls + '">' + fmtFpoe(team.total) + '</div>' +
+            '<div class="da-grade-picks">' + topPicks + '</div>' +
+            '</div>';
+        }});
+
+        container.innerHTML = html;
+      }}
+
+      // ── Render all ──────────────────────────────────────────────────────
+      function renderAll() {{
+        renderScatter();
+        buildPosTabs();
+        renderRankings();
+        renderTeamGrades();
+      }}
+
+      renderAll();
+    }})();
+
     // ── Twitter widget script (loaded only when needed) ────────────────────
     if (DATA.needs_twitter) {{
       const s = document.createElement('script');
@@ -2802,6 +3423,20 @@ def render_html(payload: dict, commentary: dict | None = None,
             md_commentary_html = embed_local_images(md_commentary_html, md_path.parent)
     payload["md_commentary_html"] = md_commentary_html
 
+    # ── Load draft analysis JSON ──────────────────────────────────────────────
+    draft_analysis_path = (
+        Path(f"Data/{season}/draft_analysis.json") if season else None
+    )
+    if draft_analysis_path and draft_analysis_path.exists():
+        try:
+            payload["draft_analysis"] = json.loads(
+                draft_analysis_path.read_text(encoding="utf-8")
+            )
+        except Exception:
+            payload["draft_analysis"] = None
+    else:
+        payload["draft_analysis"] = None
+
     # ── Load week commentary markdown (legacy separate-box style) ─────────────
     commentary_md_path = Path(f"Data/{season}/commentary/week_{payload['week']:02d}_boxed.md") if season else None
     week_commentary_html = ""
@@ -2853,6 +3488,15 @@ def render_html(payload: dict, commentary: dict | None = None,
     for row in payload.get("standings", []):
         row["logo"] = _embed_logo(row.get("logo", ""))
 
+    # ── Build team_id → logo map for draft analysis from already-embedded
+    #    standings logos (no extra network calls, guaranteed available) ─────────
+    if payload.get("draft_analysis"):
+        payload["draft_analysis"]["team_logos"] = {
+            row["team_id"]: row.get("logo", "")
+            for row in payload.get("standings", [])
+            if row.get("team_id") and row.get("logo")
+        }
+
     data_json = json.dumps(payload, separators=(",", ":"))
     html = _HTML.format(
         week=payload["week"],
@@ -2895,7 +3539,14 @@ def main() -> None:
                              "internet (makes file ~4.5 MB; may not open on mobile)")
     args = parser.parse_args()
 
-    out_path = Path(args.out) if args.out else Path(f"week_{args.week}_matchups.html")
+    repo_root = Path(__file__).parent.parent
+    if args.out:
+        out_path = Path(args.out)
+    else:
+        # Default: write directly to docs/ (GitHub Pages target) if it exists,
+        # otherwise fall back to the repo root.
+        docs_dir = repo_root / "docs"
+        out_path = (docs_dir if docs_dir.is_dir() else repo_root) / f"week_{args.week}_matchups.html"
 
     # ── New pipeline: timeline JSON ───────────────────────────────────────────
     if args.timeline:
@@ -2973,21 +3624,14 @@ def main() -> None:
     else:
         print("Mode     : CDN — send to anyone; opens on any device with internet")
 
-    # ── Publish to docs/ for GitHub Pages ─────────────────────────────────────
-    repo_root = Path(__file__).parent.parent
-    docs_dir  = repo_root / "docs"
-    if docs_dir.is_dir():
-        import shutil
-        dest = docs_dir / out_path.name
-        shutil.copy2(out_path, dest)
+    # ── GitHub Pages share URL ─────────────────────────────────────────────────
+    docs_dir = repo_root / "docs"
+    if docs_dir.is_dir() and out_path.parent.resolve() == docs_dir.resolve():
         gh_user = "jasonsrothstein"
         gh_repo = "fantasy-football"
         url = f"https://{gh_user}.github.io/{gh_repo}/{out_path.name}"
-        print(f"Published: {dest}")
         print(f"Share URL: {url}")
         print(f"           (push to GitHub + enable Pages to activate)")
-    else:
-        print("Tip      : create a docs/ folder in the repo root to enable GitHub Pages publishing")
 
 
 if __name__ == "__main__":

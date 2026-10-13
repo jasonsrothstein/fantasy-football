@@ -407,3 +407,55 @@ def get_all_players(
         start += PAGE
 
     return all_players
+
+
+def get_draft_results(
+    session: "YahooCookieSession",
+    game_key: str,
+    league_id: str,
+) -> list:
+    """
+    Return the full draft order for the league as a list of picks, ordered by
+    pick number ascending.
+
+    Each pick dict:
+        {
+            "pick":      1,       # overall pick number (1-based)
+            "round":     1,       # draft round (1-based)
+            "team_id":   "3",     # fantasy team ID that made the pick
+            "player_id": "31814", # Yahoo player ID
+        }
+    """
+    url  = f"{_BASE}/league/{game_key}.l.{league_id}/draftresults"
+    data = session.get(url)
+
+    try:
+        draft_block = data["fantasy_content"]["league"][1]["draft_results"]
+    except (KeyError, IndexError, TypeError) as exc:
+        raise ValueError(f"Unexpected draft results structure: {exc}") from exc
+
+    count = int(draft_block.get("count", 0))
+    picks = []
+    for i in range(count):
+        item = draft_block[str(i)].get("draft_result", {})
+        pick      = int(item.get("pick", i + 1))
+        round_num = int(item.get("round", 0))
+
+        # team_key looks like "470.l.776984.t.3" → extract last segment
+        team_key  = item.get("team_key", "")
+        team_id   = team_key.split(".t.")[-1] if ".t." in team_key else ""
+
+        # player_key looks like "470.p.31814" → extract last segment
+        player_key = item.get("player_key", "")
+        player_id  = player_key.split(".p.")[-1] if ".p." in player_key else ""
+
+        picks.append({
+            "pick":      pick,
+            "round":     round_num,
+            "team_id":   team_id,
+            "player_id": player_id,
+        })
+
+    picks.sort(key=lambda p: p["pick"])
+    log.info("Draft results: %d picks fetched for league %s", len(picks), league_id)
+    return picks

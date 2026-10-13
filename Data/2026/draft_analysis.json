@@ -1,0 +1,4408 @@
+{
+  "season": 2026,
+  "through_week": 5,
+  "replacement": {
+    "injuries_on": {
+      "QB": 12.348,
+      "RB": 9.26,
+      "WR": 9.28,
+      "TE": 8.325,
+      "K": 7.0,
+      "DEF": 5.0
+    },
+    "injuries_off": {
+      "QB": 14.332,
+      "RB": 9.46,
+      "WR": 9.94,
+      "TE": 8.54,
+      "K": 7.0,
+      "DEF": 5.0
+    }
+  },
+  "trendline": {
+    "injuries_on": {
+      "a": 13.0602,
+      "b": 0.05415,
+      "c": -0.2539
+    },
+    "injuries_off": {
+      "a": 12.2663,
+      "b": 0.03295,
+      "c": -0.7284
+    }
+  },
+  "trendline_std": {
+    "injuries_on": 5.4864,
+    "injuries_off": 5.0497
+  },
+  "picks": [
+    {
+      "pick": 1,
+      "round": 1,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "30977",
+      "player_name": "Josh Allen",
+      "position": "QB",
+      "nfl_team": "BUF",
+      "total_pts": 146.46,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/z4qe7sEEXVyMrm0j1CeEww--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/30977.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 29.292,
+        "fpor": 16.944,
+        "trend_val": 12.1179,
+        "fpoe": 4.8261
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 29.292,
+        "fpor": 14.96,
+        "trend_val": 11.1403,
+        "fpoe": 3.8197
+      }
+    },
+    {
+      "pick": 2,
+      "round": 1,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "40059",
+      "player_name": "Jahmyr Gibbs",
+      "position": "RB",
+      "nfl_team": "DET",
+      "total_pts": 144.2,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/3Db3mVG6L8BChPBXjWMyCg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/40059.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 28.84,
+        "fpor": 19.58,
+        "trend_val": 11.4658,
+        "fpoe": 8.1142
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 28.84,
+        "fpor": 19.38,
+        "trend_val": 10.7556,
+        "fpoe": 8.6244
+      }
+    },
+    {
+      "pick": 3,
+      "round": 1,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "40055",
+      "player_name": "Bijan Robinson",
+      "position": "RB",
+      "nfl_team": "ATL",
+      "total_pts": 117.2,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/V5nNwT6sRKYHH3N.NzXTlw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/40055.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 23.44,
+        "fpor": 14.18,
+        "trend_val": 10.848,
+        "fpoe": 3.332
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 23.44,
+        "fpor": 13.98,
+        "trend_val": 10.3834,
+        "fpoe": 3.5966
+      }
+    },
+    {
+      "pick": 4,
+      "round": 1,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "31002",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "nfl_team": "BAL",
+      "total_pts": 81.08,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/LlCKxy3ouhI2arFK1ZfnBw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/31002.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 16.216,
+        "fpor": 3.868,
+        "trend_val": 10.2629,
+        "fpoe": -6.3949
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 20.27,
+        "fpor": 5.938,
+        "trend_val": 10.0232,
+        "fpoe": -4.0852
+      }
+    },
+    {
+      "pick": 5,
+      "round": 1,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "40881",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "nfl_team": "NE",
+      "total_pts": 88.22,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/3cTm93LmVVwV1Y1Wpli0KQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40881.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 17.644,
+        "fpor": 5.296,
+        "trend_val": 9.7085,
+        "fpoe": -4.4125
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 17.644,
+        "fpor": 3.312,
+        "trend_val": 9.6747,
+        "fpoe": -6.3627
+      }
+    },
+    {
+      "pick": 6,
+      "round": 1,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "40041",
+      "player_name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "nfl_team": "SEA",
+      "total_pts": 129.96,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/WH5iLZg9SOqbBd5cLeHEbw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08072026/40041.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 25.992,
+        "fpor": 16.712,
+        "trend_val": 9.1834,
+        "fpoe": 7.5286
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 25.992,
+        "fpor": 16.052,
+        "trend_val": 9.3375,
+        "fpoe": 6.7145
+      }
+    },
+    {
+      "pick": 7,
+      "round": 1,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "30121",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "nfl_team": "SF",
+      "total_pts": 81.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/hidp2GbL3wMTfnQeMjwvnw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/30121.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 16.36,
+        "fpor": 7.1,
+        "trend_val": 8.686,
+        "fpoe": -1.586
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 16.36,
+        "fpor": 6.9,
+        "trend_val": 9.0113,
+        "fpoe": -2.1113
+      }
+    },
+    {
+      "pick": 8,
+      "round": 1,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "33393",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "nfl_team": "CIN",
+      "total_pts": 68.4,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/8DFQtQd4gJsvWGpzq0rbag--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/33393.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 13.68,
+        "fpor": 4.4,
+        "trend_val": 8.2147,
+        "fpoe": -3.8147
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 13.68,
+        "fpor": 3.74,
+        "trend_val": 8.6956,
+        "fpoe": -4.9556
+      }
+    },
+    {
+      "pick": 9,
+      "round": 1,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "40168",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "nfl_team": "LAR",
+      "total_pts": 64.3,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/ScG6X1txLlmgHXWOsHYFzg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40168.2.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.86,
+        "fpor": 3.58,
+        "trend_val": 7.7684,
+        "fpoe": -4.1884
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 21.4333,
+        "fpor": 11.4933,
+        "trend_val": 8.3901,
+        "fpoe": 3.1032
+      }
+    },
+    {
+      "pick": 10,
+      "round": 1,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "34019",
+      "player_name": "James Cook III",
+      "position": "RB",
+      "nfl_team": "BUF",
+      "total_pts": 89.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/phPvtlUh.MceOTZItKh_AA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08282024/34019.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 17.96,
+        "fpor": 8.7,
+        "trend_val": 7.3455,
+        "fpoe": 1.3545
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 17.96,
+        "fpor": 8.5,
+        "trend_val": 8.0945,
+        "fpoe": 0.4055
+      }
+    },
+    {
+      "pick": 11,
+      "round": 1,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "32711",
+      "player_name": "Jonathan Taylor",
+      "position": "RB",
+      "nfl_team": "IND",
+      "total_pts": 90.9,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/gdJl658WYcV.dR7omhnwcg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/32711.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 18.18,
+        "fpor": 8.92,
+        "trend_val": 6.9449,
+        "fpoe": 1.9751
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 18.18,
+        "fpor": 8.72,
+        "trend_val": 7.8086,
+        "fpoe": 0.9114
+      }
+    },
+    {
+      "pick": 12,
+      "round": 1,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "32671",
+      "player_name": "Joe Burrow",
+      "position": "QB",
+      "nfl_team": "CIN",
+      "total_pts": 104.24,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/VnU.xoV9ZxUJeMYKyjssZg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/32671.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 20.848,
+        "fpor": 8.5,
+        "trend_val": 6.5655,
+        "fpoe": 1.9345
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 20.848,
+        "fpor": 6.516,
+        "trend_val": 7.5319,
+        "fpoe": -1.0159
+      }
+    },
+    {
+      "pick": 13,
+      "round": 2,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "40118",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "nfl_team": "MIA",
+      "total_pts": 21.1,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xk1xwio0bryfxo1ylweu",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 4.22,
+        "fpor": -5.04,
+        "trend_val": 6.206,
+        "fpoe": -11.246
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 7.0333,
+        "fpor": -2.4267,
+        "trend_val": 7.2641,
+        "fpoe": -9.6908
+      }
+    },
+    {
+      "pick": 14,
+      "round": 2,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "33500",
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "nfl_team": "DET",
+      "total_pts": 86.7,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/LQZl1Mo7u0KUzLXU9RSw2g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/07312025/33500.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 17.34,
+        "fpor": 8.06,
+        "trend_val": 5.8655,
+        "fpoe": 2.1945
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 17.34,
+        "fpor": 7.4,
+        "trend_val": 7.0051,
+        "fpoe": 0.3949
+      }
+    },
+    {
+      "pick": 15,
+      "round": 2,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "40896",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "nfl_team": "WAS",
+      "total_pts": 65.66,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/CQnydoRKTgjiOU.ERkugfQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08252026/40896.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 13.132,
+        "fpor": 0.784,
+        "trend_val": 5.543,
+        "fpoe": -4.759
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 21.8867,
+        "fpor": 7.5547,
+        "trend_val": 6.7544,
+        "fpoe": 0.8003
+      }
+    },
+    {
+      "pick": 16,
+      "round": 2,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "41810",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "nfl_team": "NYG",
+      "total_pts": 27.4,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n6uymxssgiicjmxkzxoc",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 5.48,
+        "fpor": -6.868,
+        "trend_val": 5.2374,
+        "fpoe": -12.1054
+      },
+      "injuries_off": {
+        "games_played": 2,
+        "fppg": 13.7,
+        "fpor": -0.632,
+        "trend_val": 6.5118,
+        "fpoe": -7.1438
+      }
+    },
+    {
+      "pick": 17,
+      "round": 2,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "30972",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "nfl_team": "PHI",
+      "total_pts": 21.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/VXOmjaMBllUqGug6vTs48A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08212026/30972.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 4.2,
+        "fpor": -5.06,
+        "trend_val": 4.948,
+        "fpoe": -10.008
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 5.25,
+        "fpor": -4.21,
+        "trend_val": 6.2772,
+        "fpoe": -10.4872
+      }
+    },
+    {
+      "pick": 18,
+      "round": 2,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "32692",
+      "player_name": "Justin Jefferson",
+      "position": "WR",
+      "nfl_team": "MIN",
+      "total_pts": 54.2,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/JF1Q3UluAPM6YajgyY.MjA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/32692.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.84,
+        "fpor": 1.56,
+        "trend_val": 4.6738,
+        "fpoe": -3.1138
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 13.55,
+        "fpor": 3.61,
+        "trend_val": 6.0501,
+        "fpoe": -2.4401
+      }
+    },
+    {
+      "pick": 19,
+      "round": 2,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "29279",
+      "player_name": "Derrick Henry",
+      "position": "RB",
+      "nfl_team": "BAL",
+      "total_pts": 109.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/OwHwpsZEkLgy3PwDzhfnAQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/29279.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 21.96,
+        "fpor": 12.7,
+        "trend_val": 4.414,
+        "fpoe": 8.286
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 21.96,
+        "fpor": 12.5,
+        "trend_val": 5.8304,
+        "fpoe": 6.6696
+      }
+    },
+    {
+      "pick": 20,
+      "round": 2,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "32687",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "nfl_team": "DAL",
+      "total_pts": 100.6,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/sBp9juMSUtYIa4b6zogEcw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/32687.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 20.12,
+        "fpor": 10.84,
+        "trend_val": 4.168,
+        "fpoe": 6.672
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 20.12,
+        "fpor": 10.18,
+        "trend_val": 5.6178,
+        "fpoe": 4.5622
+      }
+    },
+    {
+      "pick": 21,
+      "round": 2,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "32723",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "nfl_team": "PHI",
+      "total_pts": 82.02,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/rxsu3cY0VkambYSUhFcSwA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08212026/32723.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 16.404,
+        "fpor": 4.056,
+        "trend_val": 3.9349,
+        "fpoe": 0.1211
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 16.404,
+        "fpor": 2.072,
+        "trend_val": 5.4121,
+        "fpoe": -3.3401
+      }
+    },
+    {
+      "pick": 22,
+      "round": 2,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "40196",
+      "player_name": "Chase Brown",
+      "position": "RB",
+      "nfl_team": "CIN",
+      "total_pts": 53.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/ybmXLgb43ePXwalSnaelLw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/40196.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.6,
+        "fpor": 1.34,
+        "trend_val": 3.7141,
+        "fpoe": -2.3741
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 10.6,
+        "fpor": 1.14,
+        "trend_val": 5.2131,
+        "fpoe": -4.0731
+      }
+    },
+    {
+      "pick": 23,
+      "round": 2,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "40900",
+      "player_name": "Caleb Williams",
+      "position": "QB",
+      "nfl_team": "CHI",
+      "total_pts": 44.98,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h4qs11kutwiw7whekmyt",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.996,
+        "fpor": -3.352,
+        "trend_val": 3.505,
+        "fpoe": -6.857
+      },
+      "injuries_off": {
+        "games_played": 2,
+        "fppg": 22.49,
+        "fpor": 8.158,
+        "trend_val": 5.0205,
+        "fpoe": 3.1375
+      }
+    },
+    {
+      "pick": 24,
+      "round": 2,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "33996",
+      "player_name": "Kenneth Walker III",
+      "position": "RB",
+      "nfl_team": "KC",
+      "total_pts": 111.1,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/J19j1xe4AIAERekP6cF8xQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/33996.png",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 27.775,
+        "fpor": 18.515,
+        "trend_val": 3.3068,
+        "fpoe": 15.2082
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 27.775,
+        "fpor": 18.315,
+        "trend_val": 4.8341,
+        "fpoe": 13.4809
+      }
+    },
+    {
+      "pick": 25,
+      "round": 3,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "33477",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "nfl_team": "HOU",
+      "total_pts": 54.1,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/XaIf3oUtj4rr.CpsGxqvDg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/33477.2.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.82,
+        "fpor": 1.54,
+        "trend_val": 3.1192,
+        "fpoe": -1.5792
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 18.0333,
+        "fpor": 8.0933,
+        "trend_val": 4.6538,
+        "fpoe": 3.4395
+      }
+    },
+    {
+      "pick": 26,
+      "round": 3,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "33963",
+      "player_name": "Drake London",
+      "position": "WR",
+      "nfl_team": "ATL",
+      "total_pts": 65.7,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/vFbuoZ42dGVpV5gz3aWkBQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/33963.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 13.14,
+        "fpor": 3.86,
+        "trend_val": 2.9414,
+        "fpoe": 0.9186
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 13.14,
+        "fpor": 3.2,
+        "trend_val": 4.4794,
+        "fpoe": -1.2794
+      }
+    },
+    {
+      "pick": 27,
+      "round": 3,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "32676",
+      "player_name": "Justin Herbert",
+      "position": "QB",
+      "nfl_team": "LAC",
+      "total_pts": 53.68,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jnkspnntgebegzp4ghve",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.736,
+        "fpor": -1.612,
+        "trend_val": 2.7729,
+        "fpoe": -4.3849
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 10.736,
+        "fpor": -3.596,
+        "trend_val": 4.3106,
+        "fpoe": -7.9066
+      }
+    },
+    {
+      "pick": 28,
+      "round": 3,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "41807",
+      "player_name": "Omarion Hampton",
+      "position": "RB",
+      "nfl_team": "LAC",
+      "total_pts": 47.1,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/E3OBtN4RVVXkZvnZCY7AiA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092026/41807.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.42,
+        "fpor": 0.16,
+        "trend_val": 2.6134,
+        "fpoe": -2.4534
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.42,
+        "fpor": -0.04,
+        "trend_val": 4.1473,
+        "fpoe": -4.1873
+      }
+    },
+    {
+      "pick": 29,
+      "round": 3,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "41791",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "nfl_team": "LV",
+      "total_pts": 74.6,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/syspis1mntov9kgspb7r",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 14.92,
+        "fpor": 5.66,
+        "trend_val": 2.4623,
+        "fpoe": 3.1977
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 14.92,
+        "fpor": 5.46,
+        "trend_val": 3.9892,
+        "fpoe": 1.4708
+      }
+    },
+    {
+      "pick": 30,
+      "round": 3,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "34120",
+      "player_name": "Kyren Williams",
+      "position": "RB",
+      "nfl_team": "LAR",
+      "total_pts": 95.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/4Zm8cAtYPpfXJusJwXTSQg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08252025/34120.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 19.16,
+        "fpor": 9.9,
+        "trend_val": 2.3191,
+        "fpoe": 7.5809
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 19.16,
+        "fpor": 9.7,
+        "trend_val": 3.8363,
+        "fpoe": 5.8637
+      }
+    },
+    {
+      "pick": 31,
+      "round": 3,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "40899",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "nfl_team": "NYG",
+      "total_pts": 61.4,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/Df0fqJ37.bWIf7UIcdW35g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092025/40899.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.28,
+        "fpor": 3.0,
+        "trend_val": 2.1835,
+        "fpoe": 0.8165
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 12.28,
+        "fpor": 2.34,
+        "trend_val": 3.6884,
+        "fpoe": -1.3484
+      }
+    },
+    {
+      "pick": 32,
+      "round": 3,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "31883",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "nfl_team": "NE",
+      "total_pts": 4.1,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qfhvjyssf0lwsh0kienp",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.82,
+        "fpor": -8.46,
+        "trend_val": 2.055,
+        "fpoe": -10.515
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 4.1,
+        "fpor": -5.84,
+        "trend_val": 3.5452,
+        "fpoe": -9.3852
+      }
+    },
+    {
+      "pick": 33,
+      "round": 3,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "42625",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "nfl_team": "ARI",
+      "total_pts": 45.6,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/SF3YXcxMZ_izNcxZVQQdtw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08052026/42625.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.12,
+        "fpor": -0.14,
+        "trend_val": 1.9333,
+        "fpoe": -2.0733
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.12,
+        "fpor": -0.34,
+        "trend_val": 3.4067,
+        "fpoe": -3.7467
+      }
+    },
+    {
+      "pick": 34,
+      "round": 3,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "30123",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "nfl_team": "KC",
+      "total_pts": 84.58,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/.W3ZQBDoQG_ZvIlbaJbUqg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/30123.png",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 21.145,
+        "fpor": 8.797,
+        "trend_val": 1.818,
+        "fpoe": 6.979
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 21.145,
+        "fpor": 6.813,
+        "trend_val": 3.2726,
+        "fpoe": 3.5404
+      }
+    },
+    {
+      "pick": 35,
+      "round": 3,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "34007",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "nfl_team": "DAL",
+      "total_pts": 56.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/tL4TO41aAirHrtd5rFiVBg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08072025/34007.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 11.2,
+        "fpor": 1.92,
+        "trend_val": 1.7088,
+        "fpoe": 0.2112
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 11.2,
+        "fpor": 1.26,
+        "trend_val": 3.143,
+        "fpoe": -1.883
+      }
+    },
+    {
+      "pick": 36,
+      "round": 3,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "33394",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "nfl_team": "DEN",
+      "total_pts": 40.7,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/LraqgG.r4S.LNyMAd6RSnQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/33394.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.14,
+        "fpor": -1.14,
+        "trend_val": 1.6053,
+        "fpoe": -2.7453
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.14,
+        "fpor": -1.8,
+        "trend_val": 3.0175,
+        "fpoe": -4.8175
+      }
+    },
+    {
+      "pick": 37,
+      "round": 4,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "32703",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "nfl_team": "CIN",
+      "total_pts": 63.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/tnaQRYhrRk4F6NEhfyierg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/32703.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.76,
+        "fpor": 3.48,
+        "trend_val": 1.5073,
+        "fpoe": 1.9727
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 12.76,
+        "fpor": 2.82,
+        "trend_val": 2.8961,
+        "fpoe": -0.0761
+      }
+    },
+    {
+      "pick": 38,
+      "round": 4,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "33991",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "nfl_team": "NYJ",
+      "total_pts": 38.5,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i01xtqbfajfq68lb6orh",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 7.7,
+        "fpor": -1.56,
+        "trend_val": 1.4145,
+        "fpoe": -2.9745
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 12.8333,
+        "fpor": 3.3733,
+        "trend_val": 2.7786,
+        "fpoe": 0.5947
+      }
+    },
+    {
+      "pick": 39,
+      "round": 4,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "40084",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "nfl_team": "KC",
+      "total_pts": 31.5,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qhkbqrydjeur8zvrrmfl",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 7.875,
+        "fpor": -1.405,
+        "trend_val": 1.3266,
+        "fpoe": -2.7316
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 10.5,
+        "fpor": 0.56,
+        "trend_val": 2.6649,
+        "fpoe": -2.1049
+      }
+    },
+    {
+      "pick": 40,
+      "round": 4,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "34010",
+      "player_name": "Trey McBride",
+      "position": "TE",
+      "nfl_team": "ARI",
+      "total_pts": 69.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/QX9EaUKzZi_04dPcWOdP7A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08052026/34010.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 13.96,
+        "fpor": 5.635,
+        "trend_val": 1.2433,
+        "fpoe": 4.3917
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 13.96,
+        "fpor": 5.42,
+        "trend_val": 2.5549,
+        "fpoe": 2.8651
+      }
+    },
+    {
+      "pick": 41,
+      "round": 4,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "29369",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "nfl_team": "DAL",
+      "total_pts": 95.84,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/7qieJGO_VZyuf0v74QNeEg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/29369.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 19.168,
+        "fpor": 6.82,
+        "trend_val": 1.1643,
+        "fpoe": 5.6557
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 19.168,
+        "fpor": 4.836,
+        "trend_val": 2.4485,
+        "fpoe": 2.3875
+      }
+    },
+    {
+      "pick": 42,
+      "round": 4,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "33423",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "nfl_team": "DAL",
+      "total_pts": 87.5,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/DL1fPcbDhk5P_YDOYfDTZw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/33423.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 17.5,
+        "fpor": 8.24,
+        "trend_val": 1.0896,
+        "fpoe": 7.1504
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 17.5,
+        "fpor": 8.04,
+        "trend_val": 2.3455,
+        "fpoe": 5.6945
+      }
+    },
+    {
+      "pick": 43,
+      "round": 4,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "40908",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "nfl_team": "LAC",
+      "total_pts": 30.3,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q2sk7yforrkiusvruo1o",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.06,
+        "fpor": -3.22,
+        "trend_val": 1.0188,
+        "fpoe": -4.2388
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 7.575,
+        "fpor": -2.365,
+        "trend_val": 2.2459,
+        "fpoe": -4.6109
+      }
+    },
+    {
+      "pick": 44,
+      "round": 4,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "33398",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "nfl_team": "PHI",
+      "total_pts": 40.0,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k724kq3hyv7jc0y9s03x",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.0,
+        "fpor": -1.28,
+        "trend_val": 0.9517,
+        "fpoe": -2.2317
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 13.3333,
+        "fpor": 3.3933,
+        "trend_val": 2.1495,
+        "fpoe": 1.2438
+      }
+    },
+    {
+      "pick": 45,
+      "round": 4,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "40878",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "nfl_team": "LV",
+      "total_pts": 61.2,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/2BDzPCSW.w29RpeJ.Sw.bw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40878.2.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.24,
+        "fpor": 3.915,
+        "trend_val": 0.8881,
+        "fpoe": 3.0269
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 20.4,
+        "fpor": 11.86,
+        "trend_val": 2.0562,
+        "fpoe": 9.8038
+      }
+    },
+    {
+      "pick": 46,
+      "round": 4,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "40039",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "nfl_team": "BAL",
+      "total_pts": 73.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/xxTmCvgTcZ_kNWR4QFRqSw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/40039.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 14.76,
+        "fpor": 5.48,
+        "trend_val": 0.8279,
+        "fpoe": 4.6521
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 18.45,
+        "fpor": 8.51,
+        "trend_val": 1.9659,
+        "fpoe": 6.5441
+      }
+    },
+    {
+      "pick": 47,
+      "round": 4,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "33413",
+      "player_name": "Travis Etienne Jr.",
+      "position": "RB",
+      "nfl_team": "NO",
+      "total_pts": 25.4,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pwko5dybmjie8qqo4qz2",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 5.08,
+        "fpor": -4.18,
+        "trend_val": 0.7709,
+        "fpoe": -4.9509
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 8.4667,
+        "fpor": -0.9933,
+        "trend_val": 1.8786,
+        "fpoe": -2.8719
+      }
+    },
+    {
+      "pick": 48,
+      "round": 4,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "40875",
+      "player_name": "Bo Nix",
+      "position": "QB",
+      "nfl_team": "DEN",
+      "total_pts": 65.18,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zvo9xatffmqn9lnukpgk",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 13.036,
+        "fpor": 0.688,
+        "trend_val": 0.7169,
+        "fpoe": -0.0289
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 13.036,
+        "fpor": -1.296,
+        "trend_val": 1.7941,
+        "fpoe": -3.0901
+      }
+    },
+    {
+      "pick": 49,
+      "round": 5,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "41922",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
+      "nfl_team": "NYG",
+      "total_pts": 46.3,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/5C0WxNfiXvtIcIHk86i4EA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202026/41922.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.26,
+        "fpor": 0.0,
+        "trend_val": 0.6657,
+        "fpoe": -0.6657
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.26,
+        "fpor": -0.2,
+        "trend_val": 1.7124,
+        "fpoe": -1.9124
+      }
+    },
+    {
+      "pick": 50,
+      "round": 5,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "33389",
+      "player_name": "Trevor Lawrence",
+      "position": "QB",
+      "nfl_team": "JAX",
+      "total_pts": 88.86,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/pdL0oUN6aHME_5HpUxmz_A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08182026/33389.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 17.772,
+        "fpor": 5.424,
+        "trend_val": 0.6173,
+        "fpoe": 4.8067
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 17.772,
+        "fpor": 3.44,
+        "trend_val": 1.6332,
+        "fpoe": 1.8068
+      }
+    },
+    {
+      "pick": 51,
+      "round": 5,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "33966",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "nfl_team": "NO",
+      "total_pts": 83.2,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/LU_EjbVkQPNC7pNEvkf6PA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202026/33966.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 16.64,
+        "fpor": 7.36,
+        "trend_val": 0.5713,
+        "fpoe": 6.7887
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 16.64,
+        "fpor": 6.7,
+        "trend_val": 1.5567,
+        "fpoe": 5.1433
+      }
+    },
+    {
+      "pick": 52,
+      "round": 5,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "32705",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "nfl_team": "CHI",
+      "total_pts": 74.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/UEDVsA6XOLm0yRT1kxN65Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/32705.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 14.96,
+        "fpor": 5.7,
+        "trend_val": 0.5278,
+        "fpoe": 5.1722
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 14.96,
+        "fpor": 5.5,
+        "trend_val": 1.4826,
+        "fpoe": 4.0174
+      }
+    },
+    {
+      "pick": 53,
+      "round": 5,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "41821",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "nfl_team": "CLE",
+      "total_pts": 47.3,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/iKMDtA9FvYCUnZ6eTkX7Ng--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08272025/41821.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.46,
+        "fpor": 0.2,
+        "trend_val": 0.4866,
+        "fpoe": -0.2866
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.46,
+        "fpor": 0.0,
+        "trend_val": 1.411,
+        "fpoe": -1.411
+      }
+    },
+    {
+      "pick": 54,
+      "round": 5,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "31833",
+      "player_name": "Kyler Murray",
+      "position": "QB",
+      "nfl_team": "MIN",
+      "total_pts": 41.16,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/frZpvK9Afq1vRWbaZXv_FQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/31833.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.232,
+        "fpor": -4.116,
+        "trend_val": 0.4476,
+        "fpoe": -4.5636
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 10.29,
+        "fpor": -4.042,
+        "trend_val": 1.3416,
+        "fpoe": -5.3836
+      }
+    },
+    {
+      "pick": 55,
+      "round": 5,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "32696",
+      "player_name": "Jordan Love",
+      "position": "QB",
+      "nfl_team": "GB",
+      "total_pts": 96.12,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/kr.cv9_CzEvW8_R.diHvcg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/32696.3.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 19.224,
+        "fpor": 6.876,
+        "trend_val": 0.4106,
+        "fpoe": 6.4654
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 19.224,
+        "fpor": 4.892,
+        "trend_val": 1.2745,
+        "fpoe": 3.6175
+      }
+    },
+    {
+      "pick": 56,
+      "round": 5,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "40993",
+      "player_name": "Bucky Irving",
+      "position": "RB",
+      "nfl_team": "TB",
+      "total_pts": 73.2,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/m_qM8NCZ0Axr7R49oWPTwA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/40993.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 14.64,
+        "fpor": 5.38,
+        "trend_val": 0.3756,
+        "fpoe": 5.0044
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 14.64,
+        "fpor": 5.18,
+        "trend_val": 1.2096,
+        "fpoe": 3.9704
+      }
+    },
+    {
+      "pick": 57,
+      "round": 5,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "42654",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "nfl_team": "SEA",
+      "total_pts": 12.0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 2.4,
+        "fpor": -6.86,
+        "trend_val": 0.3424,
+        "fpoe": -7.2024
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 4.0,
+        "fpor": -5.46,
+        "trend_val": 1.1468,
+        "fpoe": -6.6068
+      }
+    },
+    {
+      "pick": 58,
+      "round": 5,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "31905",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "nfl_team": "HOU",
+      "total_pts": 42.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/hN80sQ635x90TiKS2KvZZA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/31905.2.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.4,
+        "fpor": -0.86,
+        "trend_val": 0.311,
+        "fpoe": -1.171
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.4,
+        "fpor": -1.06,
+        "trend_val": 1.086,
+        "fpoe": -2.146
+      }
+    },
+    {
+      "pick": 59,
+      "round": 5,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "41795",
+      "player_name": "Colston Loveland",
+      "position": "TE",
+      "nfl_team": "CHI",
+      "total_pts": 17.5,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cnxiyi76jeahgx94nh6d",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 3.5,
+        "fpor": -4.825,
+        "trend_val": 0.2812,
+        "fpoe": -5.1062
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 3.5,
+        "fpor": -5.04,
+        "trend_val": 1.0272,
+        "fpoe": -6.0672
+      }
+    },
+    {
+      "pick": 60,
+      "round": 5,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "9265",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "nfl_team": "LAR",
+      "total_pts": 93.98,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/WB0VYA2W5C4vPf8BtjcFdg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/9265.2.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 18.796,
+        "fpor": 6.448,
+        "trend_val": 0.253,
+        "fpoe": 6.195
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 18.796,
+        "fpor": 4.464,
+        "trend_val": 0.9703,
+        "fpoe": 3.4937
+      }
+    },
+    {
+      "pick": 61,
+      "round": 6,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "41823",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "nfl_team": "NE",
+      "total_pts": 25.5,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ebcjvwytgu2y4kqm8ihv",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 5.1,
+        "fpor": -4.16,
+        "trend_val": 0.2263,
+        "fpoe": -4.3863
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 6.375,
+        "fpor": -3.085,
+        "trend_val": 0.9152,
+        "fpoe": -4.0002
+      }
+    },
+    {
+      "pick": 62,
+      "round": 6,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "31908",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "nfl_team": "WAS",
+      "total_pts": 35.3,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tmfl2zruajmkrtcg4zxp",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 7.06,
+        "fpor": -2.22,
+        "trend_val": 0.201,
+        "fpoe": -2.421
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 8.825,
+        "fpor": -1.115,
+        "trend_val": 0.862,
+        "fpoe": -1.977
+      }
+    },
+    {
+      "pick": 63,
+      "round": 6,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "33965",
+      "player_name": "Garrett Wilson",
+      "position": "WR",
+      "nfl_team": "NYJ",
+      "total_pts": 72.9,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/R.E9_N6rpL3Cob_DpH4i1Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08212026/33965.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 14.58,
+        "fpor": 5.3,
+        "trend_val": 0.177,
+        "fpoe": 5.123
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 14.58,
+        "fpor": 4.64,
+        "trend_val": 0.8104,
+        "fpoe": 3.8296
+      }
+    },
+    {
+      "pick": 64,
+      "round": 6,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "30973",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "nfl_team": "SEA",
+      "total_pts": 50.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/Xxwcn7cYj3bfeX4Ml8GgUg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08072026/30973.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.16,
+        "fpor": -2.188,
+        "trend_val": 0.1543,
+        "fpoe": -2.3423
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 12.7,
+        "fpor": -1.632,
+        "trend_val": 0.7605,
+        "fpoe": -2.3925
+      }
+    },
+    {
+      "pick": 65,
+      "round": 6,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "41799",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "nfl_team": "IND",
+      "total_pts": 54.9,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/AuBgYfyEoSIbVVTm9laKLQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/41799.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.98,
+        "fpor": 2.655,
+        "trend_val": 0.1328,
+        "fpoe": 2.5222
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 10.98,
+        "fpor": 2.44,
+        "trend_val": 0.7123,
+        "fpoe": 1.7277
+      }
+    },
+    {
+      "pick": 66,
+      "round": 6,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "29235",
+      "player_name": "Jared Goff",
+      "position": "QB",
+      "nfl_team": "DET",
+      "total_pts": 118.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/vlSRP_qdMOJ70LchIWUPXg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/29235.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 23.6,
+        "fpor": 11.252,
+        "trend_val": 0.1124,
+        "fpoe": 11.1396
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 23.6,
+        "fpor": 9.268,
+        "trend_val": 0.6656,
+        "fpoe": 8.6024
+      }
+    },
+    {
+      "pick": 67,
+      "round": 6,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "30994",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "nfl_team": "BUF",
+      "total_pts": 33.4,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/cRf0PZjrcxCx9Oqer9Uo3Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/30994.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.68,
+        "fpor": -2.6,
+        "trend_val": 0.0931,
+        "fpoe": -2.6931
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 8.35,
+        "fpor": -1.59,
+        "trend_val": 0.6204,
+        "fpoe": -2.2104
+      }
+    },
+    {
+      "pick": 68,
+      "round": 6,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "41900",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "nfl_team": "JAX",
+      "total_pts": 59.2,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/SRCXwZGkVsSbMwKupYpvLw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08182026/41900.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 11.84,
+        "fpor": 2.58,
+        "trend_val": 0.0748,
+        "fpoe": 2.5052
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 11.84,
+        "fpor": 2.38,
+        "trend_val": 0.5767,
+        "fpoe": 1.8033
+      }
+    },
+    {
+      "pick": 69,
+      "round": 6,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "41793",
+      "player_name": "Tetairoa McMillan",
+      "position": "WR",
+      "nfl_team": "CAR",
+      "total_pts": 64.5,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/bjURNY7S3oVoIbPP221sKw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41793.1.png",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 16.125,
+        "fpor": 6.845,
+        "trend_val": 0.0575,
+        "fpoe": 6.7875
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 16.125,
+        "fpor": 6.185,
+        "trend_val": 0.5344,
+        "fpoe": 5.6506
+      }
+    },
+    {
+      "pick": 70,
+      "round": 6,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "41804",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "nfl_team": "TB",
+      "total_pts": 42.8,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z224kbzs62rjuykc0vha",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.56,
+        "fpor": -0.72,
+        "trend_val": 0.0411,
+        "fpoe": -0.7611
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.56,
+        "fpor": -1.38,
+        "trend_val": 0.4934,
+        "fpoe": -1.8734
+      }
+    },
+    {
+      "pick": 71,
+      "round": 6,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "40901",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "nfl_team": "CHI",
+      "total_pts": 33.8,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/niewdl2p2325kpohbw9v",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.76,
+        "fpor": -2.52,
+        "trend_val": 0.0255,
+        "fpoe": -2.5455
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.76,
+        "fpor": -3.18,
+        "trend_val": 0.4538,
+        "fpoe": -3.6338
+      }
+    },
+    {
+      "pick": 72,
+      "round": 6,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "40234",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "nfl_team": "JAX",
+      "total_pts": 73.5,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/X77XymjeUdDCpWFiI0lOtw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08182026/40234.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 14.7,
+        "fpor": 5.42,
+        "trend_val": 0.0108,
+        "fpoe": 5.4092
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 14.7,
+        "fpor": 4.76,
+        "trend_val": 0.4155,
+        "fpoe": 4.3445
+      }
+    },
+    {
+      "pick": 73,
+      "round": 7,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "41824",
+      "player_name": "Luther Burden III",
+      "position": "WR",
+      "nfl_team": "CHI",
+      "total_pts": 4.7,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.94,
+        "fpor": -8.34,
+        "trend_val": -0.0032,
+        "fpoe": -8.3368
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 4.7,
+        "fpor": -5.24,
+        "trend_val": 0.3784,
+        "fpoe": -5.6184
+      }
+    },
+    {
+      "pick": 74,
+      "round": 7,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "33508",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "nfl_team": "NE",
+      "total_pts": 53.3,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/HK04kawluEOXeR62foha3g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/33508.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.66,
+        "fpor": 1.4,
+        "trend_val": -0.0164,
+        "fpoe": 1.4164
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 10.66,
+        "fpor": 1.2,
+        "trend_val": 0.3426,
+        "fpoe": 0.8574
+      }
+    },
+    {
+      "pick": 75,
+      "round": 7,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "34218",
+      "player_name": "Brock Purdy",
+      "position": "QB",
+      "nfl_team": "SF",
+      "total_pts": 118.64,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/v43spyTnux57VJwfxJgwkg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/34218.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 23.728,
+        "fpor": 11.38,
+        "trend_val": -0.0289,
+        "fpoe": 11.4089
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 23.728,
+        "fpor": 9.396,
+        "trend_val": 0.3078,
+        "fpoe": 9.0882
+      }
+    },
+    {
+      "pick": 76,
+      "round": 7,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "33967",
+      "player_name": "Jameson Williams",
+      "position": "WR",
+      "nfl_team": "DET",
+      "total_pts": 49.6,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/owMvSONLoM2eNK8dufTo8w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/33967.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.92,
+        "fpor": 0.64,
+        "trend_val": -0.0408,
+        "fpoe": 0.6808
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.92,
+        "fpor": -0.02,
+        "trend_val": 0.2743,
+        "fpoe": -0.2943
+      }
+    },
+    {
+      "pick": 77,
+      "round": 7,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "27535",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "nfl_team": "SF",
+      "total_pts": 73.6,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/p0VIf5c2cdr0EjVuJakKvw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/27535.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 14.72,
+        "fpor": 5.44,
+        "trend_val": -0.052,
+        "fpoe": 5.492
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 14.72,
+        "fpor": 4.78,
+        "trend_val": 0.2418,
+        "fpoe": 4.5382
+      }
+    },
+    {
+      "pick": 78,
+      "round": 7,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "30971",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "nfl_team": "TB",
+      "total_pts": 36.1,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjb8e69jtt1ffqf1afue",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 7.22,
+        "fpor": -5.128,
+        "trend_val": -0.0626,
+        "fpoe": -5.0654
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 12.0333,
+        "fpor": -2.2987,
+        "trend_val": 0.2103,
+        "fpoe": -2.509
+      }
+    },
+    {
+      "pick": 79,
+      "round": 7,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "40064",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "nfl_team": "DET",
+      "total_pts": 63.1,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/DAB5MlcJkzT9XGIrxkPM_g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/40064.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.62,
+        "fpor": 4.295,
+        "trend_val": -0.0727,
+        "fpoe": 4.3677
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 12.62,
+        "fpor": 4.08,
+        "trend_val": 0.1799,
+        "fpoe": 3.9001
+      }
+    },
+    {
+      "pick": 80,
+      "round": 7,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "34447",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "nfl_team": "PIT",
+      "total_pts": 89.5,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/aeLJ6CcF9iHNAnYV3xe0YA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/34447.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 17.9,
+        "fpor": 8.64,
+        "trend_val": -0.0823,
+        "fpoe": 8.7223
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 17.9,
+        "fpor": 8.44,
+        "trend_val": 0.1504,
+        "fpoe": 8.2896
+      }
+    },
+    {
+      "pick": 81,
+      "round": 7,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "27581",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "nfl_team": "LAR",
+      "total_pts": 84.6,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/Lq0buOz6WeFBtJha4zFsjQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08252025/27581.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 16.92,
+        "fpor": 7.64,
+        "trend_val": -0.0913,
+        "fpoe": 7.7313
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 16.92,
+        "fpor": 6.98,
+        "trend_val": 0.122,
+        "fpoe": 6.858
+      }
+    },
+    {
+      "pick": 82,
+      "round": 7,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "40102",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "nfl_team": "GB",
+      "total_pts": 37.7,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/2_S7FBVe7Hbf_HH2HcLn3g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40102.3.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 7.54,
+        "fpor": -0.785,
+        "trend_val": -0.0999,
+        "fpoe": -0.6851
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 7.54,
+        "fpor": -1.0,
+        "trend_val": 0.0944,
+        "fpoe": -1.0944
+      }
+    },
+    {
+      "pick": 83,
+      "round": 7,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "40030",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "nfl_team": "HOU",
+      "total_pts": 91.18,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/J2IyiVCB6Fs4XracSm3V5A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40030.2.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 18.236,
+        "fpor": 5.888,
+        "trend_val": -0.108,
+        "fpoe": 5.996
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 18.236,
+        "fpor": 3.904,
+        "trend_val": 0.0677,
+        "fpoe": 3.8363
+      }
+    },
+    {
+      "pick": 84,
+      "round": 7,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "40893",
+      "player_name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "nfl_team": "HOU",
+      "total_pts": 17.0,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hwpoo1icpnh8emjvqaii",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 3.4,
+        "fpor": -5.88,
+        "trend_val": -0.1157,
+        "fpoe": -5.7643
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 4.25,
+        "fpor": -5.69,
+        "trend_val": 0.0419,
+        "fpoe": -5.7319
+      }
+    },
+    {
+      "pick": 85,
+      "round": 8,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "30259",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "nfl_team": "SF",
+      "total_pts": 63.3,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/bz8CzByPT.XVa.jFd.6aDg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/30259.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.66,
+        "fpor": 4.335,
+        "trend_val": -0.123,
+        "fpoe": 4.458
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 12.66,
+        "fpor": 4.12,
+        "trend_val": 0.017,
+        "fpoe": 4.103
+      }
+    },
+    {
+      "pick": 86,
+      "round": 8,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "31960",
+      "player_name": "Tony Pollard",
+      "position": "RB",
+      "nfl_team": "TEN",
+      "total_pts": 39.7,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mb2xdrqiys6ktlcuah2n",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 7.94,
+        "fpor": -1.32,
+        "trend_val": -0.1299,
+        "fpoe": -1.1901
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 7.94,
+        "fpor": -1.52,
+        "trend_val": -0.0072,
+        "fpoe": -1.5128
+      }
+    },
+    {
+      "pick": 87,
+      "round": 8,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "28534",
+      "player_name": "Stefon Diggs",
+      "position": "WR",
+      "nfl_team": "WAS",
+      "total_pts": 44.0,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cemcexmscsarpvwhafln",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.8,
+        "fpor": -0.48,
+        "trend_val": -0.1364,
+        "fpoe": -0.3436
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 11.0,
+        "fpor": 1.06,
+        "trend_val": -0.0306,
+        "fpoe": 1.0906
+      }
+    },
+    {
+      "pick": 88,
+      "round": 8,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "42623",
+      "player_name": "Fernando Mendoza",
+      "position": "QB",
+      "nfl_team": "LV",
+      "total_pts": 0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.0,
+        "fpor": -12.348,
+        "trend_val": -0.1426,
+        "fpoe": -12.2054
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 0.0,
+        "fpor": -14.332,
+        "trend_val": -0.0532,
+        "fpoe": -14.2788
+      }
+    },
+    {
+      "pick": 89,
+      "round": 8,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "31838",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "nfl_team": "IND",
+      "total_pts": 47.34,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ohvvctuykzwrpqer7xgl",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.468,
+        "fpor": -2.88,
+        "trend_val": -0.1485,
+        "fpoe": -2.7315
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.468,
+        "fpor": -4.864,
+        "trend_val": -0.0751,
+        "fpoe": -4.7889
+      }
+    },
+    {
+      "pick": 90,
+      "round": 8,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "33514",
+      "player_name": "Chuba Hubbard",
+      "position": "RB",
+      "nfl_team": "CAR",
+      "total_pts": 75.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/84nO7y.ExPfjb.8M689CSQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/33514.1.png",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 18.75,
+        "fpor": 9.49,
+        "trend_val": -0.154,
+        "fpoe": 9.644
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 18.75,
+        "fpor": 9.29,
+        "trend_val": -0.0963,
+        "fpoe": 9.3863
+      }
+    },
+    {
+      "pick": 91,
+      "round": 8,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "34095",
+      "player_name": "Isaiah Likely",
+      "position": "TE",
+      "nfl_team": "NYG",
+      "total_pts": 68.9,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/EHF10aQeyuo41zClRCGe5A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202026/34095.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 13.78,
+        "fpor": 5.455,
+        "trend_val": -0.1593,
+        "fpoe": 5.6143
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 13.78,
+        "fpor": 5.24,
+        "trend_val": -0.1167,
+        "fpoe": 5.3567
+      }
+    },
+    {
+      "pick": 92,
+      "round": 8,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "31019",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "nfl_team": "PHI",
+      "total_pts": 31.4,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bafepstxu7vvxb9v5vua",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.28,
+        "fpor": -2.045,
+        "trend_val": -0.1643,
+        "fpoe": -1.8807
+      },
+      "injuries_off": {
+        "games_played": 3,
+        "fppg": 10.4667,
+        "fpor": 1.9267,
+        "trend_val": -0.1366,
+        "fpoe": 2.0633
+      }
+    },
+    {
+      "pick": 93,
+      "round": 8,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "33989",
+      "player_name": "Christian Watson",
+      "position": "WR",
+      "nfl_team": "GB",
+      "total_pts": 104.4,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/zdZ4n05lF0SOcdt4FXNbRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/33989.3.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 20.88,
+        "fpor": 11.6,
+        "trend_val": -0.169,
+        "fpoe": 11.769
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 20.88,
+        "fpor": 10.94,
+        "trend_val": -0.1558,
+        "fpoe": 11.0958
+      }
+    },
+    {
+      "pick": 94,
+      "round": 8,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "40926",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "nfl_team": "CAR",
+      "total_pts": 8.3,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/txl39rwjrs2fkm1shtxh",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 2.075,
+        "fpor": -7.185,
+        "trend_val": -0.1735,
+        "fpoe": -7.0115
+      },
+      "injuries_off": {
+        "games_played": 2,
+        "fppg": 4.15,
+        "fpor": -5.31,
+        "trend_val": -0.1743,
+        "fpoe": -5.1357
+      }
+    },
+    {
+      "pick": 95,
+      "round": 8,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "41877",
+      "player_name": "Harold Fannin Jr.",
+      "position": "TE",
+      "nfl_team": "CLE",
+      "total_pts": 42.7,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/JwOZzpNOcx7X.3gWJWdGHg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062025/41877.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.54,
+        "fpor": 0.215,
+        "trend_val": -0.1777,
+        "fpoe": 0.3927
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.54,
+        "fpor": 0.0,
+        "trend_val": -0.1923,
+        "fpoe": 0.1923
+      }
+    },
+    {
+      "pick": 96,
+      "round": 8,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "41825",
+      "player_name": "Tyler Shough",
+      "position": "QB",
+      "nfl_team": "NO",
+      "total_pts": 87.32,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/THgYM56gIICXgdIMCbs66w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202026/41825.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 17.464,
+        "fpor": 5.116,
+        "trend_val": -0.1817,
+        "fpoe": 5.2977
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 17.464,
+        "fpor": 3.132,
+        "trend_val": -0.2097,
+        "fpoe": 3.3417
+      }
+    },
+    {
+      "pick": 97,
+      "round": 9,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "33538",
+      "player_name": "Kenny Gainwell",
+      "position": "RB",
+      "nfl_team": "TB",
+      "total_pts": 21.3,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eo62l8ec8e3lzt86ihth",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 4.26,
+        "fpor": -5.0,
+        "trend_val": -0.1855,
+        "fpoe": -4.8145
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 4.26,
+        "fpor": -5.2,
+        "trend_val": -0.2265,
+        "fpoe": -4.9735
+      }
+    },
+    {
+      "pick": 98,
+      "round": 9,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "40126",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "nfl_team": "IND",
+      "total_pts": 34.9,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/2N3fbHpcxarK6OYUackvOQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40126.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.98,
+        "fpor": -2.3,
+        "trend_val": -0.1891,
+        "fpoe": -2.1109
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.98,
+        "fpor": -2.96,
+        "trend_val": -0.2427,
+        "fpoe": -2.7173
+      }
+    },
+    {
+      "pick": 99,
+      "round": 9,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "34042",
+      "player_name": "Malik Willis",
+      "position": "QB",
+      "nfl_team": "MIA",
+      "total_pts": 61.56,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/txvgdbwbryzyyqq6gfet",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.312,
+        "fpor": -0.036,
+        "trend_val": -0.1926,
+        "fpoe": 0.1566
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 12.312,
+        "fpor": -2.02,
+        "trend_val": -0.2585,
+        "fpoe": -1.7615
+      }
+    },
+    {
+      "pick": 100,
+      "round": 9,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "33100",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "nfl_team": "PIT",
+      "total_pts": 8.5,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mx2bxccuzmdvzbksypws",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 1.7,
+        "fpor": -7.56,
+        "trend_val": -0.1958,
+        "fpoe": -7.3642
+      },
+      "injuries_off": {
+        "games_played": 2,
+        "fppg": 4.25,
+        "fpor": -5.21,
+        "trend_val": -0.2737,
+        "fpoe": -4.9363
+      }
+    },
+    {
+      "pick": 101,
+      "round": 9,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "41845",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "nfl_team": "DEN",
+      "total_pts": 28.8,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/aAqi80yyrSD1W2OGK.E8Kg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/41845.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 5.76,
+        "fpor": -3.5,
+        "trend_val": -0.1989,
+        "fpoe": -3.3011
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 7.2,
+        "fpor": -2.26,
+        "trend_val": -0.2885,
+        "fpoe": -1.9715
+      }
+    },
+    {
+      "pick": 102,
+      "round": 9,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "32725",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "nfl_team": "DEN",
+      "total_pts": 33.6,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cevotvl3ho5h1mioruyg",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.72,
+        "fpor": -2.54,
+        "trend_val": -0.2018,
+        "fpoe": -2.3382
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.72,
+        "fpor": -2.74,
+        "trend_val": -0.3027,
+        "fpoe": -2.4373
+      }
+    },
+    {
+      "pick": 103,
+      "round": 9,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "34008",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "nfl_team": "IND",
+      "total_pts": 9.7,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcg9t51wgp3hicavmkmy",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 1.94,
+        "fpor": -7.34,
+        "trend_val": -0.2045,
+        "fpoe": -7.1355
+      },
+      "injuries_off": {
+        "games_played": 2,
+        "fppg": 4.85,
+        "fpor": -5.09,
+        "trend_val": -0.3165,
+        "fpoe": -4.7735
+      }
+    },
+    {
+      "pick": 104,
+      "round": 9,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "40242",
+      "player_name": "A.T. Perry",
+      "position": "WR",
+      "nfl_team": "",
+      "total_pts": 0.0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 0,
+        "fppg": 0.0,
+        "fpor": 0.0,
+        "trend_val": null,
+        "fpoe": null
+      },
+      "injuries_off": {
+        "games_played": 0,
+        "fppg": 0.0,
+        "fpor": 0.0,
+        "trend_val": null,
+        "fpoe": null
+      }
+    },
+    {
+      "pick": 105,
+      "round": 9,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "42010",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "nfl_team": "WAS",
+      "total_pts": 42.4,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qew4qhlj4yuf50voko61",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.48,
+        "fpor": -0.78,
+        "trend_val": -0.2096,
+        "fpoe": -0.5704
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.48,
+        "fpor": -0.98,
+        "trend_val": -0.3428,
+        "fpoe": -0.6372
+      }
+    },
+    {
+      "pick": 106,
+      "round": 9,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "31856",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "nfl_team": "GB",
+      "total_pts": 0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.0,
+        "fpor": -9.26,
+        "trend_val": -0.2119,
+        "fpoe": -9.0481
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 0.0,
+        "fpor": -9.46,
+        "trend_val": -0.3553,
+        "fpoe": -9.1047
+      }
+    },
+    {
+      "pick": 107,
+      "round": 9,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "40981",
+      "player_name": "Braelon Allen",
+      "position": "RB",
+      "nfl_team": "NYJ",
+      "total_pts": 42.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/44krz6SBfyvO2QoseAeVCQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08212026/40981.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.4,
+        "fpor": -0.86,
+        "trend_val": -0.2141,
+        "fpoe": -0.6459
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.4,
+        "fpor": -1.06,
+        "trend_val": -0.3674,
+        "fpoe": -0.6926
+      }
+    },
+    {
+      "pick": 108,
+      "round": 9,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "29325",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "nfl_team": "ARI",
+      "total_pts": 83.8,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qjswiunczrn5xmdiqhlz",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 16.76,
+        "fpor": 4.412,
+        "trend_val": -0.2162,
+        "fpoe": 4.6282
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 16.76,
+        "fpor": 2.428,
+        "trend_val": -0.3791,
+        "fpoe": 2.8071
+      }
+    },
+    {
+      "pick": 109,
+      "round": 10,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "100014",
+      "player_name": "Rams",
+      "position": "DEF",
+      "nfl_team": "LAR",
+      "total_pts": 35.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 7.0,
+        "fpor": 2.0,
+        "trend_val": -0.2182,
+        "fpoe": 2.2182
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 7.0,
+        "fpor": 2.0,
+        "trend_val": -0.3904,
+        "fpoe": 2.3904
+      }
+    },
+    {
+      "pick": 110,
+      "round": 10,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "41786",
+      "player_name": "Cam Ward",
+      "position": "QB",
+      "nfl_team": "TEN",
+      "total_pts": 61.74,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l7switu6stlwd2irm8yo",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.348,
+        "fpor": 0.0,
+        "trend_val": -0.2201,
+        "fpoe": 0.2201
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 12.348,
+        "fpor": -1.984,
+        "trend_val": -0.4014,
+        "fpoe": -1.5826
+      }
+    },
+    {
+      "pick": 111,
+      "round": 10,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "40962",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "nfl_team": "LAR",
+      "total_pts": 34.9,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/axzqbqjkrbwfzodwwakq",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.98,
+        "fpor": -2.28,
+        "trend_val": -0.2219,
+        "fpoe": -2.0581
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.98,
+        "fpor": -2.48,
+        "trend_val": -0.412,
+        "fpoe": -2.068
+      }
+    },
+    {
+      "pick": 112,
+      "round": 10,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "100007",
+      "player_name": "Broncos",
+      "position": "DEF",
+      "nfl_team": "DEN",
+      "total_pts": 63.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.6,
+        "fpor": 7.6,
+        "trend_val": -0.2236,
+        "fpoe": 7.8236
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 12.6,
+        "fpor": 7.6,
+        "trend_val": -0.4222,
+        "fpoe": 8.0222
+      }
+    },
+    {
+      "pick": 113,
+      "round": 10,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "32732",
+      "player_name": "AJ Dillon",
+      "position": "RB",
+      "nfl_team": "",
+      "total_pts": 0.0,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/imxxt8yrbrxptoxr1hw5",
+      "injuries_on": {
+        "games_played": 0,
+        "fppg": 0.0,
+        "fpor": 0.0,
+        "trend_val": null,
+        "fpoe": null
+      },
+      "injuries_off": {
+        "games_played": 0,
+        "fppg": 0.0,
+        "fpor": 0.0,
+        "trend_val": null,
+        "fpoe": null
+      }
+    },
+    {
+      "pick": 114,
+      "round": 10,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "40029",
+      "player_name": "Bryce Young",
+      "position": "QB",
+      "nfl_team": "CAR",
+      "total_pts": 93.62,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vcvhmxvxw2a3armle0af",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 23.405,
+        "fpor": 11.057,
+        "trend_val": -0.2267,
+        "fpoe": 11.2837
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 23.405,
+        "fpor": 9.073,
+        "trend_val": -0.4417,
+        "fpoe": 9.5147
+      }
+    },
+    {
+      "pick": 115,
+      "round": 10,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "40883",
+      "player_name": "Brian Thomas Jr.",
+      "position": "WR",
+      "nfl_team": "JAX",
+      "total_pts": 21.0,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/plnekkriys4cm11rnxwl",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 4.2,
+        "fpor": -5.08,
+        "trend_val": -0.2281,
+        "fpoe": -4.8519
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 4.2,
+        "fpor": -5.74,
+        "trend_val": -0.451,
+        "fpoe": -5.289
+      }
+    },
+    {
+      "pick": 116,
+      "round": 10,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "42655",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "nfl_team": "SF",
+      "total_pts": 0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.0,
+        "fpor": -9.28,
+        "trend_val": -0.2295,
+        "fpoe": -9.0505
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 0.0,
+        "fpor": -9.94,
+        "trend_val": -0.46,
+        "fpoe": -9.48
+      }
+    },
+    {
+      "pick": 117,
+      "round": 10,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "30197",
+      "player_name": "Chris Godwin Jr.",
+      "position": "WR",
+      "nfl_team": "TB",
+      "total_pts": 29.2,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ilkheljdx4hbjpisulke",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 5.84,
+        "fpor": -3.44,
+        "trend_val": -0.2308,
+        "fpoe": -3.2092
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 5.84,
+        "fpor": -4.1,
+        "trend_val": -0.4687,
+        "fpoe": -3.6313
+      }
+    },
+    {
+      "pick": 118,
+      "round": 10,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "33392",
+      "player_name": "Kyle Pitts Sr.",
+      "position": "TE",
+      "nfl_team": "ATL",
+      "total_pts": 21.9,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xczipzxvytnmvgznhhb4",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 4.38,
+        "fpor": -3.945,
+        "trend_val": -0.232,
+        "fpoe": -3.713
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 4.38,
+        "fpor": -4.16,
+        "trend_val": -0.4771,
+        "fpoe": -3.6829
+      }
+    },
+    {
+      "pick": 119,
+      "round": 10,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "40063",
+      "player_name": "Jayden Reed",
+      "position": "WR",
+      "nfl_team": "GB",
+      "total_pts": 4.4,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhb95fij1uo92ymqxpmg",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.88,
+        "fpor": -8.4,
+        "trend_val": -0.2331,
+        "fpoe": -8.1669
+      },
+      "injuries_off": {
+        "games_played": 2,
+        "fppg": 2.2,
+        "fpor": -7.74,
+        "trend_val": -0.4853,
+        "fpoe": -7.2547
+      }
+    },
+    {
+      "pick": 120,
+      "round": 10,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "26686",
+      "player_name": "Travis Kelce",
+      "position": "TE",
+      "nfl_team": "KC",
+      "total_pts": 45.6,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/ynhkrbJAJKmF5XgXM2ydDg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/26686.png",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 11.4,
+        "fpor": 3.075,
+        "trend_val": -0.2342,
+        "fpoe": 3.3092
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 11.4,
+        "fpor": 2.86,
+        "trend_val": -0.4932,
+        "fpoe": 3.3532
+      }
+    },
+    {
+      "pick": 121,
+      "round": 11,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "31896",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "nfl_team": "PIT",
+      "total_pts": 40.1,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kxql4sjfelubhxawu2zh",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.02,
+        "fpor": -1.26,
+        "trend_val": -0.2353,
+        "fpoe": -1.0247
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.02,
+        "fpor": -1.92,
+        "trend_val": -0.5008,
+        "fpoe": -1.4192
+      }
+    },
+    {
+      "pick": 122,
+      "round": 11,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "34320",
+      "player_name": "Jordan Mason",
+      "position": "RB",
+      "nfl_team": "MIN",
+      "total_pts": 11.9,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qeeucinnxl8mpzaw23hc",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 2.38,
+        "fpor": -6.88,
+        "trend_val": -0.2362,
+        "fpoe": -6.6438
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 11.9,
+        "fpor": 2.44,
+        "trend_val": -0.5082,
+        "fpoe": 2.9482
+      }
+    },
+    {
+      "pick": 123,
+      "round": 11,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "40971",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "nfl_team": "GB",
+      "total_pts": 37.7,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xp8sd4enimuk4zd0aqgu",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 7.54,
+        "fpor": -1.72,
+        "trend_val": -0.2372,
+        "fpoe": -1.4828
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 7.54,
+        "fpor": -1.92,
+        "trend_val": -0.5153,
+        "fpoe": -1.4047
+      }
+    },
+    {
+      "pick": 124,
+      "round": 11,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "42642",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "nfl_team": "PHI",
+      "total_pts": 0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.0,
+        "fpor": -9.28,
+        "trend_val": -0.2381,
+        "fpoe": -9.0419
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 0.0,
+        "fpor": -9.94,
+        "trend_val": -0.5222,
+        "fpoe": -9.4178
+      }
+    },
+    {
+      "pick": 125,
+      "round": 11,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "40819",
+      "player_name": "Brandon Aubrey",
+      "position": "K",
+      "nfl_team": "DAL",
+      "total_pts": 45.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/QFhJ3YtUbKOBqoSm.lOY6Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/40819.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.0,
+        "fpor": 2.0,
+        "trend_val": -0.2389,
+        "fpoe": 2.2389
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.0,
+        "fpor": 2.0,
+        "trend_val": -0.5289,
+        "fpoe": 2.5289
+      }
+    },
+    {
+      "pick": 126,
+      "round": 11,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "100033",
+      "player_name": "Ravens",
+      "position": "DEF",
+      "nfl_team": "BAL",
+      "total_pts": 45.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.0,
+        "fpor": 4.0,
+        "trend_val": -0.2397,
+        "fpoe": 4.2397
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.0,
+        "fpor": 4.0,
+        "trend_val": -0.5354,
+        "fpoe": 4.5354
+      }
+    },
+    {
+      "pick": 127,
+      "round": 11,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "100026",
+      "player_name": "Seahawks",
+      "position": "DEF",
+      "nfl_team": "SEA",
+      "total_pts": 51.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.2,
+        "fpor": 5.2,
+        "trend_val": -0.2404,
+        "fpoe": 5.4404
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 10.2,
+        "fpor": 5.2,
+        "trend_val": -0.5416,
+        "fpoe": 5.7416
+      }
+    },
+    {
+      "pick": 128,
+      "round": 11,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "42626",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "nfl_team": "TEN",
+      "total_pts": 19.1,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/k9TrMbXiaW_YxKds95cjag--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/42626.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 3.82,
+        "fpor": -5.46,
+        "trend_val": -0.2411,
+        "fpoe": -5.2189
+      },
+      "injuries_off": {
+        "games_played": 2,
+        "fppg": 9.55,
+        "fpor": -0.39,
+        "trend_val": -0.5477,
+        "fpoe": 0.1577
+      }
+    },
+    {
+      "pick": 129,
+      "round": 11,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "31010",
+      "player_name": "Courtland Sutton",
+      "position": "WR",
+      "nfl_team": "DEN",
+      "total_pts": 21.9,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kqwmqcrlrwmqcvfuguhs",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 4.38,
+        "fpor": -4.9,
+        "trend_val": -0.2418,
+        "fpoe": -4.6582
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 4.38,
+        "fpor": -5.56,
+        "trend_val": -0.5535,
+        "fpoe": -5.0065
+      }
+    },
+    {
+      "pick": 130,
+      "round": 11,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "40121",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "nfl_team": "ARI",
+      "total_pts": 49.58,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/W8_S7Ff5gcMbMBpBx_63rQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08052026/40121.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.916,
+        "fpor": 0.636,
+        "trend_val": -0.2425,
+        "fpoe": 0.8785
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.916,
+        "fpor": -0.024,
+        "trend_val": -0.5592,
+        "fpoe": 0.5352
+      }
+    },
+    {
+      "pick": 131,
+      "round": 11,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "40042",
+      "player_name": "Jordan Addison",
+      "position": "WR",
+      "nfl_team": "MIN",
+      "total_pts": 29.7,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/nn3eSJYNQea549YDPeNwQg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40042.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 5.94,
+        "fpor": -3.34,
+        "trend_val": -0.2431,
+        "fpoe": -3.0969
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 7.425,
+        "fpor": -2.515,
+        "trend_val": -0.5647,
+        "fpoe": -1.9503
+      }
+    },
+    {
+      "pick": 132,
+      "round": 11,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "42025",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "nfl_team": "CHI",
+      "total_pts": 60.8,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkkk3uuouhcobydqawro",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 12.16,
+        "fpor": 2.9,
+        "trend_val": -0.2436,
+        "fpoe": 3.1436
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 15.2,
+        "fpor": 5.74,
+        "trend_val": -0.57,
+        "fpoe": 6.31
+      }
+    },
+    {
+      "pick": 133,
+      "round": 12,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "30295",
+      "player_name": "Aaron Jones Sr.",
+      "position": "RB",
+      "nfl_team": "MIN",
+      "total_pts": 66.2,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/PghAktupcNVLfkjAyCUacQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08152025/30295.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 13.24,
+        "fpor": 3.98,
+        "trend_val": -0.2442,
+        "fpoe": 4.2242
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 13.24,
+        "fpor": 3.78,
+        "trend_val": -0.5751,
+        "fpoe": 4.3551
+      }
+    },
+    {
+      "pick": 134,
+      "round": 12,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "100008",
+      "player_name": "Lions",
+      "position": "DEF",
+      "nfl_team": "DET",
+      "total_pts": 36.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 7.2,
+        "fpor": 2.2,
+        "trend_val": -0.2447,
+        "fpoe": 2.4447
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 7.2,
+        "fpor": 2.2,
+        "trend_val": -0.5801,
+        "fpoe": 2.7801
+      }
+    },
+    {
+      "pick": 135,
+      "round": 12,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "100034",
+      "player_name": "Texans",
+      "position": "DEF",
+      "nfl_team": "HOU",
+      "total_pts": 31.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.2,
+        "fpor": 1.2,
+        "trend_val": -0.2452,
+        "fpoe": 1.4452
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.2,
+        "fpor": 1.2,
+        "trend_val": -0.5849,
+        "fpoe": 1.7849
+      }
+    },
+    {
+      "pick": 136,
+      "round": 12,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "42796",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "nfl_team": "KC",
+      "total_pts": 0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 0.0,
+        "fpor": -9.26,
+        "trend_val": -0.2456,
+        "fpoe": -9.0144
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 0.0,
+        "fpor": -9.46,
+        "trend_val": -0.5895,
+        "fpoe": -8.8705
+      }
+    },
+    {
+      "pick": 137,
+      "round": 12,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "31056",
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "nfl_team": "BAL",
+      "total_pts": 32.7,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u4xzz7tclch0tpzm9hhz",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.54,
+        "fpor": -1.785,
+        "trend_val": -0.2461,
+        "fpoe": -1.5389
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.54,
+        "fpor": -2.0,
+        "trend_val": -0.594,
+        "fpoe": -1.406
+      }
+    },
+    {
+      "pick": 138,
+      "round": 12,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "40048",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "nfl_team": "BUF",
+      "total_pts": 42.7,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z7k857flehljboaixj8m",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.54,
+        "fpor": 0.215,
+        "trend_val": -0.2465,
+        "fpoe": 0.4615
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.54,
+        "fpor": 0.0,
+        "trend_val": -0.5984,
+        "fpoe": 0.5984
+      }
+    },
+    {
+      "pick": 139,
+      "round": 12,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "42744",
+      "player_name": "Mike Washington Jr.",
+      "position": "RB",
+      "nfl_team": "LV",
+      "total_pts": 0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.0,
+        "fpor": -9.26,
+        "trend_val": -0.2469,
+        "fpoe": -9.0131
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 0.0,
+        "fpor": -9.46,
+        "trend_val": -0.6026,
+        "fpoe": -8.8574
+      }
+    },
+    {
+      "pick": 140,
+      "round": 12,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "40051",
+      "player_name": "Quentin Johnston",
+      "position": "WR",
+      "nfl_team": "LAC",
+      "total_pts": 14.6,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lyvsrjh4mjb4dqwp6shm",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 2.92,
+        "fpor": -6.36,
+        "trend_val": -0.2472,
+        "fpoe": -6.1128
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 3.65,
+        "fpor": -6.29,
+        "trend_val": -0.6067,
+        "fpoe": -5.6833
+      }
+    },
+    {
+      "pick": 141,
+      "round": 12,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "40231",
+      "player_name": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "nfl_team": "JAX",
+      "total_pts": 24.4,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pknd5uajvpvfd8c744im",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 4.88,
+        "fpor": -4.38,
+        "trend_val": -0.2476,
+        "fpoe": -4.1324
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 4.88,
+        "fpor": -4.58,
+        "trend_val": -0.6106,
+        "fpoe": -3.9694
+      }
+    },
+    {
+      "pick": 142,
+      "round": 12,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "34085",
+      "player_name": "Jake Ferguson",
+      "position": "TE",
+      "nfl_team": "DAL",
+      "total_pts": 33.7,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xpykb0tbosfwsn6dqstb",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.74,
+        "fpor": -1.585,
+        "trend_val": -0.2479,
+        "fpoe": -1.3371
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.74,
+        "fpor": -1.8,
+        "trend_val": -0.6145,
+        "fpoe": -1.1855
+      }
+    },
+    {
+      "pick": 143,
+      "round": 12,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "100017",
+      "player_name": "Patriots",
+      "position": "DEF",
+      "nfl_team": "",
+      "total_pts": 0.0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 0,
+        "fppg": 0.0,
+        "fpor": 0.0,
+        "trend_val": null,
+        "fpoe": null
+      },
+      "injuries_off": {
+        "games_played": 0,
+        "fppg": 0.0,
+        "fpor": 0.0,
+        "trend_val": null,
+        "fpoe": null
+      }
+    },
+    {
+      "pick": 144,
+      "round": 12,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "100005",
+      "player_name": "Browns",
+      "position": "DEF",
+      "nfl_team": "CLE",
+      "total_pts": 43.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.6,
+        "fpor": 3.6,
+        "trend_val": -0.2485,
+        "fpoe": 3.8485
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.6,
+        "fpor": 3.6,
+        "trend_val": -0.6217,
+        "fpoe": 4.2217
+      }
+    },
+    {
+      "pick": 145,
+      "round": 13,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "28378",
+      "player_name": "Jason Myers",
+      "position": "K",
+      "nfl_team": "SEA",
+      "total_pts": 51.0,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zcd7q9loflr0t5bsvzig",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.2,
+        "fpor": 3.2,
+        "trend_val": -0.2488,
+        "fpoe": 3.4488
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 10.2,
+        "fpor": 3.2,
+        "trend_val": -0.6252,
+        "fpoe": 3.8252
+      }
+    },
+    {
+      "pick": 146,
+      "round": 13,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "29792",
+      "player_name": "Ka'imi Fairbairn",
+      "position": "K",
+      "nfl_team": "HOU",
+      "total_pts": 54.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/.c6NIw1lGRTM_O_gZeDW4w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192025/29792.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.8,
+        "fpor": 3.8,
+        "trend_val": -0.2491,
+        "fpoe": 4.0491
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 10.8,
+        "fpor": 3.8,
+        "trend_val": -0.6285,
+        "fpoe": 4.4285
+      }
+    },
+    {
+      "pick": 147,
+      "round": 13,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "34344",
+      "player_name": "Cameron Dicker",
+      "position": "K",
+      "nfl_team": "LAC",
+      "total_pts": 31.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/pZX.ilneMov14gFOC.lK.g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092026/34344.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.2,
+        "fpor": -0.8,
+        "trend_val": -0.2493,
+        "fpoe": -0.5507
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.2,
+        "fpor": -0.8,
+        "trend_val": -0.6318,
+        "fpoe": -0.1682
+      }
+    },
+    {
+      "pick": 148,
+      "round": 13,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "100021",
+      "player_name": "Eagles",
+      "position": "DEF",
+      "nfl_team": "PHI",
+      "total_pts": 10.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 2.0,
+        "fpor": -3.0,
+        "trend_val": -0.2496,
+        "fpoe": -2.7504
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 2.0,
+        "fpor": -3.0,
+        "trend_val": -0.6349,
+        "fpoe": -2.3651
+      }
+    },
+    {
+      "pick": 149,
+      "round": 13,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "40095",
+      "player_name": "Tank Bigsby",
+      "position": "RB",
+      "nfl_team": "PHI",
+      "total_pts": 16.6,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vfkdjfpiyrcuzahrmfvn",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 3.32,
+        "fpor": -5.94,
+        "trend_val": -0.2498,
+        "fpoe": -5.6902
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 4.15,
+        "fpor": -5.31,
+        "trend_val": -0.6379,
+        "fpoe": -4.6721
+      }
+    },
+    {
+      "pick": 150,
+      "round": 13,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "29269",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "nfl_team": "NE",
+      "total_pts": 31.2,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cvlunbqgztudbhjrug7l",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.24,
+        "fpor": -2.085,
+        "trend_val": -0.25,
+        "fpoe": -1.835
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.24,
+        "fpor": -2.3,
+        "trend_val": -0.6409,
+        "fpoe": -1.6591
+      }
+    },
+    {
+      "pick": 151,
+      "round": 13,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "42646",
+      "player_name": "KC Concepcion Jr.",
+      "position": "WR",
+      "nfl_team": "CLE",
+      "total_pts": 5.8,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 1.16,
+        "fpor": -8.12,
+        "trend_val": -0.2502,
+        "fpoe": -7.8698
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 5.8,
+        "fpor": -4.14,
+        "trend_val": -0.6437,
+        "fpoe": -3.4963
+      }
+    },
+    {
+      "pick": 152,
+      "round": 13,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "100016",
+      "player_name": "Vikings",
+      "position": "DEF",
+      "nfl_team": "MIN",
+      "total_pts": 94.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 18.8,
+        "fpor": 13.8,
+        "trend_val": -0.2504,
+        "fpoe": 14.0504
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 18.8,
+        "fpor": 13.8,
+        "trend_val": -0.6464,
+        "fpoe": 14.4464
+      }
+    },
+    {
+      "pick": 153,
+      "round": 13,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "41312",
+      "player_name": "Harrison Mevis",
+      "position": "K",
+      "nfl_team": "LAR",
+      "total_pts": 29.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/y3t1lgmXypqtZ__kodxkwA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/41312.2.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 5.8,
+        "fpor": -1.2,
+        "trend_val": -0.2506,
+        "fpoe": -0.9494
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 5.8,
+        "fpor": -1.2,
+        "trend_val": -0.6491,
+        "fpoe": -0.5509
+      }
+    },
+    {
+      "pick": 154,
+      "round": 13,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "30346",
+      "player_name": "Harrison Butker",
+      "position": "K",
+      "nfl_team": "KC",
+      "total_pts": 36.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/g6ka6HNX1pNj8nv3uCYYRA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/30346.png",
+      "injuries_on": {
+        "games_played": 4,
+        "fppg": 9.0,
+        "fpor": 2.0,
+        "trend_val": -0.2508,
+        "fpoe": 2.2508
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 9.0,
+        "fpor": 2.0,
+        "trend_val": -0.6517,
+        "fpoe": 2.6517
+      }
+    },
+    {
+      "pick": 155,
+      "round": 13,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "41062",
+      "player_name": "Cam Little",
+      "position": "K",
+      "nfl_team": "JAX",
+      "total_pts": 47.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/t7UkDRo.julV_UT4jZ7CHA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08182026/41062.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.4,
+        "fpor": 2.4,
+        "trend_val": -0.2509,
+        "fpoe": 2.6509
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.4,
+        "fpor": 2.4,
+        "trend_val": -0.6542,
+        "fpoe": 3.0542
+      }
+    },
+    {
+      "pick": 156,
+      "round": 13,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "41093",
+      "player_name": "Will Reichard",
+      "position": "K",
+      "nfl_team": "MIN",
+      "total_pts": 68.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/raWX2nlQ5byL7dpG1YPu1w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/41093.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 13.6,
+        "fpor": 6.6,
+        "trend_val": -0.2511,
+        "fpoe": 6.8511
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 13.6,
+        "fpor": 6.6,
+        "trend_val": -0.6566,
+        "fpoe": 7.2566
+      }
+    },
+    {
+      "pick": 157,
+      "round": 14,
+      "team_id": "10",
+      "team_name": "Sandbaggers",
+      "player_id": "31868",
+      "player_name": "Deebo Samuel Sr.",
+      "position": "WR",
+      "nfl_team": "SF",
+      "total_pts": 46.4,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ntgyhqg6hq7fanhhsqiw",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 9.28,
+        "fpor": 0.0,
+        "trend_val": -0.2512,
+        "fpoe": 0.2512
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 9.28,
+        "fpor": -0.66,
+        "trend_val": -0.6589,
+        "fpoe": -0.0011
+      }
+    },
+    {
+      "pick": 158,
+      "round": 14,
+      "team_id": "3",
+      "team_name": "Fourth Down Syndrome",
+      "player_id": "40980",
+      "player_name": "Ray Davis",
+      "position": "RB",
+      "nfl_team": "BUF",
+      "total_pts": 5.3,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xibwzhrl6q5xkgh3utug",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 1.06,
+        "fpor": -8.2,
+        "trend_val": -0.2514,
+        "fpoe": -7.9486
+      },
+      "injuries_off": {
+        "games_played": 4,
+        "fppg": 1.325,
+        "fpor": -8.135,
+        "trend_val": -0.6611,
+        "fpoe": -7.4739
+      }
+    },
+    {
+      "pick": 159,
+      "round": 14,
+      "team_id": "5",
+      "team_name": "Island of Misfit Boys",
+      "player_id": "42638",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "nfl_team": "NYJ",
+      "total_pts": 0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.0,
+        "fpor": -8.325,
+        "trend_val": -0.2515,
+        "fpoe": -8.0735
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 0.0,
+        "fpor": -8.54,
+        "trend_val": -0.6633,
+        "fpoe": -7.8767
+      }
+    },
+    {
+      "pick": 160,
+      "round": 14,
+      "team_id": "8",
+      "team_name": "Jake the Dog",
+      "player_id": "7200",
+      "player_name": "Aaron Rodgers",
+      "position": "QB",
+      "nfl_team": "PIT",
+      "total_pts": 84.16,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/Oj.vpAoZybhxtVc2aGTr6A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202025/7200.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 16.832,
+        "fpor": 4.484,
+        "trend_val": -0.2516,
+        "fpoe": 4.7356
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 16.832,
+        "fpor": 2.5,
+        "trend_val": -0.6654,
+        "fpoe": 3.1654
+      }
+    },
+    {
+      "pick": 161,
+      "round": 14,
+      "team_id": "12",
+      "team_name": "Tyrunt The Ball",
+      "player_id": "33537",
+      "player_name": "Evan McPherson",
+      "position": "K",
+      "nfl_team": "CIN",
+      "total_pts": 54.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/a.gGbSeP5d9HGqnqxc4e6A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/33537.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.8,
+        "fpor": 3.8,
+        "trend_val": -0.2518,
+        "fpoe": 4.0518
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 10.8,
+        "fpor": 3.8,
+        "trend_val": -0.6675,
+        "fpoe": 4.4675
+      }
+    },
+    {
+      "pick": 162,
+      "round": 14,
+      "team_id": "11",
+      "team_name": "The Mania",
+      "player_id": "40075",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "nfl_team": "SEA",
+      "total_pts": 0,
+      "photo_url": "",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 0.0,
+        "fpor": -9.26,
+        "trend_val": -0.2519,
+        "fpoe": -9.0081
+      },
+      "injuries_off": {
+        "games_played": 1,
+        "fppg": 0.0,
+        "fpor": -9.46,
+        "trend_val": -0.6694,
+        "fpoe": -8.7906
+      }
+    },
+    {
+      "pick": 163,
+      "round": 14,
+      "team_id": "7",
+      "team_name": "Mean Bean Disappointments",
+      "player_id": "29754",
+      "player_name": "Wil Lutz",
+      "position": "K",
+      "nfl_team": "DEN",
+      "total_pts": 33.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/7mwVrrnNNXrue_rUqE1Qjg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/29754.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 6.6,
+        "fpor": -0.4,
+        "trend_val": -0.252,
+        "fpoe": -0.148
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 6.6,
+        "fpor": -0.4,
+        "trend_val": -0.6714,
+        "fpoe": 0.2714
+      }
+    },
+    {
+      "pick": 164,
+      "round": 14,
+      "team_id": "2",
+      "team_name": "Gettin Blitzed",
+      "player_id": "100023",
+      "player_name": "Steelers",
+      "position": "DEF",
+      "nfl_team": "PIT",
+      "total_pts": 43.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.6,
+        "fpor": 3.6,
+        "trend_val": -0.2521,
+        "fpoe": 3.8521
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.6,
+        "fpor": 3.6,
+        "trend_val": -0.6732,
+        "fpoe": 4.2732
+      }
+    },
+    {
+      "pick": 165,
+      "round": 14,
+      "team_id": "4",
+      "team_name": "Bla$tin A$$",
+      "player_id": "41988",
+      "player_name": "Tyler Loop",
+      "position": "K",
+      "nfl_team": "BAL",
+      "total_pts": 52.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/drRfrYZU6.gqEiMhBwX0og--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/41988.1.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 10.4,
+        "fpor": 3.4,
+        "trend_val": -0.2522,
+        "fpoe": 3.6522
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 10.4,
+        "fpor": 3.4,
+        "trend_val": -0.675,
+        "fpoe": 4.075
+      }
+    },
+    {
+      "pick": 166,
+      "round": 14,
+      "team_id": "1",
+      "team_name": "Release the Rothstein Files",
+      "player_id": "100030",
+      "player_name": "Jaguars",
+      "position": "DEF",
+      "nfl_team": "JAX",
+      "total_pts": 26.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 5.2,
+        "fpor": 0.2,
+        "trend_val": -0.2523,
+        "fpoe": 0.4523
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 5.2,
+        "fpor": 0.2,
+        "trend_val": -0.6767,
+        "fpoe": 0.8767
+      }
+    },
+    {
+      "pick": 167,
+      "round": 14,
+      "team_id": "6",
+      "team_name": "Carrie's Quads",
+      "player_id": "40078",
+      "player_name": "Brenton Strange",
+      "position": "TE",
+      "nfl_team": "JAX",
+      "total_pts": 40.0,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/devxzxwf1sfficgncggm",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 8.0,
+        "fpor": -0.325,
+        "trend_val": -0.2524,
+        "fpoe": -0.0726
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 8.0,
+        "fpor": -0.54,
+        "trend_val": -0.6784,
+        "fpoe": 0.1384
+      }
+    },
+    {
+      "pick": 168,
+      "round": 14,
+      "team_id": "9",
+      "team_name": "NoRtHwEsTeRn WaLk SiGn",
+      "player_id": "31107",
+      "player_name": "Dalton Schultz",
+      "position": "TE",
+      "nfl_team": "HOU",
+      "total_pts": 37.4,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/aqgFCrZBTaL2j.0h8.mJyQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/31107.2.png",
+      "injuries_on": {
+        "games_played": 5,
+        "fppg": 7.48,
+        "fpor": -0.845,
+        "trend_val": -0.2524,
+        "fpoe": -0.5926
+      },
+      "injuries_off": {
+        "games_played": 5,
+        "fppg": 7.48,
+        "fpor": -1.06,
+        "trend_val": -0.68,
+        "fpoe": -0.38
+      }
+    }
+  ]
+}

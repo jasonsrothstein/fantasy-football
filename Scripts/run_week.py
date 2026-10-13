@@ -81,14 +81,16 @@ def wipe_generated(season: int, target_week: int) -> None:
     # rebuilt from scratch to avoid out-of-order contamination.
     remove_if_exists(DATA / str(season) / "player_scores.json", "player_scores.json")
 
+    # draft_analysis.json is rebuilt per target_week — wipe so it never lags.
+    remove_if_exists(DATA / str(season) / "draft_analysis.json", "draft_analysis.json")
+
     # Timeline JSONs and HTML files for every week up to target.
     for week in range(1, target_week + 1):
         remove_if_exists(
             DATA / str(season) / "timelines" / f"week_{week:02d}.json",
             f"timelines/week_{week:02d}.json",
         )
-        remove_if_exists(ROOT / f"week_{week}_matchups.html", f"week_{week}_matchups.html")
-        # docs/ copy (published via GitHub Pages etc.)
+        # HTML is written directly to docs/ (no root-level copy).
         remove_if_exists(DOCS / f"week_{week}_matchups.html", f"docs/week_{week}_matchups.html")
 
     print()
@@ -180,7 +182,10 @@ def main() -> None:
     if not args.only_html:
         wipe_generated(season, target_week)
 
-    # ── process each week ─────────────────────────────────────────────
+    # ── pass 1: fetch + build timelines ──────────────────────────────
+    # Must complete for ALL weeks before draft analysis runs, because
+    # build_timelines.py writes player_scores.json incrementally and
+    # build_draft_analysis.py reads the fully-accumulated file.
     for week in range(1, target_week + 1):
 
         print(f"\n{'─' * 62}")
@@ -218,6 +223,32 @@ def main() -> None:
                 f"Build timeline  week {week}",
             )
 
+    # ── build draft analysis (once, after all timelines) ─────────────
+    # player_scores.json is now fully built, so build_draft_analysis.py
+    # can read it safely.  Skipped in --only-html mode (data-build step).
+    draft_json = DATA / str(season) / "draft.json"
+    if args.only_html:
+        print(
+            f"\n  [draft analysis] Skipped in --only-html mode "
+            f"(using existing draft_analysis.json)."
+        )
+    elif draft_json.exists():
+        run(
+            [
+                sys.executable, SCRIPTS / "build_draft_analysis.py",
+                "--season", str(season),
+                "--week",   str(target_week),
+            ],
+            f"Build draft analysis  (through week {target_week})",
+        )
+    else:
+        print(
+            f"\n  [draft analysis] Skipped – {draft_json.relative_to(ROOT)} not found.\n"
+            f"  Run fetch_season.py --fetch-draft to download draft results first."
+        )
+
+    # ── pass 2: generate HTML for all weeks ───────────────────────────
+    for week in range(1, target_week + 1):
         # ── 3. GENERATE HTML ──────────────────────────────────────────
         timeline_path = DATA / str(season) / "timelines" / f"week_{week:02d}.json"
         run(
@@ -232,7 +263,7 @@ def main() -> None:
     # ── done ──────────────────────────────────────────────────────────
     print(f"\n{'#' * 62}")
     print(f"  ✓  Pipeline complete  (weeks 1–{target_week} rebuilt)")
-    print(f"  Open:  week_{target_week}_matchups.html")
+    print(f"  Open:  docs/week_{target_week}_matchups.html")
     print(f"{'#' * 62}\n")
 
 
