@@ -1,39 +1,39 @@
 {
   "season": 2026,
-  "through_week": 5,
+  "through_week": 6,
   "replacement": {
     "injuries_on": {
-      "QB": 12.348,
-      "RB": 9.26,
-      "WR": 9.28,
-      "TE": 8.325,
-      "K": 7.0,
-      "DEF": 5.0
+      "QB": 11.61,
+      "RB": 7.9833,
+      "WR": 9.5,
+      "TE": 7.8167,
+      "K": 7.6667,
+      "DEF": 5.6667
     },
     "injuries_off": {
-      "QB": 14.332,
-      "RB": 9.46,
-      "WR": 9.94,
-      "TE": 8.54,
-      "K": 7.0,
-      "DEF": 5.0
+      "QB": 15.0933,
+      "RB": 9.12,
+      "WR": 9.92,
+      "TE": 8.3333,
+      "K": 8.0,
+      "DEF": 5.6667
     }
   },
   "trendline": {
     "injuries_on": {
-      "a": 13.0602,
-      "b": 0.05415,
-      "c": -0.2539
+      "a": 12.3169,
+      "b": 0.043998,
+      "c": -0.3919
     },
     "injuries_off": {
-      "a": 12.2663,
-      "b": 0.03295,
-      "c": -0.7284
+      "a": 11.7551,
+      "b": 0.032054,
+      "c": -1.0369
     }
   },
   "trendline_std": {
-    "injuries_on": 5.4864,
-    "injuries_off": 5.0497
+    "injuries_on": 5.329,
+    "injuries_off": 4.772
   },
   "picks": [
     {
@@ -45,21 +45,21 @@
       "player_name": "Josh Allen",
       "position": "QB",
       "nfl_team": "BUF",
-      "total_pts": 146.46,
+      "total_pts": 164.76,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/z4qe7sEEXVyMrm0j1CeEww--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/30977.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 29.292,
-        "fpor": 16.944,
-        "trend_val": 12.1179,
-        "fpoe": 4.8261
+        "games_played": 6,
+        "fppg": 27.46,
+        "fpor": 15.85,
+        "trend_val": 11.3948,
+        "fpoe": 4.4552
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 29.292,
-        "fpor": 14.96,
-        "trend_val": 11.1403,
-        "fpoe": 3.8197
+        "games_played": 6,
+        "fppg": 27.46,
+        "fpor": 12.3667,
+        "trend_val": 10.3474,
+        "fpoe": 2.0193
       }
     },
     {
@@ -76,16 +76,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 28.84,
-        "fpor": 19.58,
-        "trend_val": 11.4658,
-        "fpoe": 8.1142
+        "fpor": 20.8567,
+        "trend_val": 10.8875,
+        "fpoe": 9.9692
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 28.84,
-        "fpor": 19.38,
-        "trend_val": 10.7556,
-        "fpoe": 8.6244
+        "fpor": 19.72,
+        "trend_val": 9.9883,
+        "fpoe": 9.7317
       }
     },
     {
@@ -97,21 +97,21 @@
       "player_name": "Bijan Robinson",
       "position": "RB",
       "nfl_team": "ATL",
-      "total_pts": 117.2,
+      "total_pts": 123.5,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/V5nNwT6sRKYHH3N.NzXTlw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/40055.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 23.44,
-        "fpor": 14.18,
-        "trend_val": 10.848,
-        "fpoe": 3.332
+        "games_played": 6,
+        "fppg": 20.5833,
+        "fpor": 12.6,
+        "trend_val": 10.402,
+        "fpoe": 2.198
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 23.44,
-        "fpor": 13.98,
-        "trend_val": 10.3834,
-        "fpoe": 3.5966
+        "games_played": 6,
+        "fppg": 20.5833,
+        "fpor": 11.4633,
+        "trend_val": 9.6405,
+        "fpoe": 1.8228
       }
     },
     {
@@ -126,18 +126,18 @@
       "total_pts": 81.08,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/LlCKxy3ouhI2arFK1ZfnBw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/31002.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 16.216,
-        "fpor": 3.868,
-        "trend_val": 10.2629,
-        "fpoe": -6.3949
+        "games_played": 6,
+        "fppg": 13.5133,
+        "fpor": 1.9033,
+        "trend_val": 9.9374,
+        "fpoe": -8.0341
       },
       "injuries_off": {
         "games_played": 4,
         "fppg": 20.27,
-        "fpor": 5.938,
-        "trend_val": 10.0232,
-        "fpoe": -4.0852
+        "fpor": 5.1767,
+        "trend_val": 9.3036,
+        "fpoe": -4.1269
       }
     },
     {
@@ -149,21 +149,21 @@
       "player_name": "Drake Maye",
       "position": "QB",
       "nfl_team": "NE",
-      "total_pts": 88.22,
+      "total_pts": 113.02,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/3cTm93LmVVwV1Y1Wpli0KQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40881.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 17.644,
-        "fpor": 5.296,
-        "trend_val": 9.7085,
-        "fpoe": -4.4125
+        "games_played": 6,
+        "fppg": 18.8367,
+        "fpor": 7.2267,
+        "trend_val": 9.4927,
+        "fpoe": -2.266
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 17.644,
-        "fpor": 3.312,
-        "trend_val": 9.6747,
-        "fpoe": -6.3627
+        "games_played": 6,
+        "fppg": 18.8367,
+        "fpor": 3.7434,
+        "trend_val": 8.9774,
+        "fpoe": -5.234
       }
     },
     {
@@ -175,21 +175,21 @@
       "player_name": "Jaxon Smith-Njigba",
       "position": "WR",
       "nfl_team": "SEA",
-      "total_pts": 129.96,
+      "total_pts": 150.36,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/WH5iLZg9SOqbBd5cLeHEbw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08072026/40041.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 25.992,
-        "fpor": 16.712,
-        "trend_val": 9.1834,
-        "fpoe": 7.5286
+        "games_played": 6,
+        "fppg": 25.06,
+        "fpor": 15.56,
+        "trend_val": 9.0673,
+        "fpoe": 6.4927
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 25.992,
-        "fpor": 16.052,
-        "trend_val": 9.3375,
-        "fpoe": 6.7145
+        "games_played": 6,
+        "fppg": 25.06,
+        "fpor": 15.14,
+        "trend_val": 8.6615,
+        "fpoe": 6.4785
       }
     },
     {
@@ -201,21 +201,21 @@
       "player_name": "Christian McCaffrey",
       "position": "RB",
       "nfl_team": "SF",
-      "total_pts": 81.8,
+      "total_pts": 108.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/hidp2GbL3wMTfnQeMjwvnw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/30121.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 16.36,
-        "fpor": 7.1,
-        "trend_val": 8.686,
-        "fpoe": -1.586
+        "games_played": 6,
+        "fppg": 18.0,
+        "fpor": 10.0167,
+        "trend_val": 8.6601,
+        "fpoe": 1.3566
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 16.36,
-        "fpor": 6.9,
-        "trend_val": 9.0113,
-        "fpoe": -2.1113
+        "games_played": 6,
+        "fppg": 18.0,
+        "fpor": 8.88,
+        "trend_val": 8.3556,
+        "fpoe": 0.5244
       }
     },
     {
@@ -232,16 +232,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 13.68,
-        "fpor": 4.4,
-        "trend_val": 8.2147,
-        "fpoe": -3.8147
+        "fpor": 4.18,
+        "trend_val": 8.2705,
+        "fpoe": -4.0905
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 13.68,
-        "fpor": 3.74,
-        "trend_val": 8.6956,
-        "fpoe": -4.9556
+        "fpor": 3.76,
+        "trend_val": 8.0593,
+        "fpoe": -4.2993
       }
     },
     {
@@ -253,21 +253,21 @@
       "player_name": "Puka Nacua",
       "position": "WR",
       "nfl_team": "LAR",
-      "total_pts": 64.3,
+      "total_pts": 75.3,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/ScG6X1txLlmgHXWOsHYFzg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40168.2.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 12.86,
-        "fpor": 3.58,
-        "trend_val": 7.7684,
-        "fpoe": -4.1884
+        "games_played": 6,
+        "fppg": 12.55,
+        "fpor": 3.05,
+        "trend_val": 7.8976,
+        "fpoe": -4.8476
       },
       "injuries_off": {
-        "games_played": 3,
-        "fppg": 21.4333,
-        "fpor": 11.4933,
-        "trend_val": 8.3901,
-        "fpoe": 3.1032
+        "games_played": 4,
+        "fppg": 18.825,
+        "fpor": 8.905,
+        "trend_val": 7.7723,
+        "fpoe": 1.1327
       }
     },
     {
@@ -279,21 +279,21 @@
       "player_name": "James Cook III",
       "position": "RB",
       "nfl_team": "BUF",
-      "total_pts": 89.8,
+      "total_pts": 112.6,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/phPvtlUh.MceOTZItKh_AA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08282024/34019.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 17.96,
-        "fpor": 8.7,
-        "trend_val": 7.3455,
-        "fpoe": 1.3545
+        "games_played": 6,
+        "fppg": 18.7667,
+        "fpor": 10.7834,
+        "trend_val": 7.5408,
+        "fpoe": 3.2426
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 17.96,
-        "fpor": 8.5,
-        "trend_val": 8.0945,
-        "fpoe": 0.4055
+        "games_played": 6,
+        "fppg": 18.7667,
+        "fpor": 9.6467,
+        "trend_val": 7.4944,
+        "fpoe": 2.1523
       }
     },
     {
@@ -305,21 +305,21 @@
       "player_name": "Jonathan Taylor",
       "position": "RB",
       "nfl_team": "IND",
-      "total_pts": 90.9,
+      "total_pts": 111.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/gdJl658WYcV.dR7omhnwcg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/32711.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 18.18,
-        "fpor": 8.92,
-        "trend_val": 6.9449,
-        "fpoe": 1.9751
+        "games_played": 6,
+        "fppg": 18.5,
+        "fpor": 10.5167,
+        "trend_val": 7.1993,
+        "fpoe": 3.3174
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 18.18,
-        "fpor": 8.72,
-        "trend_val": 7.8086,
-        "fpoe": 0.9114
+        "games_played": 6,
+        "fppg": 18.5,
+        "fpor": 9.38,
+        "trend_val": 7.2253,
+        "fpoe": 2.1547
       }
     },
     {
@@ -336,16 +336,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 20.848,
-        "fpor": 8.5,
-        "trend_val": 6.5655,
-        "fpoe": 1.9345
+        "fpor": 9.238,
+        "trend_val": 6.8726,
+        "fpoe": 2.3654
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 20.848,
-        "fpor": 6.516,
-        "trend_val": 7.5319,
-        "fpoe": -1.0159
+        "fpor": 5.7547,
+        "trend_val": 6.9647,
+        "fpoe": -1.21
       }
     },
     {
@@ -362,16 +362,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 4.22,
-        "fpor": -5.04,
-        "trend_val": 6.206,
-        "fpoe": -11.246
+        "fpor": -3.7633,
+        "trend_val": 6.5599,
+        "fpoe": -10.3232
       },
       "injuries_off": {
         "games_played": 3,
         "fppg": 7.0333,
-        "fpor": -2.4267,
-        "trend_val": 7.2641,
-        "fpoe": -9.6908
+        "fpor": -2.0867,
+        "trend_val": 6.7123,
+        "fpoe": -8.799
       }
     },
     {
@@ -388,16 +388,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 17.34,
-        "fpor": 8.06,
-        "trend_val": 5.8655,
-        "fpoe": 2.1945
+        "fpor": 7.84,
+        "trend_val": 6.2607,
+        "fpoe": 1.5793
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 17.34,
-        "fpor": 7.4,
-        "trend_val": 7.0051,
-        "fpoe": 0.3949
+        "fpor": 7.42,
+        "trend_val": 6.4678,
+        "fpoe": 0.9522
       }
     },
     {
@@ -409,21 +409,21 @@
       "player_name": "Jayden Daniels",
       "position": "QB",
       "nfl_team": "WAS",
-      "total_pts": 65.66,
+      "total_pts": 87.66,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/CQnydoRKTgjiOU.ERkugfQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08252026/40896.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 13.132,
-        "fpor": 0.784,
-        "trend_val": 5.543,
-        "fpoe": -4.759
+        "games_played": 6,
+        "fppg": 14.61,
+        "fpor": 3.0,
+        "trend_val": 5.9743,
+        "fpoe": -2.9743
       },
       "injuries_off": {
-        "games_played": 3,
-        "fppg": 21.8867,
-        "fpor": 7.5547,
-        "trend_val": 6.7544,
-        "fpoe": 0.8003
+        "games_played": 4,
+        "fppg": 21.915,
+        "fpor": 6.8217,
+        "trend_val": 6.2311,
+        "fpoe": 0.5906
       }
     },
     {
@@ -438,18 +438,18 @@
       "total_pts": 27.4,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n6uymxssgiicjmxkzxoc",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 5.48,
-        "fpor": -6.868,
-        "trend_val": 5.2374,
-        "fpoe": -12.1054
+        "games_played": 6,
+        "fppg": 4.5667,
+        "fpor": -7.0433,
+        "trend_val": 5.7003,
+        "fpoe": -12.7436
       },
       "injuries_off": {
         "games_played": 2,
         "fppg": 13.7,
-        "fpor": -0.632,
-        "trend_val": 6.5118,
-        "fpoe": -7.1438
+        "fpor": -1.3933,
+        "trend_val": 6.0018,
+        "fpoe": -7.3951
       }
     },
     {
@@ -464,18 +464,18 @@
       "total_pts": 21.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/VXOmjaMBllUqGug6vTs48A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08212026/30972.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 4.2,
-        "fpor": -5.06,
-        "trend_val": 4.948,
-        "fpoe": -10.008
+        "games_played": 6,
+        "fppg": 3.5,
+        "fpor": -4.4833,
+        "trend_val": 5.438,
+        "fpoe": -9.9213
       },
       "injuries_off": {
         "games_played": 4,
         "fppg": 5.25,
-        "fpor": -4.21,
-        "trend_val": 6.2772,
-        "fpoe": -10.4872
+        "fpor": -3.87,
+        "trend_val": 5.7798,
+        "fpoe": -9.6498
       }
     },
     {
@@ -492,16 +492,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 10.84,
-        "fpor": 1.56,
-        "trend_val": 4.6738,
-        "fpoe": -3.1138
+        "fpor": 1.34,
+        "trend_val": 5.1871,
+        "fpoe": -3.8471
       },
       "injuries_off": {
         "games_played": 4,
         "fppg": 13.55,
-        "fpor": 3.61,
-        "trend_val": 6.0501,
-        "fpoe": -2.4401
+        "fpor": 3.63,
+        "trend_val": 5.5647,
+        "fpoe": -1.9347
       }
     },
     {
@@ -513,21 +513,21 @@
       "player_name": "Derrick Henry",
       "position": "RB",
       "nfl_team": "BAL",
-      "total_pts": 109.8,
+      "total_pts": 114.3,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/OwHwpsZEkLgy3PwDzhfnAQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/29279.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 21.96,
-        "fpor": 12.7,
-        "trend_val": 4.414,
-        "fpoe": 8.286
+        "games_played": 6,
+        "fppg": 19.05,
+        "fpor": 11.0667,
+        "trend_val": 4.947,
+        "fpoe": 6.1197
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 21.96,
-        "fpor": 12.5,
-        "trend_val": 5.8304,
-        "fpoe": 6.6696
+        "games_played": 6,
+        "fppg": 19.05,
+        "fpor": 9.93,
+        "trend_val": 5.3565,
+        "fpoe": 4.5735
       }
     },
     {
@@ -539,21 +539,21 @@
       "player_name": "CeeDee Lamb",
       "position": "WR",
       "nfl_team": "DAL",
-      "total_pts": 100.6,
+      "total_pts": 112.1,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/sBp9juMSUtYIa4b6zogEcw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/32687.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 20.12,
-        "fpor": 10.84,
-        "trend_val": 4.168,
-        "fpoe": 6.672
+        "games_played": 6,
+        "fppg": 18.6833,
+        "fpor": 9.1833,
+        "trend_val": 4.7171,
+        "fpoe": 4.4662
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 20.12,
-        "fpor": 10.18,
-        "trend_val": 5.6178,
-        "fpoe": 4.5622
+        "games_played": 6,
+        "fppg": 18.6833,
+        "fpor": 8.7633,
+        "trend_val": 5.1548,
+        "fpoe": 3.6085
       }
     },
     {
@@ -568,18 +568,18 @@
       "total_pts": 82.02,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/rxsu3cY0VkambYSUhFcSwA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08212026/32723.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 16.404,
-        "fpor": 4.056,
-        "trend_val": 3.9349,
-        "fpoe": 0.1211
+        "games_played": 6,
+        "fppg": 13.67,
+        "fpor": 2.06,
+        "trend_val": 4.4972,
+        "fpoe": -2.4372
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 16.404,
-        "fpor": 2.072,
-        "trend_val": 5.4121,
-        "fpoe": -3.3401
+        "fpor": 1.3107,
+        "trend_val": 4.9595,
+        "fpoe": -3.6488
       }
     },
     {
@@ -596,16 +596,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 10.6,
-        "fpor": 1.34,
-        "trend_val": 3.7141,
-        "fpoe": -2.3741
+        "fpor": 2.6167,
+        "trend_val": 4.2868,
+        "fpoe": -1.6701
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 10.6,
-        "fpor": 1.14,
-        "trend_val": 5.2131,
-        "fpoe": -4.0731
+        "fpor": 1.48,
+        "trend_val": 4.7703,
+        "fpoe": -3.2903
       }
     },
     {
@@ -617,21 +617,21 @@
       "player_name": "Caleb Williams",
       "position": "QB",
       "nfl_team": "CHI",
-      "total_pts": 44.98,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h4qs11kutwiw7whekmyt",
+      "total_pts": 62.48,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/bfYvPX2QyI.HTH.3UabvKg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08012025/40900.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.996,
-        "fpor": -3.352,
-        "trend_val": 3.505,
-        "fpoe": -6.857
+        "games_played": 6,
+        "fppg": 10.4133,
+        "fpor": -1.1967,
+        "trend_val": 4.0854,
+        "fpoe": -5.2821
       },
       "injuries_off": {
-        "games_played": 2,
-        "fppg": 22.49,
-        "fpor": 8.158,
-        "trend_val": 5.0205,
-        "fpoe": 3.1375
+        "games_played": 3,
+        "fppg": 20.8267,
+        "fpor": 5.7334,
+        "trend_val": 4.5871,
+        "fpoe": 1.1463
       }
     },
     {
@@ -643,21 +643,21 @@
       "player_name": "Kenneth Walker III",
       "position": "RB",
       "nfl_team": "KC",
-      "total_pts": 111.1,
+      "total_pts": 139.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/J19j1xe4AIAERekP6cF8xQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/33996.png",
       "injuries_on": {
-        "games_played": 4,
-        "fppg": 27.775,
-        "fpor": 18.515,
-        "trend_val": 3.3068,
-        "fpoe": 15.2082
+        "games_played": 5,
+        "fppg": 27.8,
+        "fpor": 19.8167,
+        "trend_val": 3.8927,
+        "fpoe": 15.924
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 27.775,
-        "fpor": 18.315,
-        "trend_val": 4.8341,
-        "fpoe": 13.4809
+        "games_played": 5,
+        "fppg": 27.8,
+        "fpor": 18.68,
+        "trend_val": 4.4097,
+        "fpoe": 14.2703
       }
     },
     {
@@ -669,21 +669,21 @@
       "player_name": "Nico Collins",
       "position": "WR",
       "nfl_team": "HOU",
-      "total_pts": 54.1,
+      "total_pts": 63.5,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/XaIf3oUtj4rr.CpsGxqvDg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/33477.2.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 10.82,
-        "fpor": 1.54,
-        "trend_val": 3.1192,
-        "fpoe": -1.5792
+        "games_played": 6,
+        "fppg": 10.5833,
+        "fpor": 1.0833,
+        "trend_val": 3.7082,
+        "fpoe": -2.6249
       },
       "injuries_off": {
-        "games_played": 3,
-        "fppg": 18.0333,
-        "fpor": 8.0933,
-        "trend_val": 4.6538,
-        "fpoe": 3.4395
+        "games_played": 4,
+        "fppg": 15.875,
+        "fpor": 5.955,
+        "trend_val": 4.2379,
+        "fpoe": 1.7171
       }
     },
     {
@@ -695,21 +695,21 @@
       "player_name": "Drake London",
       "position": "WR",
       "nfl_team": "ATL",
-      "total_pts": 65.7,
+      "total_pts": 75.9,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/vFbuoZ42dGVpV5gz3aWkBQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/33963.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 13.14,
-        "fpor": 3.86,
-        "trend_val": 2.9414,
-        "fpoe": 0.9186
+        "games_played": 6,
+        "fppg": 12.65,
+        "fpor": 3.15,
+        "trend_val": 3.5318,
+        "fpoe": -0.3818
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 13.14,
-        "fpor": 3.2,
-        "trend_val": 4.4794,
-        "fpoe": -1.2794
+        "games_played": 6,
+        "fppg": 12.65,
+        "fpor": 2.73,
+        "trend_val": 4.0715,
+        "fpoe": -1.3415
       }
     },
     {
@@ -721,21 +721,21 @@
       "player_name": "Justin Herbert",
       "position": "QB",
       "nfl_team": "LAC",
-      "total_pts": 53.68,
+      "total_pts": 62.44,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jnkspnntgebegzp4ghve",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 10.736,
-        "fpor": -1.612,
-        "trend_val": 2.7729,
-        "fpoe": -4.3849
+        "games_played": 6,
+        "fppg": 10.4067,
+        "fpor": -1.2033,
+        "trend_val": 3.3629,
+        "fpoe": -4.5662
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 10.736,
-        "fpor": -3.596,
-        "trend_val": 4.3106,
-        "fpoe": -7.9066
+        "games_played": 6,
+        "fppg": 10.4067,
+        "fpor": -4.6866,
+        "trend_val": 3.9103,
+        "fpoe": -8.5969
       }
     },
     {
@@ -747,21 +747,21 @@
       "player_name": "Omarion Hampton",
       "position": "RB",
       "nfl_team": "LAC",
-      "total_pts": 47.1,
+      "total_pts": 53.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/E3OBtN4RVVXkZvnZCY7AiA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092026/41807.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.42,
-        "fpor": 0.16,
-        "trend_val": 2.6134,
-        "fpoe": -2.4534
+        "games_played": 6,
+        "fppg": 8.8333,
+        "fpor": 0.85,
+        "trend_val": 3.2012,
+        "fpoe": -2.3512
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 9.42,
-        "fpor": -0.04,
-        "trend_val": 4.1473,
-        "fpoe": -4.1873
+        "games_played": 6,
+        "fppg": 8.8333,
+        "fpor": -0.2867,
+        "trend_val": 3.7543,
+        "fpoe": -4.041
       }
     },
     {
@@ -773,21 +773,21 @@
       "player_name": "Ashton Jeanty",
       "position": "RB",
       "nfl_team": "LV",
-      "total_pts": 74.6,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/syspis1mntov9kgspb7r",
+      "total_pts": 88.4,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/k2bG2c3Hj.AqkE8fsH7VQw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/07282025/41791.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 14.92,
-        "fpor": 5.66,
-        "trend_val": 2.4623,
-        "fpoe": 3.1977
+        "games_played": 6,
+        "fppg": 14.7333,
+        "fpor": 6.75,
+        "trend_val": 3.0466,
+        "fpoe": 3.7034
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 14.92,
-        "fpor": 5.46,
-        "trend_val": 3.9892,
-        "fpoe": 1.4708
+        "games_played": 6,
+        "fppg": 14.7333,
+        "fpor": 5.6133,
+        "trend_val": 3.6031,
+        "fpoe": 2.0102
       }
     },
     {
@@ -799,21 +799,21 @@
       "player_name": "Kyren Williams",
       "position": "RB",
       "nfl_team": "LAR",
-      "total_pts": 95.8,
+      "total_pts": 104.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/4Zm8cAtYPpfXJusJwXTSQg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08252025/34120.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 19.16,
-        "fpor": 9.9,
-        "trend_val": 2.3191,
-        "fpoe": 7.5809
+        "games_played": 6,
+        "fppg": 17.3333,
+        "fpor": 9.35,
+        "trend_val": 2.8986,
+        "fpoe": 6.4514
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 19.16,
-        "fpor": 9.7,
-        "trend_val": 3.8363,
-        "fpoe": 5.8637
+        "games_played": 6,
+        "fppg": 17.3333,
+        "fpor": 8.2133,
+        "trend_val": 3.4568,
+        "fpoe": 4.7565
       }
     },
     {
@@ -825,21 +825,21 @@
       "player_name": "Malik Nabers",
       "position": "WR",
       "nfl_team": "NYG",
-      "total_pts": 61.4,
+      "total_pts": 85.9,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/Df0fqJ37.bWIf7UIcdW35g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092025/40899.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 12.28,
-        "fpor": 3.0,
-        "trend_val": 2.1835,
-        "fpoe": 0.8165
+        "games_played": 6,
+        "fppg": 14.3167,
+        "fpor": 4.8167,
+        "trend_val": 2.7569,
+        "fpoe": 2.0598
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 12.28,
-        "fpor": 2.34,
-        "trend_val": 3.6884,
-        "fpoe": -1.3484
+        "games_played": 6,
+        "fppg": 14.3167,
+        "fpor": 4.3967,
+        "trend_val": 3.315,
+        "fpoe": 1.0817
       }
     },
     {
@@ -851,21 +851,21 @@
       "player_name": "A.J. Brown",
       "position": "WR",
       "nfl_team": "NE",
-      "total_pts": 4.1,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qfhvjyssf0lwsh0kienp",
+      "total_pts": 8.3,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/Leb8ZAI2V3gAyK1JvopPMg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/31883.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 0.82,
-        "fpor": -8.46,
-        "trend_val": 2.055,
-        "fpoe": -10.515
+        "games_played": 6,
+        "fppg": 1.3833,
+        "fpor": -8.1167,
+        "trend_val": 2.6214,
+        "fpoe": -10.7381
       },
       "injuries_off": {
-        "games_played": 1,
-        "fppg": 4.1,
-        "fpor": -5.84,
-        "trend_val": 3.5452,
-        "fpoe": -9.3852
+        "games_played": 2,
+        "fppg": 4.15,
+        "fpor": -5.77,
+        "trend_val": 3.1777,
+        "fpoe": -8.9477
       }
     },
     {
@@ -880,18 +880,18 @@
       "total_pts": 45.6,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/SF3YXcxMZ_izNcxZVQQdtw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08052026/42625.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.12,
-        "fpor": -0.14,
-        "trend_val": 1.9333,
-        "fpoe": -2.0733
+        "games_played": 6,
+        "fppg": 7.6,
+        "fpor": -0.3833,
+        "trend_val": 2.4917,
+        "fpoe": -2.875
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 9.12,
-        "fpor": -0.34,
-        "trend_val": 3.4067,
-        "fpoe": -3.7467
+        "fpor": 0.0,
+        "trend_val": 3.0448,
+        "fpoe": -3.0448
       }
     },
     {
@@ -903,21 +903,21 @@
       "player_name": "Patrick Mahomes",
       "position": "QB",
       "nfl_team": "KC",
-      "total_pts": 84.58,
+      "total_pts": 95.06,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/.W3ZQBDoQG_ZvIlbaJbUqg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/30123.png",
       "injuries_on": {
-        "games_played": 4,
-        "fppg": 21.145,
-        "fpor": 8.797,
-        "trend_val": 1.818,
-        "fpoe": 6.979
+        "games_played": 5,
+        "fppg": 19.012,
+        "fpor": 7.402,
+        "trend_val": 2.3676,
+        "fpoe": 5.0344
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 21.145,
-        "fpor": 6.813,
-        "trend_val": 3.2726,
-        "fpoe": 3.5404
+        "games_played": 5,
+        "fppg": 19.012,
+        "fpor": 3.9187,
+        "trend_val": 2.916,
+        "fpoe": 1.0027
       }
     },
     {
@@ -929,21 +929,21 @@
       "player_name": "George Pickens",
       "position": "WR",
       "nfl_team": "DAL",
-      "total_pts": 56.0,
+      "total_pts": 66.3,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/tL4TO41aAirHrtd5rFiVBg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08072025/34007.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 11.2,
-        "fpor": 1.92,
-        "trend_val": 1.7088,
-        "fpoe": 0.2112
+        "games_played": 6,
+        "fppg": 11.05,
+        "fpor": 1.55,
+        "trend_val": 2.2488,
+        "fpoe": -0.6988
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 11.2,
-        "fpor": 1.26,
-        "trend_val": 3.143,
-        "fpoe": -1.883
+        "games_played": 6,
+        "fppg": 11.05,
+        "fpor": 1.13,
+        "trend_val": 2.7913,
+        "fpoe": -1.6613
       }
     },
     {
@@ -955,21 +955,21 @@
       "player_name": "Jaylen Waddle",
       "position": "WR",
       "nfl_team": "DEN",
-      "total_pts": 40.7,
+      "total_pts": 45.1,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/LraqgG.r4S.LNyMAd6RSnQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/33394.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.14,
-        "fpor": -1.14,
-        "trend_val": 1.6053,
-        "fpoe": -2.7453
+        "games_played": 6,
+        "fppg": 7.5167,
+        "fpor": -1.9833,
+        "trend_val": 2.1351,
+        "fpoe": -4.1184
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 8.14,
-        "fpor": -1.8,
-        "trend_val": 3.0175,
-        "fpoe": -4.8175
+        "games_played": 6,
+        "fppg": 7.5167,
+        "fpor": -2.4033,
+        "trend_val": 2.6705,
+        "fpoe": -5.0738
       }
     },
     {
@@ -986,16 +986,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 12.76,
-        "fpor": 3.48,
-        "trend_val": 1.5073,
-        "fpoe": 1.9727
+        "fpor": 3.26,
+        "trend_val": 2.0264,
+        "fpoe": 1.2336
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 12.76,
-        "fpor": 2.82,
-        "trend_val": 2.8961,
-        "fpoe": -0.0761
+        "fpor": 2.84,
+        "trend_val": 2.5536,
+        "fpoe": 0.2864
       }
     },
     {
@@ -1010,18 +1010,18 @@
       "total_pts": 38.5,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i01xtqbfajfq68lb6orh",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 7.7,
-        "fpor": -1.56,
-        "trend_val": 1.4145,
-        "fpoe": -2.9745
+        "games_played": 6,
+        "fppg": 6.4167,
+        "fpor": -1.5666,
+        "trend_val": 1.9223,
+        "fpoe": -3.4889
       },
       "injuries_off": {
         "games_played": 3,
         "fppg": 12.8333,
-        "fpor": 3.3733,
-        "trend_val": 2.7786,
-        "fpoe": 0.5947
+        "fpor": 3.7133,
+        "trend_val": 2.4403,
+        "fpoe": 1.273
       }
     },
     {
@@ -1036,18 +1036,18 @@
       "total_pts": 31.5,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qhkbqrydjeur8zvrrmfl",
       "injuries_on": {
-        "games_played": 4,
-        "fppg": 7.875,
-        "fpor": -1.405,
-        "trend_val": 1.3266,
-        "fpoe": -2.7316
+        "games_played": 5,
+        "fppg": 6.3,
+        "fpor": -3.2,
+        "trend_val": 1.8227,
+        "fpoe": -5.0227
       },
       "injuries_off": {
         "games_played": 3,
         "fppg": 10.5,
-        "fpor": 0.56,
-        "trend_val": 2.6649,
-        "fpoe": -2.1049
+        "fpor": 0.58,
+        "trend_val": 2.3306,
+        "fpoe": -1.7506
       }
     },
     {
@@ -1059,21 +1059,21 @@
       "player_name": "Trey McBride",
       "position": "TE",
       "nfl_team": "ARI",
-      "total_pts": 69.8,
+      "total_pts": 78.6,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/QX9EaUKzZi_04dPcWOdP7A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08052026/34010.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 13.96,
-        "fpor": 5.635,
-        "trend_val": 1.2433,
-        "fpoe": 4.3917
+        "games_played": 6,
+        "fppg": 13.1,
+        "fpor": 5.2833,
+        "trend_val": 1.7273,
+        "fpoe": 3.556
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 13.96,
-        "fpor": 5.42,
-        "trend_val": 2.5549,
-        "fpoe": 2.8651
+        "games_played": 6,
+        "fppg": 13.1,
+        "fpor": 4.7667,
+        "trend_val": 2.2244,
+        "fpoe": 2.5423
       }
     },
     {
@@ -1085,21 +1085,21 @@
       "player_name": "Dak Prescott",
       "position": "QB",
       "nfl_team": "DAL",
-      "total_pts": 95.84,
+      "total_pts": 106.86,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/7qieJGO_VZyuf0v74QNeEg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/29369.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 19.168,
-        "fpor": 6.82,
-        "trend_val": 1.1643,
-        "fpoe": 5.6557
+        "games_played": 6,
+        "fppg": 17.81,
+        "fpor": 6.2,
+        "trend_val": 1.6361,
+        "fpoe": 4.5639
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 19.168,
-        "fpor": 4.836,
-        "trend_val": 2.4485,
-        "fpoe": 2.3875
+        "games_played": 6,
+        "fppg": 17.81,
+        "fpor": 2.7167,
+        "trend_val": 2.1215,
+        "fpoe": 0.5952
       }
     },
     {
@@ -1111,21 +1111,21 @@
       "player_name": "Javonte Williams",
       "position": "RB",
       "nfl_team": "DAL",
-      "total_pts": 87.5,
+      "total_pts": 99.5,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/DL1fPcbDhk5P_YDOYfDTZw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/33423.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 17.5,
-        "fpor": 8.24,
-        "trend_val": 1.0896,
-        "fpoe": 7.1504
+        "games_played": 6,
+        "fppg": 16.5833,
+        "fpor": 8.6,
+        "trend_val": 1.5488,
+        "fpoe": 7.0512
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 17.5,
-        "fpor": 8.04,
-        "trend_val": 2.3455,
-        "fpoe": 5.6945
+        "games_played": 6,
+        "fppg": 16.5833,
+        "fpor": 7.4633,
+        "trend_val": 2.0219,
+        "fpoe": 5.4414
       }
     },
     {
@@ -1137,21 +1137,21 @@
       "player_name": "Ladd McConkey",
       "position": "WR",
       "nfl_team": "LAC",
-      "total_pts": 30.3,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q2sk7yforrkiusvruo1o",
+      "total_pts": 32.5,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/Qh3Odk6nSkjXBrcmGRT9Rg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092026/40908.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.06,
-        "fpor": -3.22,
-        "trend_val": 1.0188,
-        "fpoe": -4.2388
+        "games_played": 6,
+        "fppg": 5.4167,
+        "fpor": -4.0833,
+        "trend_val": 1.4653,
+        "fpoe": -5.5486
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 7.575,
-        "fpor": -2.365,
-        "trend_val": 2.2459,
-        "fpoe": -4.6109
+        "games_played": 5,
+        "fppg": 6.5,
+        "fpor": -3.42,
+        "trend_val": 1.9254,
+        "fpoe": -5.3454
       }
     },
     {
@@ -1163,21 +1163,21 @@
       "player_name": "DeVonta Smith",
       "position": "WR",
       "nfl_team": "PHI",
-      "total_pts": 40.0,
+      "total_pts": 57.0,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k724kq3hyv7jc0y9s03x",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.0,
-        "fpor": -1.28,
-        "trend_val": 0.9517,
-        "fpoe": -2.2317
+        "games_played": 6,
+        "fppg": 9.5,
+        "fpor": 0.0,
+        "trend_val": 1.3853,
+        "fpoe": -1.3853
       },
       "injuries_off": {
-        "games_played": 3,
-        "fppg": 13.3333,
-        "fpor": 3.3933,
-        "trend_val": 2.1495,
-        "fpoe": 1.2438
+        "games_played": 4,
+        "fppg": 14.25,
+        "fpor": 4.33,
+        "trend_val": 1.8319,
+        "fpoe": 2.4981
       }
     },
     {
@@ -1189,21 +1189,21 @@
       "player_name": "Brock Bowers",
       "position": "TE",
       "nfl_team": "LV",
-      "total_pts": 61.2,
+      "total_pts": 70.2,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/2BDzPCSW.w29RpeJ.Sw.bw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40878.2.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 12.24,
-        "fpor": 3.915,
-        "trend_val": 0.8881,
-        "fpoe": 3.0269
+        "games_played": 6,
+        "fppg": 11.7,
+        "fpor": 3.8833,
+        "trend_val": 1.3088,
+        "fpoe": 2.5745
       },
       "injuries_off": {
-        "games_played": 3,
-        "fppg": 20.4,
-        "fpor": 11.86,
-        "trend_val": 2.0562,
-        "fpoe": 9.8038
+        "games_played": 4,
+        "fppg": 17.55,
+        "fpor": 9.2167,
+        "trend_val": 1.7414,
+        "fpoe": 7.4753
       }
     },
     {
@@ -1215,21 +1215,21 @@
       "player_name": "Zay Flowers",
       "position": "WR",
       "nfl_team": "BAL",
-      "total_pts": 73.8,
+      "total_pts": 83.5,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/xxTmCvgTcZ_kNWR4QFRqSw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/40039.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 14.76,
-        "fpor": 5.48,
-        "trend_val": 0.8279,
-        "fpoe": 4.6521
+        "games_played": 6,
+        "fppg": 13.9167,
+        "fpor": 4.4167,
+        "trend_val": 1.2356,
+        "fpoe": 3.1811
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 18.45,
-        "fpor": 8.51,
-        "trend_val": 1.9659,
-        "fpoe": 6.5441
+        "games_played": 5,
+        "fppg": 16.7,
+        "fpor": 6.78,
+        "trend_val": 1.6538,
+        "fpoe": 5.1262
       }
     },
     {
@@ -1244,18 +1244,18 @@
       "total_pts": 25.4,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pwko5dybmjie8qqo4qz2",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 5.08,
-        "fpor": -4.18,
-        "trend_val": 0.7709,
-        "fpoe": -4.9509
+        "games_played": 6,
+        "fppg": 4.2333,
+        "fpor": -3.75,
+        "trend_val": 1.1656,
+        "fpoe": -4.9156
       },
       "injuries_off": {
         "games_played": 3,
         "fppg": 8.4667,
-        "fpor": -0.9933,
-        "trend_val": 1.8786,
-        "fpoe": -2.8719
+        "fpor": -0.6533,
+        "trend_val": 1.5689,
+        "fpoe": -2.2222
       }
     },
     {
@@ -1267,21 +1267,21 @@
       "player_name": "Bo Nix",
       "position": "QB",
       "nfl_team": "DEN",
-      "total_pts": 65.18,
+      "total_pts": 69.66,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zvo9xatffmqn9lnukpgk",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 13.036,
-        "fpor": 0.688,
-        "trend_val": 0.7169,
-        "fpoe": -0.0289
+        "games_played": 6,
+        "fppg": 11.61,
+        "fpor": 0.0,
+        "trend_val": 1.0985,
+        "fpoe": -1.0985
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 13.036,
-        "fpor": -1.296,
-        "trend_val": 1.7941,
-        "fpoe": -3.0901
+        "games_played": 6,
+        "fppg": 11.61,
+        "fpor": -3.4833,
+        "trend_val": 1.4867,
+        "fpoe": -4.97
       }
     },
     {
@@ -1296,18 +1296,18 @@
       "total_pts": 46.3,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/5C0WxNfiXvtIcIHk86i4EA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202026/41922.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.26,
-        "fpor": 0.0,
-        "trend_val": 0.6657,
-        "fpoe": -0.6657
+        "games_played": 6,
+        "fppg": 7.7167,
+        "fpor": -0.2666,
+        "trend_val": 1.0344,
+        "fpoe": -1.301
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 9.26,
-        "fpor": -0.2,
-        "trend_val": 1.7124,
-        "fpoe": -1.9124
+        "fpor": 0.14,
+        "trend_val": 1.4071,
+        "fpoe": -1.2671
       }
     },
     {
@@ -1319,21 +1319,21 @@
       "player_name": "Trevor Lawrence",
       "position": "QB",
       "nfl_team": "JAX",
-      "total_pts": 88.86,
+      "total_pts": 117.2,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/pdL0oUN6aHME_5HpUxmz_A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08182026/33389.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 17.772,
-        "fpor": 5.424,
-        "trend_val": 0.6173,
-        "fpoe": 4.8067
+        "games_played": 6,
+        "fppg": 19.5333,
+        "fpor": 7.9233,
+        "trend_val": 0.973,
+        "fpoe": 6.9503
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 17.772,
-        "fpor": 3.44,
-        "trend_val": 1.6332,
-        "fpoe": 1.8068
+        "games_played": 6,
+        "fppg": 19.5333,
+        "fpor": 4.44,
+        "trend_val": 1.33,
+        "fpoe": 3.11
       }
     },
     {
@@ -1345,21 +1345,21 @@
       "player_name": "Chris Olave",
       "position": "WR",
       "nfl_team": "NO",
-      "total_pts": 83.2,
+      "total_pts": 95.5,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/LU_EjbVkQPNC7pNEvkf6PA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202026/33966.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 16.64,
-        "fpor": 7.36,
-        "trend_val": 0.5713,
-        "fpoe": 6.7887
+        "games_played": 6,
+        "fppg": 15.9167,
+        "fpor": 6.4167,
+        "trend_val": 0.9142,
+        "fpoe": 5.5025
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 16.64,
-        "fpor": 6.7,
-        "trend_val": 1.5567,
-        "fpoe": 5.1433
+        "games_played": 6,
+        "fppg": 15.9167,
+        "fpor": 5.9967,
+        "trend_val": 1.2553,
+        "fpoe": 4.7414
       }
     },
     {
@@ -1371,21 +1371,21 @@
       "player_name": "D'Andre Swift",
       "position": "RB",
       "nfl_team": "CHI",
-      "total_pts": 74.8,
+      "total_pts": 95.8,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/UEDVsA6XOLm0yRT1kxN65Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/32705.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 14.96,
-        "fpor": 5.7,
-        "trend_val": 0.5278,
-        "fpoe": 5.1722
+        "games_played": 6,
+        "fppg": 15.9667,
+        "fpor": 7.9834,
+        "trend_val": 0.858,
+        "fpoe": 7.1254
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 14.96,
-        "fpor": 5.5,
-        "trend_val": 1.4826,
-        "fpoe": 4.0174
+        "games_played": 6,
+        "fppg": 15.9667,
+        "fpor": 6.8467,
+        "trend_val": 1.183,
+        "fpoe": 5.6637
       }
     },
     {
@@ -1400,18 +1400,18 @@
       "total_pts": 47.3,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/iKMDtA9FvYCUnZ6eTkX7Ng--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08272025/41821.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.46,
-        "fpor": 0.2,
-        "trend_val": 0.4866,
-        "fpoe": -0.2866
+        "games_played": 6,
+        "fppg": 7.8833,
+        "fpor": -0.1,
+        "trend_val": 0.8042,
+        "fpoe": -0.9042
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 9.46,
-        "fpor": 0.0,
-        "trend_val": 1.411,
-        "fpoe": -1.411
+        "fpor": 0.34,
+        "trend_val": 1.113,
+        "fpoe": -0.773
       }
     },
     {
@@ -1428,16 +1428,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 8.232,
-        "fpor": -4.116,
-        "trend_val": 0.4476,
-        "fpoe": -4.5636
+        "fpor": -3.378,
+        "trend_val": 0.7527,
+        "fpoe": -4.1307
       },
       "injuries_off": {
         "games_played": 4,
         "fppg": 10.29,
-        "fpor": -4.042,
-        "trend_val": 1.3416,
-        "fpoe": -5.3836
+        "fpor": -4.8033,
+        "trend_val": 1.0452,
+        "fpoe": -5.8485
       }
     },
     {
@@ -1449,21 +1449,21 @@
       "player_name": "Jordan Love",
       "position": "QB",
       "nfl_team": "GB",
-      "total_pts": 96.12,
+      "total_pts": 116.36,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/kr.cv9_CzEvW8_R.diHvcg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/32696.3.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 19.224,
-        "fpor": 6.876,
-        "trend_val": 0.4106,
-        "fpoe": 6.4654
+        "games_played": 6,
+        "fppg": 19.3933,
+        "fpor": 7.7833,
+        "trend_val": 0.7035,
+        "fpoe": 7.0798
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 19.224,
-        "fpor": 4.892,
-        "trend_val": 1.2745,
-        "fpoe": 3.6175
+        "games_played": 6,
+        "fppg": 19.3933,
+        "fpor": 4.3,
+        "trend_val": 0.9795,
+        "fpoe": 3.3205
       }
     },
     {
@@ -1475,21 +1475,21 @@
       "player_name": "Bucky Irving",
       "position": "RB",
       "nfl_team": "TB",
-      "total_pts": 73.2,
+      "total_pts": 79.1,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/m_qM8NCZ0Axr7R49oWPTwA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/40993.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 14.64,
-        "fpor": 5.38,
-        "trend_val": 0.3756,
-        "fpoe": 5.0044
+        "games_played": 6,
+        "fppg": 13.1833,
+        "fpor": 5.2,
+        "trend_val": 0.6563,
+        "fpoe": 4.5437
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 14.64,
-        "fpor": 5.18,
-        "trend_val": 1.2096,
-        "fpoe": 3.9704
+        "games_played": 6,
+        "fppg": 13.1833,
+        "fpor": 4.0633,
+        "trend_val": 0.9159,
+        "fpoe": 3.1474
       }
     },
     {
@@ -1504,18 +1504,18 @@
       "total_pts": 12.0,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 2.4,
-        "fpor": -6.86,
-        "trend_val": 0.3424,
-        "fpoe": -7.2024
+        "games_played": 6,
+        "fppg": 2.0,
+        "fpor": -5.9833,
+        "trend_val": 0.6112,
+        "fpoe": -6.5945
       },
       "injuries_off": {
         "games_played": 3,
         "fppg": 4.0,
-        "fpor": -5.46,
-        "trend_val": 1.1468,
-        "fpoe": -6.6068
+        "fpor": -5.12,
+        "trend_val": 0.8543,
+        "fpoe": -5.9743
       }
     },
     {
@@ -1530,18 +1530,18 @@
       "total_pts": 42.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/hN80sQ635x90TiKS2KvZZA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/31905.2.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.4,
-        "fpor": -0.86,
-        "trend_val": 0.311,
-        "fpoe": -1.171
+        "games_played": 6,
+        "fppg": 7.0,
+        "fpor": -0.9833,
+        "trend_val": 0.568,
+        "fpoe": -1.5513
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 8.4,
-        "fpor": -1.06,
-        "trend_val": 1.086,
-        "fpoe": -2.146
+        "fpor": -0.72,
+        "trend_val": 0.7946,
+        "fpoe": -1.5146
       }
     },
     {
@@ -1553,21 +1553,21 @@
       "player_name": "Colston Loveland",
       "position": "TE",
       "nfl_team": "CHI",
-      "total_pts": 17.5,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cnxiyi76jeahgx94nh6d",
+      "total_pts": 33.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/4OWJA89uWT_AgmMrHcSkUQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/41795.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 3.5,
-        "fpor": -4.825,
-        "trend_val": 0.2812,
-        "fpoe": -5.1062
+        "games_played": 6,
+        "fppg": 5.5,
+        "fpor": -2.3167,
+        "trend_val": 0.5267,
+        "fpoe": -2.8434
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 3.5,
-        "fpor": -5.04,
-        "trend_val": 1.0272,
-        "fpoe": -6.0672
+        "games_played": 6,
+        "fppg": 5.5,
+        "fpor": -2.8333,
+        "trend_val": 0.7369,
+        "fpoe": -3.5702
       }
     },
     {
@@ -1579,21 +1579,21 @@
       "player_name": "Matthew Stafford",
       "position": "QB",
       "nfl_team": "LAR",
-      "total_pts": 93.98,
+      "total_pts": 110.86,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/WB0VYA2W5C4vPf8BtjcFdg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/9265.2.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 18.796,
-        "fpor": 6.448,
-        "trend_val": 0.253,
-        "fpoe": 6.195
+        "games_played": 6,
+        "fppg": 18.4767,
+        "fpor": 6.8667,
+        "trend_val": 0.4872,
+        "fpoe": 6.3795
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 18.796,
-        "fpor": 4.464,
-        "trend_val": 0.9703,
-        "fpoe": 3.4937
+        "games_played": 6,
+        "fppg": 18.4767,
+        "fpor": 3.3834,
+        "trend_val": 0.6809,
+        "fpoe": 2.7025
       }
     },
     {
@@ -1605,21 +1605,21 @@
       "player_name": "TreVeyon Henderson",
       "position": "RB",
       "nfl_team": "NE",
-      "total_pts": 25.5,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ebcjvwytgu2y4kqm8ihv",
+      "total_pts": 28.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/SGM4Z8veK9SctATKC_6Luw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/41823.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 5.1,
-        "fpor": -4.16,
-        "trend_val": 0.2263,
-        "fpoe": -4.3863
+        "games_played": 6,
+        "fppg": 4.6667,
+        "fpor": -3.3166,
+        "trend_val": 0.4493,
+        "fpoe": -3.7659
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 6.375,
-        "fpor": -3.085,
-        "trend_val": 0.9152,
-        "fpoe": -4.0002
+        "games_played": 5,
+        "fppg": 5.6,
+        "fpor": -3.52,
+        "trend_val": 0.6267,
+        "fpoe": -4.1467
       }
     },
     {
@@ -1631,21 +1631,21 @@
       "player_name": "Terry McLaurin",
       "position": "WR",
       "nfl_team": "WAS",
-      "total_pts": 35.3,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tmfl2zruajmkrtcg4zxp",
+      "total_pts": 38.5,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/oOjiUdKATa9lZ_1mx_JpaA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08252026/31908.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 7.06,
-        "fpor": -2.22,
-        "trend_val": 0.201,
-        "fpoe": -2.421
+        "games_played": 6,
+        "fppg": 6.4167,
+        "fpor": -3.0833,
+        "trend_val": 0.4131,
+        "fpoe": -3.4964
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 8.825,
-        "fpor": -1.115,
-        "trend_val": 0.862,
-        "fpoe": -1.977
+        "games_played": 5,
+        "fppg": 7.7,
+        "fpor": -2.22,
+        "trend_val": 0.5742,
+        "fpoe": -2.7942
       }
     },
     {
@@ -1657,21 +1657,21 @@
       "player_name": "Garrett Wilson",
       "position": "WR",
       "nfl_team": "NYJ",
-      "total_pts": 72.9,
+      "total_pts": 79.3,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/R.E9_N6rpL3Cob_DpH4i1Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08212026/33965.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 14.58,
-        "fpor": 5.3,
-        "trend_val": 0.177,
-        "fpoe": 5.123
+        "games_played": 6,
+        "fppg": 13.2167,
+        "fpor": 3.7167,
+        "trend_val": 0.3785,
+        "fpoe": 3.3382
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 14.58,
-        "fpor": 4.64,
-        "trend_val": 0.8104,
-        "fpoe": 3.8296
+        "games_played": 6,
+        "fppg": 13.2167,
+        "fpor": 3.2967,
+        "trend_val": 0.5234,
+        "fpoe": 2.7733
       }
     },
     {
@@ -1683,21 +1683,21 @@
       "player_name": "Sam Darnold",
       "position": "QB",
       "nfl_team": "SEA",
-      "total_pts": 50.8,
+      "total_pts": 61.82,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/Xxwcn7cYj3bfeX4Ml8GgUg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08072026/30973.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 10.16,
-        "fpor": -2.188,
-        "trend_val": 0.1543,
-        "fpoe": -2.3423
+        "games_played": 6,
+        "fppg": 10.3033,
+        "fpor": -1.3067,
+        "trend_val": 0.3453,
+        "fpoe": -1.652
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 12.7,
-        "fpor": -1.632,
-        "trend_val": 0.7605,
-        "fpoe": -2.3925
+        "games_played": 5,
+        "fppg": 12.364,
+        "fpor": -2.7293,
+        "trend_val": 0.4742,
+        "fpoe": -3.2035
       }
     },
     {
@@ -1712,18 +1712,18 @@
       "total_pts": 54.9,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/AuBgYfyEoSIbVVTm9laKLQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/41799.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 10.98,
-        "fpor": 2.655,
-        "trend_val": 0.1328,
-        "fpoe": 2.5222
+        "games_played": 6,
+        "fppg": 9.15,
+        "fpor": 1.3333,
+        "trend_val": 0.3136,
+        "fpoe": 1.0197
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 10.98,
-        "fpor": 2.44,
-        "trend_val": 0.7123,
-        "fpoe": 1.7277
+        "fpor": 2.6467,
+        "trend_val": 0.4265,
+        "fpoe": 2.2202
       }
     },
     {
@@ -1740,16 +1740,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 23.6,
-        "fpor": 11.252,
-        "trend_val": 0.1124,
-        "fpoe": 11.1396
+        "fpor": 11.99,
+        "trend_val": 0.2832,
+        "fpoe": 11.7068
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 23.6,
-        "fpor": 9.268,
-        "trend_val": 0.6656,
-        "fpoe": 8.6024
+        "fpor": 8.5067,
+        "trend_val": 0.3804,
+        "fpoe": 8.1263
       }
     },
     {
@@ -1764,18 +1764,18 @@
       "total_pts": 33.4,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/cRf0PZjrcxCx9Oqer9Uo3Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/30994.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.68,
-        "fpor": -2.6,
-        "trend_val": 0.0931,
-        "fpoe": -2.6931
+        "games_played": 6,
+        "fppg": 5.5667,
+        "fpor": -3.9333,
+        "trend_val": 0.2541,
+        "fpoe": -4.1874
       },
       "injuries_off": {
         "games_played": 4,
         "fppg": 8.35,
-        "fpor": -1.59,
-        "trend_val": 0.6204,
-        "fpoe": -2.2104
+        "fpor": -1.57,
+        "trend_val": 0.3356,
+        "fpoe": -1.9056
       }
     },
     {
@@ -1787,21 +1787,21 @@
       "player_name": "Bhayshul Tuten",
       "position": "RB",
       "nfl_team": "JAX",
-      "total_pts": 59.2,
+      "total_pts": 81.9,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/SRCXwZGkVsSbMwKupYpvLw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08182026/41900.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 11.84,
-        "fpor": 2.58,
-        "trend_val": 0.0748,
-        "fpoe": 2.5052
+        "games_played": 6,
+        "fppg": 13.65,
+        "fpor": 5.6667,
+        "trend_val": 0.2263,
+        "fpoe": 5.4404
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 11.84,
-        "fpor": 2.38,
-        "trend_val": 0.5767,
-        "fpoe": 1.8033
+        "games_played": 6,
+        "fppg": 13.65,
+        "fpor": 4.53,
+        "trend_val": 0.2924,
+        "fpoe": 4.2376
       }
     },
     {
@@ -1813,21 +1813,21 @@
       "player_name": "Tetairoa McMillan",
       "position": "WR",
       "nfl_team": "CAR",
-      "total_pts": 64.5,
+      "total_pts": 76.1,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/bjURNY7S3oVoIbPP221sKw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41793.1.png",
       "injuries_on": {
-        "games_played": 4,
-        "fppg": 16.125,
-        "fpor": 6.845,
-        "trend_val": 0.0575,
-        "fpoe": 6.7875
+        "games_played": 5,
+        "fppg": 15.22,
+        "fpor": 5.72,
+        "trend_val": 0.1997,
+        "fpoe": 5.5203
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 16.125,
-        "fpor": 6.185,
-        "trend_val": 0.5344,
-        "fpoe": 5.6506
+        "games_played": 5,
+        "fppg": 15.22,
+        "fpor": 5.3,
+        "trend_val": 0.2504,
+        "fpoe": 5.0496
       }
     },
     {
@@ -1839,21 +1839,21 @@
       "player_name": "Emeka Egbuka",
       "position": "WR",
       "nfl_team": "TB",
-      "total_pts": 42.8,
+      "total_pts": 57.1,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z224kbzs62rjuykc0vha",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.56,
-        "fpor": -0.72,
-        "trend_val": 0.0411,
-        "fpoe": -0.7611
+        "games_played": 6,
+        "fppg": 9.5167,
+        "fpor": 0.0167,
+        "trend_val": 0.1743,
+        "fpoe": -0.1576
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 8.56,
-        "fpor": -1.38,
-        "trend_val": 0.4934,
-        "fpoe": -1.8734
+        "games_played": 6,
+        "fppg": 9.5167,
+        "fpor": -0.4033,
+        "trend_val": 0.2098,
+        "fpoe": -0.6131
       }
     },
     {
@@ -1865,21 +1865,21 @@
       "player_name": "Rome Odunze",
       "position": "WR",
       "nfl_team": "CHI",
-      "total_pts": 33.8,
+      "total_pts": 39.2,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/niewdl2p2325kpohbw9v",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.76,
-        "fpor": -2.52,
-        "trend_val": 0.0255,
-        "fpoe": -2.5455
+        "games_played": 6,
+        "fppg": 6.5333,
+        "fpor": -2.9667,
+        "trend_val": 0.1499,
+        "fpoe": -3.1166
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.76,
-        "fpor": -3.18,
-        "trend_val": 0.4538,
-        "fpoe": -3.6338
+        "games_played": 6,
+        "fppg": 6.5333,
+        "fpor": -3.3867,
+        "trend_val": 0.1705,
+        "fpoe": -3.5572
       }
     },
     {
@@ -1891,21 +1891,21 @@
       "player_name": "Parker Washington",
       "position": "WR",
       "nfl_team": "JAX",
-      "total_pts": 73.5,
+      "total_pts": 81.9,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/X77XymjeUdDCpWFiI0lOtw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08182026/40234.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 14.7,
-        "fpor": 5.42,
-        "trend_val": 0.0108,
-        "fpoe": 5.4092
+        "games_played": 6,
+        "fppg": 13.65,
+        "fpor": 4.15,
+        "trend_val": 0.1266,
+        "fpoe": 4.0234
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 14.7,
-        "fpor": 4.76,
-        "trend_val": 0.4155,
-        "fpoe": 4.3445
+        "games_played": 6,
+        "fppg": 13.65,
+        "fpor": 3.73,
+        "trend_val": 0.1324,
+        "fpoe": 3.5976
       }
     },
     {
@@ -1920,18 +1920,18 @@
       "total_pts": 4.7,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 0.94,
-        "fpor": -8.34,
-        "trend_val": -0.0032,
-        "fpoe": -8.3368
+        "games_played": 6,
+        "fppg": 0.7833,
+        "fpor": -8.7167,
+        "trend_val": 0.1042,
+        "fpoe": -8.8209
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 4.7,
-        "fpor": -5.24,
-        "trend_val": 0.3784,
-        "fpoe": -5.6184
+        "fpor": -5.22,
+        "trend_val": 0.0955,
+        "fpoe": -5.3155
       }
     },
     {
@@ -1943,21 +1943,21 @@
       "player_name": "Rhamondre Stevenson",
       "position": "RB",
       "nfl_team": "NE",
-      "total_pts": 53.3,
+      "total_pts": 56.9,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/HK04kawluEOXeR62foha3g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/33508.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 10.66,
-        "fpor": 1.4,
-        "trend_val": -0.0164,
-        "fpoe": 1.4164
+        "games_played": 6,
+        "fppg": 9.4833,
+        "fpor": 1.5,
+        "trend_val": 0.0829,
+        "fpoe": 1.4171
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 10.66,
-        "fpor": 1.2,
-        "trend_val": 0.3426,
-        "fpoe": 0.8574
+        "games_played": 6,
+        "fppg": 9.4833,
+        "fpor": 0.3633,
+        "trend_val": 0.0598,
+        "fpoe": 0.3035
       }
     },
     {
@@ -1969,21 +1969,21 @@
       "player_name": "Brock Purdy",
       "position": "QB",
       "nfl_team": "SF",
-      "total_pts": 118.64,
+      "total_pts": 136.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/v43spyTnux57VJwfxJgwkg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/34218.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 23.728,
-        "fpor": 11.38,
-        "trend_val": -0.0289,
-        "fpoe": 11.4089
+        "games_played": 6,
+        "fppg": 22.6667,
+        "fpor": 11.0567,
+        "trend_val": 0.0625,
+        "fpoe": 10.9942
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 23.728,
-        "fpor": 9.396,
-        "trend_val": 0.3078,
-        "fpoe": 9.0882
+        "games_played": 6,
+        "fppg": 22.6667,
+        "fpor": 7.5734,
+        "trend_val": 0.0252,
+        "fpoe": 7.5482
       }
     },
     {
@@ -2000,16 +2000,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 9.92,
-        "fpor": 0.64,
-        "trend_val": -0.0408,
-        "fpoe": 0.6808
+        "fpor": 0.42,
+        "trend_val": 0.0429,
+        "fpoe": 0.3771
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 9.92,
-        "fpor": -0.02,
-        "trend_val": 0.2743,
-        "fpoe": -0.2943
+        "fpor": 0.0,
+        "trend_val": -0.0083,
+        "fpoe": 0.0083
       }
     },
     {
@@ -2021,21 +2021,21 @@
       "player_name": "Mike Evans",
       "position": "WR",
       "nfl_team": "SF",
-      "total_pts": 73.6,
+      "total_pts": 84.5,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/p0VIf5c2cdr0EjVuJakKvw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/27535.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 14.72,
-        "fpor": 5.44,
-        "trend_val": -0.052,
-        "fpoe": 5.492
+        "games_played": 6,
+        "fppg": 14.0833,
+        "fpor": 4.5833,
+        "trend_val": 0.0242,
+        "fpoe": 4.5591
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 14.72,
-        "fpor": 4.78,
-        "trend_val": 0.2418,
-        "fpoe": 4.5382
+        "games_played": 6,
+        "fppg": 14.0833,
+        "fpor": 4.1633,
+        "trend_val": -0.0408,
+        "fpoe": 4.2041
       }
     },
     {
@@ -2050,18 +2050,18 @@
       "total_pts": 36.1,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjb8e69jtt1ffqf1afue",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 7.22,
-        "fpor": -5.128,
-        "trend_val": -0.0626,
-        "fpoe": -5.0654
+        "games_played": 6,
+        "fppg": 6.0167,
+        "fpor": -5.5933,
+        "trend_val": 0.0063,
+        "fpoe": -5.5996
       },
       "injuries_off": {
         "games_played": 3,
         "fppg": 12.0333,
-        "fpor": -2.2987,
-        "trend_val": 0.2103,
-        "fpoe": -2.509
+        "fpor": -3.06,
+        "trend_val": -0.0722,
+        "fpoe": -2.9878
       }
     },
     {
@@ -2078,16 +2078,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 12.62,
-        "fpor": 4.295,
-        "trend_val": -0.0727,
-        "fpoe": 4.3677
+        "fpor": 4.8033,
+        "trend_val": -0.0109,
+        "fpoe": 4.8142
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 12.62,
-        "fpor": 4.08,
-        "trend_val": 0.1799,
-        "fpoe": 3.9001
+        "fpor": 4.2867,
+        "trend_val": -0.1026,
+        "fpoe": 4.3893
       }
     },
     {
@@ -2099,21 +2099,21 @@
       "player_name": "Jaylen Warren",
       "position": "RB",
       "nfl_team": "PIT",
-      "total_pts": 89.5,
+      "total_pts": 98.3,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/aeLJ6CcF9iHNAnYV3xe0YA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/34447.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 17.9,
-        "fpor": 8.64,
-        "trend_val": -0.0823,
-        "fpoe": 8.7223
+        "games_played": 6,
+        "fppg": 16.3833,
+        "fpor": 8.4,
+        "trend_val": -0.0273,
+        "fpoe": 8.4273
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 17.9,
-        "fpor": 8.44,
-        "trend_val": 0.1504,
-        "fpoe": 8.2896
+        "games_played": 6,
+        "fppg": 16.3833,
+        "fpor": 7.2633,
+        "trend_val": -0.1321,
+        "fpoe": 7.3954
       }
     },
     {
@@ -2125,21 +2125,21 @@
       "player_name": "Davante Adams",
       "position": "WR",
       "nfl_team": "LAR",
-      "total_pts": 84.6,
+      "total_pts": 90.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/Lq0buOz6WeFBtJha4zFsjQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08252025/27581.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 16.92,
-        "fpor": 7.64,
-        "trend_val": -0.0913,
-        "fpoe": 7.7313
+        "games_played": 6,
+        "fppg": 15.0,
+        "fpor": 5.5,
+        "trend_val": -0.043,
+        "fpoe": 5.543
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 16.92,
-        "fpor": 6.98,
-        "trend_val": 0.122,
-        "fpoe": 6.858
+        "games_played": 6,
+        "fppg": 15.0,
+        "fpor": 5.08,
+        "trend_val": -0.1606,
+        "fpoe": 5.2406
       }
     },
     {
@@ -2151,21 +2151,21 @@
       "player_name": "Tucker Kraft",
       "position": "TE",
       "nfl_team": "GB",
-      "total_pts": 37.7,
+      "total_pts": 43.9,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/2_S7FBVe7Hbf_HH2HcLn3g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40102.3.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 7.54,
-        "fpor": -0.785,
-        "trend_val": -0.0999,
-        "fpoe": -0.6851
+        "games_played": 6,
+        "fppg": 7.3167,
+        "fpor": -0.5,
+        "trend_val": -0.058,
+        "fpoe": -0.442
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 7.54,
-        "fpor": -1.0,
-        "trend_val": 0.0944,
-        "fpoe": -1.0944
+        "games_played": 6,
+        "fppg": 7.3167,
+        "fpor": -1.0166,
+        "trend_val": -0.1883,
+        "fpoe": -0.8283
       }
     },
     {
@@ -2177,21 +2177,21 @@
       "player_name": "C.J. Stroud",
       "position": "QB",
       "nfl_team": "HOU",
-      "total_pts": 91.18,
+      "total_pts": 115.16,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/J2IyiVCB6Fs4XracSm3V5A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40030.2.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 18.236,
-        "fpor": 5.888,
-        "trend_val": -0.108,
-        "fpoe": 5.996
+        "games_played": 6,
+        "fppg": 19.1933,
+        "fpor": 7.5833,
+        "trend_val": -0.0724,
+        "fpoe": 7.6557
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 18.236,
-        "fpor": 3.904,
-        "trend_val": 0.0677,
-        "fpoe": 3.8363
+        "games_played": 6,
+        "fppg": 19.1933,
+        "fpor": 4.1,
+        "trend_val": -0.215,
+        "fpoe": 4.315
       }
     },
     {
@@ -2203,21 +2203,21 @@
       "player_name": "Marvin Harrison Jr.",
       "position": "WR",
       "nfl_team": "HOU",
-      "total_pts": 17.0,
+      "total_pts": 21.9,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hwpoo1icpnh8emjvqaii",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 3.4,
-        "fpor": -5.88,
-        "trend_val": -0.1157,
-        "fpoe": -5.7643
+        "games_played": 6,
+        "fppg": 3.65,
+        "fpor": -5.85,
+        "trend_val": -0.0861,
+        "fpoe": -5.7639
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 4.25,
-        "fpor": -5.69,
-        "trend_val": 0.0419,
-        "fpoe": -5.7319
+        "games_played": 5,
+        "fppg": 4.38,
+        "fpor": -5.54,
+        "trend_val": -0.241,
+        "fpoe": -5.299
       }
     },
     {
@@ -2229,21 +2229,21 @@
       "player_name": "George Kittle",
       "position": "TE",
       "nfl_team": "SF",
-      "total_pts": 63.3,
+      "total_pts": 78.7,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/bz8CzByPT.XVa.jFd.6aDg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/30259.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 12.66,
-        "fpor": 4.335,
-        "trend_val": -0.123,
-        "fpoe": 4.458
+        "games_played": 6,
+        "fppg": 13.1167,
+        "fpor": 5.3,
+        "trend_val": -0.0993,
+        "fpoe": 5.3993
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 12.66,
-        "fpor": 4.12,
-        "trend_val": 0.017,
-        "fpoe": 4.103
+        "games_played": 6,
+        "fppg": 13.1167,
+        "fpor": 4.7834,
+        "trend_val": -0.2661,
+        "fpoe": 5.0495
       }
     },
     {
@@ -2255,21 +2255,21 @@
       "player_name": "Tony Pollard",
       "position": "RB",
       "nfl_team": "TEN",
-      "total_pts": 39.7,
+      "total_pts": 47.3,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mb2xdrqiys6ktlcuah2n",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 7.94,
-        "fpor": -1.32,
-        "trend_val": -0.1299,
-        "fpoe": -1.1901
+        "games_played": 6,
+        "fppg": 7.8833,
+        "fpor": -0.1,
+        "trend_val": -0.1119,
+        "fpoe": 0.0119
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 7.94,
-        "fpor": -1.52,
-        "trend_val": -0.0072,
-        "fpoe": -1.5128
+        "games_played": 6,
+        "fppg": 7.8833,
+        "fpor": -1.2367,
+        "trend_val": -0.2904,
+        "fpoe": -0.9463
       }
     },
     {
@@ -2281,21 +2281,21 @@
       "player_name": "Stefon Diggs",
       "position": "WR",
       "nfl_team": "WAS",
-      "total_pts": 44.0,
+      "total_pts": 57.4,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cemcexmscsarpvwhafln",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.8,
-        "fpor": -0.48,
-        "trend_val": -0.1364,
-        "fpoe": -0.3436
+        "games_played": 6,
+        "fppg": 9.5667,
+        "fpor": 0.0667,
+        "trend_val": -0.1239,
+        "fpoe": 0.1906
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 11.0,
-        "fpor": 1.06,
-        "trend_val": -0.0306,
-        "fpoe": 1.0906
+        "games_played": 5,
+        "fppg": 11.48,
+        "fpor": 1.56,
+        "trend_val": -0.3139,
+        "fpoe": 1.8739
       }
     },
     {
@@ -2310,18 +2310,18 @@
       "total_pts": 0,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
+        "games_played": 6,
         "fppg": 0.0,
-        "fpor": -12.348,
-        "trend_val": -0.1426,
-        "fpoe": -12.2054
+        "fpor": -11.61,
+        "trend_val": -0.1355,
+        "fpoe": -11.4745
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 0.0,
-        "fpor": -14.332,
-        "trend_val": -0.0532,
-        "fpoe": -14.2788
+        "fpor": -15.0933,
+        "trend_val": -0.3368,
+        "fpoe": -14.7565
       }
     },
     {
@@ -2333,21 +2333,21 @@
       "player_name": "Daniel Jones",
       "position": "QB",
       "nfl_team": "IND",
-      "total_pts": 47.34,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ohvvctuykzwrpqer7xgl",
+      "total_pts": 61.1,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/5W3_SkGD4wzKKz3D1FrFPQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/31838.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.468,
-        "fpor": -2.88,
-        "trend_val": -0.1485,
-        "fpoe": -2.7315
+        "games_played": 6,
+        "fppg": 10.1833,
+        "fpor": -1.4267,
+        "trend_val": -0.1465,
+        "fpoe": -1.2802
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 9.468,
-        "fpor": -4.864,
-        "trend_val": -0.0751,
-        "fpoe": -4.7889
+        "games_played": 6,
+        "fppg": 10.1833,
+        "fpor": -4.91,
+        "trend_val": -0.3588,
+        "fpoe": -4.5512
       }
     },
     {
@@ -2359,21 +2359,21 @@
       "player_name": "Chuba Hubbard",
       "position": "RB",
       "nfl_team": "CAR",
-      "total_pts": 75.0,
-      "photo_url": "https://s.yimg.com/iu/api/res/1.2/84nO7y.ExPfjb.8M689CSQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/33514.1.png",
+      "total_pts": 94.6,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rzsvnt0pxsaize2ndhxm",
       "injuries_on": {
-        "games_played": 4,
-        "fppg": 18.75,
-        "fpor": 9.49,
-        "trend_val": -0.154,
-        "fpoe": 9.644
+        "games_played": 5,
+        "fppg": 18.92,
+        "fpor": 10.9367,
+        "trend_val": -0.1571,
+        "fpoe": 11.0938
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 18.75,
-        "fpor": 9.29,
-        "trend_val": -0.0963,
-        "fpoe": 9.3863
+        "games_played": 5,
+        "fppg": 18.92,
+        "fpor": 9.8,
+        "trend_val": -0.3802,
+        "fpoe": 10.1802
       }
     },
     {
@@ -2385,21 +2385,21 @@
       "player_name": "Isaiah Likely",
       "position": "TE",
       "nfl_team": "NYG",
-      "total_pts": 68.9,
+      "total_pts": 89.8,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/EHF10aQeyuo41zClRCGe5A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202026/34095.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 13.78,
-        "fpor": 5.455,
-        "trend_val": -0.1593,
-        "fpoe": 5.6143
+        "games_played": 6,
+        "fppg": 14.9667,
+        "fpor": 7.15,
+        "trend_val": -0.1672,
+        "fpoe": 7.3172
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 13.78,
-        "fpor": 5.24,
-        "trend_val": -0.1167,
-        "fpoe": 5.3567
+        "games_played": 6,
+        "fppg": 14.9667,
+        "fpor": 6.6334,
+        "trend_val": -0.4009,
+        "fpoe": 7.0343
       }
     },
     {
@@ -2411,21 +2411,21 @@
       "player_name": "Dallas Goedert",
       "position": "TE",
       "nfl_team": "PHI",
-      "total_pts": 31.4,
+      "total_pts": 40.5,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bafepstxu7vvxb9v5vua",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.28,
-        "fpor": -2.045,
-        "trend_val": -0.1643,
-        "fpoe": -1.8807
+        "games_played": 6,
+        "fppg": 6.75,
+        "fpor": -1.0667,
+        "trend_val": -0.1768,
+        "fpoe": -0.8899
       },
       "injuries_off": {
-        "games_played": 3,
-        "fppg": 10.4667,
-        "fpor": 1.9267,
-        "trend_val": -0.1366,
-        "fpoe": 2.0633
+        "games_played": 4,
+        "fppg": 10.125,
+        "fpor": 1.7917,
+        "trend_val": -0.421,
+        "fpoe": 2.2127
       }
     },
     {
@@ -2437,21 +2437,21 @@
       "player_name": "Christian Watson",
       "position": "WR",
       "nfl_team": "GB",
-      "total_pts": 104.4,
+      "total_pts": 112.3,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/zdZ4n05lF0SOcdt4FXNbRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/33989.3.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 20.88,
-        "fpor": 11.6,
-        "trend_val": -0.169,
-        "fpoe": 11.769
+        "games_played": 6,
+        "fppg": 18.7167,
+        "fpor": 9.2167,
+        "trend_val": -0.1861,
+        "fpoe": 9.4028
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 20.88,
-        "fpor": 10.94,
-        "trend_val": -0.1558,
-        "fpoe": 11.0958
+        "games_played": 6,
+        "fppg": 18.7167,
+        "fpor": 8.7967,
+        "trend_val": -0.4404,
+        "fpoe": 9.2371
       }
     },
     {
@@ -2466,18 +2466,18 @@
       "total_pts": 8.3,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/txl39rwjrs2fkm1shtxh",
       "injuries_on": {
-        "games_played": 4,
-        "fppg": 2.075,
-        "fpor": -7.185,
-        "trend_val": -0.1735,
-        "fpoe": -7.0115
+        "games_played": 5,
+        "fppg": 1.66,
+        "fpor": -6.3233,
+        "trend_val": -0.195,
+        "fpoe": -6.1283
       },
       "injuries_off": {
         "games_played": 2,
         "fppg": 4.15,
-        "fpor": -5.31,
-        "trend_val": -0.1743,
-        "fpoe": -5.1357
+        "fpor": -4.97,
+        "trend_val": -0.4593,
+        "fpoe": -4.5107
       }
     },
     {
@@ -2489,21 +2489,21 @@
       "player_name": "Harold Fannin Jr.",
       "position": "TE",
       "nfl_team": "CLE",
-      "total_pts": 42.7,
+      "total_pts": 44.1,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/JwOZzpNOcx7X.3gWJWdGHg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062025/41877.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.54,
-        "fpor": 0.215,
-        "trend_val": -0.1777,
-        "fpoe": 0.3927
+        "games_played": 6,
+        "fppg": 7.35,
+        "fpor": -0.4667,
+        "trend_val": -0.2034,
+        "fpoe": -0.2633
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 8.54,
-        "fpor": 0.0,
-        "trend_val": -0.1923,
-        "fpoe": 0.1923
+        "games_played": 6,
+        "fppg": 7.35,
+        "fpor": -0.9833,
+        "trend_val": -0.4775,
+        "fpoe": -0.5058
       }
     },
     {
@@ -2515,21 +2515,21 @@
       "player_name": "Tyler Shough",
       "position": "QB",
       "nfl_team": "NO",
-      "total_pts": 87.32,
+      "total_pts": 114.28,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/THgYM56gIICXgdIMCbs66w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202026/41825.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 17.464,
-        "fpor": 5.116,
-        "trend_val": -0.1817,
-        "fpoe": 5.2977
+        "games_played": 6,
+        "fppg": 19.0467,
+        "fpor": 7.4367,
+        "trend_val": -0.2115,
+        "fpoe": 7.6482
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 17.464,
-        "fpor": 3.132,
-        "trend_val": -0.2097,
-        "fpoe": 3.3417
+        "games_played": 6,
+        "fppg": 19.0467,
+        "fpor": 3.9534,
+        "trend_val": -0.4951,
+        "fpoe": 4.4485
       }
     },
     {
@@ -2541,21 +2541,21 @@
       "player_name": "Kenny Gainwell",
       "position": "RB",
       "nfl_team": "TB",
-      "total_pts": 21.3,
+      "total_pts": 24.2,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eo62l8ec8e3lzt86ihth",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 4.26,
-        "fpor": -5.0,
-        "trend_val": -0.1855,
-        "fpoe": -4.8145
+        "games_played": 6,
+        "fppg": 4.0333,
+        "fpor": -3.95,
+        "trend_val": -0.2193,
+        "fpoe": -3.7307
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 4.26,
-        "fpor": -5.2,
-        "trend_val": -0.2265,
-        "fpoe": -4.9735
+        "games_played": 6,
+        "fppg": 4.0333,
+        "fpor": -5.0867,
+        "trend_val": -0.5122,
+        "fpoe": -4.5745
       }
     },
     {
@@ -2567,21 +2567,21 @@
       "player_name": "Josh Downs",
       "position": "WR",
       "nfl_team": "IND",
-      "total_pts": 34.9,
+      "total_pts": 41.6,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/2N3fbHpcxarK6OYUackvOQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40126.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.98,
-        "fpor": -2.3,
-        "trend_val": -0.1891,
-        "fpoe": -2.1109
+        "games_played": 6,
+        "fppg": 6.9333,
+        "fpor": -2.5667,
+        "trend_val": -0.2267,
+        "fpoe": -2.34
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.98,
-        "fpor": -2.96,
-        "trend_val": -0.2427,
-        "fpoe": -2.7173
+        "games_played": 6,
+        "fppg": 6.9333,
+        "fpor": -2.9867,
+        "trend_val": -0.5288,
+        "fpoe": -2.4579
       }
     },
     {
@@ -2598,16 +2598,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 12.312,
-        "fpor": -0.036,
-        "trend_val": -0.1926,
-        "fpoe": 0.1566
+        "fpor": 0.702,
+        "trend_val": -0.2338,
+        "fpoe": 0.9358
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 12.312,
-        "fpor": -2.02,
-        "trend_val": -0.2585,
-        "fpoe": -1.7615
+        "fpor": -2.7813,
+        "trend_val": -0.5448,
+        "fpoe": -2.2365
       }
     },
     {
@@ -2619,21 +2619,21 @@
       "player_name": "Rico Dowdle",
       "position": "RB",
       "nfl_team": "PIT",
-      "total_pts": 8.5,
+      "total_pts": 14.9,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mx2bxccuzmdvzbksypws",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 1.7,
-        "fpor": -7.56,
-        "trend_val": -0.1958,
-        "fpoe": -7.3642
+        "games_played": 6,
+        "fppg": 2.4833,
+        "fpor": -5.5,
+        "trend_val": -0.2407,
+        "fpoe": -5.2593
       },
       "injuries_off": {
-        "games_played": 2,
-        "fppg": 4.25,
-        "fpor": -5.21,
-        "trend_val": -0.2737,
-        "fpoe": -4.9363
+        "games_played": 3,
+        "fppg": 4.9667,
+        "fpor": -4.1533,
+        "trend_val": -0.5603,
+        "fpoe": -3.593
       }
     },
     {
@@ -2645,21 +2645,21 @@
       "player_name": "RJ Harvey",
       "position": "RB",
       "nfl_team": "DEN",
-      "total_pts": 28.8,
+      "total_pts": 41.9,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/aAqi80yyrSD1W2OGK.E8Kg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/41845.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 5.76,
-        "fpor": -3.5,
-        "trend_val": -0.1989,
-        "fpoe": -3.3011
+        "games_played": 6,
+        "fppg": 6.9833,
+        "fpor": -1.0,
+        "trend_val": -0.2472,
+        "fpoe": -0.7528
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 7.2,
-        "fpor": -2.26,
-        "trend_val": -0.2885,
-        "fpoe": -1.9715
+        "games_played": 5,
+        "fppg": 8.38,
+        "fpor": -0.74,
+        "trend_val": -0.5754,
+        "fpoe": -0.1646
       }
     },
     {
@@ -2671,21 +2671,21 @@
       "player_name": "J.K. Dobbins",
       "position": "RB",
       "nfl_team": "DEN",
-      "total_pts": 33.6,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cevotvl3ho5h1mioruyg",
+      "total_pts": 45.7,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/qIw9czTCGxW94slu_jv4AA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/32725.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.72,
-        "fpor": -2.54,
-        "trend_val": -0.2018,
-        "fpoe": -2.3382
+        "games_played": 6,
+        "fppg": 7.6167,
+        "fpor": -0.3666,
+        "trend_val": -0.2534,
+        "fpoe": -0.1132
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.72,
-        "fpor": -2.74,
-        "trend_val": -0.3027,
-        "fpoe": -2.4373
+        "games_played": 6,
+        "fppg": 7.6167,
+        "fpor": -1.5033,
+        "trend_val": -0.5899,
+        "fpoe": -0.9134
       }
     },
     {
@@ -2700,18 +2700,18 @@
       "total_pts": 9.7,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcg9t51wgp3hicavmkmy",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 1.94,
-        "fpor": -7.34,
-        "trend_val": -0.2045,
-        "fpoe": -7.1355
+        "games_played": 6,
+        "fppg": 1.6167,
+        "fpor": -7.8833,
+        "trend_val": -0.2594,
+        "fpoe": -7.6239
       },
       "injuries_off": {
         "games_played": 2,
         "fppg": 4.85,
-        "fpor": -5.09,
-        "trend_val": -0.3165,
-        "fpoe": -4.7735
+        "fpor": -5.07,
+        "trend_val": -0.604,
+        "fpoe": -4.466
       }
     },
     {
@@ -2752,18 +2752,18 @@
       "total_pts": 42.4,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qew4qhlj4yuf50voko61",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.48,
-        "fpor": -0.78,
-        "trend_val": -0.2096,
-        "fpoe": -0.5704
+        "games_played": 6,
+        "fppg": 7.0667,
+        "fpor": -0.9166,
+        "trend_val": -0.2705,
+        "fpoe": -0.6461
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 8.48,
-        "fpor": -0.98,
-        "trend_val": -0.3428,
-        "fpoe": -0.6372
+        "fpor": -0.64,
+        "trend_val": -0.6309,
+        "fpoe": -0.0091
       }
     },
     {
@@ -2778,18 +2778,18 @@
       "total_pts": 0,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
+        "games_played": 6,
         "fppg": 0.0,
-        "fpor": -9.26,
-        "trend_val": -0.2119,
-        "fpoe": -9.0481
+        "fpor": -7.9833,
+        "trend_val": -0.2757,
+        "fpoe": -7.7076
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 0.0,
-        "fpor": -9.46,
-        "trend_val": -0.3553,
-        "fpoe": -9.1047
+        "fpor": -9.12,
+        "trend_val": -0.6437,
+        "fpoe": -8.4763
       }
     },
     {
@@ -2801,21 +2801,21 @@
       "player_name": "Braelon Allen",
       "position": "RB",
       "nfl_team": "NYJ",
-      "total_pts": 42.0,
+      "total_pts": 53.4,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/44krz6SBfyvO2QoseAeVCQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08212026/40981.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.4,
-        "fpor": -0.86,
-        "trend_val": -0.2141,
-        "fpoe": -0.6459
+        "games_played": 6,
+        "fppg": 8.9,
+        "fpor": 0.9167,
+        "trend_val": -0.2807,
+        "fpoe": 1.1974
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 8.4,
-        "fpor": -1.06,
-        "trend_val": -0.3674,
-        "fpoe": -0.6926
+        "games_played": 6,
+        "fppg": 8.9,
+        "fpor": -0.22,
+        "trend_val": -0.6561,
+        "fpoe": 0.4361
       }
     },
     {
@@ -2827,21 +2827,21 @@
       "player_name": "Jacoby Brissett",
       "position": "QB",
       "nfl_team": "ARI",
-      "total_pts": 83.8,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qjswiunczrn5xmdiqhlz",
+      "total_pts": 90.72,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/r7iPSr9Kdh_z1Iq2Of7lTw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08052026/29325.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 16.76,
-        "fpor": 4.412,
-        "trend_val": -0.2162,
-        "fpoe": 4.6282
+        "games_played": 6,
+        "fppg": 15.12,
+        "fpor": 3.51,
+        "trend_val": -0.2855,
+        "fpoe": 3.7955
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 16.76,
-        "fpor": 2.428,
-        "trend_val": -0.3791,
-        "fpoe": 2.8071
+        "games_played": 6,
+        "fppg": 15.12,
+        "fpor": 0.0267,
+        "trend_val": -0.6681,
+        "fpoe": 0.6948
       }
     },
     {
@@ -2853,21 +2853,21 @@
       "player_name": "Rams",
       "position": "DEF",
       "nfl_team": "LAR",
-      "total_pts": 35.0,
+      "total_pts": 39.0,
       "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 7.0,
-        "fpor": 2.0,
-        "trend_val": -0.2182,
-        "fpoe": 2.2182
+        "games_played": 6,
+        "fppg": 6.5,
+        "fpor": 0.8333,
+        "trend_val": -0.2901,
+        "fpoe": 1.1234
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 7.0,
-        "fpor": 2.0,
-        "trend_val": -0.3904,
-        "fpoe": 2.3904
+        "games_played": 6,
+        "fppg": 6.5,
+        "fpor": 0.8333,
+        "trend_val": -0.6797,
+        "fpoe": 1.513
       }
     },
     {
@@ -2879,21 +2879,21 @@
       "player_name": "Cam Ward",
       "position": "QB",
       "nfl_team": "TEN",
-      "total_pts": 61.74,
+      "total_pts": 68.52,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l7switu6stlwd2irm8yo",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 12.348,
-        "fpor": 0.0,
-        "trend_val": -0.2201,
-        "fpoe": 0.2201
+        "games_played": 6,
+        "fppg": 11.42,
+        "fpor": -0.19,
+        "trend_val": -0.2945,
+        "fpoe": 0.1045
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 12.348,
-        "fpor": -1.984,
-        "trend_val": -0.4014,
-        "fpoe": -1.5826
+        "games_played": 6,
+        "fppg": 11.42,
+        "fpor": -3.6733,
+        "trend_val": -0.691,
+        "fpoe": -2.9823
       }
     },
     {
@@ -2905,21 +2905,21 @@
       "player_name": "Blake Corum",
       "position": "RB",
       "nfl_team": "LAR",
-      "total_pts": 34.9,
+      "total_pts": 47.9,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/axzqbqjkrbwfzodwwakq",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.98,
-        "fpor": -2.28,
-        "trend_val": -0.2219,
-        "fpoe": -2.0581
+        "games_played": 6,
+        "fppg": 7.9833,
+        "fpor": 0.0,
+        "trend_val": -0.2987,
+        "fpoe": 0.2987
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.98,
-        "fpor": -2.48,
-        "trend_val": -0.412,
-        "fpoe": -2.068
+        "games_played": 6,
+        "fppg": 7.9833,
+        "fpor": -1.1367,
+        "trend_val": -0.7019,
+        "fpoe": -0.4348
       }
     },
     {
@@ -2931,21 +2931,21 @@
       "player_name": "Broncos",
       "position": "DEF",
       "nfl_team": "DEN",
-      "total_pts": 63.0,
+      "total_pts": 83.0,
       "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 12.6,
-        "fpor": 7.6,
-        "trend_val": -0.2236,
-        "fpoe": 7.8236
+        "games_played": 6,
+        "fppg": 13.8333,
+        "fpor": 8.1666,
+        "trend_val": -0.3027,
+        "fpoe": 8.4693
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 12.6,
-        "fpor": 7.6,
-        "trend_val": -0.4222,
-        "fpoe": 8.0222
+        "games_played": 6,
+        "fppg": 13.8333,
+        "fpor": 8.1666,
+        "trend_val": -0.7125,
+        "fpoe": 8.8791
       }
     },
     {
@@ -2983,21 +2983,21 @@
       "player_name": "Bryce Young",
       "position": "QB",
       "nfl_team": "CAR",
-      "total_pts": 93.62,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vcvhmxvxw2a3armle0af",
+      "total_pts": 113.46,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/V9fTWlvMZ92ho7Eny6yU6A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/40029.1.png",
       "injuries_on": {
-        "games_played": 4,
-        "fppg": 23.405,
-        "fpor": 11.057,
-        "trend_val": -0.2267,
-        "fpoe": 11.2837
+        "games_played": 5,
+        "fppg": 22.692,
+        "fpor": 11.082,
+        "trend_val": -0.3102,
+        "fpoe": 11.3922
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 23.405,
-        "fpor": 9.073,
-        "trend_val": -0.4417,
-        "fpoe": 9.5147
+        "games_played": 5,
+        "fppg": 22.692,
+        "fpor": 7.5987,
+        "trend_val": -0.7326,
+        "fpoe": 8.3313
       }
     },
     {
@@ -3012,18 +3012,18 @@
       "total_pts": 21.0,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/plnekkriys4cm11rnxwl",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 4.2,
-        "fpor": -5.08,
-        "trend_val": -0.2281,
-        "fpoe": -4.8519
+        "games_played": 6,
+        "fppg": 3.5,
+        "fpor": -6.0,
+        "trend_val": -0.3137,
+        "fpoe": -5.6863
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 4.2,
-        "fpor": -5.74,
-        "trend_val": -0.451,
-        "fpoe": -5.289
+        "games_played": 6,
+        "fppg": 3.5,
+        "fpor": -6.42,
+        "trend_val": -0.7422,
+        "fpoe": -5.6778
       }
     },
     {
@@ -3038,18 +3038,18 @@
       "total_pts": 0,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
+        "games_played": 6,
         "fppg": 0.0,
-        "fpor": -9.28,
-        "trend_val": -0.2295,
-        "fpoe": -9.0505
+        "fpor": -9.5,
+        "trend_val": -0.3171,
+        "fpoe": -9.1829
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 0.0,
-        "fpor": -9.94,
-        "trend_val": -0.46,
-        "fpoe": -9.48
+        "fpor": -9.92,
+        "trend_val": -0.7515,
+        "fpoe": -9.1685
       }
     },
     {
@@ -3061,21 +3061,21 @@
       "player_name": "Chris Godwin Jr.",
       "position": "WR",
       "nfl_team": "TB",
-      "total_pts": 29.2,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ilkheljdx4hbjpisulke",
+      "total_pts": 34.9,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/aHKek31FKO3SZXCZKXYJpQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08282025/30197.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 5.84,
-        "fpor": -3.44,
-        "trend_val": -0.2308,
-        "fpoe": -3.2092
+        "games_played": 6,
+        "fppg": 5.8167,
+        "fpor": -3.6833,
+        "trend_val": -0.3203,
+        "fpoe": -3.363
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 5.84,
-        "fpor": -4.1,
-        "trend_val": -0.4687,
-        "fpoe": -3.6313
+        "games_played": 6,
+        "fppg": 5.8167,
+        "fpor": -4.1033,
+        "trend_val": -0.7605,
+        "fpoe": -3.3428
       }
     },
     {
@@ -3087,21 +3087,21 @@
       "player_name": "Kyle Pitts Sr.",
       "position": "TE",
       "nfl_team": "ATL",
-      "total_pts": 21.9,
+      "total_pts": 42.4,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xczipzxvytnmvgznhhb4",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 4.38,
-        "fpor": -3.945,
-        "trend_val": -0.232,
-        "fpoe": -3.713
+        "games_played": 6,
+        "fppg": 7.0667,
+        "fpor": -0.75,
+        "trend_val": -0.3234,
+        "fpoe": -0.4266
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 4.38,
-        "fpor": -4.16,
-        "trend_val": -0.4771,
-        "fpoe": -3.6829
+        "games_played": 6,
+        "fppg": 7.0667,
+        "fpor": -1.2666,
+        "trend_val": -0.7693,
+        "fpoe": -0.4973
       }
     },
     {
@@ -3116,18 +3116,18 @@
       "total_pts": 4.4,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uhb95fij1uo92ymqxpmg",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 0.88,
-        "fpor": -8.4,
-        "trend_val": -0.2331,
-        "fpoe": -8.1669
+        "games_played": 6,
+        "fppg": 0.7333,
+        "fpor": -8.7667,
+        "trend_val": -0.3263,
+        "fpoe": -8.4404
       },
       "injuries_off": {
         "games_played": 2,
         "fppg": 2.2,
-        "fpor": -7.74,
-        "trend_val": -0.4853,
-        "fpoe": -7.2547
+        "fpor": -7.72,
+        "trend_val": -0.7777,
+        "fpoe": -6.9423
       }
     },
     {
@@ -3139,21 +3139,21 @@
       "player_name": "Travis Kelce",
       "position": "TE",
       "nfl_team": "KC",
-      "total_pts": 45.6,
+      "total_pts": 52.9,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/ynhkrbJAJKmF5XgXM2ydDg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/26686.png",
       "injuries_on": {
-        "games_played": 4,
-        "fppg": 11.4,
-        "fpor": 3.075,
-        "trend_val": -0.2342,
-        "fpoe": 3.3092
+        "games_played": 5,
+        "fppg": 10.58,
+        "fpor": 2.7633,
+        "trend_val": -0.3292,
+        "fpoe": 3.0925
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 11.4,
-        "fpor": 2.86,
-        "trend_val": -0.4932,
-        "fpoe": 3.3532
+        "games_played": 5,
+        "fppg": 10.58,
+        "fpor": 2.2467,
+        "trend_val": -0.7859,
+        "fpoe": 3.0326
       }
     },
     {
@@ -3165,21 +3165,21 @@
       "player_name": "DK Metcalf",
       "position": "WR",
       "nfl_team": "PIT",
-      "total_pts": 40.1,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kxql4sjfelubhxawu2zh",
+      "total_pts": 54.9,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/xNQy._m0pGTaF4D.WKgjsA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/31896.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.02,
-        "fpor": -1.26,
-        "trend_val": -0.2353,
-        "fpoe": -1.0247
+        "games_played": 6,
+        "fppg": 9.15,
+        "fpor": -0.35,
+        "trend_val": -0.3319,
+        "fpoe": -0.0181
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 8.02,
-        "fpor": -1.92,
-        "trend_val": -0.5008,
-        "fpoe": -1.4192
+        "games_played": 6,
+        "fppg": 9.15,
+        "fpor": -0.77,
+        "trend_val": -0.7938,
+        "fpoe": 0.0238
       }
     },
     {
@@ -3196,16 +3196,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 2.38,
-        "fpor": -6.88,
-        "trend_val": -0.2362,
-        "fpoe": -6.6438
+        "fpor": -5.6033,
+        "trend_val": -0.3344,
+        "fpoe": -5.2689
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 11.9,
-        "fpor": 2.44,
-        "trend_val": -0.5082,
-        "fpoe": 2.9482
+        "fpor": 2.78,
+        "trend_val": -0.8015,
+        "fpoe": 3.5815
       }
     },
     {
@@ -3217,21 +3217,21 @@
       "player_name": "MarShawn Lloyd",
       "position": "RB",
       "nfl_team": "GB",
-      "total_pts": 37.7,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xp8sd4enimuk4zd0aqgu",
+      "total_pts": 38.7,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/Q32rawxvCvcLx7Co.N1P0Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40971.3.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 7.54,
-        "fpor": -1.72,
-        "trend_val": -0.2372,
-        "fpoe": -1.4828
+        "games_played": 6,
+        "fppg": 6.45,
+        "fpor": -1.5333,
+        "trend_val": -0.3369,
+        "fpoe": -1.1964
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 7.54,
-        "fpor": -1.92,
-        "trend_val": -0.5153,
-        "fpoe": -1.4047
+        "games_played": 6,
+        "fppg": 6.45,
+        "fpor": -2.67,
+        "trend_val": -0.8089,
+        "fpoe": -1.8611
       }
     },
     {
@@ -3246,18 +3246,18 @@
       "total_pts": 0,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
+        "games_played": 6,
         "fppg": 0.0,
-        "fpor": -9.28,
-        "trend_val": -0.2381,
-        "fpoe": -9.0419
+        "fpor": -9.5,
+        "trend_val": -0.3393,
+        "fpoe": -9.1607
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 0.0,
-        "fpor": -9.94,
-        "trend_val": -0.5222,
-        "fpoe": -9.4178
+        "fpor": -9.92,
+        "trend_val": -0.8161,
+        "fpoe": -9.1039
       }
     },
     {
@@ -3269,21 +3269,21 @@
       "player_name": "Brandon Aubrey",
       "position": "K",
       "nfl_team": "DAL",
-      "total_pts": 45.0,
+      "total_pts": 46.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/QFhJ3YtUbKOBqoSm.lOY6Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/40819.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.0,
-        "fpor": 2.0,
-        "trend_val": -0.2389,
-        "fpoe": 2.2389
+        "games_played": 6,
+        "fppg": 7.6667,
+        "fpor": 0.0,
+        "trend_val": -0.3416,
+        "fpoe": 0.3416
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 9.0,
-        "fpor": 2.0,
-        "trend_val": -0.5289,
-        "fpoe": 2.5289
+        "games_played": 6,
+        "fppg": 7.6667,
+        "fpor": -0.3333,
+        "trend_val": -0.823,
+        "fpoe": 0.4897
       }
     },
     {
@@ -3295,21 +3295,21 @@
       "player_name": "Ravens",
       "position": "DEF",
       "nfl_team": "BAL",
-      "total_pts": 45.0,
+      "total_pts": 59.0,
       "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.0,
-        "fpor": 4.0,
-        "trend_val": -0.2397,
-        "fpoe": 4.2397
+        "games_played": 6,
+        "fppg": 9.8333,
+        "fpor": 4.1666,
+        "trend_val": -0.3437,
+        "fpoe": 4.5103
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 9.0,
-        "fpor": 4.0,
-        "trend_val": -0.5354,
-        "fpoe": 4.5354
+        "games_played": 6,
+        "fppg": 9.8333,
+        "fpor": 4.1666,
+        "trend_val": -0.8298,
+        "fpoe": 4.9964
       }
     },
     {
@@ -3321,21 +3321,21 @@
       "player_name": "Seahawks",
       "position": "DEF",
       "nfl_team": "SEA",
-      "total_pts": 51.0,
+      "total_pts": 56.0,
       "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 10.2,
-        "fpor": 5.2,
-        "trend_val": -0.2404,
-        "fpoe": 5.4404
+        "games_played": 6,
+        "fppg": 9.3333,
+        "fpor": 3.6666,
+        "trend_val": -0.3458,
+        "fpoe": 4.0124
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 10.2,
-        "fpor": 5.2,
-        "trend_val": -0.5416,
-        "fpoe": 5.7416
+        "games_played": 6,
+        "fppg": 9.3333,
+        "fpor": 3.6666,
+        "trend_val": -0.8363,
+        "fpoe": 4.5029
       }
     },
     {
@@ -3350,18 +3350,18 @@
       "total_pts": 19.1,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/k9TrMbXiaW_YxKds95cjag--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/42626.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 3.82,
-        "fpor": -5.46,
-        "trend_val": -0.2411,
-        "fpoe": -5.2189
+        "games_played": 6,
+        "fppg": 3.1833,
+        "fpor": -6.3167,
+        "trend_val": -0.3478,
+        "fpoe": -5.9689
       },
       "injuries_off": {
         "games_played": 2,
         "fppg": 9.55,
-        "fpor": -0.39,
-        "trend_val": -0.5477,
-        "fpoe": 0.1577
+        "fpor": -0.37,
+        "trend_val": -0.8427,
+        "fpoe": 0.4727
       }
     },
     {
@@ -3373,21 +3373,21 @@
       "player_name": "Courtland Sutton",
       "position": "WR",
       "nfl_team": "DEN",
-      "total_pts": 21.9,
+      "total_pts": 24.8,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kqwmqcrlrwmqcvfuguhs",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 4.38,
-        "fpor": -4.9,
-        "trend_val": -0.2418,
-        "fpoe": -4.6582
+        "games_played": 6,
+        "fppg": 4.1333,
+        "fpor": -5.3667,
+        "trend_val": -0.3497,
+        "fpoe": -5.017
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 4.38,
-        "fpor": -5.56,
-        "trend_val": -0.5535,
-        "fpoe": -5.0065
+        "games_played": 6,
+        "fppg": 4.1333,
+        "fpor": -5.7867,
+        "trend_val": -0.8488,
+        "fpoe": -4.9379
       }
     },
     {
@@ -3399,21 +3399,21 @@
       "player_name": "Michael Wilson",
       "position": "WR",
       "nfl_team": "ARI",
-      "total_pts": 49.58,
+      "total_pts": 54.78,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/W8_S7Ff5gcMbMBpBx_63rQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08052026/40121.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.916,
-        "fpor": 0.636,
-        "trend_val": -0.2425,
-        "fpoe": 0.8785
+        "games_played": 6,
+        "fppg": 9.13,
+        "fpor": -0.37,
+        "trend_val": -0.3515,
+        "fpoe": -0.0185
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 9.916,
-        "fpor": -0.024,
-        "trend_val": -0.5592,
-        "fpoe": 0.5352
+        "games_played": 6,
+        "fppg": 9.13,
+        "fpor": -0.79,
+        "trend_val": -0.8547,
+        "fpoe": 0.0647
       }
     },
     {
@@ -3430,16 +3430,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 5.94,
-        "fpor": -3.34,
-        "trend_val": -0.2431,
-        "fpoe": -3.0969
+        "fpor": -3.56,
+        "trend_val": -0.3532,
+        "fpoe": -3.2068
       },
       "injuries_off": {
         "games_played": 4,
         "fppg": 7.425,
-        "fpor": -2.515,
-        "trend_val": -0.5647,
-        "fpoe": -1.9503
+        "fpor": -2.495,
+        "trend_val": -0.8605,
+        "fpoe": -1.6345
       }
     },
     {
@@ -3454,18 +3454,18 @@
       "total_pts": 60.8,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkkk3uuouhcobydqawro",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 12.16,
-        "fpor": 2.9,
-        "trend_val": -0.2436,
-        "fpoe": 3.1436
+        "games_played": 6,
+        "fppg": 10.1333,
+        "fpor": 2.15,
+        "trend_val": -0.3549,
+        "fpoe": 2.5049
       },
       "injuries_off": {
         "games_played": 4,
         "fppg": 15.2,
-        "fpor": 5.74,
-        "trend_val": -0.57,
-        "fpoe": 6.31
+        "fpor": 6.08,
+        "trend_val": -0.866,
+        "fpoe": 6.946
       }
     },
     {
@@ -3482,16 +3482,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 13.24,
-        "fpor": 3.98,
-        "trend_val": -0.2442,
-        "fpoe": 4.2242
+        "fpor": 5.2567,
+        "trend_val": -0.3565,
+        "fpoe": 5.6132
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 13.24,
-        "fpor": 3.78,
-        "trend_val": -0.5751,
-        "fpoe": 4.3551
+        "fpor": 4.12,
+        "trend_val": -0.8714,
+        "fpoe": 4.9914
       }
     },
     {
@@ -3508,16 +3508,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 7.2,
-        "fpor": 2.2,
-        "trend_val": -0.2447,
-        "fpoe": 2.4447
+        "fpor": 1.5333,
+        "trend_val": -0.358,
+        "fpoe": 1.8913
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 7.2,
-        "fpor": 2.2,
-        "trend_val": -0.5801,
-        "fpoe": 2.7801
+        "fpor": 1.5333,
+        "trend_val": -0.8766,
+        "fpoe": 2.4099
       }
     },
     {
@@ -3529,21 +3529,21 @@
       "player_name": "Texans",
       "position": "DEF",
       "nfl_team": "HOU",
-      "total_pts": 31.0,
+      "total_pts": 34.0,
       "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.2,
-        "fpor": 1.2,
-        "trend_val": -0.2452,
-        "fpoe": 1.4452
+        "games_played": 6,
+        "fppg": 5.6667,
+        "fpor": 0.0,
+        "trend_val": -0.3595,
+        "fpoe": 0.3595
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.2,
-        "fpor": 1.2,
-        "trend_val": -0.5849,
-        "fpoe": 1.7849
+        "games_played": 6,
+        "fppg": 5.6667,
+        "fpor": 0.0,
+        "trend_val": -0.8817,
+        "fpoe": 0.8817
       }
     },
     {
@@ -3558,18 +3558,18 @@
       "total_pts": 0,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 4,
+        "games_played": 5,
         "fppg": 0.0,
-        "fpor": -9.26,
-        "trend_val": -0.2456,
-        "fpoe": -9.0144
+        "fpor": -7.9833,
+        "trend_val": -0.3609,
+        "fpoe": -7.6224
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 0.0,
-        "fpor": -9.46,
-        "trend_val": -0.5895,
-        "fpoe": -8.8705
+        "fpor": -9.12,
+        "trend_val": -0.8866,
+        "fpoe": -8.2334
       }
     },
     {
@@ -3581,21 +3581,21 @@
       "player_name": "Mark Andrews",
       "position": "TE",
       "nfl_team": "BAL",
-      "total_pts": 32.7,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u4xzz7tclch0tpzm9hhz",
+      "total_pts": 33.6,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/esyGOZhIzn5kp7nExzw3Yg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/31056.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.54,
-        "fpor": -1.785,
-        "trend_val": -0.2461,
-        "fpoe": -1.5389
+        "games_played": 6,
+        "fppg": 5.6,
+        "fpor": -2.2167,
+        "trend_val": -0.3622,
+        "fpoe": -1.8545
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.54,
-        "fpor": -2.0,
-        "trend_val": -0.594,
-        "fpoe": -1.406
+        "games_played": 6,
+        "fppg": 5.6,
+        "fpor": -2.7333,
+        "trend_val": -0.8913,
+        "fpoe": -1.842
       }
     },
     {
@@ -3607,21 +3607,21 @@
       "player_name": "Dalton Kincaid",
       "position": "TE",
       "nfl_team": "BUF",
-      "total_pts": 42.7,
-      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z7k857flehljboaixj8m",
+      "total_pts": 50.0,
+      "photo_url": "https://s.yimg.com/iu/api/res/1.2/2S58M4.ijx2yJ7WNMMBjyw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/40048.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.54,
-        "fpor": 0.215,
-        "trend_val": -0.2465,
-        "fpoe": 0.4615
+        "games_played": 6,
+        "fppg": 8.3333,
+        "fpor": 0.5166,
+        "trend_val": -0.3635,
+        "fpoe": 0.8801
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 8.54,
+        "games_played": 6,
+        "fppg": 8.3333,
         "fpor": 0.0,
-        "trend_val": -0.5984,
-        "fpoe": 0.5984
+        "trend_val": -0.8959,
+        "fpoe": 0.8959
       }
     },
     {
@@ -3636,18 +3636,18 @@
       "total_pts": 0,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
+        "games_played": 6,
         "fppg": 0.0,
-        "fpor": -9.26,
-        "trend_val": -0.2469,
-        "fpoe": -9.0131
+        "fpor": -7.9833,
+        "trend_val": -0.3647,
+        "fpoe": -7.6186
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 0.0,
-        "fpor": -9.46,
-        "trend_val": -0.6026,
-        "fpoe": -8.8574
+        "fpor": -9.12,
+        "trend_val": -0.9004,
+        "fpoe": -8.2196
       }
     },
     {
@@ -3659,21 +3659,21 @@
       "player_name": "Quentin Johnston",
       "position": "WR",
       "nfl_team": "LAC",
-      "total_pts": 14.6,
+      "total_pts": 20.8,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lyvsrjh4mjb4dqwp6shm",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 2.92,
-        "fpor": -6.36,
-        "trend_val": -0.2472,
-        "fpoe": -6.1128
+        "games_played": 6,
+        "fppg": 3.4667,
+        "fpor": -6.0333,
+        "trend_val": -0.3659,
+        "fpoe": -5.6674
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 3.65,
-        "fpor": -6.29,
-        "trend_val": -0.6067,
-        "fpoe": -5.6833
+        "games_played": 5,
+        "fppg": 4.16,
+        "fpor": -5.76,
+        "trend_val": -0.9047,
+        "fpoe": -4.8553
       }
     },
     {
@@ -3685,21 +3685,21 @@
       "player_name": "Chris Rodriguez Jr.",
       "position": "RB",
       "nfl_team": "JAX",
-      "total_pts": 24.4,
+      "total_pts": 29.9,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pknd5uajvpvfd8c744im",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 4.88,
-        "fpor": -4.38,
-        "trend_val": -0.2476,
-        "fpoe": -4.1324
+        "games_played": 6,
+        "fppg": 4.9833,
+        "fpor": -3.0,
+        "trend_val": -0.367,
+        "fpoe": -2.633
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 4.88,
-        "fpor": -4.58,
-        "trend_val": -0.6106,
-        "fpoe": -3.9694
+        "games_played": 6,
+        "fppg": 4.9833,
+        "fpor": -4.1367,
+        "trend_val": -0.9088,
+        "fpoe": -3.2279
       }
     },
     {
@@ -3711,21 +3711,21 @@
       "player_name": "Jake Ferguson",
       "position": "TE",
       "nfl_team": "DAL",
-      "total_pts": 33.7,
+      "total_pts": 36.0,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xpykb0tbosfwsn6dqstb",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.74,
-        "fpor": -1.585,
-        "trend_val": -0.2479,
-        "fpoe": -1.3371
+        "games_played": 6,
+        "fppg": 6.0,
+        "fpor": -1.8167,
+        "trend_val": -0.3681,
+        "fpoe": -1.4486
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.74,
-        "fpor": -1.8,
-        "trend_val": -0.6145,
-        "fpoe": -1.1855
+        "games_played": 6,
+        "fppg": 6.0,
+        "fpor": -2.3333,
+        "trend_val": -0.9129,
+        "fpoe": -1.4204
       }
     },
     {
@@ -3736,22 +3736,22 @@
       "player_id": "100017",
       "player_name": "Patriots",
       "position": "DEF",
-      "nfl_team": "",
-      "total_pts": 0.0,
-      "photo_url": "",
+      "nfl_team": "NE",
+      "total_pts": 12.0,
+      "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
       "injuries_on": {
-        "games_played": 0,
-        "fppg": 0.0,
-        "fpor": 0.0,
-        "trend_val": null,
-        "fpoe": null
+        "games_played": 6,
+        "fppg": 2.0,
+        "fpor": -3.6667,
+        "trend_val": -0.3691,
+        "fpoe": -3.2976
       },
       "injuries_off": {
-        "games_played": 0,
-        "fppg": 0.0,
-        "fpor": 0.0,
-        "trend_val": null,
-        "fpoe": null
+        "games_played": 6,
+        "fppg": 2.0,
+        "fpor": -3.6667,
+        "trend_val": -0.9168,
+        "fpoe": -2.7499
       }
     },
     {
@@ -3766,18 +3766,18 @@
       "total_pts": 43.0,
       "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.6,
-        "fpor": 3.6,
-        "trend_val": -0.2485,
-        "fpoe": 3.8485
+        "games_played": 6,
+        "fppg": 7.1667,
+        "fpor": 1.5,
+        "trend_val": -0.3701,
+        "fpoe": 1.8701
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 8.6,
-        "fpor": 3.6,
-        "trend_val": -0.6217,
-        "fpoe": 4.2217
+        "games_played": 6,
+        "fppg": 7.1667,
+        "fpor": 1.5,
+        "trend_val": -0.9206,
+        "fpoe": 2.4206
       }
     },
     {
@@ -3789,21 +3789,21 @@
       "player_name": "Jason Myers",
       "position": "K",
       "nfl_team": "SEA",
-      "total_pts": 51.0,
+      "total_pts": 58.0,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zcd7q9loflr0t5bsvzig",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 10.2,
-        "fpor": 3.2,
-        "trend_val": -0.2488,
-        "fpoe": 3.4488
+        "games_played": 6,
+        "fppg": 9.6667,
+        "fpor": 2.0,
+        "trend_val": -0.371,
+        "fpoe": 2.371
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 10.2,
-        "fpor": 3.2,
-        "trend_val": -0.6252,
-        "fpoe": 3.8252
+        "games_played": 6,
+        "fppg": 9.6667,
+        "fpor": 1.6667,
+        "trend_val": -0.9243,
+        "fpoe": 2.591
       }
     },
     {
@@ -3815,21 +3815,21 @@
       "player_name": "Ka'imi Fairbairn",
       "position": "K",
       "nfl_team": "HOU",
-      "total_pts": 54.0,
+      "total_pts": 65.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/.c6NIw1lGRTM_O_gZeDW4w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192025/29792.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 10.8,
-        "fpor": 3.8,
-        "trend_val": -0.2491,
-        "fpoe": 4.0491
+        "games_played": 6,
+        "fppg": 10.8333,
+        "fpor": 3.1666,
+        "trend_val": -0.3719,
+        "fpoe": 3.5385
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 10.8,
-        "fpor": 3.8,
-        "trend_val": -0.6285,
-        "fpoe": 4.4285
+        "games_played": 6,
+        "fppg": 10.8333,
+        "fpor": 2.8333,
+        "trend_val": -0.9278,
+        "fpoe": 3.7611
       }
     },
     {
@@ -3841,21 +3841,21 @@
       "player_name": "Cameron Dicker",
       "position": "K",
       "nfl_team": "LAC",
-      "total_pts": 31.0,
+      "total_pts": 37.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/pZX.ilneMov14gFOC.lK.g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092026/34344.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.2,
-        "fpor": -0.8,
-        "trend_val": -0.2493,
-        "fpoe": -0.5507
+        "games_played": 6,
+        "fppg": 6.1667,
+        "fpor": -1.5,
+        "trend_val": -0.3728,
+        "fpoe": -1.1272
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.2,
-        "fpor": -0.8,
-        "trend_val": -0.6318,
-        "fpoe": -0.1682
+        "games_played": 6,
+        "fppg": 6.1667,
+        "fpor": -1.8333,
+        "trend_val": -0.9313,
+        "fpoe": -0.902
       }
     },
     {
@@ -3870,18 +3870,18 @@
       "total_pts": 10.0,
       "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 2.0,
-        "fpor": -3.0,
-        "trend_val": -0.2496,
-        "fpoe": -2.7504
+        "games_played": 6,
+        "fppg": 1.6667,
+        "fpor": -4.0,
+        "trend_val": -0.3736,
+        "fpoe": -3.6264
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 2.0,
-        "fpor": -3.0,
-        "trend_val": -0.6349,
-        "fpoe": -2.3651
+        "games_played": 6,
+        "fppg": 1.6667,
+        "fpor": -4.0,
+        "trend_val": -0.9346,
+        "fpoe": -3.0654
       }
     },
     {
@@ -3896,18 +3896,18 @@
       "total_pts": 16.6,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vfkdjfpiyrcuzahrmfvn",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 3.32,
-        "fpor": -5.94,
-        "trend_val": -0.2498,
-        "fpoe": -5.6902
+        "games_played": 6,
+        "fppg": 2.7667,
+        "fpor": -5.2166,
+        "trend_val": -0.3744,
+        "fpoe": -4.8422
       },
       "injuries_off": {
         "games_played": 4,
         "fppg": 4.15,
-        "fpor": -5.31,
-        "trend_val": -0.6379,
-        "fpoe": -4.6721
+        "fpor": -4.97,
+        "trend_val": -0.9378,
+        "fpoe": -4.0322
       }
     },
     {
@@ -3919,21 +3919,21 @@
       "player_name": "Hunter Henry",
       "position": "TE",
       "nfl_team": "NE",
-      "total_pts": 31.2,
+      "total_pts": 44.0,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cvlunbqgztudbhjrug7l",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.24,
-        "fpor": -2.085,
-        "trend_val": -0.25,
-        "fpoe": -1.835
+        "games_played": 6,
+        "fppg": 7.3333,
+        "fpor": -0.4834,
+        "trend_val": -0.3751,
+        "fpoe": -0.1083
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.24,
-        "fpor": -2.3,
-        "trend_val": -0.6409,
-        "fpoe": -1.6591
+        "games_played": 6,
+        "fppg": 7.3333,
+        "fpor": -1.0,
+        "trend_val": -0.9409,
+        "fpoe": -0.0591
       }
     },
     {
@@ -3948,18 +3948,18 @@
       "total_pts": 5.8,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 1.16,
-        "fpor": -8.12,
-        "trend_val": -0.2502,
-        "fpoe": -7.8698
+        "games_played": 6,
+        "fppg": 0.9667,
+        "fpor": -8.5333,
+        "trend_val": -0.3759,
+        "fpoe": -8.1574
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 5.8,
-        "fpor": -4.14,
-        "trend_val": -0.6437,
-        "fpoe": -3.4963
+        "fpor": -4.12,
+        "trend_val": -0.944,
+        "fpoe": -3.176
       }
     },
     {
@@ -3976,16 +3976,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 18.8,
-        "fpor": 13.8,
-        "trend_val": -0.2504,
-        "fpoe": 14.0504
+        "fpor": 13.1333,
+        "trend_val": -0.3766,
+        "fpoe": 13.5099
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 18.8,
-        "fpor": 13.8,
-        "trend_val": -0.6464,
-        "fpoe": 14.4464
+        "fpor": 13.1333,
+        "trend_val": -0.9469,
+        "fpoe": 14.0802
       }
     },
     {
@@ -4000,18 +4000,18 @@
       "total_pts": 29.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/y3t1lgmXypqtZ__kodxkwA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/41312.2.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 5.8,
-        "fpor": -1.2,
-        "trend_val": -0.2506,
-        "fpoe": -0.9494
+        "games_played": 6,
+        "fppg": 4.8333,
+        "fpor": -2.8334,
+        "trend_val": -0.3772,
+        "fpoe": -2.4562
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 5.8,
-        "fpor": -1.2,
-        "trend_val": -0.6491,
-        "fpoe": -0.5509
+        "fpor": -2.2,
+        "trend_val": -0.9497,
+        "fpoe": -1.2503
       }
     },
     {
@@ -4023,21 +4023,21 @@
       "player_name": "Harrison Butker",
       "position": "K",
       "nfl_team": "KC",
-      "total_pts": 36.0,
+      "total_pts": 48.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/g6ka6HNX1pNj8nv3uCYYRA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/30346.png",
       "injuries_on": {
-        "games_played": 4,
-        "fppg": 9.0,
-        "fpor": 2.0,
-        "trend_val": -0.2508,
-        "fpoe": 2.2508
+        "games_played": 5,
+        "fppg": 9.6,
+        "fpor": 1.9333,
+        "trend_val": -0.3778,
+        "fpoe": 2.3111
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 9.0,
-        "fpor": 2.0,
-        "trend_val": -0.6517,
-        "fpoe": 2.6517
+        "games_played": 5,
+        "fppg": 9.6,
+        "fpor": 1.6,
+        "trend_val": -0.9525,
+        "fpoe": 2.5525
       }
     },
     {
@@ -4049,21 +4049,21 @@
       "player_name": "Cam Little",
       "position": "K",
       "nfl_team": "JAX",
-      "total_pts": 47.0,
+      "total_pts": 56.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/t7UkDRo.julV_UT4jZ7CHA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08182026/41062.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.4,
-        "fpor": 2.4,
-        "trend_val": -0.2509,
-        "fpoe": 2.6509
+        "games_played": 6,
+        "fppg": 9.3333,
+        "fpor": 1.6666,
+        "trend_val": -0.3784,
+        "fpoe": 2.045
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 9.4,
-        "fpor": 2.4,
-        "trend_val": -0.6542,
-        "fpoe": 3.0542
+        "games_played": 6,
+        "fppg": 9.3333,
+        "fpor": 1.3333,
+        "trend_val": -0.9551,
+        "fpoe": 2.2884
       }
     },
     {
@@ -4080,16 +4080,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 13.6,
-        "fpor": 6.6,
-        "trend_val": -0.2511,
-        "fpoe": 6.8511
+        "fpor": 5.9333,
+        "trend_val": -0.379,
+        "fpoe": 6.3123
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 13.6,
-        "fpor": 6.6,
-        "trend_val": -0.6566,
-        "fpoe": 7.2566
+        "fpor": 5.6,
+        "trend_val": -0.9577,
+        "fpoe": 6.5577
       }
     },
     {
@@ -4104,18 +4104,18 @@
       "total_pts": 46.4,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ntgyhqg6hq7fanhhsqiw",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 9.28,
-        "fpor": 0.0,
-        "trend_val": -0.2512,
-        "fpoe": 0.2512
+        "games_played": 6,
+        "fppg": 7.7333,
+        "fpor": -1.7667,
+        "trend_val": -0.3796,
+        "fpoe": -1.3871
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 9.28,
-        "fpor": -0.66,
-        "trend_val": -0.6589,
-        "fpoe": -0.0011
+        "fpor": -0.64,
+        "trend_val": -0.9602,
+        "fpoe": 0.3202
       }
     },
     {
@@ -4127,21 +4127,21 @@
       "player_name": "Ray Davis",
       "position": "RB",
       "nfl_team": "BUF",
-      "total_pts": 5.3,
+      "total_pts": 6.7,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xibwzhrl6q5xkgh3utug",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 1.06,
-        "fpor": -8.2,
-        "trend_val": -0.2514,
-        "fpoe": -7.9486
+        "games_played": 6,
+        "fppg": 1.1167,
+        "fpor": -6.8666,
+        "trend_val": -0.3801,
+        "fpoe": -6.4865
       },
       "injuries_off": {
-        "games_played": 4,
-        "fppg": 1.325,
-        "fpor": -8.135,
-        "trend_val": -0.6611,
-        "fpoe": -7.4739
+        "games_played": 5,
+        "fppg": 1.34,
+        "fpor": -7.78,
+        "trend_val": -0.9626,
+        "fpoe": -6.8174
       }
     },
     {
@@ -4156,18 +4156,18 @@
       "total_pts": 0,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
+        "games_played": 6,
         "fppg": 0.0,
-        "fpor": -8.325,
-        "trend_val": -0.2515,
-        "fpoe": -8.0735
+        "fpor": -7.8167,
+        "trend_val": -0.3806,
+        "fpoe": -7.4361
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 0.0,
-        "fpor": -8.54,
-        "trend_val": -0.6633,
-        "fpoe": -7.8767
+        "fpor": -8.3333,
+        "trend_val": -0.965,
+        "fpoe": -7.3683
       }
     },
     {
@@ -4179,21 +4179,21 @@
       "player_name": "Aaron Rodgers",
       "position": "QB",
       "nfl_team": "PIT",
-      "total_pts": 84.16,
+      "total_pts": 100.18,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/Oj.vpAoZybhxtVc2aGTr6A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08202025/7200.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 16.832,
-        "fpor": 4.484,
-        "trend_val": -0.2516,
-        "fpoe": 4.7356
+        "games_played": 6,
+        "fppg": 16.6967,
+        "fpor": 5.0867,
+        "trend_val": -0.3811,
+        "fpoe": 5.4678
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 16.832,
-        "fpor": 2.5,
-        "trend_val": -0.6654,
-        "fpoe": 3.1654
+        "games_played": 6,
+        "fppg": 16.6967,
+        "fpor": 1.6034,
+        "trend_val": -0.9673,
+        "fpoe": 2.5707
       }
     },
     {
@@ -4210,16 +4210,16 @@
       "injuries_on": {
         "games_played": 5,
         "fppg": 10.8,
-        "fpor": 3.8,
-        "trend_val": -0.2518,
-        "fpoe": 4.0518
+        "fpor": 3.1333,
+        "trend_val": -0.3816,
+        "fpoe": 3.5149
       },
       "injuries_off": {
         "games_played": 5,
         "fppg": 10.8,
-        "fpor": 3.8,
-        "trend_val": -0.6675,
-        "fpoe": 4.4675
+        "fpor": 2.8,
+        "trend_val": -0.9695,
+        "fpoe": 3.7695
       }
     },
     {
@@ -4234,18 +4234,18 @@
       "total_pts": 0,
       "photo_url": "",
       "injuries_on": {
-        "games_played": 5,
+        "games_played": 6,
         "fppg": 0.0,
-        "fpor": -9.26,
-        "trend_val": -0.2519,
-        "fpoe": -9.0081
+        "fpor": -7.9833,
+        "trend_val": -0.382,
+        "fpoe": -7.6013
       },
       "injuries_off": {
         "games_played": 1,
         "fppg": 0.0,
-        "fpor": -9.46,
-        "trend_val": -0.6694,
-        "fpoe": -8.7906
+        "fpor": -9.12,
+        "trend_val": -0.9716,
+        "fpoe": -8.1484
       }
     },
     {
@@ -4257,21 +4257,21 @@
       "player_name": "Wil Lutz",
       "position": "K",
       "nfl_team": "DEN",
-      "total_pts": 33.0,
+      "total_pts": 40.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/7mwVrrnNNXrue_rUqE1Qjg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08132026/29754.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 6.6,
-        "fpor": -0.4,
-        "trend_val": -0.252,
-        "fpoe": -0.148
+        "games_played": 6,
+        "fppg": 6.6667,
+        "fpor": -1.0,
+        "trend_val": -0.3824,
+        "fpoe": -0.6176
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 6.6,
-        "fpor": -0.4,
-        "trend_val": -0.6714,
-        "fpoe": 0.2714
+        "games_played": 6,
+        "fppg": 6.6667,
+        "fpor": -1.3333,
+        "trend_val": -0.9736,
+        "fpoe": -0.3597
       }
     },
     {
@@ -4283,21 +4283,21 @@
       "player_name": "Steelers",
       "position": "DEF",
       "nfl_team": "PIT",
-      "total_pts": 43.0,
+      "total_pts": 61.0,
       "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.6,
-        "fpor": 3.6,
-        "trend_val": -0.2521,
-        "fpoe": 3.8521
+        "games_played": 6,
+        "fppg": 10.1667,
+        "fpor": 4.5,
+        "trend_val": -0.3828,
+        "fpoe": 4.8828
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 8.6,
-        "fpor": 3.6,
-        "trend_val": -0.6732,
-        "fpoe": 4.2732
+        "games_played": 6,
+        "fppg": 10.1667,
+        "fpor": 4.5,
+        "trend_val": -0.9756,
+        "fpoe": 5.4756
       }
     },
     {
@@ -4309,21 +4309,21 @@
       "player_name": "Tyler Loop",
       "position": "K",
       "nfl_team": "BAL",
-      "total_pts": 52.0,
+      "total_pts": 55.0,
       "photo_url": "https://s.yimg.com/iu/api/res/1.2/drRfrYZU6.gqEiMhBwX0og--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08112026/41988.1.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 10.4,
-        "fpor": 3.4,
-        "trend_val": -0.2522,
-        "fpoe": 3.6522
+        "games_played": 6,
+        "fppg": 9.1667,
+        "fpor": 1.5,
+        "trend_val": -0.3832,
+        "fpoe": 1.8832
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 10.4,
-        "fpor": 3.4,
-        "trend_val": -0.675,
-        "fpoe": 4.075
+        "games_played": 6,
+        "fppg": 9.1667,
+        "fpor": 1.1667,
+        "trend_val": -0.9776,
+        "fpoe": 2.1443
       }
     },
     {
@@ -4338,18 +4338,18 @@
       "total_pts": 26.0,
       "photo_url": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 5.2,
-        "fpor": 0.2,
-        "trend_val": -0.2523,
-        "fpoe": 0.4523
+        "games_played": 6,
+        "fppg": 4.3333,
+        "fpor": -1.3334,
+        "trend_val": -0.3836,
+        "fpoe": -0.9498
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 5.2,
-        "fpor": 0.2,
-        "trend_val": -0.6767,
-        "fpoe": 0.8767
+        "games_played": 6,
+        "fppg": 4.3333,
+        "fpor": -1.3334,
+        "trend_val": -0.9794,
+        "fpoe": -0.354
       }
     },
     {
@@ -4361,21 +4361,21 @@
       "player_name": "Brenton Strange",
       "position": "TE",
       "nfl_team": "JAX",
-      "total_pts": 40.0,
+      "total_pts": 46.9,
       "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/devxzxwf1sfficgncggm",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 8.0,
-        "fpor": -0.325,
-        "trend_val": -0.2524,
-        "fpoe": -0.0726
+        "games_played": 6,
+        "fppg": 7.8167,
+        "fpor": 0.0,
+        "trend_val": -0.384,
+        "fpoe": 0.384
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 8.0,
-        "fpor": -0.54,
-        "trend_val": -0.6784,
-        "fpoe": 0.1384
+        "games_played": 6,
+        "fppg": 7.8167,
+        "fpor": -0.5166,
+        "trend_val": -0.9813,
+        "fpoe": 0.4647
       }
     },
     {
@@ -4387,21 +4387,21 @@
       "player_name": "Dalton Schultz",
       "position": "TE",
       "nfl_team": "HOU",
-      "total_pts": 37.4,
-      "photo_url": "https://s.yimg.com/iu/api/res/1.2/aqgFCrZBTaL2j.0h8.mJyQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/31107.2.png",
+      "total_pts": 42.7,
+      "photo_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ym8sbkev8l4scnrc0vd8",
       "injuries_on": {
-        "games_played": 5,
-        "fppg": 7.48,
-        "fpor": -0.845,
-        "trend_val": -0.2524,
-        "fpoe": -0.5926
+        "games_played": 6,
+        "fppg": 7.1167,
+        "fpor": -0.7,
+        "trend_val": -0.3843,
+        "fpoe": -0.3157
       },
       "injuries_off": {
-        "games_played": 5,
-        "fppg": 7.48,
-        "fpor": -1.06,
-        "trend_val": -0.68,
-        "fpoe": -0.38
+        "games_played": 6,
+        "fppg": 7.1167,
+        "fpor": -1.2166,
+        "trend_val": -0.983,
+        "fpoe": -0.2336
       }
     }
   ]
